@@ -1,0 +1,165 @@
+IRS Pub 15 (2026) | 13. Reporting Adjustments to Forms 941, Form 943, or Form 944
+
+13. Reporting Adjustments to Forms 941, Form 943, or Form 944
+
+Current Period Adjustments
+
+In certain cases, amounts reported as social security and Medicare taxes on Form 941, lines 5a–5d, column 2 (Form 943, lines 3, 5, and 7; or Form 944, lines 4a–4d, column 2), must be adjusted to arrive at your correct tax liability (for example, excluding amounts withheld by a third-party payer or amounts you weren’t required to withhold). Current period adjustments are reported on Form 941, lines 7–9; Form 943, line 10; or Form 944, line 6, and include the following types of adjustments.
+
+Fractions-of-cents adjustment.
+
+If there is a small difference between total taxes after adjustments and nonrefundable credits (Form 941, line 12; Form 943, line 13; or Form 944, line 9) and total deposits (Form 941, line 13; Form 943, line 14; or Form 944, line 10), it may have been caused, all or in part, by rounding to the nearest cent each time you figured payroll. This rounding occurs when you figure the amount of social security and Medicare taxes to be withheld and deposited from each employee’s wages. The IRS refers to rounding differences relating to employee withholding of social security and Medicare taxes as “fractions-of-cents” adjustments. If you pay your taxes with Form 941 (or Form 943 or Form 944) instead of making deposits because your total taxes for the quarter (year for Form 943 or Form 944) are less than $2,500, you may also report a fractions-of-cents adjustment.
+
+To determine if you have a fractions-of-cents adjustment for 2026, multiply the total wages and tips for the quarter subject to:
+
+-
+
+Social security tax reported on Form 941, Form 943, or Form 944 by 6.2% (0.062);
+
+-
+
+Medicare tax reported on Form 941, Form 943, or Form 944 by 1.45% (0.0145); and
+
+-
+
+Additional Medicare Tax reported on Form 941, Form 943, or Form 944 by 0.9% (0.009).
+
+Compare these amounts (the employee share of social security and Medicare taxes) with the total social security and Medicare taxes actually withheld from employees and shown in your payroll records for the quarter (Form 941) or the year (Form 943 or Form 944). If there is a small difference, the amount, positive or negative, may be a fractions-of-cents adjustment. Fractions-of-cents adjustments are reported on Form 941, line 7; Form 943, line 10; or Form 944, line 6. If the actual amount withheld is less, report a negative adjustment using a minus sign (if possible; otherwise, use parentheses) in the entry space. If the actual amount is more, report a positive adjustment.
+
+Adjustment of tax on third-party sick pay.
+
+Report both the employer share and employee share of social security and Medicare taxes for sick pay on Form 941, lines 5a and 5c (or Form 943, lines 2 and 4; or Form 944, lines 4a and 4c). If the aggregate wages paid for an employee by the employer and third-party payer exceed $200,000 for the calendar year, report the Additional Medicare Tax on Form 941, line 5d (Form 943, line 7; or Form 944, line 4d). Show as a negative adjustment on Form 941, line 8 (or Form 943, line 10; or Form 944, line 6), the social security and Medicare taxes withheld on sick pay by a third-party payer. See section 6 of Pub. 15-A for more information.
+
+Adjustment of tax on tips.
+
+If, by the 10th of the month after the month you received an employee’s report on tips, you don’t have enough employee funds available to withhold the employee’s share of social security and Medicare taxes, you no longer have to collect it. However, report the entire amount of these tips on Form 941, lines 5b and 5c (or Form 944, lines 4b and 4c). If the aggregate wages and tips paid for an employee exceed $200,000 for the calendar year, report the Additional Medicare Tax on Form 941, line 5d (or Form 944, line 4d). Include as a negative adjustment on Form 941, line 9 (or Form 944, line 6), the total uncollected employee share of the social security and Medicare taxes.
+
+Adjustment of tax on group-term life insurance premiums paid for former employees.
+
+The employee share of social security and Medicare taxes for premiums on group-term life insurance over $50,000 for a former employee is paid by the former employee with their tax return and isn’t collected by the employer. However, include all social security and Medicare taxes for such coverage on Form 941, lines 5a and 5c (or Form 944, lines 4a and 4c). For Form 943, include the social security wages and Medicare wages on lines 2 and 4, respectively; and report the social security tax and Medicare tax on lines 3 and 5, respectively. If the amount paid for an employee for premiums on group-term life insurance combined with other wages exceeds $200,000 for the calendar year, report the Additional Medicare Tax on Form 941, line 5d (or Form 944, line 4d). For Form 943, include the Additional Medicare Tax wages on line 6 and report the Additional Medicare Tax on line 7. Back out the amount of the employee share of these taxes as a negative adjustment on Form 941, line 9 (or Form 943, line 10; or Form 944, line 6). See Pub. 15-B for more information on group-term life insurance.
+
+For the above adjustments, prepare and retain a brief supporting statement explaining the nature and amount of each. Don’t attach the statement to Form 941, Form 943, or Form 944. See the General Instructions for Forms W-2 and W-3 for information on how to report the uncollected employee share of social security and Medicare taxes on tips and group-term life insurance on Form W-2.
+
+Example.
+
+Cedar, Inc., filed Form 941 and was entitled to the following current period adjustments.
+
+-
+
+Fractions of cents. Cedar, Inc., determined the amounts withheld and deposited for social security and Medicare taxes during the quarter were a net $1.44 more than the employee share of the amount figured in column 2 of Form 941, lines 5a–5d (social security and Medicare taxes). This difference was caused by adding or dropping fractions of cents when figuring social security and Medicare taxes for each wage payment. Cedar, Inc., must report a positive $1.44 fractions-of-cents adjustment on Form 941, line 7.
+
+-
+
+Third-party sick pay. Cedar, Inc., included taxes of $2,000 for sick pay in column 2 of Form 941, lines 5a and 5c, for social security and Medicare taxes. However, the third-party payer of the sick pay withheld and paid the employee share ($1,000) of these taxes. Cedar, Inc., is entitled to a $1,000 sick pay adjustment (negative) on Form 941, line 8.
+
+-
+
+Life insurance premiums. Cedar, Inc., paid group-term life insurance premiums for policies in excess of $50,000 for former employees. The former employees must pay the employee share of the social security and Medicare taxes ($200) on the policies. However, Cedar, Inc., must include the employee share of these taxes with the social security and Medicare taxes reported in column 2 of Form 941, lines 5a and 5c. Therefore, Cedar, Inc., is entitled to a negative $200 adjustment on Form 941, line 9.
+
+No change to record of federal tax liability.
+
+Don’t make any changes to your record of federal tax liability reported on Form 941, line 16, or Schedule B (Form 941) (for Form 943 filers, Form 943 line 17, or Form 943-A; or for Form 944 filers, Form 944, line 13, or Form 945-A) for current period adjustments. The amounts reported on the record reflect the actual amounts you withheld from employees’ wages for social security and Medicare taxes. Because the current period adjustments make the amounts reported on Form 941, lines 5a–5d, column 2 (or Form 943, lines 3, 5, and 7; or Form 944, lines 4a–4d, column 2), equal the actual amounts you withheld (the amounts reported on the record), no additional changes to the record of federal tax liability are necessary for these adjustments.
+
+Prior-Period Adjustments
+
+Forms for prior-period adjustments.
+
+Use Form 941-X, Form 943-X, or Form 944-X to make a correction after you discover an error on a previously filed Form 941, Form 943, or Form 944. There are also Form 945-X and Form CT-1 X to report corrections on the corresponding returns. Use Form 843 when requesting a refund or abatement of assessed interest or penalties.
+
+See Revenue Ruling 2009-39, 2009-52 I.R.B. 951, for examples of how the interest-free adjustment and claim for refund rules apply in 10 different situations. You can find Revenue Ruling 2009-39 at IRS.gov/irb/2009-52_IRB#RR-2009-39 .
+
+Background.
+
+Treasury Decision 9405 changed the process for making interest-free adjustments to employment taxes reported on Form 941, Form 943, and Form 944 and for filing a claim for refund of employment taxes. Treasury Decision 9405, 2008-32 I.R.B. 293, is available at IRS.gov/irb/2008-32_IRB#TD-9405 . You’ll use the adjustment process if you underreported employment taxes and are making a payment, or if you overreported employment taxes and will be applying the credit to the Form 941, Form 943, or Form 944 period during which you file Form 941-X, Form 943-X, or Form 944-X. You’ll use the claim process if you overreported employment taxes and are requesting a refund or abatement of the overreported amount. We use the terms “correct” and “corrections” to include interest-free adjustments under sections 6205 and 6413, and claims for refund and abatement under sections 6402, 6414, and 6404.
+
+Correcting employment taxes.
+
+When you discover an error on a previously filed Form 941, Form 943, or Form 944, you must:
+
+-
+
+Correct that error using Form 941-X, Form 943-X, or Form 944-X;
+
+-
+
+File a separate Form 941-X, Form 943-X, or Form 944-X for each Form 941, Form 943, or Form 944 you’re correcting; and
+
+-
+
+File Form 941-X, Form 943-X, or Form 944-X separately. Don’t file with Form 941, Form 943, or Form 944.
+
+Report current quarter adjustments for fractions of cents, third-party sick pay, tips, and group-term life insurance on Form 941 using lines 7–9, on Form 943 using line 10, and on Form 944 using line 6. See Current Period Adjustments , earlier in this section.
+
+Report the correction of underreported and overreported amounts for the same tax period on a single Form 941-X, Form 943-X, or Form 944-X unless you’re requesting a refund. If you’re requesting a refund and are correcting both underreported and overreported amounts, file one Form 941-X, Form 943-X, or Form 944-X correcting the underreported amounts only and a second Form 941-X, Form 943-X, or Form 944-X correcting the overreported amounts.
+
+See the chart on the last page of Form 941-X, Form 943-X, or Form 944-X for help in choosing whether to use the adjustment process or the claim process. See the Instructions for Form 941-X, the Instructions for Form 943-X, or the Instructions for Form 944-X for details on how to make the adjustment or claim for refund or abatement.
+
+E-file.
+
+The IRS e-file program allows a taxpayer to electronically file Form 941-X, Form 943-X, and Form 945-X. For more information, go to IRS.gov/EmploymentEfile or call 866-255-0654.
+
+Income tax withholding adjustments.
+
+In a current calendar year, correct prior-quarter income tax withholding errors by making the correction on Form 941-X when you discover the error.
+
+You may make an adjustment only to correct income tax withholding errors discovered during the same calendar year in which you paid the wages. This is because the employee uses the amount shown on Form W-2 or, if applicable, Form W-2c, as a credit when filing their income tax return (Form 1040, etc.).
+
+You can’t adjust amounts reported as income tax withheld in a prior calendar year unless it is to correct an administrative error or section 3509 applies. An administrative error occurs if the amount you entered on Form 941, Form 943, or Form 944 isn’t the amount you actually withheld. For example, if the total income tax actually withheld was incorrectly reported on Form 941, Form 943, or Form 944 due to a mathematical or transposition error, this would be an administrative error. The administrative error adjustment corrects the amount reported on Form 941, Form 943, or Form 944 to agree with the amount actually withheld from employees and reported on their Forms W-2.
+
+Additional Medicare Tax withholding adjustments.
+
+Generally, the rules discussed earlier in this section under Income tax withholding adjustments apply to Additional Medicare Tax withholding adjustments. That is, you may make an adjustment to correct Additional Medicare Tax withholding errors discovered during the same calendar year in which you paid wages. You can’t adjust amounts reported in a prior calendar year unless it is to correct an administrative error or section 3509 applies. If you have overpaid Additional Medicare Tax, you can’t file a claim for refund for the amount of the overpayment unless the amount wasn’t actually withheld from the employee’s wages (which would be an administrative error).
+
+If a prior-year error was a nonadministrative error, you may correct only the wages and tips subject to Additional Medicare Tax withholding.
+
+Collecting underwithheld taxes from employees.
+
+If you withheld no income, social security, or Medicare tax, or less than the correct amount from an employee’s wages, you can make it up from later pay to that employee. But you’re the one who owes the underpayment. Reimbursement is a matter for settlement between you and the employee. Underwithheld income tax and Additional Medicare Tax must be recovered from the employee on or before the last day of the calendar year. There are special rules for tax on tips (see section 6 ) and fringe benefits (see section 5 ).
+
+Refunding amounts incorrectly withheld from employees.
+
+If you withheld more than the correct amount of income, social security, or Medicare tax from wages paid, repay or reimburse the employee the excess. Any excess income tax or Additional Medicare Tax withholding must be repaid or reimbursed to the employee before the end of the calendar year in which it was withheld. Keep in your records the employee’s written receipt showing the date and amount of the repayment or record of reimbursement. If you didn’t repay or reimburse the employee, you must report and pay each excess amount when you file Form 941 for the quarter (or Form 943 or Form 944 for the year) in which you withheld too much tax.
+
+Correcting filed Forms W-2 and W-3.
+
+When adjustments are made to correct wages and social security and Medicare taxes because of a change in the wage totals reported for a previous year, you also need to file Form W-2c and Form W-3c with the SSA. Up to 25 Forms W-2c per Form W-3c may be filed per session online, with no limit on the number of sessions. For more information, go to the SSA’s Employer W-2 Filing Instructions & Information webpage at SSA.gov/employer .
+
+Exceptions to interest-free corrections of employment taxes.
+
+A correction won’t be eligible for interest-free treatment if:
+
+-
+
+The failure to report relates to an issue raised in an IRS examination of a prior return, or
+
+-
+
+The employer knowingly underreported its employment tax liability.
+
+A correction won’t be eligible for interest-free treatment after the earlier of the following.
+
+-
+
+Receipt of an IRS notice and demand for payment after assessment.
+
+-
+
+Receipt of an IRS notice of determination under section 7436.
+
+Wage Repayments
+
+If an employee repays you for wages received in error, don’t offset the repayments against current year wages unless the repayments are for amounts received in error in the current year.
+
+Repayment of current-year wages.
+
+If you receive repayments for wages paid during a prior quarter in the current year, report adjustments on Form 941-X to recover income tax withholding and social security and Medicare taxes for the repaid wages.
+
+Repayment of prior-year wages.
+
+If you receive repayments for wages paid during a prior year, report an adjustment on Form 941-X, Form 943-X, or Form 944-X to recover the social security and Medicare taxes. You can’t make an adjustment for income tax withholding because the wages were income to the employee for the prior year. You can’t make an adjustment for Additional Medicare Tax withholding because the employee determines liability for Additional Medicare Tax on the employee’s income tax return for the prior year.
+
+You must also file Forms W-2c and W-3c with the SSA to correct social security and Medicare wages and taxes. Don’t correct wages (box 1) on Form W-2c for the amount paid in error. Give a copy of Form W-2c to the employee.
+
+Employee reporting of repayment.
+
+The wages paid in error in the prior year remain taxable to the employee for that year. This is because the employee received and had use of those funds during that year. The employee isn’t entitled to file an amended return (Form 1040-X) to recover the income tax on these wages. Instead, the employee may be entitled to a deduction or credit for the repaid wages on their income tax return for the year of repayment. However, the employee should file an amended return (Form 1040-X) to recover any Additional Medicare Tax paid on the wages paid in error in the prior year. If an employee asks about reporting their wage repayment, you may tell the employee to see Repayments in Pub. 525, Taxable and Nontaxable Income, for more information.

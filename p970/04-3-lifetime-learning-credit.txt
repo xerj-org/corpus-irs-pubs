@@ -1,0 +1,555 @@
+IRS Pub 970 (2025) | 3. Lifetime Learning Credit
+
+3. Lifetime Learning Credit
+
+Reminders
+
+Modified adjusted gross income (MAGI) limits. For 2025, the amount of your lifetime learning credit is gradually reduced (phased out) if your MAGI is between $80,000 and $90,000 ($160,000 and $180,000 if you file a joint return). You can’t claim the credit if your MAGI is $90,000 or more ($180,000 or more if you file a joint return). For more information, see Figuring the Credit .
+
+Form 1098-T requirement. To be eligible to claim the lifetime learning credit, the law requires a taxpayer (or a dependent) to have received Form 1098-T, Tuition Statement, from an eligible educational institution, whether domestic or foreign.However, you may claim the credit if the student doesn’t receive a Form 1098-T because the student’s educational institution isn’t required to furnish a Form 1098-T to the student under existing rules (for example, if the student is a qualified nonresident alien, has qualified education expenses paid entirely with scholarships, has qualified education expenses paid under a formal billing arrangement, or is enrolled in courses for which no academic credit is awarded). If a student’s educational institution isn’t required to provide a Form 1098-T to the student, you may claim the credit without a Form 1098-T if you otherwise qualify, can demonstrate that you (or a dependent) were enrolled at an eligible educational institution, and can substantiate the payment of qualified tuition and related expenses.You may also claim the credit if the student attended an eligible educational institution required to furnish Form 1098-T but the student doesn’t receive Form 1098-T before you file your tax return (for example, if the institution is otherwise required to furnish Form 1098-T and doesn’t furnish it or refuses to do so) and you take the following required steps: After February 2, 2026 (January 31 falls on a Saturday), but before you file your 2025 tax return, you or the student must request that the educational institution furnish Form 1098-T. You must fully cooperate with the educational institution’s efforts to gather the information needed to furnish Form 1098-T. You must also otherwise qualify for the benefit, be able to demonstrate that you (or a dependent) were enrolled at an eligible educational institution, and substantiate the payment of qualified tuition and related expenses.
+
+Introduction
+
+For 2025, there are two tax credits available to help you offset the costs of higher education by reducing the amount of your income tax. They are the American opportunity credit and the lifetime learning credit. This chapter discusses the lifetime learning credit. The American opportunity credit is discussed in chapter 2 .
+
+This chapter explains:
+
+-
+
+Who can claim the lifetime learning credit,
+
+-
+
+What expenses qualify for the credit,
+
+-
+
+Who is an eligible student,
+
+-
+
+Who can claim a dependent’s expenses,
+
+-
+
+How to figure the credit,
+
+-
+
+How to claim the credit, and
+
+-
+
+When the credit must be repaid.
+
+What is the tax benefit of the lifetime learning credit?
+
+For the tax year, you may be able to claim a lifetime learning credit of up to $2,000 for qualified education expenses paid for all eligible students. There is no limit on the number of years the lifetime learning credit can be claimed for each student.
+
+A tax credit reduces the amount of income tax you may have to pay. Unlike a deduction, which reduces the amount of income subject to tax, a credit directly reduces the tax itself. The lifetime learning credit is a nonrefundable credit. This means that it can reduce your tax to zero, but if the credit is more than your tax, the excess won’t be refunded to you.
+
+Your allowable lifetime learning credit may be limited by the amount of your income and the amount of your tax.
+
+Can you claim more than one education credit this year?
+
+For each student, you can elect for any year only one of the credits. For example, if you elect to claim the lifetime learning credit for a child on your 2025 tax return, you can’t, for that same child, also claim the American opportunity credit for 2025.
+
+If you are eligible to claim the lifetime learning credit and you are also eligible to claim the American opportunity credit for the same student in the same year, you can choose to claim either credit, but not both.
+
+. If you claim the American opportunity credit for any student, you can choose between using that student’s adjusted qualified education expenses for the American opportunity credit or the lifetime learning credit. If you have the choice, the American opportunity credit will always be greater than the lifetime learning credit. .
+
+If you pay qualified education expenses for more than one student in the same year, you can choose to claim certain credits on a per-student, per-year basis. This means that, for example, you can claim the American opportunity credit for one student and the lifetime learning credit for another student in the same year.
+
+Differences between the American opportunity and lifetime learning credits.
+
+There are several differences between these two credits. For example, you can claim the American opportunity credit for the same student for no more than 4 tax years. However, there is no limit on the number of years for which you can claim a lifetime learning credit based on the same student’s expenses. The differences between these credits are shown in the Appendix near the end of this publication.
+
+Overview of the lifetime learning credit for 2025.
+
+See Table 3-1 for the basics of the credit. The details are discussed in this chapter.
+
+Can You Claim the Credit?
+
+The following rules will help you determine if you are eligible to claim the lifetime learning credit on your tax return.
+
+Who Can Claim the Credit?
+
+Generally, you can claim the lifetime learning credit if all three of the following requirements are met.
+
+-
+
+You pay qualified education expenses of higher education.
+
+-
+
+You pay the education expenses for an eligible student.
+
+-
+
+The eligible student is either yourself, your spouse, or a dependent you claim on your tax return.
+
+Table 3-1. Overview of the Lifetime Learning Credit for 2025
+
+Maximum credit | Up to $2,000 credit per return
+Limit on modified adjusted gross income (MAGI) | $180,000 if married filling jointly; $90,000 if single, head of household, or qualifying surviving spouse
+Refundable or nonrefundable | Nonrefundable—credit limited to the amount of tax you must pay on your taxable income
+Number of years of postsecondary education | Available for all years of postsecondary education and for courses to acquire or improve job skills
+Number of tax years credit available | Available for an unlimited number of tax years
+Type of program required | Student doesn’t need to be pursuing a program leading to a degree or other recognized education credential
+Number of courses | Available for one or more courses
+Felony drug conviction | Felony drug convictions don’t make the student ineligible
+Qualified expenses | Tuition and fees required for enrollment or attendance (including amounts required to be paid to the institution for course-related books, supplies, and equipment)
+Payments for academic periods | Payments made in 2025 for academic periods beginning in 2025 or beginning in the first 3 months of 2026
+
+Note:
+
+Qualified education expenses paid by a dependent you claim on your tax return, or by a third party for that dependent, are considered paid by you.
+
+“Qualified education expenses” are defined later under Qualified Education Expenses . “Eligible students” are defined later under Who Is an Eligible Student . A dependent you claim on your tax return is defined later under Who Can Claim a Dependent’s Expenses .
+
+You may find Figure 3-1 helpful in determining if you can claim a lifetime learning credit on your tax return.
+
+Who Can’t Claim the Credit?
+
+You can’t claim the lifetime learning credit for 2025 if any of the following apply.
+
+What Expenses Qualify?
+
+The lifetime learning credit is based on qualified education expenses you pay for yourself, your spouse, or a dependent you claim on your tax return. Generally, the credit is allowed for qualified education expenses paid in 2025 for an academic period beginning in 2025 or in the first 3 months of 2026.
+
+For example, if you paid $1,500 in December 2025 for qualified tuition for the spring 2026 semester beginning in January 2026, you may be able to use that $1,500 in figuring your 2025 credit.
+
+Academic period.
+
+An academic period includes a semester, trimester, quarter, or other period of study (such as a summer school session) as reasonably determined by an educational institution. If an educational institution uses credit hours or clock hours and doesn’t have academic terms, each payment period can be treated as an academic period.
+
+Paid with borrowed funds.
+
+You can claim a lifetime learning credit for qualified education expenses paid with the proceeds of a loan. You use the expenses to figure the lifetime learning credit for the year in which the expenses are paid, not the year in which the loan is repaid. Treat loan disbursements sent directly to the educational institution as paid on the date the institution credits the student’s account.
+
+Student withdraws from class(es).
+
+You can claim a lifetime learning credit for qualified education expenses not refunded when a student withdraws.
+
+Qualified Education Expenses
+
+For purposes of the lifetime learning credit, qualified education expenses are tuition and certain related expenses required for enrollment in a course at an eligible educational institution. The course must be either part of a postsecondary degree program or taken by the student to acquire or improve job skills.
+
+Eligible educational institution.
+
+An eligible educational institution is any college, university, vocational school, or other postsecondary educational institution eligible to participate in a student aid program administered by the U.S. Department of Education. Virtually all accredited public, nonprofit, and proprietary (privately owned profit-making) postsecondary institutions meet this definition.
+
+An eligible educational institution also includes certain educational institutions located outside the United States that are eligible to participate in a student aid program administered by the U.S. Department of Education.
+
+. The educational institution should be able to tell you if it is an eligible educational institution. .
+
+Related expenses.
+
+Student activity fees and expenses for course-related books, supplies, and equipment are included in qualified education expenses only if the fees and expenses must be paid to the institution for enrollment or attendance.
+
+Prepaid expenses.
+
+Qualified education expenses paid in 2025 for an academic period that begins in the first 3 months of 2026 can be used in figuring an education credit for 2025 only. See Academic period , earlier. For example, if you pay $2,000 in December 2025 for qualified tuition for the 2026 winter quarter that begins in January 2026, you can use that $2,000 in figuring an education credit for 2025 only (if you meet all the other requirements).
+
+. You can’t use any amount you paid in 2024 or 2026 to figure the qualified education expenses you use to figure your 2025 education credit(s). .
+
+In the following examples, assume that each student is an eligible student at an eligible educational institution.
+
+Example 1.
+
+Jackson is a sophomore in University V’s degree program in dentistry. This year, in addition to tuition, Jackson is required to pay a fee to the university for the rental of the dental equipment that will be used in this program. Because the equipment rental fee must be paid to University V for enrollment and attendance, the equipment rental fee is a qualified expense.
+
+Example 2.
+
+Donna and Charles, both first-year students at College W, are required to have certain books and other reading materials to use in their mandatory first-year classes. The college has no policy about how students should obtain these materials, but any student who purchases them from College W’s bookstore will receive a bill directly from the college. Charles bought the books from a friend, so what was paid for them isn’t a qualified education expense. Donna bought the books at College W’s bookstore. Although Donna paid College W directly for the first-year books and materials, the payment isn’t a qualified expense because the books and materials aren’t required to be purchased from College W for enrollment or attendance at the institution.
+
+Example 3.
+
+When Marci enrolled at College X for freshman year, a separate student activity fee in addition to tuition had to be paid. This activity fee is required of all students, and is used solely to fund on-campus organizations and activities run by students, such as the student newspaper and student government. No portion of the fee covers personal expenses. Although labeled as a student activity fee, the fee is required for Marci’s enrollment and attendance at College X. Therefore, it is a qualified expense.
+
+No Double Benefit Allowed
+
+You can’t do any of the following.
+
+Figure 3-1. Can You Claim the Lifetime Learning Credit for 2025?
+
+Figure 3-1
+
+Figure 3-1. Can You Claim the Lifetime Learning Credit for 2025?
+
+Figure 3-1. Can You Claim the Lifetime Learning Credit for 2025?
+
+Summary: This flowchart is used to determine if you qualify to claim the lifetime learning credit for 2024.
+
+Start
+
+This is the start of the flowchart.
+
+Decision (1)
+
+Did you pay qualified education expenses in 2024 for an eligible student?*
+
+For additional note, continue to Footnote 1.
+
+IF YES continue to Decision (2)
+IF NO continue to Process (a)
+
+Decision (2)
+
+Did the academic period for which you paid qualified education expenses begin in 2024 or the first 3 months of 2025?
+
+IF YES continue to Decision (3)
+IF NO continue to Process (a)
+
+Decision (3)
+
+Is the eligible student you, your spouse (if married filing jointly), or your dependent you claim on your tax return?
+
+IF YES continue to Decision (4)
+IF NO continue to Process (a)
+
+Decision (4)
+
+Are you listed as a dependent on another person’s tax return?
+
+IF YES continue to Process (a)
+IF NO continue to Decision (5)
+
+Decision (5)
+
+Is your filing status married filing separately?
+
+IF YES continue to Process (a)
+IF NO continue to Decision (6)
+
+Decision (6)
+
+For any part of 2024, were you (or your spouse) a nonresident alien who didn’t elect to be treated as a resident alien for tax purposes?
+
+IF YES continue to Process (a)
+IF NO continue to Decision (7)
+
+Decision (7)
+
+Is your modified adjusted gross income (MAGI) less than $90,000 ($180,000 if married filing jointly)?
+
+IF YES continue to Decision (8)
+IF NO continue to Process (a)
+
+Decision (8)
+
+Do you have a tax liability (Form 1040 or 1040-SR, line 18, minus Schedule 3 (Form 1040), lines 1, 2, 6d, and 6l)?
+
+IF YES continue to Decision (9)
+IF NO continue to Process (a)
+
+Decision (9)
+
+Are you claiming an American opportunity credit for the same student?
+
+IF YES continue to Process (a)
+IF NO continue to Decision (10)
+
+Decision (10)
+
+Did you use the same expenses to claim a deduction or credit?
+
+IF YES continue to Process (a)
+IF NO continue to Decision (11)
+
+Decision (11)
+
+Were the same expenses paid with a tax-free scholarship, grant, or employer-provided educational assistance?
+
+IF YES continue to Process (a)
+IF NO continue to Decision (12)
+
+Decision (12)
+
+Did you, or someone else, receive a refund of all the expenses?
+
+IF YES continue to Process (a)
+IF NO continue to Process (b)
+
+Process (a)
+
+You can’t claim the lifetime learning credit for 2024.
+
+Continue to End
+
+Process (b)
+
+You can claim the lifetime learning credit for 2024. For additional note, continue to Footnote 2.
+
+Continue to End
+
+Footnotes
+
+Footnote 1: Qualified education expenses paid by a dependent you claim on your tax return or by a third party for that dependent, are considered paid by you.
+
+Footnote 2: Your education credits may be limited to your tax liability minus certain credits. See Form 8863 for more details.
+
+End
+
+This is the end of the flowchart.
+
+Please click here for the text description of the image.
+
+Adjustments to Qualified Education Expenses
+
+For each student, reduce the qualified education expenses paid by or on behalf of that student under the following rules. The result is the amount of adjusted qualified education expenses for each student.
+
+Tax-free educational assistance.
+
+For tax-free educational assistance received in 2025, reduce the qualified education expenses for each academic period by the amount of tax-free educational assistance allocable to that academic period. See Academic period , earlier.
+
+Some tax-free educational assistance received after 2025 may be treated as a refund of qualified education expenses paid in 2025. This tax-free educational assistance is any tax-free educational assistance received by you or anyone else after 2025 for qualified education expenses paid on behalf of a student in 2025 (or attributable to enrollment at an eligible educational institution during 2025).
+
+If this tax-free educational assistance is received after 2025 but before you file your 2025 income tax return, see Refunds received after 2025 but before your income tax return is filed , later. If this tax-free educational assistance is received after 2025 and after you file your 2025 income tax return, see Refunds received after 2025 and after your income tax return is filed , later.
+
+Tax-free educational assistance includes:
+
+Generally, any scholarship or fellowship grant is treated as tax free. However, a scholarship or fellowship grant isn’t treated as tax free to the extent the student includes it in gross income (the student may or may not be required to file a tax return for the year the scholarship or fellowship grant is received) and either of the following is true.
+
+. A student can’t choose to include in income a scholarship or fellowship grant provided by an Indian tribal government that is excluded from income under the Tribal General Welfare Exclusion Act of 2014 or benefits provided by an educational program described in Revenue Procedure 2014-35, section 5.02(2)(b)(ii), available at
+
+IRS.gov/irb/2014-26_IRB#RP-2014-35 . .
+
+. You may be able to increase the combined value of an education credit if the student includes some or all of a scholarship or fellowship grant in income in the year it is received. For examples, see Coordination with Pell grants and other scholarships , later. .
+
+Refunds.
+
+A refund of qualified education expenses may reduce adjusted qualified education expenses for the tax year or require repayment (recapture) of a credit claimed in an earlier year. Some tax-free educational assistance received after 2025 may be treated as a refund. See Tax-free educational assistance , earlier.
+
+Refunds received in 2025.
+
+For each student, figure the adjusted qualified education expenses for 2025 by adding all the qualified education expenses for 2025 and subtracting any refunds of those expenses received from the eligible educational institution during 2025.
+
+Refunds received after 2025 but before your income tax return is filed.
+
+If anyone receives a refund after 2025 of qualified education expenses paid on behalf of a student in 2025 and the refund is paid before you file an income tax return for 2025, the amount of qualified education expenses for 2025 is reduced by the amount of the refund.
+
+Refunds received after 2025 and after your income tax return is filed.
+
+If anyone receives a refund after 2025 of qualified education expenses paid on behalf of a student in 2025 and the refund is paid after you file an income tax return for 2025, you may need to repay some or all of the credit. See Credit recapture next.
+
+Credit recapture.
+
+If any tax-free educational assistance for the qualified education expenses paid in 2025 or any refund of your qualified education expenses paid in 2025 is received after you file your 2025 income tax return, you must recapture (repay) any excess credit. You do this by refiguring the amount of your adjusted qualified education expenses for 2025 by reducing the expenses by the amount of the refund or tax-free educational assistance. You then refigure your education credit(s) for 2025 and figure the amount by which your 2025 tax liability would have increased if you had claimed the refigured credit(s). Include that amount as an additional tax for the year the refund or tax-free assistance was received.
+
+Example.
+
+You pay $9,300 in tuition and fees in December 2025, and your child began college in January 2026. You filed your 2025 tax return on February 14, 2026, and claimed a lifetime learning credit of $1,860. You claimed no other tax credits. After you filed your return, your child withdrew from two courses and you received a refund of $2,900. You must refigure your 2025 lifetime learning credit using $6,400 of qualified education expenses instead of $9,300. The refigured credit is $1,280 and your tax liability increased by $580. See the instructions for your 2026 income tax return to determine where to include this tax.
+
+. If you pay qualified education expenses in both 2025 and 2026 for an academic period that begins in the first 3 months of 2026 and you receive tax-free educational assistance, or a refund, as described above, you may choose to reduce your qualified education expenses for 2026 instead of reducing your expenses for 2025. .
+
+Amounts that don’t reduce qualified education expenses.
+
+Don’t reduce qualified education expenses by amounts paid with funds the student receives as:
+
+-
+
+Payment for services, such as wages;
+
+-
+
+A loan;
+
+-
+
+A gift;
+
+-
+
+An inheritance; or
+
+-
+
+A withdrawal from the student’s personal savings.
+
+Don’t reduce the qualified education expenses by any scholarship or fellowship grant reported as income on the student’s tax return in the following situations.
+
+For examples, see Adjustments to Qualified Education Expenses in chapter 2 .
+
+Coordination with Pell grants and other scholarships.
+
+You may be able to increase your lifetime learning credit when the student (you, your spouse, or your dependent) includes certain scholarships or fellowship grants in the student’s gross income. Your credit may increase only if the amount of the student’s qualified education expenses minus the total amount of scholarships and fellowship grants is less than $10,000. If this situation applies, consider including some or all of the scholarship or fellowship grant in the student’s income in order to treat the included amount as paying nonqualified expenses instead of qualified education expenses. Nonqualified expenses are expenses such as room and board that aren’t qualified education expenses such as tuition and related fees.
+
+Scholarships and fellowship grants that the student includes in income don’t reduce the student’s qualified education expenses available to figure your lifetime learning credit. Thus, including enough of the scholarship or fellowship grant in the student’s income to report up to $10,000 in qualified education expenses for your lifetime learning credit may increase the credit by enough to increase your tax refund or reduce the amount of tax you owe even considering any increased tax liability from the additional income. However, the increase in tax liability as well as the loss of other tax credits may be greater than the additional lifetime learning credit and may cause your tax refund to decrease or the amount of tax you owe to increase. Your specific circumstances will determine what amount, if any, of the scholarship or fellowship grant to include in income to maximize your tax refund or minimize the amount of tax you owe.
+
+The scholarship or fellowship grant must be one that may qualify as a tax-free scholarship under the rules discussed in chapter 1 . Also, the scholarship or fellowship grant must be one that may (by its terms) be used for nonqualified expenses. Finally, the amount of the scholarship or fellowship grant that is applied to nonqualified expenses can’t exceed the amount of the student’s actual nonqualified expenses that are paid in the tax year. This amount may differ from the student’s living expenses estimated by the student’s school in figuring the official cost of attendance under student aid rules.
+
+The fact that the educational institution applies the scholarship or fellowship grant to qualified education expenses, such as tuition and related fees, doesn’t prevent the student from choosing to apply certain scholarships or fellowship grants to the student’s actual nonqualified expenses. By making this choice (that is, by including the part of the scholarship or fellowship grant applied to the student’s nonqualified expenses in income), the student may increase taxable income and may be required to file a tax return. But this allows payments made in cash, by check, by credit or debit card, or with borrowed funds such as a student loan to be applied to qualified education expenses.
+
+Example 1—no scholarship.
+
+Judy, who is unmarried, is taking courses at a public community college to be recertified to teach in public schools. The adjusted gross income (AGI) and the MAGI, for purposes of the credit, are $30,600. Judy claims the standard deduction of $15,750, resulting in taxable income of $14,850 and a tax liability before credits of $1,547. Judy claims no credits other than the lifetime learning credit. In July 2025, Judy paid $700 for the summer 2025 semester; in August 2025, Judy paid $1,900 for the fall 2025 semester; and in December 2025, Judy paid another $1,900 for the spring semester beginning in January 2026. Judy and the college meet all requirements for the lifetime learning credit. All of the $4,500 tuition paid in 2025 can be used when figuring the 2025 lifetime learning credit. Judy claims a $900 lifetime learning credit and the tax liability after credits is $647.
+
+Example 2—scholarship excluded from income.
+
+The facts are the same as in Example 1 , except that Judy was awarded a $1,500 scholarship. Under the terms of the scholarship, it may be used to pay any education expenses, including room and board. If the scholarship is excluded from income, Judy will be deemed (for purposes of figuring the education credit) to have applied the scholarship to pay for tuition, required fees, and course materials. Only $3,000 of the $4,500 tuition paid in 2025 could be used when figuring the 2025 lifetime learning credit. The lifetime learning credit would be reduced to $600 and the tax liability after credits would be $947.
+
+Example 3—scholarship included in income.
+
+The facts are the same as in Example 2 . If, unlike Example 2 , Judy includes the $1,500 scholarship in income, Judy will be deemed to have applied the entire scholarship to pay for room and board. Judy’s AGI and MAGI would increase to $32,100, the taxable income would be $16,350, and the tax liability before credits would be $1,727. Judy would be able to use the $4,500 of adjusted qualified education expenses to figure the credit. Judy could claim a $900 lifetime learning credit and the tax liability after credits would be $827.
+
+Example 4—scholarship applied by the postsecondary school to tuition.
+
+The facts are the same as in Example 3 , except the $1,500 scholarship is paid directly to the public community college. The fact that the public community college applies the scholarship to Judy’s tuition and related fees doesn’t prevent Judy from including the $1,500 scholarship in income. As in Example 3 , by doing so, Judy will be deemed to have applied the entire scholarship to pay for room and board. Judy could claim the $900 lifetime learning credit and the tax liability after credits would be $827.
+
+Note:
+
+Whether you will benefit from applying a scholarship or fellowship grant to nonqualified expenses will depend on the amount of the student’s qualified education expenses, the amount of the scholarship or fellowship grant, and whether the scholarship or fellowship grant may (by its terms) be used for nonqualified expenses. Any benefit will also depend on the student’s federal and state marginal tax rates as well as any federal and state tax credits the student claims. Before deciding, look at the total amount of your federal and state tax refunds or taxes owed and, if the student is your dependent, the student’s tax refunds or taxes owed. For example, if you are the student and you also claim the earned income credit, choosing to apply a scholarship or fellowship grant to nonqualified expenses by including the amount in your income may not benefit you if the decrease to your earned income credit as a result of including the scholarship or fellowship grant in income is more than the increase to your lifetime learning credit as a result of including this amount in income.
+
+Expenses That Don’t Qualify
+
+Qualified education expenses don’t include amounts paid for:
+
+-
+
+Insurance;
+
+-
+
+Medical expenses (including student health fees);
+
+-
+
+Room and board;
+
+-
+
+Transportation; or
+
+-
+
+Similar personal, living, or family expenses.
+
+This is true even if the amount must be paid to the institution as a condition of enrollment or attendance.
+
+Sports, games, hobbies, and noncredit courses.
+
+Qualified education expenses generally don’t include expenses that relate to any course of instruction or other education that involves sports, games, or hobbies, or any noncredit course. However, if the course of instruction or other education is part of the student’s degree program or is taken by the student to acquire or improve job skills, these expenses can qualify.
+
+Comprehensive or bundled fees.
+
+Some eligible educational institutions combine all of their fees for an academic period into one amount. If you don’t receive or don’t have access to an allocation showing how much you paid for qualified education expenses and how much you paid for personal expenses, such as those listed above, contact the institution. The institution is generally required to make this allocation and provide you with the amount you paid for qualified education expenses on Form 1098-T. See Figuring the Credit , later, for more information about Form 1098-T.
+
+Who Is an Eligible Student?
+
+For purposes of the lifetime learning credit, an eligible student is a student who is enrolled in one or more courses at an eligible educational institution (as defined under Qualified Education Expenses , earlier).
+
+Who Can Claim a Dependent’s Expenses?
+
+If there are qualified education expenses for your dependent during a tax year, either you or your dependent, but not both of you, can claim a lifetime learning credit for your dependent’s expenses for that year.
+
+For you to claim a lifetime learning credit for your dependent’s expenses, you must also claim your dependent on your tax return. You do this by listing your dependent’s name and other required information on Form 1040 or 1040-SR.
+
+IF you... | THEN only...
+claim on your tax return a dependent who is an eligible student | you can claim the lifetime learning credit based on that dependent’s expenses. The dependent can’t claim the credit.
+don’t claim on your tax return a dependent who is an eligible student (even if entitled to claim the dependent) | the dependent can claim the lifetime learning credit. You can’t claim the credit based on this dependent’s expenses.
+
+Expenses paid by dependent.
+
+If you claim on your tax return an eligible student who is your dependent, treat any expenses paid (or deemed paid) by your dependent as if you had paid them. Include these expenses when figuring the amount of your lifetime learning credit.
+
+. Qualified education expenses paid directly to an eligible educational institution for your dependent under a court-approved divorce decree are treated as paid by your dependent. .
+
+Expenses paid by you.
+
+If you claim a dependent who is an eligible student, only you can include any expenses you paid when figuring the amount of the lifetime learning credit. If neither you nor anyone else claims the dependent, only the dependent can include any expenses you paid when figuring the lifetime learning credit.
+
+Expenses paid by others.
+
+Someone other than you, your spouse, or your dependent (such as a relative or former spouse) may make a payment directly to an eligible educational institution to pay for an eligible student’s qualified education expenses. In this case, the student is treated as receiving the payment from the other person and, in turn, paying the institution. If you claim the student as a dependent on your tax return, you are considered to have paid the expenses.
+
+Example.
+
+In 2025, Todd’s grandparent makes a payment directly to an eligible educational institution for Todd’s qualified education expenses. For purposes of claiming a lifetime learning credit, Todd is treated as receiving the money from the grandparent and, in turn, paying the qualified education expenses.
+
+Unless Todd is claimed as a dependent on someone else’s 2025 tax return, only Todd can use the payment to claim a lifetime learning credit.
+
+If anyone, such as Todd’s parents, claims Todd on his or her 2025 tax return, whoever claims Todd may be able to use the expenses to claim a lifetime learning credit. If anyone else claims Todd, Todd can’t claim a lifetime learning credit.
+
+Tuition reduction.
+
+When an eligible educational institution provides a reduction in tuition to an employee of the institution (or spouse or dependent child of an employee), the amount of the reduction may or may not be taxable. If it is taxable, the employee is treated as receiving a payment of that amount and, in turn, paying it to the educational institution on behalf of the student. For more information on tuition reductions, see Qualified Tuition Reduction in chapter 1 .
+
+Figuring the Credit
+
+The amount of the lifetime learning credit is 20% of the first $10,000 of qualified education expenses you paid for all eligible students. The maximum amount of lifetime learning credit you can claim for 2025 is $2,000 (20% × $10,000). However, that amount may be reduced based on your MAGI. See Effect of the Amount of Your Income on the Amount of Your Credit , later.
+
+Example.
+
+Bruce and Toni are married and file a joint tax return. For 2025, their MAGI is $75,000. Toni is attending a local college (an eligible educational institution) to earn credits toward a degree in nursing. Toni already has a bachelor’s degree in history and wants to become a nurse. In August 2025, Toni paid $5,000 of qualified education expenses for the fall 2025 semester. Bruce and Toni can claim a $1,000 (20% × $5,000) lifetime learning credit on their 2025 joint tax return.
+
+Form 1098-T.
+
+To help you figure your lifetime learning credit, the student may receive Form 1098-T. Generally, an eligible educational institution (such as a college or university) must send Form 1098-T (or acceptable substitute) to each enrolled student by February 2, 2026 (January 31 falls on a Saturday). An institution will report payments received (box 1) for qualified education expenses. However, the amount on Form 1098-T might be different from what you paid. When figuring the credit, use only the amounts you paid or are deemed to have paid in 2025 for qualified education expenses.
+
+In addition, Form 1098-T should give other information for that institution, such as adjustments made for prior years, the amount of scholarships or grants, reimbursements or refunds, and whether the student was enrolled at least half-time or was a graduate student.
+
+The eligible educational institution may ask for a completed Form W-9S or similar statement to obtain the student’s name, address, and taxpayer identification number.
+
+Effect of the Amount of Your Income on the Amount of Your Credit
+
+The amount of your lifetime learning credit is phased out (gradually reduced) if your MAGI is between $80,000 and $90,000 ($160,000 and $180,000 if you file a joint return). You can’t claim a lifetime learning credit if your MAGI is $90,000 or more ($180,000 or more if you file a joint return).
+
+Modified adjusted gross income (MAGI).
+
+For most taxpayers, MAGI is adjusted gross income (AGI) as figured on their federal income tax return.
+
+MAGI when using Form 1040 or 1040-SR.
+
+If you file Form 1040 or 1040-SR, your MAGI is the AGI on line 11a of that form, modified by adding back any:
+
+-
+
+Foreign earned income exclusion,
+
+-
+
+Foreign housing exclusion,
+
+-
+
+Foreign housing deduction,
+
+-
+
+Exclusion of income by bona fide residents of American Samoa, and
+
+-
+
+Exclusion of income by bona fide residents of Puerto Rico.
+
+You can use Worksheet 3-1 to figure your MAGI.
+
+Lifetime learning creditModified adjusted gross income (MAGI)Worksheet 3-1 Modified adjusted gross income (MAGI)Lifetime learning creditWorksheet 3-1 WorksheetsLifetime learning credit MAGI calculation (Worksheet 3-1)Worksheet 3-1. MAGI for the Lifetime Learning Credit
+
+1. | Enter your adjusted gross income (Form 1040 or 1040-SR, line 11a) |  | 1. | _____
+2. | Enter your foreign earned income exclusion and/or housing exclusion (Form 2555, line 45) |  | 2. | _____
+3. | Enter your foreign housing deduction (Form 2555, line 50) |  | 3. | _____
+4. | Enter the amount of income from Puerto Rico you’re excluding |  | 4. | _____
+5. | Enter the amount of income from American Samoa you’re excluding (Form 4563, line 15) |  | 5. | _____
+6. | Add the amounts on lines 2, 3, 4, and 5 |  | 6. | _____
+7. | Add the amounts on lines 1 and 6. This is your modified adjusted gross income . Enter this amount on Form 8863, line 14 |  | 7. | _____
+
+Phaseout.
+
+If your MAGI is within the range of incomes where the credit must be reduced, you will figure your reduced credit using lines 10–18 of Form 8863. The same method is shown in the following example.
+
+Example.
+
+You are filing a joint return with a MAGI of $161,000. In 2025, you paid $6,600 of qualified education expenses.
+
+You figure the tentative lifetime learning credit (20% of the first $10,000 of qualified education expenses you paid for all eligible students). The result is a $1,320 (20% x $6,600) tentative credit.
+
+Because your MAGI is within the range of incomes where the credit must be reduced, you must multiply your tentative credit ($1,320) by a fraction. The numerator (top part) of the fraction is $180,000 (the upper limit for those filing a joint return) minus your MAGI. The denominator (bottom part) is $20,000, the range of incomes for the phaseout ($160,000 to $180,000). The result is the amount of your phased-out (reduced) lifetime learning credit ($1,254).
+
+$1,320 | × | $180,000 - $161,000 | = | $1,254
+$20,000
+
+Claiming the Credit
+
+You claim the lifetime learning credit by completing Form 8863 and submitting it with your Form 1040 or 1040-SR. Enter the credit on Schedule 3 (Form 1040), line 3.

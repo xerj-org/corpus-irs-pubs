@@ -1,0 +1,129 @@
+IRS Pub 54 (12/2025) | 6. Tax Treaty Benefits
+
+6. Tax Treaty Benefits
+
+Topics
+
+This chapter discusses:
+
+-
+
+Some common tax treaty benefits,
+
+-
+
+How to get help in certain situations, and
+
+-
+
+How to get copies of tax treaties.
+
+Useful Items
+
+You may want to see:
+
+Publication
+
+-
+
+597 Information on the United States–Canada Income Tax Treaty
+
+-
+
+901 U.S. Tax Treaties
+
+See chapter 7 for information about getting these publications.
+
+Purpose of Tax Treaties
+
+The United States has bilateral income tax treaties, also known as conventions, with many countries. See Table 3 under the list of tax treaty tables at IRS.gov/TreatyTables for a list of countries with which the United States has an income tax treaty in effect.
+
+Under these treaties, citizens and residents of the United States who are subject to taxes imposed by the foreign countries may be entitled to certain credits, deductions, exemptions, and reductions in the rate of taxes of those foreign countries. If a foreign country with which the United States has a treaty imposes a tax on you, you may be entitled to benefits under the treaty.
+
+Treaty benefits are generally available to residents of the United States. They are generally not available to U.S. citizens who do not reside in the United States. However, certain treaty benefits and safeguards, such as the nondiscrimination provisions, are available to U.S. citizens residing in the treaty countries. U.S. citizens residing in a foreign country may also be entitled to benefits under that country's tax treaties with third countries.
+
+Certification of U.S. residency.
+
+Use Form 8802, Application for United States Residency Certification, available at IRS.gov/Form8802 , to request certification of U.S. residency for purposes of claiming benefits under a tax treaty. Certification can be requested for the current and any prior calendar years.
+
+Tip:
+
+You should examine the specific treaty articles to find if you are entitled to a tax credit, tax exemption, reduced rate of tax, or other treaty benefit or safeguard.
+
+For more information on tax treaties, go to IRS.gov/TreatyTables .
+
+Common Benefits
+
+Some common tax treaty benefits are explained below. The credits, deductions, exemptions, reductions in rate, and other benefits provided by tax treaties are subject to conditions and various restrictions. Benefits provided by certain treaties are not necessarily provided by others.
+
+Personal service income.
+
+If you are a U.S. resident who is in a treaty country for a limited number of days in the tax year and you meet certain other requirements, the payment you receive for personal services performed in that country may be exempt from that country's income tax.
+
+Professors and teachers.
+
+If you are a U.S. resident, the payment you receive for the first 2 or 3 years that you are teaching or doing research in a treaty country may be exempt from that country's income tax.
+
+Students, trainees, and apprentices.
+
+If you are a U.S. resident, amounts you receive from the United States for study, research, or business, professional, and technical training in a treaty country may be exempt from a treaty country's income tax.
+
+Some treaties exempt non-compensatory grants, allowances, and awards received from governmental and certain nonprofit organizations. Also, under certain circumstances, a limited amount of pay received by students, trainees, and apprentices for the performance of services in a treaty country may be exempt from the income tax of many treaty countries.
+
+Pensions and annuities.
+
+If you are a U.S. resident, nongovernment pensions and annuities you receive may be exempt from the income tax of treaty countries.
+
+Investment income.
+
+If you are a U.S. resident, investment income, such as interest and dividends, that you receive from sources in a treaty country may be exempt from that country's income tax or taxed at a reduced rate.
+
+Several treaties provide exemption for capital gains (other than from sales of real property in most cases) if specified requirements are met.
+
+Relief from double taxation.
+
+In general, most treaties relieve double taxation through U.S. domestic law provisions that allow you to take a credit against or deduction from U.S. tax based on the tax paid to the treaty country.
+
+Nondiscrimination provisions.
+
+Most U.S. tax treaties provide that the treaty country cannot discriminate by imposing more burdensome taxes on U.S. citizens who are residents of the treaty country than it imposes on its own citizens in the same circumstances.
+
+Saving clauses.
+
+U.S. treaties contain saving clauses that provide that the treaties do not affect the U.S. taxation of its own citizens and residents. As a result, U.S. citizens and residents cannot generally use the treaty to reduce their U.S. tax liability.
+
+However, most treaties provide exceptions to saving clauses that allow certain provisions of the treaty to be claimed by U.S. citizens or residents, such as the non-discrimination provisions. It is important that you examine the applicable saving clause to determine if an exception applies.
+
+More information on treaties.
+
+Pub. 901, U.S. Tax Treaties, available at IRS.gov/Pub901 , contains an explanation of treaty provisions that apply to amounts received by teachers, students, workers, and government employees and pensioners who are alien nonresidents or residents of the United States. Because treaty provisions are generally reciprocal, you can usually substitute “U.S.” for the name of the treaty country whenever it appears, and vice versa when “U.S.” appears in the treaty exemption discussions in Pub. 901 .
+
+Pub. 597, Information on the United States–Canada Income Tax Treaty, available at IRS.gov/Pub597 , contains an explanation of a number of frequently used provisions of the United States–Canada income tax treaty.
+
+Competent Authority Assistance
+
+If you are a U.S. citizen or resident alien, you can request assistance from the U.S. competent authority if you think that the actions of the United States, a treaty country, or both, cause or will cause you to incur a tax situation not intended by the treaty between the two countries. You should read any treaty articles, including the mutual agreement procedure article, that apply in your situation.
+
+The U.S. competent authority cannot consider requests involving countries with which the United States does not have a tax treaty.
+
+Instructions for how to prepare and submit a request are available at IRS.gov/CompetentAuthority .
+
+Your request for competent authority consideration should be addressed to:
+
+Commissioner
+
+Large Business and International Division
+
+1111 Constitution Ave. NW
+
+Washington, DC 20224
+
+SE:LB:TTPO:APMA:TAIT:K
+
+NCA 570-03
+
+(Attention: TAIT)
+
+Obtaining Copies of Tax Treaties
+
+You can get complete information about treaty provisions from the taxing authority in the country from which you receive income or from the treaty itself. You can obtain the text of most U.S. treaties at IRS.gov/Businesses/International-Businesses/United-States-Income-Tax-Treaties-A-to-Z . Additional information on tax treaties is available at IRS.gov/Individuals/International-Taxpayers/Tax-Treaties .

@@ -1,0 +1,206 @@
+IRS Pub 590-B (2025) | Publication 590-B - Introductory Material
+
+Publication 590-B (2025), Distributions from Individual Retirement Arrangements (IRAs)
+
+For use in preparing 2025 Returns
+
+Publication 590-B - Introductory Material
+
+Future Developments
+
+For the latest information about developments related to Pub. 590-B, such as legislation enacted after it was published, go to IRS.gov/Pub590B .
+
+Reminders
+
+Excise tax relief for certain 2024 required minimum distributions (RMDs). The IRS will not assert an excise tax in 2024 for missed required minimum distributions if certain requirements are met. See Notice 2024-35, available at IRS.gov/irb/2024-19_IRB#NOT-2024-35 , for details.
+
+Income on corrective distributions of excess contributions. The income on the corrective distribution of excess contributions made on or after December 29, 2022, is no longer subject to the 10% additional tax on early distributions. See Pub. 590-A for more information.
+
+Modification of required distribution rules for designated beneficiaries. There are new required minimum distribution rules for certain beneficiaries who are designated beneficiaries when the IRA owner dies in a tax year beginning after December 31, 2019. All distributions must be made by the end of the 10th year after death, except for distributions made to certain eligible designated beneficiaries. See 10-year rule , later, for more information.
+
+Simplified employee pension (SEP) and SIMPLE plans. SEP and SIMPLE IRAs aren’t covered in this publication. They are covered in Pub. 560, Retirement Plans for Small Business.
+
+Deemed IRAs. A qualified employer plan (retirement plan) can maintain a separate account or annuity under the plan (a deemed IRA) to receive voluntary employee contributions. If the separate account or annuity otherwise meets the requirements of an IRA, it will be subject only to IRA rules. An employee's account can be treated as a traditional IRA or a Roth IRA.For this purpose, a “qualified employer plan” includes:
+
+-
+
+A qualified pension, profit-sharing, or stock bonus plan (section 401(a) plan);
+
+-
+
+A qualified employee annuity plan (section 403(a) plan);
+
+-
+
+A tax-sheltered annuity plan (section 403(b) plan); and
+
+-
+
+A deferred compensation plan (section 457 plan) maintained by a state, a political subdivision of a state, or an agency or instrumentality of a state or political subdivision of a state.
+
+Statement of required minimum distribution (RMD). If an RMD is required from your IRA, the trustee, custodian, or issuer that held the IRA at the end of the preceding year must either report the amount of the RMD to you, or offer to calculate it for you. The report or offer must include the date by which the amount must be distributed. The report is due January 31 of the year in which the minimum distribution is required. It can be provided with the year-end fair market value statement that you normally get each year. No report is required for section 403(b) contracts (generally tax-sheltered annuities) or for IRAs of owners who have died.
+
+IRA interest. Although interest earned from your IRA is generally not taxed in the year earned, it isn't tax-exempt interest. Tax on your traditional IRA is generally deferred until you take a distribution. Don't report this interest on your return as tax-exempt interest. For more information on tax-exempt interest, see the instructions for your tax return.
+
+Net Investment Income Tax (NIIT). For purposes of the NIIT, net investment income doesn't include distributions from 401(a), 403(a), 403(b), or 457(b) plans, or IRAs. However, these distributions are taken into account when determining the modified adjusted gross income threshold. Distributions from retirement plans other than 401(a), 403(a), 403(b), or 457(b) plans, or IRAs, are included in net investment income.See Form 8960, Net Investment Income Tax—Individuals, Estates, and Trusts, and its instructions for more information.
+
+Photographs of missing children. The IRS is a proud partner with the National Center for Missing & Exploited Children® (NCMEC) . Photographs of missing children selected by the Center may appear in this publication on pages that would otherwise be blank. You can help bring these children home by looking at the photographs and calling 1-800-THE-LOST (1-800-843-5678) if you recognize a child.
+
+Introduction
+
+This publication discusses distributions from individual retirement arrangements (IRAs). An IRA is a personal savings plan that gives you tax advantages for setting aside money for retirement. For information about contributions to an IRA, see Pub. 590-A.
+
+What are some tax advantages of an IRA?
+
+Two tax advantages of an IRA are that:
+
+-
+
+Contributions you make to an IRA may be fully or partially deductible, depending on which type of IRA you have and on your circumstances; and
+
+-
+
+Generally, amounts in your IRA (including earnings and gains) aren't taxed until distributed. In some cases, amounts aren't taxed at all if distributed according to the rules.
+
+What's in this publication?
+
+This publication discusses traditional and Roth IRAs. It explains the rules for:
+
+-
+
+Handling an inherited IRA, and
+
+-
+
+Receiving distributions (making withdrawals) from an IRA.
+
+It also explains the penalties and additional taxes that apply when the rules aren't followed. To assist you in complying with the tax rules for IRAs, this publication contains worksheets, sample forms, and tables, which can be found throughout the publication and in the appendices at the end of the publication.
+
+How to use this publication.
+
+The rules that you must follow depend on which type of IRA you have. Use Table I-1 to help you determine which parts of this publication to read. Also use Table I-1 if you were referred to this publication from instructions to a form.
+
+Comments and suggestions.
+
+We welcome your comments about this publication and suggestions for future editions.
+
+You can send us comments through IRS.gov/FormComments . Or, you can write to the Internal Revenue Service, Tax Forms and Publications, 1111 Constitution Ave. NW, IR-6526, Washington, DC 20224.
+
+Although we can’t respond individually to each comment received, we do appreciate your feedback and will consider your comments and suggestions as we revise our tax forms, instructions, and publications. Don’t send tax questions, tax returns, or payments to the above address.
+
+Getting answers to your tax questions.
+
+If you have a tax question not answered by this publication or the How To Get Tax Help section at the end of this publication, go to the IRS Interactive Tax Assistant page at IRS.gov/Help/ITA where you can find topics by using the search feature or viewing the categories listed.
+
+Getting tax forms, instructions, and publications.
+
+Go to IRS.gov/Forms to download current and prior-year forms, instructions, and publications.
+
+Ordering tax forms, instructions, and publications.
+
+Go to IRS.gov/OrderForms to order current forms, instructions, and publications; call 800-829-3676 to order prior-year forms and instructions. The IRS will process your order for forms and publications as soon as possible. Don’t resubmit requests you’ve already sent us. You can get forms and publications faster online.
+
+Useful Items
+
+You may want to see:
+
+Publications
+
+-
+
+590-A Contributions to Individual Retirement Arrangements (IRAs)
+
+-
+
+560 Retirement Plans for Small Business (SEP, SIMPLE, and Qualified Plans)
+
+-
+
+571 Tax-Sheltered Annuity Plans (403(b) Plans)
+
+-
+
+575 Pension and Annuity Income
+
+-
+
+939 General Rule for Pensions and Annuities
+
+Forms (and Instructions)
+
+-
+
+W-4P Withholding Certificate for Periodic Pension or Annuity Payments
+
+-
+
+W-4R Withholding Certificate for Nonperiodic Payments and Eligible Rollover Distributions
+
+-
+
+1099-R Distributions From Pensions, Annuities, Retirement or Profit-Sharing Plans, IRAs, Insurance Contracts, etc.
+
+-
+
+5304-SIMPLE Savings Incentive Match Plan for Employees of Small Employers (SIMPLE)—Not for Use With a Designated Financial Institution
+
+-
+
+5305-S SIMPLE Individual Retirement Trust Account
+
+-
+
+5305-SA SIMPLE Individual Retirement Custodial Account
+
+-
+
+5305-SIMPLE Savings Incentive Match Plan for Employees of Small Employers (SIMPLE)—for Use With a Designated Financial Institution
+
+-
+
+5329 Additional Taxes on Qualified Plans (Including IRAs) and Other Tax-Favored Accounts
+
+-
+
+5498 IRA Contribution Information
+
+-
+
+8606 Nondeductible IRAs
+
+-
+
+8815 Exclusion of Interest From Series EE and I U.S. Savings Bonds Issued After 1989
+
+-
+
+8839 Qualified Adoption Expenses
+
+-
+
+8880 Credit for Qualified Retirement Savings Contributions
+
+-
+
+8915-F Qualified Disaster Retirement Plan Distributions and Repayments
+
+See How To Get Tax Help , later, for information about getting these publications and forms.
+
+Table I-1. Using This Publication
+
+IF you need information on... | THEN see...
+traditional IRAs (not including traditional SIMPLE IRAs) | chapter 1 .
+Roth IRAs (not including Roth SIMPLE IRAs) | chapter 2 , and parts of chapter 1 .
+disaster-related relief | chapter 3 .
+SEP IRAs, SIMPLE IRAs, and 401(k) plans | Pub. 560.
+Coverdell education savings accounts (formerly called education IRAs) | Pub. 970.
+
+Table I-2. How Are a Traditional IRA and a Roth IRA Different?
+
+This table shows the differences between traditional and Roth IRAs. Answers in the middle column apply to traditional IRAs. Answers in the right column apply to Roth IRAs.
+
+Question | Answer
+Traditional IRA? | Roth IRA?
+Do I have to start taking distributions when I reach a certain age from a | Yes. You must begin receiving required minimum distributions by April 1 of the year following the year you reach age 73. See When Must You Withdraw Assets? (Required Minimum Distributions) in chapter 1. | No. If you are the original owner of a Roth IRA, you don't have to take distributions regardless of your age. See Are Distributions Taxable? in chapter 2. However, if you are the beneficiary of a Roth IRA, you may have to take distributions. See Distributions After Owner's Death in chapter 2.
+How are distributions taxed from a | Distributions from a traditional IRA are taxed as ordinary income, but if you made nondeductible contributions, not all of the distribution is taxable. See Are Distributions Taxable? in chapter 1. | Distributions from a Roth IRA aren't taxed as long as you meet certain criteria. See Are Distributions Taxable? in chapter 2.
+Do I have to file a form just because I receive distributions from a | Not unless you have ever made a nondeductible contribution to a traditional IRA or repaid, in whole or part, emergency personal expense distributions, qualified birth or adoption distributions, a domestic abuse victim distribution, or a terminally ill individual distribution. If you have, file Form 8606. See Nondeductible Contribution s in Pub. 590-A. | Yes. File Form 8606 if you received distributions from a Roth IRA (other than a rollover, qualified charitable distribution, one-time distribution to fund an HSA, recharacterization, certain qualified distributions, or a return of certain contributions) or repaid, in whole or part, emergency personal expense distributions, qualified birth or adoption distributions, a domestic abuse victim distribution, or a terminally ill individual distribution.

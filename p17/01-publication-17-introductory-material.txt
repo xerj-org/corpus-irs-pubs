@@ -1,0 +1,347 @@
+IRS Pub 17 (2025) | Publication 17 - Introductory Material
+
+Publication 17 (2025), Your Federal Income Tax
+
+For Individuals
+
+For use in preparing 2025 Returns
+
+Publication 17 - Introductory Material
+
+All material in this publication may be reprinted freely. A citation to Your Federal Income Tax (2025) would be appropriate.
+
+The explanations and examples in this publication reflect the interpretation by the Internal Revenue Service (IRS) of:
+
+-
+
+Tax laws enacted by Congress,
+
+-
+
+Treasury regulations, and
+
+-
+
+Court decisions.
+
+However, the information given does not cover every situation and is not intended to replace the law or change its meaning.
+
+This publication covers some subjects on which a court may have made a decision more favorable to taxpayers than the interpretation by the IRS. Until these differing interpretations are resolved by higher court decisions or in some other way, this publication will continue to present the interpretations by the IRS.
+
+All taxpayers have important rights when working with the IRS. These rights are described under Your Rights as a Taxpayer in the back of this publication.
+
+What’s New
+
+This section summarizes important tax changes that took effect in 2025. Most of these changes are discussed in more detail throughout this publication.
+
+Future developments. For the latest information about the tax law topics covered in this publication, such as legislation enacted after it was published, go to IRS.gov/Pub17 .
+
+Who must file. Generally, the amount of income you can receive before you must file a return has been increased. For more information, see chapter 1 , later.
+
+Due date of return. File Form 1040 or 1040-SR by April 15, 2026. See chapter 1 , later.
+
+Trump account and new Form 4547. Recent legislation allows parents, guardians, and other authorized individuals to elect to establish a new type of individual retirement account, called a Trump account, for the exclusive benefit of certain children. If the child was born after 2024 and before 2029, is a U.S. citizen, and meets certain other requirements, the authorized individual may also elect to receive a $1,000 pilot program contribution to the child’s Trump account. Both elections can be made on Form 4547, which can be filed at the same time as the authorized individual’s 2025 income tax return. For more information on Trump accounts, and to learn how to make these elections, see Form 4547 and its instructions.
+
+Standard deduction amount increased. For 2025, the standard deduction amount has been increased for all filers. The amounts are:
+
+-
+
+Single or Married filing separately—$15,750;
+
+-
+
+Married filing jointly or Qualifying surviving spouse—$31,500; and
+
+-
+
+Head of household—$23,625.
+
+See chapter 10 , later.
+
+Higher catch-up contribution limit for ages 60 to 63. If, at the end of 2025, you were at least age 60, but younger than age 64, and you participated in a deferred compensation plan (including most 401(k), 403(b), and governmental 457 plans, and the governmental Thrift Savings Plan), a higher catch-up contribution limit may apply to you. For 2025, this higher catch-up contribution limit is $11,250. For more information, contact your plan administrator and see Pub. 590-A.
+
+Main home was in the United States. If your main home (and spouse if filing a joint return) was in the United States for over half of 2025, check the box on the front of Form 1040 or 1040-SR. Providing this information will help the IRS determine your eligibility for certain tax benefits, including the earned income credit.
+
+Changes to the Dependents section. The Dependents section now has numbered rows and asks for more information about you and your dependents. This new information is being asked to help the IRS determine your eligibility for certain tax benefits, including the child tax credit, the credit for other dependents, and the earned income credit.
+
+Write-in information. Beginning in 2025, most of the words, codes, and/or dollar amounts that are used to explain an item of income or deduction, and that you previously had to enter next to specific lines, now have a dedicated checkbox or entry space.
+
+Death of a taxpayer. If you need to file a return for someone who died before filing a 2025 return, check the “Deceased” box at the top of Form 1040 or 1040-SR and enter the date of death. For more information, see Death of a Taxpayer in the Instructions for Form 1040.
+
+Contributions to a governmental paid family leave program. Beginning in 2025, if you made contributions to a governmental paid family leave program, you will now include the full amount of those contributions in your income. If you itemize your deductions on Schedule A (Form 1040), you can include the amounts contributed as part of the state and local taxes that you paid.
+
+Form 1099-DA. If, in 2025, you used a broker to effect the sale of a digital asset, your broker should send you a Form 1099-DA that reports information regarding the transaction. In 2025, your broker has the option to report your basis in the digital asset on Form 1099-DA but is not required to do so. Even if you receive a Form 1099-DA, you must still answer the digital assets question on page 1 of Form 1040 or 1040-SR. For more information, see the Instructions for Form 1099-DA.
+
+Electronic payments and direct deposit. If you have access to U.S. banking services or electronic payment systems, you should use direct deposit for any refunds. The IRS recommends paying electronically whenever possible. Options to pay electronically include using your bank account with Direct Pay , your debit or credit card, your digital wallet, or your online account. Go to IRS.gov/Payments to see all your payment options. Also, see ModernPayments .
+
+New deductions for itemizers and non-itemizers. Recent legislation provided for four new deductions that take effect beginning in 2025. If you are eligible, you can claim these deductions if you take the standard deduction or if you itemize on Schedule A (Form 1040). For more information on these deductions, see the instructions for Schedule 1-A (Form 1040). The new deductions are as follows.
+
+-
+
+No tax on tips. You may be eligible to take a deduction for qualified tips paid to you in 2025. You can’t deduct more than $25,000 of those tips. Your deduction will be limited if your modified adjusted gross income is more than $150,000 ($300,000 if married filing jointly). To be eligible, you and/or your spouse who received the tips must have a valid social security number (SSN). If you are married, you must file a joint return.
+
+-
+
+No tax on overtime. If you earned qualified overtime, you may be eligible to deduct up to $12,500 ($25,000 if married filing jointly) of your qualified overtime compensation. Your deduction will be limited if your modified adjusted gross income is more than $150,000 ($300,000 if married filing jointly). To be eligible, you and/or your spouse who received the overtime must have a valid SSN. If you are married, you must file a joint return.
+
+-
+
+No tax on car loan interest. If you paid or accrued qualified passenger vehicle loan interest on a vehicle you purchased in 2025 for personal use, you may be eligible to deduct up to $10,000 of that interest. Your deduction will be limited if your modified adjusted gross income is more than $100,000 ($200,000 if married filing jointly).
+
+-
+
+Enhanced deduction for seniors. If you were born before January 2, 1961, you may be eligible for an enhanced senior deduction. Your deduction will be limited if your modified adjusted gross income is more than $75,000 ($150,000 if married filing jointly). To be eligible, you and/or your spouse must have a valid SSN. If you are married, you must file a joint return. The maximum amount of the deduction is $6,000 ($12,000 if both spouses are eligible).
+
+Deferral of gain invested in a qualified opportunity fund (QOF). Taxpayers who made a deferral election in a QOF that meets the 7-year holding period threshold may be eligible for a basis adjustment. See the Instructions for Schedule D (Form 1040); and Form 8997, Initial and Annual Statement of Qualified Opportunity Fund (QOF) Investments, and its instructions for additional information regarding QOFs.
+
+Deferred compensation contribution limit increased. If you participate in a 401(k) plan, 403(b) plan, or the federal government’s Thrift Savings Plan, the total annual amount you can contribute for 2025 is increased to:
+
+-
+
+$23,500;
+
+-
+
+$31,000 if age 50 or older; or
+
+-
+
+$37,750 if age 60, 61, 62, or 63 at the end of 2025.
+
+This also applies to most section 457 plans.
+
+New Schedule 1-A. A new schedule to Form 1040, Schedule 1-A, has been created for taxpayers to claim a deduction for the recently enacted deductions for no tax on tips, no tax on overtime, no tax on car loan interest, and the enhanced senior deduction. For more information, see the instructions for Schedule 1-A in the Instructions for Form 1040.
+
+State and local tax deduction limit increased. The overall limit on the deduction for state and local income, sales, and property taxes has increased to $40,000 ($20,000 if married filing separately). The overall limit is reduced if your modified adjusted gross income is more than $500,000 ($250,000 if married filing separately) but will not be reduced below $10,000 ($5,000 if married filing separately). For more information, see the Instructions for Schedule A (Form 1040).
+
+SSN or individual taxpayer identification number (ITIN) needed to claim the credit for other dependents. Beginning in 2025, to be eligible to claim the credit for other dependents, you, or your spouse if filing jointly, must have a valid SSN or ITIN issued on or before the due date of your return (including extensions).
+
+Changes to the adoption credit. Recent legislation made changes to the adoption credit. Beginning in 2025, the following changes apply.
+
+-
+
+Up to $5,000 of adoption credit is refundable. Up to $5,000 of your adoption credit may be refundable. The amount of the refundable portion is determined separately for each eligible child.
+
+-
+
+Parity for Indian Tribal governments. Tribal governments now have parity for special needs adoption determinations. This means that state government and Indian Tribal government determinations of special needs are both recognized for purposes of the adoption credit. For more information, see Form 8839, Qualified Adoption Expenses, and its instructions.
+
+The adoption credit and the exclusion for employer-provided adoption benefits are both $17,280 per eligible child in 2025. The amount begins to phase out if you have modified AGI in excess of $259,190 and is completely phased out if your modified AGI is $299,190 or more.
+
+Election to pay tax on farmland sale or exchange in installments. If your tax year began after July 4, 2025, and you sold or exchanged qualified farmland to a qualified farmer after that date, you can elect to pay the net income tax liability on the sale or exchange in four equal installments. For more information, see the instructions for Schedule 2 (Form 1040) and Schedule 3 (Form 1040). Also, see Form 1062, Deferral of Tax on Gain From the Sale or Exchange of Qualified Farmland Property to Qualified Farmers, and its instructions.
+
+Domestic research and experimental expenditures. Beginning in 2025, taxpayers are allowed to deduct domestic research and experimental expenditures. Alternatively, taxpayers may elect to charge their domestic research and experimental expenditures to a capital account and deduct them ratably over a period of not less than 60 months (beginning with the month in which the taxpayers first realize the benefits from such expenditures).
+
+Health flexible spending arrangements (health FSAs) under cafeteria plans. For tax years beginning in 2025, the dollar limitation under section 1251(i) on voluntary employee salary reductions for contributions to health FSAs is $3,300.
+
+Delayed refund for returns claiming the ACTC. The IRS cannot issue refunds before mid-February 2026 for returns that properly claim the ACTC. This time frame applies to the entire refund, not just the portion associated with the ACTC.
+
+Standard mileage rate. The 2025 rate for business use of a vehicle is 70 cents a mile. The 2025 rate for use of your vehicle to do volunteer work for certain charitable organizations is 14 cents a mile. The 2025 rate for operating expenses for a car when you use it for medical reasons is 21 cents a mile.
+
+Modified adjusted gross income (AGI) limit for traditional IRA contributions. For 2025, if you are covered by a retirement plan at work, your deduction for contributions to a traditional IRA is reduced (phased out) if your modified AGI is:
+
+-
+
+More than $126,000 but less than $146,000 for a married couple filing a joint return or a qualifying surviving spouse,
+
+-
+
+More than $79,000 but less than $89,000 for a single individual or head of household, or
+
+-
+
+Less than $10,000 for a married individual filing a separate return.
+
+If you either live with your spouse or file a joint return, and your spouse is covered by a retirement plan at work but you aren’t, your deduction is phased out if your modified AGI is more than $236,000 but less than $246,000. If your modified AGI is $246,000 or more, you can’t take a deduction for contributions to a traditional IRA. See How Much Can You Deduct in chapter 9 , later.
+
+Modified AGI limit for Roth IRA contributions. For 2025, your Roth IRA contribution limit is reduced (phased out) in the following situations.
+
+2026 modified AGI limits. You can find information about the 2026 contribution and modified AGI limits in Pub. 590-A.
+
+Tax law changes for 2026. When you figure how much income tax you want withheld from your pay and when you figure your estimated tax, consider tax law changes effective in 2026. For more information, see Pub. 505.
+
+Alternative minimum tax (AMT) exemption amount increased. The AMT exemption amount is increased to $88,100 ($137,000 if married filing jointly or qualifying surviving spouse; $68,500 if married filing separately). The income levels at which the AMT exemption begins to phase out have increased to $626,350 ($1,252,700 if married filing jointly or qualifying surviving spouse).
+
+Updated reporting requirements for Form 1099-K. Payment card companies, payment apps, and online marketplaces will be required to send you a Form 1099-K only if the amount of your business transactions during the year is more than $20,000 and the total number of your transactions is more than 200.
+
+New option for scheduled appointments at Taxpayer Assistance Centers (TACs). Beginning in 2025, taxpayers with scheduled appointments at TACs may choose to receive appointment confirmations, reminders, and cancellation notices directly via text message on their mobile devices.
+
+Reminders
+
+Listed below are important reminders and other items that may help you file your 2025 tax return. Many of these items are explained in more detail later in this publication.
+
+Secure your tax records from identity theft. Identity theft occurs when someone uses your personal information, such as your name, SSN, or other identifying information, without your permission, to commit fraud or other crimes. An identity thief may use your SSN to get a job or may file a tax return using your SSN to receive a refund. For more information about identity theft and how to reduce your risk from it, see chapter 1 , later.
+
+Taxpayer identification numbers (TINs). You must provide the TIN for each person for whom you claim certain tax benefits. This applies even if the person was born in 2025. Generally, this number is the person’s SSN. See chapter 1 , later.
+
+Additional child tax credit (ACTC) amount. The maximum ACTC amount is $1,700 for each qualifying child.
+
+Premium tax credit (PTC). The ARP expanded the PTC by eliminating the limitation that a taxpayer’s household income may not exceed 400% of the federal poverty line and generally increases the credit amounts. For more information, see Pub. 974 and Form 8962 and its instructions.
+
+Identity verification. The IRS launched an improved identity verification and sign-in process that enables more people to securely access and use IRS online tools and applications. To provide verification services, the IRS is using ID.me, a trusted technology provider. The new process is one more step the IRS is taking to ensure that taxpayer information is provided only to the person who legally has a right to the data. Taxpayers using the new mobile-friendly verification procedure can gain entry to existing IRS online services such as the Child Tax Credit Update Portal , Online Account , Get Transcript Online , Get an Identity Protection PIN (IP PIN) , and Online Payment Agreement . Additional IRS applications will transition to the new method over the next year. Each online service will also provide information that will instruct taxpayers on the steps they need to follow for access to the service. You can also see IR-2021-228 for more information.
+
+ACTC and bona fide residents of Puerto Rico. Bona fide residents of Puerto Rico are no longer required to have three or more qualifying children to be eligible to claim the ACTC. Bona fide residents of Puerto Rico may be eligible to claim the ACTC if they have one or more qualifying children.
+
+Foreign-source income. If you are a U.S. citizen with income from sources outside the United States (foreign income), you must report all such income on your tax return unless it is exempt by law or a tax treaty. This is true whether you live inside or outside the United States and whether or not you receive a Form W-2 or Form 1099 from the foreign payer. This applies to earned income (such as wages and tips) as well as unearned income (such as interest, dividends, capital gains, pensions, rents, and royalties). If you live outside the United States, you may be able to exclude part or all of your foreign earned income. For details, see Pub. 54.
+
+Foreign financial assets. If you had foreign financial assets in 2025, you may have to file Form 8938 with your return. See Form 8938 and its instructions or go to IRS.gov/Form8938 for details.
+
+Automatic 6-month extension to file tax return. You can get an automatic 6-month extension of time to file your tax return. See chapter 1 , later.
+
+Payment of taxes. You can pay your taxes by making electronic payments online; from a mobile device using the IRS2Go app; or in cash, or by check or money order. Paying electronically is quick, easy, and faster than mailing in a check or money order. See chapter 1 , later.
+
+Faster ways to file your return. The IRS offers fast, accurate ways to file your tax return information without filing a paper tax return. You can use IRS e-file (electronic filing). See chapter 1 , later.
+
+Free electronic filing. You may be able to file your 2025 taxes online for free. See chapter 1 , later.
+
+Change of address. If you change your address, notify the IRS. See chapter 1 , later.
+
+Refund on a late-filed return. If you were due a refund but you did not file a return, you must generally file your return within 3 years from the date the return was due (including extensions) to get that refund. See chapter 1 , later.
+
+Frivolous tax returns. The IRS has published a list of positions that are identified as frivolous. The penalty for filing a frivolous tax return is $5,000. See chapter 1 , later.
+
+Filing erroneous claim for refund or credit. You may have to pay a penalty if you file an erroneous claim for refund or credit. See chapter 1 , later.
+
+Access your online account. You must authenticate your identity. To securely log into your federal tax account, go to IRS.gov/Account . View the amount you owe, review your last 5 years of payment history, access online payment options, and create or modify an online payment agreement. You can also access your tax records online.
+
+Health care coverage. If you need health care coverage, go to HealthCare.gov to learn about health insurance options for you and your family, how to buy health insurance, and how you might qualify to get financial assistance to buy health insurance.
+
+Disclosure, Privacy Act, and Paperwork Reduction Act information. The IRS Restructuring and Reform Act of 1998, the Privacy Act of 1974, and the Paperwork Reduction Act of 1980 require that when we ask you for information, we must first tell you what our legal right is to ask for the information; why we are asking for it; how it will be used; what could happen if we do not receive it; and whether your response is voluntary, required to obtain a benefit, or mandatory under the law. A complete statement on this subject can be found in your tax form instructions.
+
+Preparer e-file mandate. Most paid preparers must e-file returns they prepare and file. Your preparer may make you aware of this requirement and the options available to you.
+
+Treasury Inspector General for Tax Administration. If you want to confidentially report misconduct, waste, fraud, or abuse by an IRS employee, you can call 800-366-4484 (call 800-877-8339 if you are deaf, hard of hearing, or have a speech disability, and are using TTY/TDD equipment). You can remain anonymous.
+
+Photographs of missing children. The IRS is a proud partner with the National Center for Missing & Exploited Children® (NCMEC) . Photographs of missing children selected by the Center may appear in this publication on pages that would otherwise be blank. You can help bring these children home by looking at the photographs and calling 1-800-THE-LOST (1-800-843-5678) if you recognize a child.
+
+Publication 17 Changes
+
+Note: This publication does not cover the topics listed in the following table. Please see the primary publication.
+Chapter removed | Title of chapter | Primary source
+6 | Tip Income | Pub. 531, Reporting Tip Income
+8 | Dividends and Other Distributions | Pub. 550, Investment Income and Expenses
+9 | Rental Income and Expenses | Pub. 527, Residential Rental Property (Including Rental of Vacation Homes)
+10 | Retirement Plans, Pensions, and Annuities | Pub. 575, Pension and Annuity Income
+13 | Basis of Property | Pub. 551, Basis of Assets
+14 | Sale of Property | Pub. 550
+15 | Selling Your Home | Pub. 523, Selling Your Home
+16 | Reporting Gains and Losses | Pub. 550
+18 | Alimony | Pub. 504, Divorced or Separated Individuals
+19 | Education-Related Adjustments | Pub. 970, Tax Benefits for Education
+20 | Other Adjustments to Income | Pub. 463, Travel, Gift, and Car Expenses
+22 | Medical and Dental Expenses | Pub. 502, Medical and Dental Expenses
+24 | Interest Expense | Pub. 550 Pub. 936, Home Mortgage Interest Deduction
+25 | Charitable Contributions | Pub. 561, Determining the Value of Donated Property Pub. 526, Charitable Contributions
+26 | Nonbusiness Casualty and Theft Losses | Pub. 547, Casualties, Disasters, and Thefts
+29 | Tax on Unearned Income of Certain Minor Children | Form 8615, Tax for Certain Children Who Have Unearned Income
+30 | Child and Dependent Care Credit | Pub. 503, Child and Dependent Care Expenses
+31 | Credit for the Elderly or the Disabled | Schedule R (Form 1040), Credit for the Elderly or the Disabled
+33 | Education Credits | Pub. 970
+34 | Earned Income Credit (EIC) | Pub. 596, Earned Income Credit (EIC)
+35 | Premium Tax Credit | Pub. 974, Premium Tax Credit (PTC)
+36 | Other Credits
+
+Introduction
+
+This publication covers the general rules for filing a federal income tax return. It supplements the information contained in your tax form instructions. It explains the tax law to make sure you pay only the tax you owe and no more.
+
+How this publication is arranged.
+
+Pub. 17 closely follows Form 1040, U.S. Individual Income Tax Return, and Form 1040-SR, U.S. Tax Return for Seniors, and their three Schedules 1 through 3. Pub. 17 is divided into four parts. Each part is further divided into chapters, most of which generally discuss one line of the form or one line of one of the three schedules. The introduction at the beginning of each part lists the schedule(s) discussed in that part.
+
+The table of contents inside the front cover, the introduction to each part, and the index in the back of the publication are useful tools to help you find the information you need.
+
+What is in this publication.
+
+This publication begins with the rules for filing a tax return. It explains:
+
+-
+
+Who must file a return,
+
+-
+
+When the return is due,
+
+-
+
+How to e-file your return, and
+
+-
+
+Other general information.
+
+It will help you identify which filing status you qualify for, whether you can claim any dependents, and whether the income you receive is taxable. The publication goes on to explain the standard deduction, the kinds of expenses you may be able to deduct, and the various kinds of credits you may be able to take to reduce your tax.
+
+Throughout this publication are examples showing how the tax law applies in typical situations. Also throughout this publication are flowcharts and tables that present tax information in an easy-to-understand manner.
+
+Many of the subjects discussed in this publication are discussed in greater detail in other IRS publications. References to those other publications are provided for your information.
+
+Icons.
+
+Small graphic symbols, or icons, are used to draw your attention to special information. See Table 1 for an explanation of each icon used in this publication.
+
+What is not covered in this publication.
+
+Some material that you may find helpful is not included in this publication but can be found in your tax form instructions booklet. This includes lists of:
+
+-
+
+Where to report certain items shown on information documents, and
+
+-
+
+Tax Topics you can read at IRS.gov/TaxTopics .
+
+If you operate your own business or have other self-employment income, such as from babysitting or selling crafts, see the following publications for more information.
+
+-
+
+Pub. 334, Tax Guide for Small Business.
+
+-
+
+Pub. 225, Farmer’s Tax Guide.
+
+-
+
+Pub. 587, Business Use of Your Home.
+
+Help from the IRS.
+
+There are many ways you can get help from the IRS. These are explained under How To Get Tax Help at the end of this publication.
+
+Comments and suggestions.
+
+We welcome your comments about this publication and suggestions for future editions.
+
+You can send us comments through IRS.gov/FormComments . Or you can write to the Internal Revenue Service, Tax Forms and Publications, 1111 Constitution Ave. NW, IR-6526, Washington, DC 20224.
+
+Although we can’t respond individually to each comment received, we do appreciate your feedback and will consider your comments and suggestions as we revise our tax forms, instructions, and publications. Don’t send tax questions, tax returns, or payments to the above address.
+
+Getting answers to your tax questions.
+
+If you have a tax question not answered by this publication or the How To Get Tax Help section at the end of this publication, go to the IRS Interactive Tax Assistant page at IRS.gov/Help/ITA where you can find topics by using the search feature or viewing the categories listed.
+
+Getting tax forms, instructions, and publications.
+
+Go to IRS.gov/Forms to download current and prior-year forms, instructions, and publications.
+
+Ordering tax forms, instructions, and publications.
+
+Go to IRS.gov/OrderForms to order current forms, instructions, and publications; call 800-829-3676 to order prior-year forms and instructions. The IRS will process your order for forms and publications as soon as possible. Don’t resubmit requests you’ve already sent us. You can get forms and publications faster online.
+
+IRS mission.
+
+Provide America’s taxpayers top-quality service by helping them understand and meet their tax responsibilities and enforce the law with integrity and fairness to all.
+
+Table 1. Legend of Icons
+
+Icon | Explanation
+Caution | Items that may cause you particular problems, or an alert about pending legislation that may be enacted after this publication goes to print.
+Access by computer | An Internet site or an email address.
+Address you may need | An address you may need.
+Records you should keep | Items you should keep in your personal records.
+Worksheet you may need to fill in | Items you may need to figure or a worksheet you may need to complete and keep for your records.
+Phone number | An important phone number.
+Tip | Helpful information you may need.

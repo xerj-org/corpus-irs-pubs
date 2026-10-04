@@ -1,0 +1,667 @@
+IRS Pub 970 (2025) | 11. Business Deduction for Work-Related Education
+
+11. Business Deduction for Work-Related Education
+
+What’s New
+
+Standard mileage rate. Generally, if you claim a business deduction for work-related education and you drive your car to and from school, the amount you can deduct for miles driven from January 1, 2025, through December 31, 2025, is 70 cents a mile. For more information, see Transportation Expenses under What Expenses Can Be Deducted .
+
+Reminder
+
+Miscellaneous itemized deductions. For tax years beginning after 2017, you no longer deduct work-related education expenses as a miscellaneous itemized deduction subject to a 2%-of-adjusted-gross-income floor.
+
+Introduction
+
+This chapter discusses work-related education expenses you may be able to deduct as business expenses.
+
+To claim such a deduction, you must:
+
+What is the tax benefit of taking a business deduction for work-related education?
+
+If you are self-employed, you deduct your expenses for qualifying work-related education directly from your self-employment income. This reduces the amount of your income subject to both income tax and self-employment tax.
+
+If you are an Armed Forces reservist, qualified performing artist, or a fee-based state or local government official, you deduct your expenses for qualifying work-related education directly from your income as you figure your adjusted gross income.
+
+If you are an individual with a disability and can itemize your deductions, you deduct your impairment-related education expenses as an itemized deduction. An itemized deduction reduces the amount of your income subject to tax.
+
+Your work-related education expenses may also qualify you for other tax benefits, such as the American opportunity (see chapter 2 ) and lifetime learning (see chapter 3 ) credits. You may qualify for these other benefits even if you don’t meet the requirements listed above.
+
+Also, your work-related education expenses may qualify you to claim more than one tax benefit. Generally, you may claim any number of benefits as long as you use different expenses to figure each one.
+
+Qualifying Work-Related Education
+
+As discussed earlier, self-employed individuals, Armed Forces reservists, certain artists, and certain government officials can deduct the costs of qualifying work-related education as business expenses. Individuals with a disability can deduct impairment expenses related to this education as an itemized deduction. This is education that meets at least one of the following two tests.
+
+-
+
+The education is required by your employer or the law to keep your present salary, status, or job. The required education must serve a bona fide business purpose of your employer.
+
+-
+
+The education maintains or improves skills needed in your present work.
+
+However, even if the education meets one or both of the above tests, it isn’t qualifying work-related education if it:
+
+-
+
+Is needed to meet the minimum educational requirements of your present trade or business, or
+
+-
+
+Is part of a program of study that will qualify you for a new trade or business.
+
+You can deduct the costs of qualifying work-related education as a business expense even if the education could lead to a degree.
+
+Use Figure 11-1 as a quick check to see if your education qualifies.
+
+Education Required by Employer or by Law
+
+Once you have met the minimum educational requirements for your job, your employer or the law may require you to get more education. This additional education is qualifying work-related education if all three of the following requirements are met.
+
+-
+
+It is required for you to keep your present salary, status, or job.
+
+-
+
+The requirement serves a bona fide business purpose of your employer.
+
+-
+
+The education isn’t part of a program that will qualify you for a new trade or business.
+
+When you get more education than your employer or the law requires, the additional education can be qualifying work-related education only if it maintains or improves skills required in your present work. See Education To Maintain or Improve Skills , later.
+
+Example.
+
+You are a teacher who has satisfied the minimum requirements for teaching. Your employer requires you to take an additional college course each year to keep your teaching job. If the courses won’t qualify you for a new trade or business, they are qualifying work-related education even if you eventually receive a master’s degree and an increase in salary because of this extra education.
+
+Figure 11-1. Does Your Work-Related Education Qualify?
+
+Figure 11-1
+
+Figure 11–1. Does Your Work-Related Education Qualify?
+
+Figure 11–1. Does Your Work-Related Education Qualify?
+
+Summary: This flowchart is used to determine if expenses incurred for work-related education qualify for deduction.
+
+Start
+
+This is the beginning of the flowchart.
+
+Decision (1)
+
+Is the education required by your employer or the law to keep your present salary, status, or job?
+
+IF Yes Continue To Decision (2)
+IF No Continue To Decision (3)
+
+Decision (2)
+
+Does the requirement serve a bona fide business requirement of your employer?
+
+IF Yes Continue To Decision (4)
+IF No Continue To Decision (3)
+
+Decision (3)
+
+Does the education maintain or improve skills needed in your present work?
+
+IF Yes Continue To Decision (4)
+IF No Continue To Process (a)
+
+Decision (4)
+
+Is the education needed to meet the minimum educational requirements of your present trade or business?
+
+IF Yes Continue To Process (a)
+IF No Continue To Decision (5)
+
+Decision (5)
+
+Is the education part of a program of study that will qualify you for a new trade or business?
+
+IF Yes Continue To Process (a)
+IF No Continue To Process (b)
+
+Process (a)
+
+Your education isn’t qualifying work-related education.
+
+Continue To End
+
+Process (b)
+
+Your education is qualifying work-related education.
+
+Continue To End
+
+End
+
+This is the end of the flowchart.
+
+Please click here for the text description of the image.
+
+Education To Maintain or Improve Skills
+
+If your education isn’t required by your employer or the law, it can be qualifying work-related education only if it maintains or improves skills needed in your present work. This could include refresher courses, courses on current developments, and academic or vocational courses.
+
+Example.
+
+You repair televisions, radios, and stereo systems for XYZ Store. To keep up with the latest changes, you take special courses in radio and stereo service. These courses maintain and improve skills required in your work.
+
+Maintaining skills vs. qualifying for new job.
+
+Education to maintain or improve skills needed in your present work isn’t qualifying education if it will also qualify you for a new trade or business.
+
+Education during temporary absence.
+
+If you stop working for a year or less in order to get education to maintain or improve skills needed in your present work and then return to the same general type of work, your absence is considered temporary. Education that you get during a temporary absence is qualifying work-related education if it maintains or improves skills needed in your present work.
+
+Example.
+
+You quit your biology research job to become a full-time biology graduate student for 1 year. If you return to work in biology research after completing the courses, the education is related to your present work even if you don’t go back to work with the same employer.
+
+Education during indefinite absence.
+
+If you stop work for more than a year, your absence from your job is considered indefinite. Education during an indefinite absence, even if it maintains or improves skills needed in the work from which you are absent, is considered to qualify you for a new trade or business. Therefore, it isn’t qualifying work-related education.
+
+Education To Meet Minimum Requirements
+
+Education you need to meet the minimum educational requirements for your present trade or business isn’t qualifying work-related education. The minimum educational requirements are determined by:
+
+-
+
+Laws and regulations;
+
+-
+
+Standards of your profession, trade, or business; and
+
+-
+
+Your employer.
+
+Once you have met the minimum educational requirements that were in effect when you were hired, you don’t have to meet any new minimum educational requirements. This means that if the minimum requirements change after you were hired, any education you need to meet the new requirements can be qualifying education.
+
+. You haven’t necessarily met the minimum educational requirements of your trade or business simply because you are already doing the work. .
+
+Example 1.
+
+You are a full-time engineering student. Although you haven’t received your degree or certification, you work part time as an engineer for a firm that will employ you as a full-time engineer after you finish college. Although your college engineering courses improve your skills in your present job, they are also needed to meet the minimum job requirements for a full-time engineer. The education isn’t qualifying work-related education.
+
+Example 2.
+
+You are an accountant and you have met the minimum educational requirements of your employer. Your employer later changes the minimum educational requirements and requires you to take college courses to keep your job. These additional courses can be qualifying work-related education because you have already satisfied the minimum requirements that were in effect when you were hired.
+
+Requirements for Teachers
+
+States or school districts usually set the minimum educational requirements for teachers. The requirement is the college degree or the minimum number of college hours usually required of a person hired for that position.
+
+If there are no requirements, you will have met the minimum educational requirements when you become a faculty member. The determination of whether you are a faculty member of an educational institution must be made on the basis of the particular practices of the institution. You will generally be considered a faculty member when one or more of the following occurs.
+
+-
+
+You have tenure.
+
+-
+
+Your years of service count toward obtaining tenure.
+
+-
+
+You have a vote in faculty decisions.
+
+-
+
+Your school makes contributions for you to a retirement plan other than social security or a similar program.
+
+Example 1.
+
+The law in your state requires beginning secondary school teachers to have a bachelor’s degree, including 10 professional education courses. In addition, to keep the job, a teacher must complete a fifth year of training within 10 years from the date of hire. If the employing school certifies to the state Department of Education that qualified teachers can’t be found, the school can hire persons with only 3 years of college. However, to keep their jobs, these teachers must get a bachelor’s degree and the required professional education courses within 3 years.
+
+Under these facts, the bachelor’s degree, whether or not it includes the 10 professional education courses, is considered the minimum educational requirement for qualification as a teacher in your state.
+
+If you have all the required education except the fifth year, you have met the minimum educational requirements. The fifth year of training is qualifying work-related education unless it is part of a program of study that will qualify you for a new trade or business.
+
+Example 2.
+
+Assume the same facts as in Example 1 , except that you have a bachelor’s degree and only six professional education courses. The additional four education courses can be qualifying work-related education. Although you don’t have all the required courses, you have already met the minimum educational requirements.
+
+Example 3.
+
+Assume the same facts as in Example 1 , except that you are hired with only 3 years of college. The courses you take that lead to a bachelor’s degree (including those in education) aren’t qualifying work-related education. They are needed to meet the minimum educational requirements for employment as a teacher.
+
+Example 4.
+
+You have a bachelor’s degree and you work as a temporary instructor at a university. At the same time, you take graduate courses toward an advanced degree. The rules of the university state that you can become a faculty member only if you get a graduate degree. Also, you can keep your job as an instructor only as long as you show satisfactory progress toward getting this degree. You haven’t met the minimum educational requirements to qualify you as a faculty member. The graduate courses aren’t qualifying work-related education.
+
+Certification in a new state.
+
+Once you have met the minimum educational requirements for teachers for your state, you are considered to have met the minimum educational requirements in all states. This is true even if you must get additional education to be certified in another state. Any additional education you need is qualifying work-related education. You have already met the minimum requirements for teaching. Teaching in another state isn’t a new trade or business.
+
+Example.
+
+You hold a permanent teaching certificate in State A and are employed as a teacher in that state for several years. You move to State B and are promptly hired as a teacher. You are required, however, to complete certain prescribed courses to get a permanent teaching certificate in State B. These additional courses are qualifying work-related education because the teaching position in State B involves the same general kind of work for which you were qualified in State A.
+
+Education That Qualifies You for a New Trade or Business
+
+Education that is part of a program of study that will qualify you for a new trade or business isn’t qualifying work-related education. This is true even if you don’t plan to enter that trade or business.
+
+If you are an employee, a change of duties that involves the same general kind of work isn’t a new trade or business.
+
+Example 1.
+
+You are an accountant. Your employer requires you to get a law degree at your own expense. You register at a law school for the regular curriculum that leads to a law degree. Even if you don’t intend to become a lawyer, the education isn’t qualifying because the law degree will qualify you for a new trade or business.
+
+Example 2.
+
+You are a general practitioner of medicine. You take a 2-week course to review developments in several specialized fields of medicine. The course doesn’t qualify you for a new profession. It is qualifying work-related education because it maintains or improves skills required in your present profession.
+
+Example 3.
+
+While working in the private practice of psychiatry, you enter a program to study and train at an accredited psychoanalytic institute. The program will lead to qualifying you to practice psychoanalysis. The psychoanalytic training doesn’t qualify you for a new profession. It is qualifying work-related education because it maintains or improves skills required in your present profession.
+
+Bar or CPA Review Course
+
+Review courses to prepare for the bar examination or the certified public accountant (CPA) examination aren’t qualifying work-related education. They are part of a program of study that can qualify you for a new profession.
+
+Teaching and Related Duties
+
+All teaching and related duties are considered the same general kind of work. A change in duties in any of the following ways isn’t considered a change to a new business.
+
+-
+
+Elementary school teacher to secondary school teacher.
+
+-
+
+Teacher of one subject, such as biology, to teacher of another subject, such as art.
+
+-
+
+Classroom teacher to guidance counselor.
+
+-
+
+Classroom teacher to school administrator.
+
+What Expenses Can Be Deducted?
+
+If your education meets the requirements described earlier under Qualifying Work-Related Education , you may be able to deduct your education expenses as business expenses. If you aren’t self-employed, you can deduct business expenses only if you are an Armed Forces reservist, qualified performing artist, fee-based state or local government official, or, for impairment-related expenses, an individual with a disability.
+
+You can’t deduct expenses related to tax-exempt and excluded income.
+
+Deductible expenses.
+
+The following education expenses can be deducted.
+
+-
+
+Tuition, books, supplies, lab fees, and similar items.
+
+-
+
+Certain transportation and travel costs.
+
+-
+
+Other education expenses, such as costs of research and typing when writing a paper as part of an educational program.
+
+Nondeductible expenses.
+
+You can’t deduct personal or capital expenses. For example, you can’t deduct the dollar value of vacation time or annual leave you take to attend classes. This amount is a personal expense.
+
+Unclaimed reimbursement.
+
+If you don’t claim reimbursement that you are entitled to receive from your employer, you can’t deduct the expenses that apply to that unclaimed reimbursement.
+
+Example.
+
+Your employer agrees to pay your education expenses if you file a voucher showing your expenses. You don’t file a voucher and you don’t get reimbursed. Because you didn’t file a voucher, you can’t deduct the expenses on your tax return.
+
+Transportation Expenses
+
+If your education qualifies, you can deduct local transportation costs of going directly from work to school. If you are regularly employed and go to school on a temporary basis, you can also deduct the costs of returning from school to home.
+
+Temporary basis.
+
+You go to school on a temporary basis if either of the following situations applies to you.
+
+-
+
+Your attendance at school is realistically expected to last 1 year or less and does indeed last for 1 year or less.
+
+-
+
+Initially, your attendance at school is realistically expected to last 1 year or less, but at a later date your attendance is reasonably expected to last more than 1 year. Your attendance is temporary up to the date you determine it will last more than 1 year.
+
+If you are in either situation (1) or (2), your attendance isn’t temporary if facts and circumstances indicate otherwise.
+
+Attendance not on a temporary basis.
+
+You don’t go to school on a temporary basis if either of the following situations applies to you.
+
+-
+
+Your attendance at school is realistically expected to last more than 1 year. It doesn’t matter how long you actually attend.
+
+-
+
+Initially, your attendance at school is realistically expected to last 1 year or less, but at a later date your attendance is reasonably expected to last more than 1 year. Your attendance isn’t temporary after the date you determine it will last more than 1 year.
+
+Deductible Transportation Expenses
+
+If you are regularly employed and go directly from home to school on a temporary basis, you can deduct the roundtrip costs of transportation between your home and school. This is true regardless of the location of the school, the distance traveled, or whether you attend school on nonwork days.
+
+Transportation expenses include the actual costs of bus, subway, cab, or other fares, as well as the costs of using your car. Transportation expenses don’t include amounts spent for travel, meals, or lodging while you are away from home overnight.
+
+Example 1.
+
+You regularly work in a nearby town, and go directly from work to home. You also attend school every work night for 3 months to take a course that improves your job skills. Since you are attending school on a temporary basis, you can deduct your daily roundtrip transportation expenses in going between home and school. This is true regardless of the distance traveled.
+
+Example 2.
+
+Assume the same facts as in Example 1 , except that on certain nights you go directly from work to school and then home. You can deduct your transportation expenses from your regular work site to school and then home.
+
+Example 3.
+
+Assume the same facts as in Example 1 , except that you attend the school for 9 months on Saturdays, nonwork days. Since you are attending school on a temporary basis, you can deduct your roundtrip transportation expenses in going between home and school.
+
+Example 4.
+
+Assume the same facts as in Example 1 , except that you attend classes twice a week for 15 months. Since your attendance in school isn’t considered temporary, you can’t deduct your transportation expenses in going between home and school. If you go directly from work to school, you can deduct the one-way transportation expenses of going from work to school. If you go from work to home to school and return home, your transportation expenses can’t be more than if you had gone directly from work to school.
+
+Using your car.
+
+If you use your car (whether you own or lease it) for transportation to school, you can deduct your actual expenses or use the standard mileage rate to figure the amount you can deduct. The standard mileage rate for miles driven from January 1, 2025, through December 31, 2025, is 70 cents a mile. Whichever method you use, you can also deduct parking fees and tolls. See Pub. 463, chapter 4, for information on deducting your actual expenses of using a car.
+
+Travel Expenses
+
+You can deduct expenses for travel, meals (see 50% limit on meals , later), and lodging if you travel overnight mainly to obtain qualifying work-related education.
+
+Travel expenses for qualifying work-related education are treated the same as travel expenses for other employee business purposes. For more information, see chapter 1 of Pub. 463.
+
+. You can’t deduct expenses for personal activities such as sightseeing, visiting, or entertaining. .
+
+Mainly personal travel.
+
+If your travel away from home is mainly personal, you can’t deduct all of your expenses for travel, meals, and lodging. You can deduct only your expenses for lodging and meals (see 50% limit on meals , later) during the time you attend the qualified educational activities.
+
+Whether a trip’s purpose is mainly personal or educational depends upon the facts and circumstances. An important factor is the comparison of time spent on personal activities with time spent on educational activities. If you spend more time on personal activities, the trip is considered mainly educational only if you can show a substantial nonpersonal reason for traveling to a particular location.
+
+Example 1.
+
+You work in Newark, New Jersey. You traveled to Chicago to take a deductible 1-week course at the request of your employer. Your main reason for going to Chicago was to take the course.
+
+While there, you took a sightseeing trip, entertained some friends, and took a side trip to Pleasantville for a day.
+
+Since the trip was mainly for business, you can deduct your roundtrip airfare to Chicago. You can’t deduct your transportation expenses of going to Pleasantville. You can deduct only the meals (see 50% limit on meals , later) and lodging connected with your educational activities.
+
+Example 2.
+
+You work in Boston. You went to a university in Michigan to take a course for work. The course is qualifying work-related education.
+
+You took one course, which is one-fourth of a full course load of study. You spent the rest of the time on personal activities. Your reasons for taking the course in Michigan were all personal.
+
+Your trip is mainly personal because three-fourths of your time is considered personal time. You can’t deduct the cost of your roundtrip train ticket to Michigan. You can deduct one-fourth of the meals (see 50% limit on meals , later) and lodging costs for the time you attended the university.
+
+Example 3.
+
+You work in Nashville and recently traveled to California to take a 2-week seminar. The seminar is qualifying work-related education.
+
+While there, you spent an extra 8 weeks on personal activities. The facts, including the extra 8-week stay, show that your main purpose was to take a vacation.
+
+You can’t deduct your roundtrip airfare or your meals and lodging for the 8 weeks. You can deduct only your expenses for meals (see 50% limit on meals , later) and lodging for the 2 weeks you attended the seminar.
+
+Cruises and conventions.
+
+Certain cruises and conventions offer seminars or courses as part of their itinerary. Even if the seminars or courses are work related, your deduction for travel may be limited. This applies to:
+
+-
+
+Travel by ocean liner, cruise ship, or other form of luxury water transportation; and
+
+-
+
+Conventions outside the North American area.
+
+For a discussion of the limits on travel expense deductions that apply to cruises and conventions, see Luxury Water Travel and Conventions in chapter 1 of Pub. 463.
+
+50% limit on meals.
+
+You can deduct only 50% of the cost of your meals while traveling away from home to obtain qualifying work-related education. If you were reimbursed for the meals, see How To Treat Reimbursements , later.
+
+Qualified performing artists and fee-based state or local government officials must use Form 2106 to apply the 50% limit.
+
+Travel as Education
+
+You can’t deduct the cost of travel as a form of education even if it is directly related to your duties in your work or business.
+
+Example.
+
+You are a French language teacher. While on sabbatical leave granted for travel, you traveled through France to improve your knowledge of the French language. You chose your itinerary and most of your activities to improve your French language skills. You can’t deduct your travel expenses as education expenses. This is true even if you spent most of your time learning French by visiting French schools and families, attending movies or plays, and engaging in similar activities.
+
+No Double Benefit Allowed
+
+You can’t do the following.
+
+-
+
+Deduct work-related education expenses as business expenses if you benefit from these expenses under any other provision of the law.
+
+-
+
+Deduct work-related education expenses paid with tax-free scholarship, grant, or employer-provided educational assistance.
+
+Adjustments to Qualifying Work-Related Education Expenses
+
+If you pay qualifying work-related education expenses with certain tax-free funds, you can’t claim a deduction for those amounts. You must reduce the qualifying expenses by the amount of such expenses allocable to the tax-free educational assistance.
+
+Tax-free educational assistance.
+
+This includes:
+
+Amounts that don’t reduce qualifying work-related education expenses.
+
+Don’t reduce the qualifying work-related education expenses by amounts paid with funds the student receives as:
+
+-
+
+Payment for services, such as wages;
+
+-
+
+A loan;
+
+-
+
+A gift;
+
+-
+
+An inheritance; or
+
+-
+
+A withdrawal from the student’s personal savings.
+
+Also, don’t reduce the qualifying work-related education expenses by any scholarship or fellowship grant reported as income on the student’s return or any scholarship that, by its terms, can’t be applied to qualifying work-related education expenses.
+
+How To Treat Reimbursements
+
+How you treat reimbursements depends on the arrangement you have with your employer.
+
+There are two basic types of reimbursement arrangements—accountable plans and nonaccountable plans. You can tell the type of plan you are reimbursed under by the way the reimbursement is reported on your Form W-2.
+
+Note.
+
+The following rules about reimbursement arrangements also apply to expense allowances received from your employer.
+
+Accountable Plans
+
+To be an accountable plan, your employer’s reimbursement arrangement must require you to meet all three of the following rules.
+
+-
+
+Your expenses must have a business connection. This means your expenses must be allowed under the rules for qualifying work-related education explained earlier.
+
+-
+
+You must adequately account to your employer for your expenses within a reasonable period of time.
+
+-
+
+You must return any reimbursement or allowance in excess of the expenses accounted for within a reasonable period of time.
+
+If you are reimbursed under an accountable plan, your employer shouldn’t include any reimbursement of income on your Form W-2, box 1.
+
+. If your employer included reimbursements on your Form W-2, box 1, and you meet all three rules for accountable plans, ask your employer for a corrected Form W-2. .
+
+Accountable plan rules not met.
+
+Even though you are reimbursed under an accountable plan, some of your expenses may not meet all three rules for accountable plans. Those expenses that fail to meet the three rules are treated as having been reimbursed under a Nonaccountable Plan (discussed later).
+
+Expenses equal reimbursement.
+
+Under an accountable plan, if your expenses equal your reimbursement, you don’t complete Form 2106. Because your expenses and reimbursements are equal, you don’t have unreimbursed work-related education expenses.
+
+Excess expenses.
+
+If your expenses are more than your reimbursement, you generally cannot deduct your excess expenses. See Deducting Business Expenses , later.
+
+Allocating your reimbursements for meals.
+
+Because your excess meal expenses are subject to the 50% limit, you must figure them separately from your other expenses. If your employer paid you a single amount to cover both meals and other expenses, you must allocate the reimbursement so that you can figure your excess meal expenses separately. Make the allocation as follows.
+
+-
+
+Divide your meal expenses by your total expenses.
+
+-
+
+Multiply your total reimbursement by the result from (1). This is the allocated reimbursement for your meal expenses.
+
+-
+
+Subtract the amount figured in (2) from your total reimbursement. The difference is the allocated reimbursement for your other expenses of qualifying work-related education.
+
+Example.
+
+You are a qualified performing artist and one of your employers paid you an expense allowance of $2,000 under an accountable plan. The allowance was to cover all of your expenses of traveling away from home to take a 2-week training course for work. There was no indication of how much of the reimbursement was for each type of expense. Your actual expenses equal $2,500 ($425 for meals + $700 lodging + $150 transportation expenses + $1,225 for books and tuition).
+
+Using the steps listed above, allocate the reimbursement between the $425 meal expenses and the $2,075 other expenses.
+
+1. | $425 meal expenses | = | 0.17
+$2,500 total expenses
+
+2. | $2,000 (reimbursement) × 0.17
+= $340 (allocated reimbursement for meal expenses)
+
+3. | $2,000 (reimbursement) − $340 (meals)
+= | $1,660 (allocated reimbursement for other qualifying work-related education expenses)
+
+Your excess meal expenses are $85 ($425 − $340) and your excess other expenses are $415 ($2,075 − $1,660). After you apply the 50% limit to your meals, you can deduct your excess work-related education expenses of $458 (($85 × 50%) + $415). See Deducting Business Expenses , later.
+
+Nonaccountable Plans
+
+Your employer will combine the amount of any reimbursement or other expense allowance paid to you under a nonaccountable plan with your wages, salary, or other pay and report the total on your Form W-2, box 1.
+
+You generally cannot deduct your expenses regardless of whether they are more than, less than, or equal to your reimbursement. See Deducting Business Expenses , later.
+
+Reimbursements for nondeductible expenses.
+
+Reimbursements you received for nondeductible expenses are treated as paid under a nonaccountable plan. You must include them in your income. For example, you must include in your income reimbursements your employer gave you for expenses of education that:
+
+-
+
+You need to meet the minimum educational requirements for your job, or
+
+-
+
+Is part of a program of study that can qualify you for a new trade or business.
+
+For more information on accountable and nonaccountable plans, see chapter 6 of Pub. 463.
+
+Deducting Business Expenses
+
+Self-employed persons and employees report their business expenses differently.
+
+The following information explains what forms you must use to deduct the cost of your qualifying work-related education as a business expense.
+
+Self-Employed Persons
+
+If you are self-employed, you must report the cost of your qualifying work-related education on the appropriate form used to report your business income and expenses (generally, Schedule C (Form 1040), or Schedule F (Form 1040)). If your education expenses include expenses for a car or truck, travel, or meals, report those expenses the same way you report other business expenses for those items. See the instructions for the form you file for information on how to complete it.
+
+Armed Forces Reservists, Performing Artists, and Fee-Basis Officials
+
+If you are an Armed Forces reservist, a qualified performing artist, or a state (or local) government official who is paid in whole or in part on a fee basis, you can deduct the cost of your qualifying work-related education as an adjustment to gross income.
+
+Include the cost of your qualifying work-related education with any other employee business expenses on Schedule 1 (Form 1040), line 12. You must complete Form 2106 to figure your deduction.
+
+For more information on qualified performing artists, see chapter 6 of Pub. 463.
+
+Impairment-Related Work Expenses
+
+If you are an individual with a disability and have impairment-related work expenses that are necessary for you to be able to get qualifying work-related education, you can deduct these expenses on Schedule A (Form 1040), line 16, or Schedule A (Form 1040-NR), line 7. To deduct these expenses, you must complete Form 2106.
+
+For more information on impairment-related work expenses, see chapter 6 of Pub. 463.
+
+Recordkeeping
+
+. You must keep records as proof of any deduction claimed on your tax return. Generally, you should keep your records for 3 years from the date of filing the tax return and claiming the deduction. .
+
+If you are an employee who is reimbursed for expenses and you give your records and documentation to your employer, you don’t have to keep duplicate copies of this information. However, you should keep your records for a 3-year period if:
+
+-
+
+You claim deductions for expenses that are more than your reimbursement,
+
+-
+
+Your employer doesn’t use adequate accounting procedures to verify expense accounts,
+
+-
+
+You are related to your employer, or
+
+-
+
+Your expenses are reimbursed under a nonaccountable plan.
+
+Examples of records to keep.
+
+If any of the above cases apply to you, you must be able to prove that your expenses are deductible. You should keep adequate records or have sufficient evidence that will support your expenses. Estimates or approximations don’t qualify as proof of an expense. Some examples of what can be used to help prove your expenses are the following.
+
+-
+
+Documents, such as transcripts, course descriptions, catalogs, etc., showing periods of enrollment in educational institutions, principal subjects studied, and descriptions of educational activity.
+
+-
+
+Canceled checks and receipts to verify amounts you spent for:
+
+-
+
+Tuition and books,
+
+-
+
+Meals and lodging while away from home overnight for educational purposes,
+
+-
+
+Travel and transportation, and
+
+-
+
+Other education expenses.
+
+-
+
+Statements from your employer explaining whether the education was necessary for you to keep your job, salary, or status; how the education helped maintain or improve skills needed in your job; how much reimbursement you received; and, if you are a teacher, the type of certificate and subjects taught.
+
+-
+
+Complete information about any scholarship or fellowship grants, including amounts you received during the year.

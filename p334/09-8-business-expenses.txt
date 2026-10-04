@@ -1,0 +1,1130 @@
+IRS Pub 334 (2025) | 8. Business Expenses
+
+8. Business Expenses
+
+Introduction
+
+You can deduct the costs of operating your business. These costs are known as business expenses. These are costs you don’t have to capitalize or include in the cost of goods sold but can deduct in the current year.
+
+To be deductible, a business expense must be both ordinary and necessary. An ordinary expense is one that is common and accepted in your field of business. A necessary expense is one that is helpful and appropriate for your business. An expense does not have to be indispensable to be considered necessary.
+
+For more information about the general rules for deducting business expenses, see section 162 and its regulations.
+
+. If you have an expense that is partly for business and partly personal, separate the personal part from the business part. The personal part is generally not deductible. .
+
+Useful Items
+
+You may want to see:
+
+Publication
+
+-
+
+463 Travel, Gift, and Car Expenses
+
+-
+
+946 How To Depreciate Property
+
+See chapter 12 for information about getting publications and forms.
+
+Bad Debts
+
+If someone owes you money you can’t collect, you have a bad debt. There are two types of bad debts—business bad debts and nonbusiness bad debts.
+
+A business bad debt is generally one that comes from operating your trade or business. You may be able to deduct business bad debts as an expense on your business tax return.
+
+Business bad debt.
+
+A business bad debt is a loss from the worthlessness of a debt that was either of the following.
+
+-
+
+Created or acquired in your business.
+
+-
+
+Closely related to your business when it became partly or totally worthless.
+
+A debt is closely related to your business if your primary motive for incurring the debt is a business reason.
+
+Business bad debts are mainly the result of credit sales to customers. They can also be the result of loans to suppliers, clients, employees, or distributors. Goods and services that customers have not paid for are shown in your books as either accounts receivable or notes receivable. If you are unable to collect any part of these accounts or notes receivable, the uncollectible part is a business bad debt.
+
+. You can take a bad debt deduction for these accounts and notes receivable only if the amount you were owed was included in your gross income either for the year the deduction is claimed or for a prior year. .
+
+Accrual method.
+
+If you use an accrual method of accounting, you normally report income as you earn it. You can take a bad debt deduction for an uncollectible receivable if you have included the uncollectible amount in income.
+
+Cash method.
+
+If you use the cash method of accounting, you normally report income when you receive payment. You can’t take a bad debt deduction for amounts owed to you that you have not received and can’t collect if you never included those amounts in income.
+
+Debts from a former business.
+
+If you sell your business but retain its receivables, these debts are business debts because they arose out of your trade or business. If any of these receivables subsequently become worthless, the loss is still a business bad debt.
+
+Debt acquired from a decedent.
+
+The character of a loss from debts of a business acquired from a decedent is determined in the same way as debts acquired on the purchase of a business. The executor of the decedent’s estate treats any loss from the debts as a business bad debt if the debts were closely related to the decedent’s trade or business when they became worthless. Otherwise, a loss from these debts becomes a nonbusiness bad debt for the decedent’s estate.
+
+Liquidation.
+
+If you liquidate your business and some of the accounts receivable that you retain become worthless, they’re treated as business bad debts.
+
+Types of Business Bad Debts
+
+Business bad debts may result from the following.
+
+Loans to clients and suppliers.
+
+If you loan money to a client, supplier, employee, or distributor for a business reason and you’re unable to collect the loan after attempting to do so, you have a business bad debt.
+
+Debts owed by political parties.
+
+If a political party (or other organization that accepts contributions or spends money to influence elections) owes you money and the debt becomes worthless, you can claim a bad debt deduction only if all of the following requirements are met.
+
+-
+
+You use an accrual method of accounting.
+
+-
+
+The debt arose from the sale of goods or services in the ordinary course of your trade or business.
+
+-
+
+More than 30% of your receivables accrued in the year of the sale were from sales to political parties.
+
+-
+
+You made substantial and continuing efforts to collect on the debt.
+
+Loan or capital contribution.
+
+You can’t claim a bad debt deduction for a loan you made to a corporation if, based on the facts and circumstances, the loan is actually a contribution to capital.
+
+Debts of an insolvent partner.
+
+If your business partnership breaks up and one of your former partners becomes insolvent, you may have to pay more than your pro rata share of the partnership’s debts. If you pay any part of the insolvent partner’s share of the debts, you can claim a bad debt deduction for the amount you paid that is attributable to the insolvent partner’s share.
+
+Business loan guarantee.
+
+If you guarantee a debt that subsequently becomes worthless, the debt can qualify as a business bad debt if all of the following requirements are met.
+
+-
+
+You made the guarantee in the course of your trade or business.
+
+-
+
+You have a legal duty to pay the debt.
+
+-
+
+You made the guarantee before the debt became worthless. You meet this requirement if you reasonably expected you wouldn’t have to pay the debt without full reimbursement from the borrower.
+
+-
+
+You received reasonable consideration for making the guarantee. You meet this requirement if you made the guarantee according to normal business practice or for a good faith business purpose.
+
+Example.
+
+Finley Zayne owns the Zayne Dress Company. Finley guaranteed payment of a $20,000 note for Elegant Fashions, a dress outlet. Elegant Fashions is one of the dress company’s largest clients. Elegant Fashions later defaulted on the loan. As a result, Finley paid the remaining balance of the loan in full to the bank.
+
+Finley can claim a business bad debt deduction only for the amount Finley paid because the guarantee was made in the course of Finley’s trade or business for a good faith business purpose. Finley was motivated by the desire to retain one of Finley’s better clients and keep a sales outlet.
+
+Deductible in the year paid.
+
+If you make a payment on a loan you guaranteed, you can deduct it in the year paid, unless you have rights against the borrower.
+
+Rights against a borrower.
+
+When you make payment on a loan you guaranteed, you may have the right to take the place of the lender. The debt is then owed to you. If you have this right, or some other right to demand payment from the borrower, you can’t claim a bad debt deduction until these rights become partly or totally worthless.
+
+Joint debtor.
+
+If two or more debtors jointly owe you money, your inability to collect from one doesn’t enable you to deduct a proportionate amount as a bad debt.
+
+Sale of mortgaged property.
+
+If mortgaged or pledged property is sold for less than the debt, the unpaid, uncollectible balance of the debt is a bad debt.
+
+When a Debt Becomes Worthless
+
+A debt becomes worthless when there is no longer any chance the amount owed will be paid. This may occur on the date the debt is due or prior to that date.
+
+To demonstrate worthlessness, you must only show that you have taken reasonable steps to collect the debt but were unable to do so.
+
+Property received for debt.
+
+If you receive property in partial settlement of a debt, reduce the debt by the property’s fair market value, which becomes the property’s basis. You can deduct the remaining debt as a bad debt if and when it becomes worthless.
+
+If you later sell the property for more than its basis, any gain on the sale is due to the appreciation of the property. It isn’t a recovery of a bad debt. For information on the sale of an asset, see Pub. 544.
+
+How To Claim a Business Bad Debt
+
+There are two methods to claim a business bad debt.
+
+-
+
+The specific charge-off method.
+
+-
+
+The nonaccrual-experience method.
+
+Generally, you must use the specific charge-off method. However, you may use the nonaccrual-experience method if you meet the requirements discussed later under Nonaccrual-Experience Method .
+
+Specific charge-off method.
+
+If you use the specific charge-off method, you can deduct specific business bad debts that become either partly or totally worthless during the tax year. However, with respect to partly worthless bad debts, your deduction is limited to the amount you charged off on your books during the year.
+
+Partly worthless debts.
+
+You can deduct specific bad debts that become partly uncollectible during the tax year. Your tax deduction is limited to the amount you charge off on your books during the year. You don’t have to charge off and deduct your partly worthless debts annually. You can delay the charge-off until a later year. However, you can’t deduct any part of a debt after the year it becomes totally worthless.
+
+There are two rules regarding charge-off debts to consider.
+
+-
+
+Significantly modified debt. An exception to the charge-off rule exists for debt that has been significantly modified and on which the holder recognized gain. For more information, see Regulations section 1.166-3(a)(3).
+
+-
+
+Deduction disallowed. Generally, you can claim a partial bad debt deduction only in the year you make the charge-off on your books. If, under audit, the IRS doesn’t allow your deduction and the debt becomes partly worthless in a later tax year, you can deduct the amount you charged off in that year plus the disallowed amount charged off in the earlier year. The charge-off in the earlier year, unless reversed on your books, fulfills the charge-off requirement for the later year.
+
+Totally worthless debts.
+
+If a debt becomes totally worthless in the current tax year, you can deduct the entire amount minus any amount deducted in an earlier tax year when the debt was only partly worthless.
+
+You don’t have to make an actual charge-off on your books to claim a bad debt deduction for a totally worthless debt. However, you may want to do so. If you don’t and the IRS later rules the debt is only partly worthless, you will not be allowed a deduction for the debt in that tax year because a deduction of a partly worthless bad debt is limited to the amount actually charged off. See Partly worthless debts , earlier.
+
+Filing a claim for refund.
+
+If you didn’t deduct a bad debt on your original return for the year it became worthless, you can file a claim for a credit or refund. If the bad debt was totally worthless, you must file the claim by the later of the following dates.
+
+-
+
+7 years from the date your original return was due (not including extensions).
+
+-
+
+2 years from the date you paid the tax.
+
+If the claim is for a partly worthless bad debt, you must file the claim by the later of the following dates.
+
+-
+
+3 years from the date you filed your original return.
+
+-
+
+2 years from the date you paid the tax.
+
+You may have longer to file the claim if you were unable to manage your financial affairs due to a physical or mental impairment. Such an impairment requires proof of existence.
+
+For details and more information about filing a claim, see Pub. 556. Use one of the following forms to file a claim. For more information, see the instructions for the applicable form.
+
+Table 8-1. Forms Used To File a Claim
+
+IF you filed as a... | THEN file...
+sole proprietor or farmer | Form 1040-X.
+corporation | Form 1120-X.
+S corporation | Form 1120-S and check box H(4).
+partnership | Form 1065-X if filing on paper or Form 1065 and check box G(5) if filing electronically.
+
+Nonaccrual-Experience Method
+
+Generally, a person using accrual accounting isn’t required to accrue a service-provided receivable that experience shows won’t be collected if:
+
+-
+
+The service provided is health, law, engineering, architecture, accounting, actuarial science, performing arts, or consulting; or
+
+-
+
+The person’s average annual gross receipts for all previous 3‐tax‐year periods don’t exceed $31 million (indexed for inflation).
+
+See section 448 for details and exceptions.
+
+Recovery of a Bad Debt
+
+If you claim a deduction for a bad debt on your income tax return and later recover (collect) all or part of it, you may have to include all or part of the recovery in gross income. The amount you include is limited to the amount you actually deducted. However, you can exclude the amount deducted that did not reduce your tax. Report the recovery as “Other income” on the appropriate business form or schedule.
+
+See Recoveries in Pub. 525 for more information.
+
+NOL carryover.
+
+If a bad debt deduction increases an NOL carryover that has not expired before the beginning of the tax year in which the recovery takes place, you treat the deduction as having reduced your tax. A bad debt deduction that contributes to an NOL helps lower taxes in the year to which you carry the NOL. For more information about NOLs for individuals, see the Instructions for Form 172.
+
+More information.
+
+For more information about business bad debts, see section 166 and its regulations.
+
+Nonbusiness Bad Debts
+
+All other bad debts are nonbusiness bad debts and are deductible as short-term capital losses on Form 8949 and Schedule D (Form 1040). For more information on nonbusiness bad debts, see section 166 and its regulations.
+
+Car and Truck Expenses
+
+If you use your car or truck in your business, you may be able to deduct the costs of operating and maintaining your vehicle. You may also be able to deduct other costs of local transportation and traveling away from home overnight on business.
+
+Local transportation expenses.
+
+Local transportation expenses include the ordinary and necessary costs of all the following.
+
+-
+
+Getting from one workplace to another in the course of your business or profession when you are traveling within the city or general area that is your tax home. Tax home is defined later.
+
+-
+
+Visiting clients or customers.
+
+-
+
+Going to a business meeting away from your regular workplace.
+
+-
+
+Getting from your home to a temporary workplace when you have one or more regular places of work. These temporary workplaces can be either within the area of your tax home or outside that area.
+
+Local business transportation does not include expenses you have while traveling away from home overnight. Those expenses are deductible as travel expenses and are discussed later under Travel and Meals . However, if you use your car while traveling away from home overnight, use the rules in this section to figure your car expense deduction.
+
+Generally, your tax home is your regular place of business, regardless of where you maintain your family home. It includes the entire city or general area in which your business or work is located.
+
+Example.
+
+You operate a printing business out of rented office space. You use your van to deliver completed jobs to your customers. You can deduct the cost of round-trip transportation between your customers and your print shop.
+
+. You can’t deduct the costs of driving your car or truck between your home and your main or regular workplace. These costs are personal commuting expenses. .
+
+Office in the home.
+
+Your workplace can be your home if you have an office in your home that qualifies as your principal place of business. For more information, see Business Use of Your Home , later.
+
+Example.
+
+You are a graphic designer. You operate your business out of your home. Your home qualifies as your principal place of business. You occasionally have to drive to your clients to deliver your completed work. You can deduct the cost of the round-trip transportation between your home and your clients.
+
+Methods for Deducting Car and Truck Expenses
+
+For local transportation or overnight travel by car or truck, you can generally use one of the following methods to figure your expenses.
+
+-
+
+Standard mileage rate.
+
+-
+
+Actual expenses.
+
+Standard mileage rate.
+
+You may be able to use the standard mileage rate to figure the deductible costs of operating your car, van, pickup, or panel truck for business purposes. The business standard mileage rate for 2025 is 70 cents a mile.
+
+. If you choose to use the standard mileage rate for a year, you can’t deduct your actual expenses for that year except for business-related parking fees and tolls. However, you may be able to take a deduction for interest paid on a car loan even if you use the standard mileage rate. See Vehicle interest , later. .
+
+Choosing the standard mileage rate.
+
+If you want to use the standard mileage rate for a car or truck you own, you must choose to use it in the first year the car is available for use in your business. In later years, you can choose to use either the standard mileage rate or actual expenses.
+
+If you choose to use the standard mileage rate for a car you lease, you must use it for the entire lease period (including renewals).
+
+Standard mileage rate not allowed.
+
+You can’t use the standard mileage rate if you:
+
+-
+
+Operate five or more cars at the same time;
+
+-
+
+Claimed a depreciation deduction using any method other than straight line, for example, Accelerated Cost Recovery System (ACRS) or Modified Accelerated Cost Recovery System (MACRS);
+
+-
+
+Claimed a section 179 deduction on the car;
+
+-
+
+Claimed the special depreciation allowance on the car;
+
+-
+
+Claimed actual car expenses for a car you leased; or
+
+-
+
+Are a rural mail carrier who received a qualified reimbursement.
+
+Vehicle interest.
+
+You may be able to take a deduction for interest paid on a car loan even if you use the standard mileage rate. See Interest on car loans , later.
+
+Parking fees and tolls.
+
+In addition to using the standard mileage rate, you can deduct any business-related parking fees and tolls. (Parking fees you pay to park your car at your place of work are nondeductible commuting expenses.)
+
+Actual expenses.
+
+If you do not choose to use the standard mileage rate, you may be able to deduct your actual car or truck expenses.
+
+. If you qualify to use both methods, figure your deduction both ways to see which gives you a larger deduction. .
+
+Actual car expenses include the costs of the following items.
+
+Depreciation | Lease payments | Registration
+Garage rent | Licenses | Repairs
+Gas | Oil | Tires
+Insurance | Parking fees | Tolls
+
+If you use your vehicle for both business and personal purposes, you must divide your expenses between business and personal use. You can divide your expenses based on the miles driven for each purpose.
+
+Example.
+
+You are the sole proprietor of a flower shop. You drove your van 20,000 miles during the year. 16,000 miles were for delivering flowers to customers and 4,000 miles were for personal use (including commuting miles). You can claim only 80% (16,000 ÷ 20,000) of the cost of operating your van as a business expense.
+
+More information.
+
+For more information about the rules for claiming car and truck expenses, see Pub. 463. See also Interest on car loans , later.
+
+Reimbursing Your Employees for Expenses
+
+You can generally deduct the amount you reimburse your employees for car and truck expenses. The reimbursement you deduct and the manner in which you deduct it depend in part on whether you reimburse the expenses under an accountable plan or a nonaccountable plan. For details, see Pub. 15. That publication explains accountable and nonaccountable plans and tells you whether to report the reimbursement on your employee’s Form W-2.
+
+Depreciation
+
+If property you acquire to use in your business is expected to last more than 1 year, you generally can’t deduct the entire cost as a business expense in the year you acquire it. You must spread the cost over more than 1 tax year and deduct part of it each year on Schedule C (Form 1040). This method of deducting the cost of business property is called depreciation.
+
+The following is a brief overview. You will find more information about depreciation in Pub. 946.
+
+What property can be depreciated?
+
+You can depreciate property if it meets all the following requirements.
+
+Repairs.
+
+In general, you don’t depreciate the costs of repairs or maintenance if they don’t improve your property. Instead, you deduct these amounts on line 21 of Schedule C (Form 1040). Improvements are amounts paid for betterments to your property, restorations of your property, or work that adapts your property to a new or different use.
+
+Election to capitalize repair and maintenance costs that do not improve your property.
+
+You can make an election to treat certain repairs or replacements in your trade or business as improvements subject to depreciation. This election is available if you treat these amounts as capital expenditures on your books and records regularly used in computing your income and expenses.
+
+Depreciation method.
+
+The method for depreciating most business and investment property placed in service after 1986 is called the Modified Accelerated Cost Recovery System (MACRS). MACRS is discussed in detail in Pub. 946.
+
+Section 179 deduction.
+
+You can elect to deduct a limited amount of the cost of certain depreciable property in the year you place the property in service. This deduction is known as the section 179 deduction. The maximum amount you can elect to deduct during 2025 is generally $2,500,000.
+
+This limit is generally reduced by the amount by which the cost of the property placed in service during the tax year exceeds $4,000,000. The total amount of depreciation (including the section 179 deduction) you can take for a passenger automobile you use in your business and first place in service in 2025 is $12,200 ($20,200 if you take the special depreciation allowance for qualified passenger automobiles placed in service in 2025). Special rules apply to trucks and vans. For more information, see Pub. 946. It explains what property qualifies for the deduction, what limits apply to the deduction, and when and how to recapture the deduction.
+
+. Your section 179 election for the cost of any sport utility vehicle (SUV) and certain other vehicles is limited to $31,300. For more information, see the Instructions for Form 4562 or Pub. 946. .
+
+Listed property.
+
+You must follow special rules and recordkeeping requirements when depreciating listed property. Listed property includes any of the following.
+
+-
+
+Most passenger automobiles.
+
+-
+
+Most other property used for transportation.
+
+-
+
+Any property of a type generally used for entertainment, recreation, or amusement.
+
+For more information about listed property, see Pub. 946.
+
+Form 4562.
+
+Use Form 4562, Depreciation and Amortization, if you are claiming any of the following.
+
+-
+
+Depreciation on property placed in service during the current-tax year.
+
+-
+
+A section 179 deduction.
+
+-
+
+Depreciation on any listed property (regardless of when it was placed in service).
+
+Employees’ Pay
+
+You can generally deduct on Schedule C (Form 1040) the pay you give your employees for the services they perform for your business. The pay may be in cash, property, or services.
+
+To be deductible, your employees’ pay must be an ordinary and necessary expense and you must pay or incur it in the tax year. In addition, the pay must meet both the following tests.
+
+-
+
+The pay must be reasonable.
+
+-
+
+The pay must be for services performed.
+
+You can’t deduct your own salary or any personal withdrawals you make from your business. As a sole proprietor, you are not an employee of the business.
+
+Kinds of pay.
+
+Some of the ways you may provide pay to your employees are listed below.
+
+-
+
+Awards.
+
+-
+
+Bonuses.
+
+-
+
+Education expenses.
+
+-
+
+Fringe benefits (discussed later).
+
+-
+
+Loans or advances you don’t expect the employee to repay if they are for personal services actually performed.
+
+-
+
+Property you transfer to an employee as payment for services.
+
+-
+
+Reimbursements for employee business expenses.
+
+-
+
+Sick pay.
+
+-
+
+Vacation pay.
+
+Fringe benefits.
+
+A fringe benefit is a form of pay for the performance of services. The following are examples of fringe benefits.
+
+-
+
+Benefits under qualified employee benefit programs.
+
+-
+
+Meals and lodging.
+
+-
+
+The use of a car.
+
+-
+
+Flights on airplanes.
+
+-
+
+Discounts on property or services.
+
+Employee benefit programs include the following.
+
+-
+
+Accident and health plans.
+
+-
+
+Adoption assistance.
+
+-
+
+Cafeteria plans.
+
+-
+
+Dependent care assistance.
+
+-
+
+Educational assistance.
+
+-
+
+Group-term life insurance coverage.
+
+-
+
+Welfare benefit funds.
+
+You can generally deduct the cost of fringe benefits you provide on your Schedule C (Form 1040) in whatever category the cost falls. For example, if you allow an employee to use a car or other property you lease, deduct the cost of the lease as a rent or lease expense. If you own the property, include your deduction for its cost or other basis as a section 179 deduction or a depreciation deduction.
+
+. You may be able to exclude all or part of the fringe benefits you provide from your employees’ wages. For more information about fringe benefits and the exclusion of benefits, see Pub. 15-B. .
+
+Insurance
+
+You can generally deduct premiums you pay for the following kinds of insurance related to your business.
+
+-
+
+Fire, theft, flood, or similar insurance.
+
+-
+
+Credit insurance that covers losses from business bad debts.
+
+-
+
+Group hospitalization and medical insurance for employees, including long-term care insurance.
+
+-
+
+Liability insurance.
+
+-
+
+Malpractice insurance that covers your personal liability for professional negligence resulting in injury or damage to patients or clients.
+
+-
+
+Workers’ compensation insurance set by state law that covers any claims for bodily injuries or job-related diseases suffered by employees in your business, regardless of fault.
+
+-
+
+Contributions to a state unemployment insurance fund are deductible as taxes if they are considered taxes under state law.
+
+-
+
+Overhead insurance that pays for business overhead expenses you have during long periods of disability caused by your injury or sickness.
+
+-
+
+Car and other vehicle insurance that covers vehicles used in your business for liability, damages, and other losses. If you operate a vehicle partly for personal use, deduct only the part of the insurance premium that applies to the business use of the vehicle. If you use the standard mileage rate to figure your car expenses, you can’t deduct any car insurance premiums.
+
+-
+
+Life insurance covering your employees if you are not directly or indirectly the beneficiary under the contract.
+
+-
+
+Business interruption insurance that pays for lost profits if your business is shut down due to a fire or other cause.
+
+Nondeductible premiums.
+
+You can’t deduct premiums on the following kinds of insurance.
+
+-
+
+Self-insurance reserve funds. You can’t deduct amounts credited to a reserve set up for self-insurance. This applies even if you can’t get business insurance coverage for certain business risks. However, your actual losses may be deductible. For more information, see Pub. 547.
+
+-
+
+Loss of earnings. You can’t deduct premiums for a policy that pays for your lost earnings due to sickness or disability. However, see item 8 in the previous list.
+
+-
+
+Certain life insurance and annuities.
+
+-
+
+For contracts issued before June 9, 1997, you can’t deduct the premiums on a life insurance policy covering you, an employee, or any person with a financial interest in your business if you are directly or indirectly a beneficiary of the policy. You are included among possible beneficiaries of the policy if the policy owner is obligated to repay a loan from you using the proceeds of the policy. A person has a financial interest in your business if the person is an owner or part owner of the business or has lent money to the business.
+
+-
+
+For contracts issued after June 8, 1997, you generally can’t deduct the premiums on any life insurance policy, endowment contract, or annuity contract if you are directly or indirectly a beneficiary. The disallowance applies without regard to whom the policy covers.
+
+-
+
+Insurance to secure a loan. If you take out a policy on your life or on the life of another person with a financial interest in your business to get or protect a business loan, you can’t deduct the premiums as a business expense. Nor can you deduct the premiums as interest on business loans or as an expense of financing loans. In the event of death, the proceeds of the policy are not taxed as income even if they are used to liquidate the debt.
+
+Self-employed health insurance deduction.
+
+You may be able to deduct the amount you paid for medical and dental insurance and qualified long-term care insurance for you and your family.
+
+How to figure the deduction.
+
+Generally, you can use the worksheet in the Instructions for Form 1040 to figure your deduction. However, if any of the following apply, you must use Form(s) 7206.
+
+-
+
+You have more than one source of income subject to SE tax.
+
+-
+
+You file Form 2555 (relating to foreign earned income).
+
+-
+
+You are using amounts paid for qualified long-term care insurance to figure the deduction.
+
+See Form 8962 and its separate instructions and use Pub. 974 if the insurance plan established, or considered to be established, under your business was obtained through the Health Insurance Marketplace and you are claiming the premium tax credit.
+
+Prepayment.
+
+You can’t deduct expenses in advance, even if you pay them in advance. This rule applies to any expense paid far enough in advance to, in effect, create an asset with a useful life extending substantially beyond the end of the current-tax year.
+
+Example.
+
+In 2025, you signed a 3-year insurance contract. Even though you paid the premiums for 2025, 2026, and 2027 when you signed the contract, you can only deduct the premium for 2025 on your 2025 tax return. You can deduct in 2026 and 2027 the premiums allocable to those years.
+
+Interest
+
+You can generally deduct as a business expense some or all interest you pay or accrue during the tax year on debts related to your business. Interest relates to your business if you use the proceeds of the loan for a business expense. It doesn’t matter what type of property secures the loan. You can deduct interest on a debt only if you meet all of the following requirements.
+
+-
+
+You are legally liable for that debt.
+
+-
+
+Both you and the lender intend that the debt be repaid.
+
+-
+
+You and the lender have a true debtor-creditor relationship.
+
+Certain taxpayers are required to limit their business interest expense deduction. For tax years beginning in 2025, the calculation of adjusted taxable income includes a requirement to add back to taxable income the deductions for depreciation, amortization, and depletion to arrive at the amount that is used to determine if your interest expense is limited. See the Instructions for Form 8990 to determine whether you are required to limit your business interest expense deduction, who is required to file Form 8990, and how certain businesses may elect out of the business interest expense limitation.
+
+Personal loans.
+
+You can’t deduct on Schedule C (Form 1040) the interest you paid on personal loans. If a loan is part business and part personal, you must divide the interest between the personal part and the business part.
+
+Interest on car loans.
+
+If you are self-employed and use your vehicle in your business, you can deduct the part of the interest expense that represents your business use of the vehicle on Schedule C (Form 1040). Additionally, you may be able to deduct as qualified passenger vehicle loan interest the part of the interest expense that represents your personal use of the vehicle on Schedule 1-A (Form 1040). If you use your vehicle for both business and personal purposes, and you claim a deduction in 2025 on Schedule 1-A (Form 1040) for vehicle loan interest allocable to your personal use, then you can’t claim a deduction for that same interest on Schedule C (Form 1040). See the Instructions for Schedule 1-A (Form 1040), which are included in the Instructions for Form 1040, for more information.
+
+Example.
+
+In 2025, you paid $600 interest on a car loan. During 2025, you used the car 60% for business and 40% for personal purposes. You are claiming actual expenses on the car. You may deduct $360 (60% (0.60) × $600) for 2025 on Schedule C (Form 1040) (or if this interest is also qualified passenger vehicle loan interest, alternatively on Schedule 1-A). The remaining interest of $240 may be deductible as qualified passenger vehicle loan interest on Schedule 1-A (Form 1040).
+
+More information.
+
+Additional items to consider are shown below.
+
+-
+
+How to allocate interest between personal and business use.
+
+-
+
+Limitation on business interest.
+
+-
+
+When to deduct interest.
+
+-
+
+The rules for a below-market interest rate loan. (This is generally a loan on which no interest is charged or on which interest is charged at a rate below the applicable federal rate.)
+
+Legal and Professional Fees
+
+Legal and professional fees, such as fees charged by accountants, that are ordinary and necessary expenses directly related to operating your business are deductible on Schedule C (Form 1040). However, you usually can’t deduct legal fees you pay to acquire business assets. Add them to the basis of the property.
+
+If the fees include payments for work of a personal nature (such as making a will), you can take a business deduction only for the part of the fee related to your business.
+
+Tax preparation fees.
+
+You can deduct on Schedule C (Form 1040) the cost of preparing that part of your tax return relating to your business as a sole proprietor or statutory employee.
+
+Under section 62(a), you can deduct ordinary and necessary expenses paid for business software technology resources for filing taxes, for example, professional tax filing software, if it’s not depreciated or expensed under section 179. Its use must not exceed 1 year. The expenditure is deductible if used exclusively for the business. If used for both personal and business purposes, only deduct the portion of the software you use for the business. The expense is reported on line 48, Schedule C (Form 1040).
+
+You can also deduct on Schedule C (Form 1040) the amount you pay or incur in resolving asserted tax deficiencies for your business as a sole proprietor or statutory employee.
+
+Pension Plans
+
+You can set up and maintain the following small business retirement plans for yourself and your employees.
+
+-
+
+SEP (Simplified Employee Pension) plans.
+
+-
+
+SIMPLE (Savings Incentive Match Plan for Employees) plans.
+
+-
+
+Qualified plans (including Keogh or H.R. 10 plans).
+
+SEP, SIMPLE, and qualified plans offer you and your employees a tax-favored way to save for retirement. You can deduct contributions you make to the plan for your employees on line 19 of Schedule C (Form 1040). If you are a sole proprietor, you can deduct contributions you make to the plan for yourself on line 16 of Schedule 1 (Form 1040). You can also deduct trustees’ fees if contributions to the plan don’t cover them. Earnings on the contributions are generally tax free until you or your employees receive distributions from the plan. You may also be able to claim a tax credit if you begin a new qualified defined benefit or defined contribution plan (including a 401(k) plan), SIMPLE plan, or SEP plan. For details on this credit and credits for auto-enrollment and military spouse participation, see Form 8881 and its separate instructions.
+
+Under certain plans, employees can have you contribute limited amounts of their before-tax pay to a plan. These amounts (and earnings on them) are generally tax free until your employees receive distributions from the plan.
+
+For more information on retirement plans for small business, see Pub. 560.
+
+. Pub. 590-A, Contributions to Individual Retirement Arrangements (IRAs), discusses other tax-favored ways to save for retirement. .
+
+Rent Expense
+
+Rent is any amount you pay for the use of property you do not own. In general, you can deduct rent as a business expense only if the rent is for property you use in your business. If you have or will receive equity in or title to the property, you can’t deduct the rent.
+
+Unreasonable rent.
+
+You can’t take a rental deduction for unreasonable rents. Ordinarily, the issue of reasonableness arises only if you and the lessor are related. Rent paid to a related person is reasonable if it is the same amount you would pay to a stranger for use of the same property. Rent is not unreasonable just because it is figured as a percentage of gross receipts.
+
+Related persons include members of your immediate family, including siblings (either whole or half), your spouse, ancestors, and lineal descendants. For a list of the other related persons, see section 267 of the Internal Revenue Code.
+
+Rent on your home.
+
+If you rent your home and use part of it as your place of business, you may be able to deduct the rent you pay for that part. You must meet the requirements for business use of your home. For more information, see Business Use of Your Home , later.
+
+Rent paid in advance.
+
+Generally, rent paid in your business is deductible in the year paid or accrued. If you pay rent in advance, you can deduct only the amount that applies to your use of the rented property during the tax year. You can deduct the rest of your payment only over the period to which it applies.
+
+Taxes
+
+You can deduct on Schedule C (Form 1040) various federal, state, local, and foreign taxes directly attributable to your business.
+
+Income taxes.
+
+You can deduct on Schedule C (Form 1040) a state tax on gross income (as distinguished from net income) directly attributable to your business. You can deduct other state and local income taxes on Schedule A (Form 1040) if you itemize your deductions. Do not deduct federal income tax.
+
+Employment taxes.
+
+You can deduct the social security, Medicare, and FUTA taxes you paid out of your own funds as an employer. Employment taxes are discussed briefly in chapter 1 . You can also deduct payments you made as an employer to a state unemployment compensation fund, state paid family and medical leave program, or state disability benefit fund. See Revenue Ruling 2025-4 and Notice 2026-6 for more information.
+
+SE tax.
+
+You can deduct one-half of your SE tax on line 15 of Schedule 1 (Form 1040). SE tax is discussed in chapter 1 and chapter 10 .
+
+Personal property tax.
+
+You can deduct on Schedule C (Form 1040) any tax imposed by a state or local government on personal property used in your business.
+
+You can also deduct registration fees for the right to use property within a state or local area.
+
+Example.
+
+You and your spouse drove your car 7,000 business miles out of a total of 10,000 miles. You and your spouse had to pay $25 for your annual state license tags and $20 for your city registration sticker. You and your spouse also paid $235 in city personal property tax on the car, for a total of $280. You and your spouse are claiming your actual car expenses. Because you and your spouse used the car 70% for business, you and your spouse can deduct 70% of the $280, or $196, as a business expense.
+
+Real estate taxes.
+
+You can deduct on Schedule C (Form 1040) the real estate taxes you pay on your business property. Deductible real estate taxes are any state, local, or foreign taxes on real estate levied for the general public welfare. The taxing authority must assess these taxes uniformly at a like rate on all real property under its jurisdiction, and the proceeds must be for general community or governmental purposes.
+
+Sales tax.
+
+Treat any sales tax you pay on a service or on the purchase or use of property as part of the cost of the service or property. If the service or the cost or use of the property is a deductible business expense, you can deduct the tax as part of that service or cost. If the property is merchandise bought for resale, the sales tax is part of the cost of the merchandise. If the property is depreciable, add the sales tax to the basis for depreciation. For information on the basis of property, see Pub. 551.
+
+. Don’t deduct state and local sales taxes imposed on the buyer that you must collect and pay over to the state or local government. Don’t include these taxes in gross receipts or sales. .
+
+Excise taxes.
+
+You can deduct on Schedule C (Form 1040) all excise taxes that are ordinary and necessary expenses of carrying on your business. Excise taxes are discussed briefly in chapter 1 .
+
+Fuel taxes.
+
+Taxes on gasoline, diesel fuel, and other motor fuels you use in your business are usually included as part of the cost of the fuel. Don’t deduct these taxes as a separate item.
+
+You may be entitled to a credit or refund for federal excise tax you paid on fuels used for certain purposes. For more information, see Pub. 510.
+
+Travel and Meals
+
+This section briefly explains the kinds of travel and meal expenses you can deduct on Schedule C (Form 1040).
+
+Travel expenses.
+
+These are the ordinary and necessary expenses of traveling away from home for your business. You are traveling away from home if both the following conditions are met.
+
+-
+
+Your duties require you to be away from the general area of your tax home (defined later) substantially longer than an ordinary day’s work.
+
+-
+
+You need to get sleep or rest to meet the demands of your work while away from home.
+
+Generally, your tax home is your regular place of business, regardless of where you maintain your family home. It includes the entire city or general area in which your business is located. See Pub. 463 for more information.
+
+The following is a brief discussion of the expenses you can deduct.
+
+Transportation.
+
+You can deduct the cost of travel by airplane, train, bus, or car between your home and your business destination.
+
+Taxi, commuter bus, and limousine.
+
+You can deduct fares for these and other types of transportation between the airport or station and your hotel, or between the hotel and your work location away from home.
+
+Baggage and shipping.
+
+You can deduct the cost of sending baggage and sample or display material between your regular and temporary work locations.
+
+Car or truck.
+
+You can deduct the costs of operating and maintaining your vehicle when traveling away from home on business. You can deduct actual expenses or the standard mileage rate (discussed earlier under Car and Truck Expenses ), as well as business-related tolls and parking. However, if you elect the standard mileage rate, you may be able to deduct interest paid on a qualifying passenger vehicle. See Vehicle interest , earlier. If you rent a car while away from home on business, you can deduct only the business-use portion of the expenses.
+
+Meals and lodging.
+
+You can deduct the cost of meals and lodging if your business trip is overnight or long enough that you need to stop for sleep or rest to properly perform your duties. You can use actual expenses or the standard meal allowance to calculate your deduction. In most cases, you can deduct only 50% of your meal expenses. See Pub. 463 for additional information.
+
+Cleaning.
+
+You can deduct the costs of dry cleaning and laundry while on your business trip.
+
+Telephone.
+
+You can deduct the cost of business calls while on your business trip, including business communication by fax machine or other communication devices.
+
+Tips.
+
+You can deduct the tips you pay for any expense in this list.
+
+More information.
+
+For more information about travel expenses, see Pub. 463.
+
+Reimbursing your employees for expenses.
+
+You can generally deduct the amount you reimburse your employees for travel and meal expenses. The reimbursement you deduct and the manner in which you deduct it depend in part on whether you reimburse the expenses under an accountable plan or a nonaccountable plan. For details, see Pub. 15. That publication explains accountable and nonaccountable plans and tells you whether to report the reimbursement on your employee’s Form W-2.
+
+Business Use of Your Home
+
+To deduct expenses related to the part of your home used for business, you must meet specific requirements. Even then, your deduction may be limited.
+
+To qualify to claim expenses for business use of your home, you must meet the following tests.
+
+-
+
+Your use of the business part of your home must be:
+
+-
+
+Exclusive (however, see Exceptions to exclusive use , later),
+
+-
+
+Regular, and
+
+-
+
+For your business.
+
+-
+
+The business part of your home must be:
+
+-
+
+Your principal place of business (defined later);
+
+-
+
+A place where you meet or deal with patients, clients, or customers in the normal course of your business; or
+
+-
+
+A separate structure (not attached to your home) you use in connection with your business.
+
+Exclusive use.
+
+To qualify under the exclusive use test, you must use a specific area of your home only for your trade or business. The area used for business can be a room or other separately identifiable space. The space does not need to be marked off by a permanent partition.
+
+You don’t meet the requirements of the exclusive use test if you use the area in question both for business and for personal purposes.
+
+Example.
+
+You are an attorney and use a den in your home to write legal briefs and prepare clients’ tax returns. Your family also uses the den for recreation. The den is not used exclusively in your profession, so you can’t claim a business deduction for its use.
+
+Exceptions to exclusive use.
+
+You don’t have to meet the exclusive use test to the extent you use part of your home in either of the following ways.
+
+-
+
+For the storage of inventory or product samples (for businesses in retail or wholesale trade with no other fixed location).
+
+-
+
+As a daycare facility.
+
+For an explanation of these exceptions, see Pub. 587, Business Use of Your Home.
+
+Regular use.
+
+To qualify under the regular use test, you must use a specific area of your home for business on a continuing basis. You do not meet the test if your business use of the area is only occasional or incidental, even if you do not use that area for any other purpose.
+
+Principal place of business.
+
+You can have more than one business location, including your home, for a single trade or business. To qualify to deduct the expenses for the business use of your home under the principal place of business test, your home must be your principal place of business for that business. To determine your principal place of business, you must consider all the facts and circumstances.
+
+Your home office will qualify as your principal place of business for deducting expenses for its use if you meet the following requirements.
+
+-
+
+You use it exclusively and regularly for administrative or management activities of your business.
+
+-
+
+You have no other fixed location where you conduct substantial administrative or management activities of your business.
+
+Alternatively, if you use your home exclusively and regularly for your business but your home office doesn’t qualify as your principal place of business based on the previous rules, you determine your principal place of business based on the following factors.
+
+-
+
+The relative importance of the activities performed at each location.
+
+-
+
+If the relative importance factor doesn’t determine your principal place of business, you can also consider the time spent at each location.
+
+If, after considering your business locations, your home can’t be identified as your principal place of business, you can’t deduct home office expenses. However, for other ways to qualify to deduct home office expenses, see Pub. 587.
+
+Deduction limit.
+
+If your gross income from the business use of your home equals or exceeds your total business expenses (including depreciation), you can deduct all your business expenses related to the use of your home. If your gross income from the business use is less than your total business expenses, your deduction for certain expenses for the business use of your home is limited.
+
+Your deduction of otherwise nondeductible expenses, such as insurance, utilities, and depreciation (with depreciation taken last), allocable to the business is limited to the gross income from the business use of your home minus the sum of the following.
+
+-
+
+The business part of expenses you could deduct even if you didn’t use your home for business (such as mortgage interest, real estate taxes, and casualty and theft losses that are allowable as itemized deductions on Schedule A (Form 1040)).
+
+-
+
+The business expenses that relate to the business activity in the home (for example, business phone, supplies, and depreciation on equipment), but not to the use of the home itself.
+
+Don’t include in (2) above your deduction for one-half of your SE tax.
+
+Use Form 8829, Expenses for Business Use of Your Home, to figure your deduction.
+
+Simplified method.
+
+The IRS provides a simplified method to determine your expenses for business use of your home. The simplified method is an alternative to calculating and substantiating actual expenses. In most cases, you will figure your deduction by multiplying $5 by the area of your home used regularly and exclusively for a qualified business use. The area you use to figure your deduction is limited to 300 square feet. For more information, see the Instructions for Schedule C (Form 1040).
+
+More information.
+
+For more information on deducting expenses for the business use of your home, see Pub. 587.
+
+De Minimis Safe Harbor for Tangible Property
+
+Generally, you must capitalize costs to acquire or produce real or tangible personal property used in your trade or business such as buildings, equipment, or furniture. However, if you elect to use the de minimis safe harbor for tangible property, you may deduct de minimis amounts paid to acquire or produce certain tangible property if these amounts are deducted by you for financial accounting purposes or in keeping your books and records.
+
+If you have an applicable financial statement, you may use this safe harbor to deduct amounts paid for tangible property up to $5,000 per item or invoice. If you don’t have an applicable financial statement, you may use the de minimis safe harbor to deduct amounts paid for tangible property up to $2,500 per item or invoice.
+
+Amounts qualifying under this de minimis safe harbor should be included as other expenses in Part V of Schedule C (Form 1040).
+
+More information.
+
+For details on making this election and requirements for using the de minimis safe harbor for tangible property, see IRS.gov/Tangible-Property-Regulations .
+
+Other Expenses You Can Deduct
+
+You may also be able to deduct the following expenses.
+
+-
+
+Advertising.
+
+-
+
+Bank fees.
+
+-
+
+Donations to business organizations.
+
+-
+
+Education expenses.
+
+-
+
+Impairment-related expenses.
+
+-
+
+Interview expense allowances.
+
+-
+
+Licenses and regulatory fees.
+
+-
+
+Moving machinery.
+
+-
+
+Outplacement services.
+
+-
+
+Penalties and fines you pay for late performance or nonperformance of a contract.
+
+-
+
+Repairs and maintenance to real or tangible personal property.
+
+-
+
+Repayments of income.
+
+-
+
+Supplies and materials.
+
+-
+
+Utilities.
+
+Expenses You Cannot Deduct
+
+You usually can’t deduct the following as business expenses.
+
+-
+
+Bribes and kickbacks.
+
+-
+
+Charitable contributions.
+
+-
+
+Demolition expenses or losses.
+
+-
+
+Dues to business, social, athletic, luncheon, sporting, airline, and hotel clubs.
+
+-
+
+Entertainment expenses.
+
+-
+
+Improvements to real or tangible personal property. Improvements are amounts paid for betterments to your property, restorations of your property, or work that adapts your property to a new or different use.
+
+-
+
+Lobbying expenses.
+
+-
+
+Penalties and fines you pay to a governmental agency or instrumentality because you broke the law.
+
+-
+
+Personal, living, and family expenses.
+
+-
+
+Political contributions.
+
+-
+
+Settlements or payments related to sexual harassment or sexual abuse if such settlement or payment is subject to a nondisclosure agreement. You also can’t deduct attorney fees related to such settlement or payment.

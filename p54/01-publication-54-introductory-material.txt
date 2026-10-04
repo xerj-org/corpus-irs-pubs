@@ -1,0 +1,213 @@
+IRS Pub 54 (12/2025) | Publication 54 - Introductory Material
+
+Publication 54 (12/2025), Tax Guide for U.S. Citizens and Resident Aliens Abroad
+
+Revised: December 2025
+
+Publication 54 - Introductory Material
+
+Future Developments
+
+For the latest information about developments related to Pub. 54, such as legislation enacted after it was published, go to IRS.gov/Pub54 .
+
+What's New
+
+Tax law changes that impact 2025 and subsequent tax years. Public Law 119-21, the One Big Beautiful Bill Act, was signed into law on July 4, 2025. The law contains several provisions that impact Form 1040 and other related forms. Some of the changes include:
+
+-
+
+Standard deduction,
+
+-
+
+Itemized deductions,
+
+-
+
+Moving expenses,
+
+-
+
+Casualty and theft losses, and
+
+-
+
+Social security number (SSN) requirement to claim child tax and other credits, and deductions.
+
+For information on tax law changes for 2025 and subsequent years, go to the Form 1040 webpage, available at IRS.gov/Form1040 . Specific information regarding the One Big Beautiful Bill Act is also available at IRS.gov/Newsroom/One-Big-Beautiful-Bill-Act-Tax-Deductions-For-Working-Americans-And-Seniors .
+
+Direct deposit and electronic payments. If you have access to U.S. banking services or electronic payment systems, you should use direct deposit for any refunds. The IRS also recommends paying electronically whenever possible. Options to pay electronically include using your bank account with Direct Pay, your debit or credit card, your digital wallet, or your IRS Online Account. Go to IRS.gov/Payments to see all your payment options.
+
+Continuous-use revision. Publication 54 has been converted from an annual revision to a continuous use revision in tax year 2025. Subsequent revisions will be made on an as needed basis.The annual inflation adjusted amounts for items such as standard deduction, foreign earned income exclusion, and individual retirement arrangement (IRA) contribution limits have been removed throughout the publication. For information on specific issues, please see the webpages and instructions on IRS.gov for the specific product.For annual adjusted inflation amounts:
+
+-
+
+Go to IRS.gov/InflationAdjustment ,
+
+-
+
+Click on the link for the IRS tax inflation adjustments for your tax year,
+
+-
+
+Click on the Revenue Procedure for the tax year, and
+
+-
+
+Look for the section that applies to your issue.
+
+Mortgage and student loan forgiveness relief expires in 2025. The exclusion from income of discharged mortgage debt for qualified principal residence indebtedness and qualified student loan debt under section 108(f)(5) expires on December 31, 2025.
+
+New Forms 8964-ELE and 8964-TRA. Form 8964-ELE, Section 987 Elections, and Form 8964-TRA, Section 987 Transition Information, are new forms for tax year 2025. The forms are filed by taxpayers that own qualified business units (QBUs) that have reporting requirements under section 987. See Other Forms You May Have To File , in Chapter 1, for additional information.
+
+International practice units are available for help with questions and issues. The IRS' Large Business and International division has created practice units that are designed to provide additional information and answer questions for various issues unique to international individuals and businesses. The practice units cover specific topics, provide overviews and analyses of issues, resources that include applicable law, related forms, examples, related practice units, and additional resources. Topics include residency; computations of income, deductions, and exclusions; sourcing of income; foreign currency issues; foreign earned income exclusion/housing deduction; foreign tax credit; tax credits; taxes; international information returns and penalties; and statutes. You can access the practice units by going to IRS.gov/Businesses/Corporations/Practice-Units .
+
+Special relief for terrorist attacks in Israel, Gaza, and the West Bank. Taxpayers who live or have a business in Israel, Gaza, or the West Bank, and certain other taxpayers affected by the terrorist attacks in the State of Israel have until September 30, 2025, to file and pay. This includes all 2023 and 2024 returns. Please note payments on the 2023 tax year returns are not eligible for the additional time because they were originally due prior to the terrorist attacks. For additional information, see IRS.gov/Newsroom/IRS-Announces-New-Relief-For-Taxpayers-Affected-By-Terrorist-Attacks-In-Israel-2023-And-2024-Returns-And-Payments-Are-Now-Due-Sept-30-2025-Other-Relief-Available .On September 30, 2025, the Service announced that due to the ongoing conflict in Israel, the agency is providing additional tax relief to affected individuals and businesses, postponing until September 30, 2026, a wide range of deadlines for filing federal returns, making tax payments, and performing other time-sensitive tax-related actions. For additional information, see IRS.gov/Newsroom/IRS-Announces-New-Relief-For-Eligible-Taxpayers-Affected-By-Ongoing-Events-In-Israel-Due-Dates-For-Eligible-Returns-And-Payments-May-Be-Postponed-To-Sept-30-2026-Additional-Relief-May-Be-Available .
+
+Reminders
+
+Denial or revocation of U.S. passport. The IRS is required to notify the State Department of taxpayers certified as owing a seriously delinquent tax debt. The State Department is generally prohibited from issuing or renewing a passport to a taxpayer with seriously delinquent tax debt. If you currently have a valid passport, the State Department may revoke your passport or limit your ability to travel. Additional information on passport certification is available at IRS.gov/Passports .
+
+Individual taxpayer identification number (ITIN) renewal. An ITIN for a nonresident alien spouse or dependent used on a prior-year income tax return may require renewal. For more information, go to IRS.gov/ITIN .
+
+Digital assets. You may have to report transactions with digital assets such as cryptocurrency and non-fungible tokens (NFTs) on your tax return. Income from digital assets is taxable. For more information on digital assets, go to IRS.gov/DigitalAssets .
+
+Figuring tax on income not excluded. If you claim the foreign earned income exclusion, the foreign housing exclusion, or both, you must figure the tax on your nonexcluded income using the tax rates that would have applied had you not claimed the exclusions. See the instructions for Form 1040 and Form 1040-SR, available at IRS.gov/Form1040 and complete the Foreign Earned Income Tax Worksheet to figure the amount of tax to enter on Form 1040 or 1040-SR, line 16. If you must attach Form 6251, Alternative Minimum Tax—Individuals, available at IRS.gov/Form6251 , to your return, use the Foreign Earned Income Tax Worksheet provided in the instructions for Form 6251.
+
+People who failed to meet eligibility requirements because of adverse conditions in a foreign country. Section 911(d)(4) of the Code provides that an individual will be treated as a qualified individual with respect to a period in which the individual was a bona fide resident of, or was present in a foreign country if the individual left the country during a specified period. The Secretary of the Treasury, in consultation with the Secretary of State, determines each year the list of countries that individuals were required to leave because of war, civil unrest, or similar adverse condition that precluded the normal conduct of business. You must establish that but for those conditions you could reasonably have been expected to meet the eligibility requirements. Early each year, the IRS publishes an Internal Revenue Bulletin with a list of the foreign countries for which the minimum time requirements are waived and the effective dates. The Internal Revenue Bulletins are located at IRS.gov/IRB .
+
+The VSO Equal Tax Treatment (VETT) Act adds certain organizations to the list of deductible charitable contributions for members of the Armed Forces. The VETT Act, enacted December 12, 2024, amends section 170(c) to include section 501(c)(19) organizations that are federally chartered corporations. The amendment applies to tax years beginning after December 12, 2024. Find information about an organization's tax-exempt status and filings by using the online search tool, available at IRS.gov/TEOS .For additional information on claiming charitable contributions, see Pub. 526, Charitable Contributions, available at IRS.gov/Pub526 .
+
+Other forms you may have to file. If you had foreign financial assets and/or financial accounts, entered the U.S. with $10,000 or more in currency, have ownership interests in foreign entities, foreign trusts, or qualified business units (QBUs), received gifts from foreign persons, or gave up your U.S. citizenship or residency, you may have additional forms to file. See Other Forms You May Have To File in chapter 1.
+
+U.S.-Hungary income tax treaty. On July 8, 2022, the United States terminated the income tax treaty between the government of the United States and the government of the Hungarian People's Republic. The termination of the treaty is effective for withholding taxes on payments made on or after January 1, 2024, and is effective for tax years beginning on or after January 1, 2024, for any other taxes.
+
+U.S.-Chile income tax treaty. The tax treaty between the United States and Chile entered into force on December 19, 2023. The treaty is effective for withholding taxes at source on payments made on or after February 1, 2024, and is effective for tax years beginning on or after January 1, 2024, for any other taxes.
+
+U.S.-Russia income tax treaty. On July 1, 2024, the United States provided formal notice to the Russian Federation to confirm the suspension of paragraph 4 of Article 1, and Articles 5–21 and 23 of the income tax treaty between the United States and the Russian Federation, as well as the accompanying Protocol, by mutual agreement. The suspension of the treaty is effective both for taxes withheld at source and in respect of other taxes on August 16, 2024. The suspension will continue until otherwise decided by the two governments.
+
+U.S.-U.S.S.R. income tax treaty that relates to Belarus. On December 17, 2024, the United States provided formal notice to the Republic of Belarus to confirm the suspension of the operation of paragraph 1, subparagraph (g), of Article III of the Convention between the United States of America and the Union of Soviet Socialist Republics on Matters of Taxation, with related letters, by mutual agreement. The suspension is effective December 17, 2024, until December 31, 2026, and will continue until otherwise decided by the two governments.
+
+Photographs of missing children. The IRS is a proud partner with the National Center for Missing & Exploited Children® (NCMEC) . Photographs of missing children selected by the Center may appear in this publication on pages that would otherwise be blank. You can help bring these children home by looking at the photographs and calling 1-800-THE-LOST (1-800-843-5678) if you recognize a child.
+
+Introduction
+
+This publication discusses special tax rules for U.S. citizens and resident aliens who live and work abroad.
+
+If you are a U.S. citizen or resident alien, your worldwide income is generally subject to U.S. income tax, regardless of where you are living. Also, you are subject to the same income tax filing requirements that apply to U.S. citizens or resident aliens living in the United States. Expatriation tax provisions apply to U.S. citizens who have renounced their citizenship and long-term residents who have ended their residency. These provisions are discussed in chapter 4 of Pub. 519, U.S. Tax Guide for Aliens, available at IRS.gov/Pub519 .
+
+Resident alien.
+
+A resident alien is an individual who is not a citizen or national of the United States and who meets either the green card test or the substantial presence test for the calendar year.
+
+-
+
+Green card test. You are a U.S. resident if you were a lawful permanent resident of the United States at any time during the calendar year. This is known as the green card test because resident aliens hold immigrant visas (also known as green cards).
+
+-
+
+Substantial presence test. You are considered a U.S. resident if you meet the substantial presence test for the calendar year. To meet this test, you must be physically present in the United States on at least:
+
+-
+
+31 days during the current calendar year; and
+
+-
+
+A total of 183 days during the current year and the 2 preceding years, counting all the days of physical presence in the current year, but only one-third the number of days of presence in the first preceding year, and only one-sixth the number of days in the second preceding year.
+
+Example.
+
+You were physically present in the United States for 120 days in each of the years 1, 2, and 3. To determine if you meet the substantial presence test for year 3, count the full 120 days of presence in year 3, 40 days in year 2 ( 1 / 3 of 120), and 20 days in year 1 ( 1 / 6 of 120). Because the total for the 3-year period is 180 days, you are not considered a resident under the substantial presence test for year 3.
+
+Even if you do not meet either of these tests, you may be able to choose to be treated as a U.S. resident for part of the year under the first-year choice test, discussed in Pub. 519 .
+
+For more information on resident and nonresident status, the tests for residence, and the exceptions to them, see Pub. 519 .
+
+Filing information.
+
+Chapter 1 contains general filing information, such as:
+
+-
+
+Whether you must file a U.S. tax return,
+
+-
+
+When and where to file your return,
+
+-
+
+How to report your income if it is paid in foreign currency,
+
+-
+
+How to treat a nonresident alien spouse as a U.S. resident, and
+
+-
+
+Whether you must pay estimated tax.
+
+Withholding tax.
+
+Chapter 2 discusses the withholding of income, social security, and Medicare taxes from the pay of U.S. citizens and resident aliens.
+
+Self-employment tax.
+
+Chapter 3 discusses who must pay self-employment tax.
+
+Foreign earned income exclusion, foreign housing exclusion, and foreign housing deduction.
+
+Chapter 4 discusses income tax benefits that apply if you meet certain requirements while living and working abroad. You may qualify to treat a portion of your earned income as not taxable by the United States. You may also be able to either deduct part of your housing expenses from your income or treat a limited amount of income used for housing expenses as not taxable by the United States. These benefits are called the foreign earned income exclusion and the foreign housing deduction and exclusion.
+
+To qualify, you must have a tax home in a foreign country, earn income from personal services performed in a foreign country, and meet either the physical presence or bona fide residence test. These rules are explained in chapter 4 .
+
+If you are going to elect either or both of the exclusions or take the deduction as discussed above, you must file Form 2555 by attaching it to your federal income tax return, Form 1040, 1040-SR, or 1040-X.
+
+Deductions and credits.
+
+Chapter 5 discusses deductions and credits you may be able to claim on your return. These are generally the same as if you were living in the United States. However, you can't deduct or exclude any item, or take a credit for any item, that is related to amounts you exclude as foreign earned income or foreign housing amounts. Among the topics discussed in chapter 5 are:
+
+-
+
+Contributions to foreign organizations,
+
+-
+
+Contributions to individual retirement arrangements (IRAs), and
+
+-
+
+Foreign taxes.
+
+Tax treaty benefits.
+
+Chapter 6 discusses some benefits that are common to most tax treaties and explains how to get help if you think you are not receiving a treaty benefit to which you are entitled. It also explains how to get copies of tax treaties.
+
+How to get tax help.
+
+Chapter 7 is an explanation of how to get information and assistance from the IRS.
+
+Questions and answers.
+
+Frequently asked questions and answers to those questions are presented in the back of this publication.
+
+Comments and suggestions.
+
+We welcome your comments about this publication and suggestions for future editions.
+
+You can send us comments through IRS.gov/FormComments . Or, you can write to the Internal Revenue Service, Tax Forms and Publications, 1111 Constitution Ave. NW, IR-6526, Washington, DC 20224.
+
+Although we can’t respond individually to each comment received, we do appreciate your feedback and will consider your comments and suggestions as we revise our tax forms, instructions, and publications. Don’t send tax questions, tax returns, or payments to the above address.
+
+Getting answers to your tax questions.
+
+If you have a tax question not answered by this publication or the How To Get Tax Help section near the end of this publication, go to the IRS Interactive Tax Assistant page at IRS.gov/Help/ITA where you can find topics by using the search feature or viewing the categories listed.
+
+Getting tax forms, instructions, and publications.
+
+Go to IRS.gov/Forms to download current and prior-year forms, instructions, and publications.
+
+Ordering tax forms, instructions, and publications.
+
+Go to IRS.gov/OrderForms to order current forms, instructions, and publications; call 800-829-3676 to order prior-year forms and instructions. The IRS will process your order for forms and publications as soon as possible. Don’t resubmit requests you’ve already sent us. You can get forms and publications faster online.

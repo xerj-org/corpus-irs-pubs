@@ -1,0 +1,239 @@
+IRS Pub 970 (2025) | Publication 970 - Introductory Material
+
+Publication 970 (2025), Tax Benefits for Education
+
+For use in preparing 2025 Returns
+
+Publication 970 - Introductory Material
+
+Future Developments
+
+For the latest information about developments related to Pub. 970, such as legislation enacted after it was published, go to IRS.gov/Pub970 .
+
+What’s New for Tax Year 2025
+
+Trump accounts and new Form 4547. Recent legislation allows parents, guardians, and other authorized individuals to elect to establish a new type of individual retirement account, called a Trump account, for the exclusive benefit of certain children. If the child was born after 2024 and before 2029, is a U.S. citizen, and meets certain other requirements, the authorized individual may also elect to receive a $1,000 pilot program contribution to the child’s Trump account. Both elections can be made on Form 4547, which can be filed at the same time as the authorized individual’s 2025 income tax return. For more information on Trump accounts, and to learn how to make these elections, see Form 4547 and its instructions.
+
+Student loan interest deduction. For 2025, the amount of your student loan interest deduction is gradually reduced (phased out) if your MAGI is between $85,000 and $100,000 ($170,000 and $200,000 if you file a joint return). You can’t claim the deduction if your MAGI is $100,000 or more ($200,000 or more if you file a joint return). See chapter 4 .
+
+Education savings bond program. For 2025, the amount of your education savings bond interest exclusion is gradually reduced (phased out) if your MAGI is between $99,500 and $114,500 ($149,250 and $179,250 if you file a joint return). You can’t exclude any of the interest if your MAGI is $114,500 or more ($179,250 or more if you file a joint return). See chapter 9 .
+
+Business deduction for work-related education. Generally, if you claim a business deduction for work-related education and you drive your car to and from school, the amount you can deduct for miles driven from January 1, 2025, through December 31, 2025, is 70 cents a mile. See chapter 11 .
+
+What’s New for Tax Year 2026
+
+Identification requirement. Beginning in 2026, individuals claiming the American opportunity credit or the lifetime learning credit will be required to have a Social Security Number (SSN) that is valid for work and that was issued before the due date of the return. In cases where the individual claiming the credit is not the student for whom the tuition and related expenses were paid, the student will also need a valid SSN in order to qualify for the credit.
+
+Reminders
+
+Form 1098-T, Tuition Statement. When figuring an education credit, use only the amounts you paid and are deemed to have paid during the tax year for qualified education expenses. In most cases, the student should receive Form 1098-T from the eligible educational institution by February 2, 2026 (January 31 falls on a Saturday). However, the amount on Form 1098-T might be different from the amount you actually paid and are deemed to have paid. In addition, Form 1098-T should give you other information for that institution, such as adjustments made for prior years; the amount of scholarships or grants, reimbursements, or refunds; and whether the student was enrolled at least half-time or was a graduate student. The eligible educational institution may ask for a completed Form W-9S, Request for Student’s or Borrower’s Taxpayer Identification Number and Certification, or similar statement to obtain the student’s name, address, and taxpayer identification number.
+
+Form 1098-T requirement. To be eligible to claim the American opportunity credit or lifetime learning credit, the law requires a taxpayer (or a dependent) to have received Form 1098-T from an eligible educational institution, whether domestic or foreign. However, you may claim a credit if the student doesn’t receive a Form 1098-T because the student’s educational institution isn’t required to furnish a Form 1098-T to the student under existing rules (for example, if the student is a qualified nonresident alien, has qualified education expenses paid entirely with scholarships, has qualified education expenses paid under a formal billing arrangement, or is enrolled in courses for which no academic credit is awarded). If a student’s educational institution isn’t required to provide Form 1098-T to the student, you may claim a credit without Form 1098-T if you otherwise qualify, can demonstrate that you (or a dependent) were enrolled at an eligible educational institution, and can substantiate the payment of qualified tuition and related expenses.You may also claim a credit if the student attended an eligible educational institution required to furnish Form 1098-T but the student doesn’t receive Form 1098-T before you file your tax return (for example, if the institution is otherwise required to furnish Form 1098-T and doesn’t furnish it or refuses to do so) and you take the following required steps: After February 2, 2026 (January 31 falls on a Saturday), but before you file your 2025 tax return, you or the student must request that the educational institution furnish Form 1098-T. You must fully cooperate with the educational institution’s efforts to gather the information needed to furnish Form 1098-T. You must also otherwise qualify for the benefit, be able to demonstrate that you (or a dependent) were enrolled at an eligible educational institution, and substantiate the payment of qualified tuition and related expenses.
+
+Educational institution’s EIN required. To claim the American opportunity credit, you must provide the educational institution’s employer identification number (EIN) on your Form 8863. You should be able to obtain this information from Form 1098-T or the educational institution. See chapter 2 .
+
+Form 8862 may be required. If your American opportunity credit was denied or reduced for any reason other than a math or clerical error for any tax year beginning after 2015, you must attach a completed Form 8862, Information To Claim Certain Credits After Disallowance, to your tax return for the next year for which you claim the credit. See chapter 2 .
+
+Ban on claiming the American opportunity credit. If you claim the American opportunity credit even though you’re not eligible, you may be banned from claiming the credit for 2 or 10 years depending on your conduct. See chapter 2 .
+
+Taxpayer identification number (TIN) needed by due date of return. If you haven’t been issued a TIN by the due date of your 2025 return (including extensions), you can’t claim the American opportunity credit on either your original or an amended 2025 return. Also, the American opportunity credit isn’t allowed on either your original or an amended 2025 return for a student who hasn’t been issued a TIN by the due date of your return (including extensions). See chapter 2 .
+
+Higher education emergency grants. Emergency financial aid grants under the following are not included in your gross income.
+
+-
+
+The CARES Act.
+
+-
+
+The Coronavirus Response and Relief Supplemental Appropriations Act, 2021.
+
+-
+
+The American Rescue Plan Act of 2021.
+
+Also, for purposes of the American opportunity tax credit (see chapter 2) and lifetime learning credit (see chapter 3), a student does not reduce an amount of qualified tuition and related expenses by the amount of an emergency financial aid grant. For more information, go to Higher Education Emergency Grants Frequently Asked Questions .
+
+Coordination with Pell grants and other scholarships or fellowship grants. It may benefit you to choose to include otherwise tax-free scholarships or fellowship grants in income. This may increase your education credit and lower your total tax or increase your refund. See Coordination with Pell grants and other scholarships in chapter 2 and chapter 3 .
+
+Student loan interest deduction. You can’t deduct as interest on a student loan any interest paid by your employer after March 27, 2020, under an educational assistance program. See chapter 4 .
+
+Student loan forgiveness. The American Rescue Plan Act of 2021 modified the treatment of student loan forgiveness for discharges in 2021 through 2025. See chapter 5 .
+
+Achieving a Better Life Experience (ABLE) account. This is a savings account for individuals with disabilities and their families. Distributions are tax free if used to pay the beneficiary’s qualified disability expenses, which may include education expenses. For more information, see Pub. 907, Tax Highlights for Persons With Disabilities.
+
+Estimated tax payments. If you have taxable income from any of your education benefits and the payer doesn’t withhold enough income tax, you may need to make estimated tax payments. For more information, see Pub. 505, Tax Withholding and Estimated Tax.
+
+Employer-provided educational assistance benefits. Employer-provided educational assistance benefits include payments made after March 27, 2020, for principal or interest on any qualified education loan you incurred for your education. See chapter 10 .
+
+Miscellaneous itemized deductions. For tax years beginning after 2017, you no longer deduct work-related education expenses as a miscellaneous itemized deduction subject to a 2%-of-adjusted-gross-income floor. See chapter 11 .
+
+Photographs of missing children. The IRS is a proud partner with the National Center for Missing & Exploited Children® (NCMEC) . Photographs of missing children selected by the Center may appear in this publication on pages that would otherwise be blank. You can help bring these children home by looking at the photographs and calling 1-800-THE-LOST (1-800-843-5678) if you recognize a child.
+
+Introduction
+
+This publication explains tax benefits that may be available to you if you are saving for or paying education costs for yourself or, in many cases, another student who is a member of your immediate family. Most benefits apply only to higher education.
+
+What is in this publication.
+
+Chapter 1 explains the tax treatment of various types of educational assistance, including scholarships, fellowship grants, and tuition reductions.
+
+Two tax credits for which you may be eligible are explained in chapter 2 and chapter 3 . These benefits, which reduce the amount of income tax you may have to pay, are:
+
+-
+
+The American opportunity credit, and
+
+-
+
+The lifetime learning credit.
+
+Nine other types of benefits are explained in chapters 4 through 11. These benefits, which reduce the amount of income tax you may have to pay, are:
+
+-
+
+Deduct student loan interest;
+
+-
+
+Receive tax-free treatment of a canceled student loan;
+
+-
+
+Receive tax-free student loan repayment assistance;
+
+-
+
+Establish and contribute to a Coverdell education savings account (ESA), which features tax-free earnings;
+
+-
+
+Participate in a qualified tuition program (QTP), which features tax-free earnings;
+
+-
+
+Take early distributions from any type of individual retirement arrangement (IRA) for education costs without paying the 10% additional tax on early distributions;
+
+-
+
+Cash in savings bonds for education costs without having to pay tax on the interest;
+
+-
+
+Receive tax-free education benefits from your employer; and
+
+-
+
+Claim a business deduction for work-related education.
+
+Note:
+
+You generally can’t claim more than one of the benefits described in the list above for the same qualifying education expense.
+
+Comparison table.
+
+Some of the features of these benefits are highlighted in the Appendix , later in this publication. This general comparison table may guide you in determining which benefits you may be eligible for and which chapters you may want to read.
+
+. When you figure your taxes, you may want to compare these tax benefits so you can choose the method(s) that give(s) you the lowest tax liability. If you qualify, you may find that a combination of credit(s) and deduction(s) gives you the lowest tax. .
+
+Analyzing your tax withholding.
+
+After you estimate your education tax benefits for the year, you may be able to reduce the amount of your federal income tax withholding. Also, you may want to recheck your withholding during the year if your personal or financial situation changes. For more information, see Pub. 505.
+
+Glossary.
+
+In this publication, wherever appropriate, we have tried to use the same or similar terminology when referring to the basic components of each education benefit. Some of the terms used are:
+
+-
+
+Qualified education expenses,
+
+-
+
+Eligible educational institution, and
+
+-
+
+Modified adjusted gross income (MAGI).
+
+Even though the same term, such as “qualified education expenses,” is used to label a basic component of many of the education benefits, the same expenses aren’t necessarily allowed for each benefit. For example, the cost of room and board is a qualified education expense for the QTP, but not for the education savings bond program.
+
+Many of the terms used in the publication are defined in the glossary near the end of the publication. The glossary isn’t intended to be a substitute for reading the chapter on a particular education benefit, but it will give you an overview of how certain terms are used in discussing the different benefits.
+
+Comments and suggestions.
+
+We welcome your comments about this publication and suggestions for future editions.
+
+You can send us comments through IRS.gov/FormComments . Or, you can write to the Internal Revenue Service, Tax Forms and Publications, 1111 Constitution Ave. NW, IR-6526, Washington, DC 20224.
+
+Although we can’t respond individually to each comment received, we do appreciate your feedback and will consider your comments and suggestions as we revise our tax forms, instructions, and publications. Don’t send tax questions, tax returns, or payments to the above address.
+
+Getting answers to your tax questions.
+
+If you have a tax question not answered by this publication or the How To Get Tax Help section at the end of this publication, go to the IRS Interactive Tax Assistant page at IRS.gov/Help/ITA where you can find topics by using the search feature or viewing the categories listed.
+
+Getting tax forms, instructions, and publications.
+
+Go to IRS.gov/Forms to download current and prior-year forms, instructions, and publications.
+
+Ordering tax forms, instructions, and publications.
+
+Go to IRS.gov/OrderForms to order current forms, instructions, and publications; call 800-829-3676 to order prior-year forms and instructions. The IRS will process your order for forms and publications as soon as possible. Don’t resubmit requests you’ve already sent us. You can get forms and publications faster online.
+
+Useful Items
+
+You may want to see:
+
+Publication
+
+-
+
+463 Travel, Gift, and Car Expenses
+
+-
+
+525 Taxable and Nontaxable Income
+
+-
+
+550 Investment Income and Expenses
+
+-
+
+590-A Contributions to Individual Retirement Arrangements
+
+-
+
+590-B Distributions from Individual Retirement Arrangements
+
+Form (and Instructions)
+
+-
+
+1040 U.S. Individual Income Tax Return
+
+-
+
+1040-NR U.S. Nonresident Alien Income Tax Return
+
+-
+
+1040-SR U.S. Income Tax Return for Seniors
+
+-
+
+2106 Employee Business Expenses
+
+-
+
+5329 Additional Taxes on Qualified Plans and Other Tax-Favored Accounts
+
+-
+
+8815 Exclusion of Interest From Series EE and I U.S. Savings Bonds Issued After 1989
+
+-
+
+8863 Education Credits
+
+See chapter 12 for information about getting these publications and forms.

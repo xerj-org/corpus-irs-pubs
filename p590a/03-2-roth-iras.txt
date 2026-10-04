@@ -1,0 +1,370 @@
+IRS Pub 590-A (2025) | 2. Roth IRAs
+
+2. Roth IRAs
+
+Reminders
+
+Deemed IRAs. For plan years beginning after 2002, a qualified employer plan (retirement plan) can maintain a separate account or annuity under the plan (a deemed IRA) to receive voluntary employee contributions. If the separate account or annuity otherwise meets the requirements of an IRA, it will be subject only to IRA rules. An employee's account can be treated as a traditional IRA or a Roth IRA.For this purpose, a “qualified employer plan” includes:
+
+-
+
+A qualified pension, profit-sharing, or stock bonus plan (section 401(a) plan);
+
+-
+
+A qualified employee annuity plan (section 403(a) plan);
+
+-
+
+A tax-sheltered annuity plan (section 403(b) plan); and
+
+-
+
+A deferred compensation plan (section 457 plan) maintained by a state, a political subdivision of a state, or an agency or instrumentality of a state or political subdivision of a state.
+
+Designated Roth accounts. Designated Roth accounts are separate accounts under section 401(k), 403(b), or 457(b) plans that accept elective deferrals that are referred to as “Roth contributions.” These elective deferrals are included in your income, but qualified distributions from these accounts aren’t included in your income. Designated Roth accounts aren’t IRAs and shouldn’t be confused with Roth IRAs. Contributions, up to their respective limits, can be made to Roth IRAs and designated Roth accounts according to your eligibility to participate. A contribution to one doesn’t impact your eligibility to contribute to the other. See Pub. 575 for more information on designated Roth accounts.
+
+Introduction
+
+Regardless of your age, you may be able to establish and make nondeductible contributions to an individual retirement plan called a Roth IRA.
+
+Contributions not reported.
+
+You don’t report Roth IRA contributions on your return.
+
+What Is a Roth IRA?
+
+A Roth IRA is an individual retirement plan that, except as explained in this chapter, is subject to the rules that apply to a traditional IRA (defined next). It can be either an account or an annuity. Individual retirement accounts and annuities are described in chapter 1 under How Can a Traditional IRA Be Opened . Roth IRAs include Roth IRAs that receive employer contributions from SEP arrangements.
+
+To be a Roth IRA, the account or annuity must be designated as a Roth IRA when it is opened.
+
+Unlike a traditional IRA, you can’t deduct contributions to a Roth IRA. But, if you satisfy the requirements, qualified distributions (discussed in chapter 2 of Pub. 590-B) are tax free, and if you choose, you can leave amounts in your Roth IRA as long as you live.
+
+. Beginning in 2023, SEP and SIMPLE IRAs can be designated as Roth IRAs. .
+
+Traditional IRA.
+
+A traditional IRA is any IRA that isn’t a Roth IRA or SIMPLE IRA. Traditional IRAs are discussed in chapter 1 . SIMPLE IRAs are discussed in Pub. 560.
+
+When Can a Roth IRA Be Opened?
+
+You can open a Roth IRA at any time. However, the time for making contributions for any year is limited. See When Can You Make Contributions , later, under Can You Contribute to a Roth IRA .
+
+Can You Contribute to a Roth IRA?
+
+Generally, you can contribute to a Roth IRA if you have taxable compensation (defined later) and your modified AGI (defined later) is less than:
+
+-
+
+$246,000 for married filing jointly or qualifying surviving spouse;
+
+-
+
+$165,000 for single, head of household, or married filing separately and you didn’t live with your spouse at any time during the year; and
+
+-
+
+$10,000 for married filing separately and you lived with your spouse at any time during the year.
+
+. You may be able to claim a credit for contributions to your Roth IRA. For more information, see chapter 3 . .
+
+Is there an age limit for contributions?
+
+Contributions can be made to your Roth IRA regardless of your age.
+
+Can you contribute to a Roth IRA for your spouse?
+
+You can contribute to a Roth IRA for your spouse, provided the contributions satisfy the Kay Bailey Hutchison Spousal IRA limit discussed in chapter 1 under How Much Can Be Contributed , you file jointly, and your modified AGI is less than $246,000.
+
+Compensation.
+
+Compensation includes wages, salaries, tips, professional fees, bonuses, and other amounts received for providing personal services. It also includes commissions, self-employment income, nontaxable combat pay, military differential pay, taxable alimony and separate maintenance payments, and taxable non-tuition fellowship and stipend payments. For more information, see What Is Compensation under Who Can Open a Traditional IRA? in chapter 1.
+
+Modified AGI.
+
+Your modified AGI for Roth IRA purposes is your AGI as shown on your return with some adjustments. Use Worksheet 2-1 to determine your modified AGI.
+
+. Don’t subtract conversion income when figuring your other AGI-based phaseouts and taxable income, such as your deduction for medical and dental expenses. Subtract them from AGI only for the purpose of figuring your modified AGI for Roth IRA purposes. .
+
+How Much Can Be Contributed?
+
+The contribution limit for Roth IRAs generally depends on whether contributions are made only to Roth IRAs or to both traditional IRAs and Roth IRAs.
+
+Worksheet 2-1. Modified Adjusted Gross Income for Roth IRA Purposes
+
+Use this worksheet to figure your modified adjusted gross income for Roth IRA purposes.
+
+1. | Enter your adjusted gross income from Form 1040, 1040-SR, or 1040-NR, line 11a | 1. | _____
+2. | Enter any income resulting from the conversion of an IRA (other than a Roth IRA) to a Roth IRA (included on Form 1040, 1040-SR, or 1040-NR, line 4b) and a rollover from a qualified retirement plan to a Roth IRA (included on Form 1040, 1040-SR, or 1040-NR, line 5b) | 2. | _____
+3. | Subtract line 2 from line 1 | 3. | _____
+4. | Enter any traditional IRA deduction from Schedule 1 (Form 1040), line 20 | 4. | _____
+5. | Enter any student loan interest deduction from Schedule 1 (Form 1040), line 21 | 5. | _____
+6. | Enter any foreign earned income exclusion and/or housing exclusion from Form 2555, line 45 | 6. | _____
+7. | Enter any foreign housing deduction from Form 2555, line 50 | 7. | _____
+8. | Enter any excludable qualified savings bond interest from Form 8815, line 14 | 8. | _____
+9. | Enter any excluded employer-provided adoption benefits from Form 8839, line 30 | 9. | _____
+10. | Add the amounts on lines 3 through 9 | 10. | _____
+11. | Enter: $246,000 if married filing jointly or qualifying surviving spouse, $10,000 if married filing separately and you lived with your spouse at any time during the year, or $165,000 for all others | 11. | _____
+Is the amount on line 10 more than the amount on line 11? If “Yes,” see the Note below. If “No,” the amount on line 10 is your modified adjusted gross income for Roth IRA purposes.
+Note: If the amount on line 10 is more than the amount on line 11 and you have other income or loss items, such as social security income or passive activity losses, that are subject to AGI-based phaseouts, you can refigure your AGI solely for the purpose of figuring your modified AGI for Roth IRA purposes. (If you receive social security benefits, use Worksheet 1 in Appendix B to refigure your AGI.) Then, go to line 3 above in this Worksheet 2-1 to refigure your modified AGI. If you don’t have other income or loss items subject to AGI-based phaseouts, your modified adjusted gross income for Roth IRA purposes is the amount on line 10 above.
+
+Roth IRAs only.
+
+If contributions are made only to Roth IRAs, your contribution limit is generally the lesser of:
+
+-
+
+$7,000 ($8,000 if you are age 50 or older), or
+
+-
+
+Your taxable compensation.
+
+However, if your modified AGI is above a certain amount, your contribution limit may be reduced, as explained later under Contribution limit reduced .
+
+Roth IRAs and traditional IRAs.
+
+If contributions are made to both Roth IRAs and traditional IRAs established for your benefit, your contribution limit for Roth IRAs is generally the same as your limit would be if contributions were made only to Roth IRAs, but then reduced by all contributions for the year to all IRAs other than Roth IRAs. Employer contributions under a SEP arrangement or SIMPLE IRA plan don’t affect this limit.
+
+This means that your contribution limit is the lesser of:
+
+-
+
+$7,000 ($8,000 if you are age 50 or older) minus all contributions (other than employer contributions under a SEP arrangement or SIMPLE IRA plan) for the year to all IRAs other than Roth IRAs, or
+
+-
+
+Your taxable compensation minus all contributions (other than employer contributions under a SEP arrangement or SIMPLE IRA plan) for the year to all IRAs other than Roth IRAs.
+
+However, if your modified AGI is above a certain amount, your contribution limit may be reduced, as explained later under Contribution limit reduced .
+
+SEP arrangements and SIMPLE plans are discussed in Pub. 560.
+
+Repayment of reservist distributions.
+
+You can repay qualified reservist distributions even if the repayments would cause your total contributions to the Roth IRA to be more than the general limit on contributions. However, the total repayments can’t be more than the amount of your distribution.
+
+Note:
+
+If you make repayments of qualified reservist distributions to a Roth IRA, increase your basis in the Roth IRA by the amount of the repayment. For more information, see Qualified reservist repayments under How Much Can Be Contributed? in chapter 1.
+
+Contribution limit reduced.
+
+If your modified AGI is above a certain amount, your contribution limit is gradually reduced. Use Table 2-1 to determine if this reduction applies to you.
+
+Table 2-1. Effect of Modified AGI on Roth IRA Contribution
+
+This table shows whether your contribution to a Roth IRA is affected by the amount of your modified adjusted gross income (modified AGI).
+
+IF you have taxable compensation and your filing status is... | AND your modified AGI is... | THEN...
+married filing jointly or qualifying surviving spouse | less than $236,000 | you can contribute up to $7,000 ($8,000 if you are age 50 or older) as explained under How Much Can Be Contributed , earlier.
+at least $236,000 but less than $246,000 | the amount you can contribute is reduced as explained under Contribution limit reduced , earlier.
+$246,000 or more | you can’t contribute to a Roth IRA.
+married filing separately (and you lived with your spouse at any time during the year) | zero (-0-) | you can contribute up to $7,000 ($8,000 if you are age 50 or older) as explained under How Much Can Be Contributed , earlier.
+more than zero (-0-) but less than $10,000 | the amount you can contribute is reduced as explained under Contribution limit reduced , earlier.
+$10,000 or more | you can’t contribute to a Roth IRA.
+single, head of household, or married filing separately (and you didn’t live with your spouse at any time during the year) | less than $150,000 | you can contribute up to $7,000 ($8,000 if you are age 50 or older) as explained under How Much Can Be Contributed , earlier.
+at least $150,000 but less than $165,000 | the amount you can contribute is reduced as explained under Contribution limit reduced , earlier.
+$165,000 or more | you can’t contribute to a Roth IRA.
+
+Figuring the reduction.
+
+If the amount you can contribute must be reduced, use Worksheet 2-2 to figure your reduced contribution limit.
+
+Worksheet 2-2. Determining Your Reduced Roth IRA Contribution Limit
+
+Before using this worksheet, check Table 2-1 to determine whether or not your Roth IRA contribution limit is reduced. If it is, use this worksheet to determine how much it is reduced.
+
+1. | Enter your modified AGI for Roth IRA purposes (Worksheet 2-1, line 10) | 1. | _____
+2. | Enter: $236,000 if filing a joint return or qualifying surviving spouse, $-0- if married filing a separate return and you lived with your spouse at any time in 2025, or $150,000 for all others | 2. | _____
+3. | Subtract line 2 from line 1 | 3. | _____
+4. | Enter: $10,000 if filing a joint return or qualifying surviving spouse or married filing a separate return and you lived with your spouse at any time during the year, or $15,000 for all others | 4. | _____
+5. | Divide line 3 by line 4 and enter the result as a decimal (rounded to at least three places). If the result is 1.000 or more, enter 1.000 | 5. | _____
+6. | Enter the lesser of: $7,000 ($8,000 if you are age 50 or older), or Your taxable compensation | 6. | _____
+7. | Multiply line 5 by line 6 | 7. | _____
+8. | Subtract line 7 from line 6. Round the result up to the nearest $10. If the result is less than $200, enter $200 | 8. | _____
+9. | Enter contributions for the year to other IRAs | 9. | _____
+10. | Subtract line 9 from line 6 | 10. | _____
+11. | Enter the lesser of line 8 or line 10. This is your reduced Roth IRA contribution limit | 11. | _____
+
+. Round your reduced contribution limit up to the nearest $10. If your reduced contribution limit is more than $0, but less than $200, increase the limit to $200. .
+
+Example.
+
+You are a 45-year-old, single individual with taxable compensation of $150,000. You want to make the maximum allowable contribution to your Roth IRA for 2025. Your modified AGI for 2025 is $150,000. You haven’t contributed to any traditional IRA, so the maximum contribution limit before the modified AGI reduction is $7,000. You figure your reduced Roth IRA contribution of $6,530 as shown on Worksheet 2-2. Example—Illustrated .
+
+Worksheet 2-2. Example—Illustrated
+
+Before using this worksheet, check Table 2-1 to determine whether or not your Roth IRA contribution limit is reduced. If it is, use this worksheet to determine how much it is reduced.
+
+1. | Enter your modified AGI for Roth IRA purposes (Worksheet 2-1, line 10) | 1. | 151,000
+2. | Enter: $236,000 if filing a joint return or qualifying surviving spouse, $-0- if married filing a separate return and you lived with your spouse at any time in 2025, or $150,000 for all others | 2. | 150,000
+3. | Subtract line 2 from line 1 | 3. | 1,000
+4. | Enter: $10,000 if filing a joint return or qualifying surviving spouse or married filing a separate return and you lived with your spouse at any time during the year, or $15,000 for all others | 4. | 15,000
+5. | Divide line 3 by line 4 and enter the result as a decimal (rounded to at least three places). If the result is 1.000 or more, enter 1.000 | 5. | 0.067
+6. | Enter the lesser of: $7,000 ($8,000 if you are age 50 or older), or Your taxable compensation | 6. | 7,000
+7. | Multiply line 5 by line 6 | 7. | 469
+8. | Subtract line 7 from line 6. Round the result up to the nearest $10. If the result is less than $200, enter $200 | 8. | 6,540
+9. | Enter contributions for the year to other IRAs | 9. | 0
+10. | Subtract line 9 from line 6 | 10. | 7,000
+11. | Enter the lesser of line 8 or line 10. This is your reduced Roth IRA contribution limit | 11. | 6,540
+
+When Can You Make Contributions?
+
+You can make contributions to a Roth IRA for a year at any time during the year or by the due date of your return for that year (not including extensions).
+
+. You can make contributions for 2025 by the due date (not including extensions) for filing your 2025 tax return. This means that most people can make contributions for 2025 by April 15, 2026. .
+
+What if You Contribute Too Much?
+
+A 6% excise tax applies to any excess contribution to a Roth IRA.
+
+Excess contributions.
+
+These are the contributions to your Roth IRAs for a year that equal the total of:
+
+-
+
+Amounts contributed for the tax year to your Roth IRAs (other than amounts properly and timely rolled over from a Roth IRA or properly converted from a traditional IRA or rolled over from a qualified retirement plan , as described later) that are more than your contribution limit for the year (explained earlier under How Much Can Be Contributed ); plus
+
+-
+
+Any excess contributions for the preceding year, reduced by the total of:
+
+-
+
+Any distributions out of your Roth IRAs for the year, plus
+
+-
+
+Your contribution limit for the year minus your contributions to all your IRAs for the year.
+
+Withdrawal of excess contributions.
+
+For purposes of determining excess contributions, any contribution that is withdrawn on or before the due date (including extensions) for filing your tax return for the year is treated as an amount not contributed. This treatment only applies if any earnings on the contributions are also withdrawn. The earnings are considered earned and received in the year the excess contribution was made.
+
+If you timely filed your 2025 tax return without withdrawing a contribution that you made in 2025, you can still have the contribution returned to you within 6 months of the due date of your 2025 tax return, excluding extensions. If you do, file an amended return with “Filed pursuant to section 301.9100-2” written at the top. Report any related earnings on the amended return and include an explanation of the withdrawal. Make any other necessary changes on the amended return.
+
+Applying excess contributions.
+
+If contributions to your Roth IRA for a year were more than the limit, you can apply the excess contribution in 1 year to a later year if the contributions for that later year are less than the maximum allowed for that year.
+
+Can You Move Amounts Into a Roth IRA?
+
+You may be able to convert amounts from either a traditional or traditional SIMPLE IRA into a Roth IRA or Roth SIMPLE IRA. You may be able to roll over amounts from a qualified retirement plan to a Roth IRA. You may be able to recharacterize contributions made to one IRA as having been made directly to a different IRA. You can roll amounts over from a designated Roth account or from one Roth IRA to another Roth IRA.
+
+Conversions
+
+You can convert a traditional IRA to a Roth IRA. The conversion is treated as a rollover, regardless of the conversion method used. Most of the rules for rollovers, described in chapter 1 under Rollover From One IRA Into Another , apply to these rollovers. However, the 1-year waiting period doesn’t apply.
+
+Conversion methods.
+
+You can convert amounts from a traditional IRA to a Roth IRA in any of the following three ways.
+
+-
+
+Rollover. You can receive a distribution from a traditional IRA and roll it over (contribute it) to a Roth IRA within 60 days after the distribution.
+
+-
+
+Trustee-to-trustee transfer. You can direct the trustee of the traditional IRA to transfer an amount from the traditional IRA to the trustee of the Roth IRA.
+
+-
+
+Same trustee transfer. If the trustee of the traditional IRA also maintains the Roth IRA, you can direct the trustee to transfer an amount from the traditional IRA to the Roth IRA.
+
+Same trustee.
+
+Conversions made with the same trustee can be made by redesignating the traditional IRA as a Roth IRA, rather than opening a new account or issuing a new contract.
+
+Qualified tuition program rollover to a Roth IRA.
+
+Beginning with distributions made after December 31, 2023, a beneficiary of a section 529 qualified tuition program is permitted to roll over a distribution from the section 529 account to a Roth IRA for the beneficiary if certain requirements are met.
+
+-
+
+The rollover must be paid through a direct trustee-to-trustee transfer to a Roth IRA maintained for the benefit of the beneficiary.
+
+-
+
+The rollover amount for a year cannot be more than the Roth IRA annual contributions limit, and all such rollovers for the individual’s lifetime cannot exceed $35,000.
+
+-
+
+The rollover must be from a section 529 account that has been open for more than 15 years.
+
+-
+
+The distribution cannot exceed the aggregate amount contributed to the program (and earnings attributed to the contributed amount) before the 5-year period ending on the date of the distribution.
+
+A distribution made after December 31, 2025, and before April 15, 2026, that is rolled over to a Roth IRA by April 15, 2026, and designated for 2025 would be reported as a Roth IRA contribution for 2025.
+
+Income.
+
+You must include in your gross income distributions from a traditional IRA that you would have had to include in income if you hadn’t converted them into a Roth IRA. These amounts are normally included in income on your return for the year that you converted them from a traditional IRA to a Roth IRA.
+
+. If you must include any amount in your gross income, you may have to increase your withholding or make estimated tax payments. See Pub. 505. .
+
+More information.
+
+For more information on conversions, see Converting From Any Traditional IRA Into a Roth IRA in chapter 1.
+
+Rollover From Employer's Plan Into a Roth IRA
+
+You can roll over into a Roth IRA all or part of an eligible rollover distribution you receive from your (or your deceased spouse's):
+
+-
+
+Employer's qualified pension, profit-sharing, or stock bonus plan (including a 401(k) plan);
+
+-
+
+Annuity plan;
+
+-
+
+Tax-sheltered annuity plan (section 403(b) plan); or
+
+-
+
+Governmental deferred compensation plan (section 457 plan).
+
+Any amount rolled over is subject to the same rules for converting a traditional IRA into a Roth IRA. See Converting From Any Traditional IRA Into a Roth IRA in chapter 1. Also, the rollover contribution must meet the rollover requirements that apply to the specific type of retirement plan.
+
+Rollover methods.
+
+You can roll over amounts from a qualified retirement plan to a Roth IRA in one of the following ways.
+
+Rollover by nonspouse beneficiary.
+
+If you are a designated beneficiary (other than a surviving spouse) of a deceased employee, you can roll over all or part of an eligible rollover distribution from one of the types of plans listed earlier into a Roth IRA. You must make the rollover by a direct trustee-to-trustee transfer into an inherited Roth IRA.
+
+You will determine your RMDs in years after you make the rollover based on whether the employee died before their required beginning date for taking distributions from the plan. For more information, see Distributions after the employee’s death under Tax on Excess Accumulation in Pub. 575.
+
+Income.
+
+You must include in your gross income distributions from a qualified retirement plan that you would have had to include in income if you hadn’t rolled them over into a Roth IRA. You don’t include in gross income any part of a distribution from a qualified retirement plan that is a return of basis (after-tax contributions) to the plan that were taxable to you when paid. These amounts are normally included in income on your return for the year of the rollover from the qualified employer plan to a Roth IRA.
+
+. If you must include any amount in your gross income, you may have to increase your withholding or make estimated tax payments. See Pub. 505. .
+
+For more information on eligible rollover distributions from qualified retirement plans and withholding, see Rollover From Employer's Plan Into an IRA in chapter 1.
+
+Military Death Gratuities and Servicemembers' Group Life Insurance (SGLI) Payments
+
+If you received a military death gratuity or SGLI payment with respect to a death from injury that occurred after October 6, 2001, you can contribute (roll over) all or part of the amount received to your Roth IRA. The contribution is treated as a qualified rollover contribution.
+
+The amount you can roll over to your Roth IRA can’t exceed the total amount that you received reduced by any part of that amount that was contributed to a Coverdell ESA or another Roth IRA. Any military death gratuity or SGLI payment contributed to a Roth IRA is disregarded for purposes of the 1-year waiting period between rollovers.
+
+The rollover must be completed before the end of the 1-year period beginning on the date you received the payment.
+
+The amount contributed to your Roth IRA is treated as part of your cost basis (investment in the contract) in the Roth IRA that isn’t taxable when distributed.
+
+Rollover From a Roth IRA
+
+You can withdraw, tax free, all or part of the assets from one Roth IRA if you contribute them within 60 days to another Roth IRA. Most of the rules for rollovers, described in chapter 1 under Rollover From One IRA Into Another , apply to these rollovers. However, rollovers from retirement plans other than Roth IRAs are disregarded for purposes of the 1-year waiting period between rollovers.
+
+A rollover from a Roth IRA to an employer retirement plan isn’t allowed.
+
+A rollover from a designated Roth account can only be made to another designated Roth account or to a Roth IRA.
+
+If you roll over an amount from one Roth IRA to another Roth IRA, the 5-year period used to determine qualified distributions doesn’t change. The 5-year period begins with the first tax year for which the contribution was made to the initial Roth IRA. See What Are Qualified Distributions? in chapter 2 of Pub. 590-B.

@@ -1,0 +1,2237 @@
+IRS Pub 590-A (2025) | 1. Traditional IRAs
+
+1. Traditional IRAs
+
+Reminders
+
+Types of IRAs. An IRA can be either a traditional IRA or a Roth IRA. In general, individuals may make their own contributions to their traditional IRAs or Roth IRAs. In addition, certain employers have arrangements under which the employer may contribute to IRAs of their employees. Under a SEP arrangement, an employer contributes to traditional IRAs (sometimes referred to as traditional SEP IRAs) or Roth IRAs (sometimes referred to as Roth SEP IRAs) of its employees. Individuals may separately make their own contributions to the same IRAs to which their employer contributes under a SEP arrangement.Under a SIMPLE IRA plan, an employer contributes salary reduction contributions (at the election of the employee), matching contributions and/or nonelective contributions to traditional IRAs (sometimes referred to as traditional SIMPLE IRAs) or Roth IRAs (sometimes referred to as Roth SIMPLE IRAs) of its employees. However, a SIMPLE IRA (whether a traditional SIMPLE IRA or a Roth SIMPLE IRA) is subject to certain restrictions that do not generally apply to other traditional IRAs or Roth IRAs. For example, an individual cannot make their own contributions to a SIMPLE IRA. In addition, there are various restrictions related to distributions and contributions during the initial 2 years of participation in the SIMPLE IRA plan.References in this publication to traditional IRAs generally include traditional SEP IRAs but do not include traditional SIMPLE IRAs, unless otherwise stated. Likewise, references to Roth IRAs generally include Roth SEP IRAs but do not include Roth SIMPLE IRAs, unless otherwise stated.
+
+Introduction
+
+This chapter discusses the original IRA. In this publication, the original IRA (sometimes called an ordinary or regular IRA) is referred to as a “traditional IRA.” For purposes of this publication, a traditional IRA is any IRA that isn’t a Roth IRA or a SIMPLE IRA. Traditional IRAs include traditional IRAs that receive employer contributions from SEP arrangements. The following are two advantages of a traditional IRA.
+
+-
+
+You may be able to deduct some or all of your contributions to it, depending on your circumstances.
+
+-
+
+Generally, amounts in your IRA, including earnings and gains, aren’t taxed until they are distributed.
+
+Roth IRAs are discussed in chapter 2 . SIMPLE IRAs are discussed in Pub. 560. For a traditional IRA that receives employer contributions from a SEP arrangement, see Simplified Employee Pension (SEP) , later.
+
+Who Can Open a Traditional IRA?
+
+You can open and make contributions to a traditional IRA if you (or, if you file a joint return, your spouse) received taxable compensation during the year.
+
+You can have a traditional IRA whether or not you are covered by any other retirement plan. However, you may not be able to deduct all of your contributions if you or your spouse is covered by an employer retirement plan. See How Much Can You Deduct , later.
+
+. For tax years beginning after December 31, 2019, the rule that you are not able to make contributions to your traditional IRA for the year in which you reach age 70½ and all later years has been repealed. .
+
+Both spouses have compensation.
+
+If both you and your spouse have compensation, each of you can open an IRA. You can’t both participate in the same IRA. If you file a joint return, only one of you needs to have compensation.
+
+What Is Compensation?
+
+Generally, compensation is what you earn from working. For a summary of what compensation does and doesn’t include, see Table 1-1 . Compensation includes all of the items discussed next (even if you have more than one type).
+
+Wages, salaries, etc.
+
+Wages, salaries, tips, professional fees, bonuses, and other amounts you receive for providing personal services are compensation. The IRS treats as compensation any amount properly shown in box 1 (Wages, tips, other compensation) of Form W-2, Wage and Tax Statement, provided that amount is reduced by any amount properly shown in box 11 (Nonqualified plans). A scholarship or fellowship is generally taxable compensation only if it is in box 1 of your Form W-2. However, for tax years beginning after 2019, certain non-tuition fellowship and stipend payments not reported to you on Form W-2 are treated as taxable compensation for IRA purposes. These amounts include taxable non-tuition fellowship and stipend payments made to aid you in the pursuit of graduate or postdoctoral study and included in your gross income under the rules discussed in chapter 1 of Pub. 970, Tax Benefits for Education.
+
+Commissions.
+
+An amount you receive that is a percentage of profits or sales price is compensation.
+
+Self-employment income.
+
+If you are self-employed (a sole proprietor or a partner), compensation is the net earnings from your trade or business (provided your personal services are a material income-producing factor) reduced by the total of:
+
+-
+
+The deduction for contributions made on your behalf to retirement plans, and
+
+-
+
+The deduction allowed for the deductible part of your self-employment taxes.
+
+Compensation includes earnings from self-employment even if they aren’t subject to self-employment tax because of your religious beliefs.
+
+Self-employment loss.
+
+If you have a net loss from self-employment, don’t subtract the loss from your salaries or wages when figuring your total compensation.
+
+Alimony and separate maintenance.
+
+For IRA purposes, compensation includes any taxable alimony and separate maintenance payments you receive under a decree of divorce or separate maintenance but only with respect to divorce or separation instruments executed on or before December 31, 2018, that have not been modified to exclude such amounts.
+
+Nontaxable combat pay.
+
+If you were a member of the U.S. Armed Forces, compensation includes any nontaxable combat pay you received. This amount should be reported in box 12 of your 2025 Form W-2 with code Q.
+
+Graduate or postdoctoral study.
+
+A scholarship or fellowship is generally taxable compensation only if it is in box 1 of your Form W-2. However, for tax years beginning after 2019, certain non-tuition fellowship and stipend payments not reported to you on Form W-2 are treated as taxable compensation for IRA purposes. These amounts include taxable non-tuition fellowship and stipend payments made to aid you in the pursuit of graduate or postdoctoral study and included in your gross income under the rules discussed in chapter 1 of Pub. 970.
+
+Table 1-1. Compensation for Purposes of an IRA
+
+Includes ... | Doesn’t include ...
+earnings and profits from property.
+wages, salaries, etc.
+interest and dividend income.
+commissions.
+pension or annuity income.
+self-employment income.
+deferred compensation.
+taxable alimony and separate maintenance.
+income from certain partnerships.
+nontaxable combat pay.
+any amounts you exclude from income.
+taxable non-tuition fellowship and stipend payments.
+
+What Isn’t Compensation?
+
+Compensation doesn’t include any of the following items.
+
+-
+
+Earnings and profits from property, such as rental income, interest income, and dividend income.
+
+-
+
+Pension or annuity income.
+
+-
+
+Deferred compensation received (compensation payments postponed from a past year).
+
+-
+
+Income from a partnership for which you don’t provide services that are a material income-producing factor.
+
+-
+
+Conservation Reserve Program (CRP) payments reported on Schedule SE (Form 1040), line 1b.
+
+-
+
+Any amounts (other than combat pay) you exclude from income, such as foreign earned income and housing costs.
+
+When Can a Traditional IRA Be Opened?
+
+You can open a traditional IRA at any time. However, the time for making contributions for any year is limited. See When Can Contributions Be Made , later.
+
+How Can a Traditional IRA Be Opened?
+
+You can open different kinds of IRAs with a variety of organizations. You can open an IRA at a bank or other financial institution or with a mutual fund or life insurance company. You can also open an IRA through your stockbroker. Any IRA must meet Internal Revenue Code requirements. The requirements for the various arrangements are discussed below.
+
+Kinds of traditional IRAs.
+
+Your traditional IRA can be an individual retirement account or annuity. It can be an employer or employee association trust account. A traditional IRA can also be used to accept employer contributions under a SEP arrangement (sometimes referred to as a traditional SEP IRA).
+
+Individual Retirement Account
+
+An individual retirement account is a trust or custodial account set up in the United States for the exclusive benefit of you or your beneficiaries. The account is created by a written document. The document must show that the account meets all of the following requirements.
+
+Individual Retirement Annuity
+
+You can open an individual retirement annuity by purchasing an annuity contract or an endowment contract from a life insurance company.
+
+An individual retirement annuity must be issued in your name as the owner, and either you or your beneficiaries who survive you are the only ones who can receive the benefits or payments.
+
+An individual retirement annuity must meet all the following requirements.
+
+-
+
+Your entire interest in the contract must be nonforfeitable.
+
+-
+
+The contract must provide that you can’t transfer any portion of it to any person other than the issuer.
+
+-
+
+There must be flexible premiums so that if your compensation changes, your payment can also change. This provision applies to contracts issued after November 6, 1978.
+
+-
+
+The contract must provide that contributions can’t be more than the deductible amount for an IRA for the year, and that you must use any refunded premiums to pay for future premiums or to buy more benefits before the end of the calendar year after the year in which you receive the refund.
+
+-
+
+Distributions must begin by April 1 of the year following the year in which you reach age 73. See Pub. 590-B for more information about RMDs and other distribution rules.
+
+Individual Retirement Bonds
+
+The sale of individual retirement bonds issued by the federal government was suspended after April 30, 1982. The bonds have the following features.
+
+-
+
+They stop earning interest when you reach age 70½. If you die, interest will stop 5 years after your death, or on the date you would have reached age 70½, whichever is earlier.
+
+-
+
+You can’t transfer the bonds.
+
+If you cash (redeem) the bonds before the year in which you reach age 59½, you may be subject to a 10% additional tax. See Pub. 590-B for more information about the age 59½ rule for early distributions and other distribution rules. You can roll over redemption proceeds into IRAs.
+
+SIMPLE IRA Plans and SIMPLE IRAs
+
+A SIMPLE IRA plan is a tax-favored retirement plan that certain small employers (including self-employed employees) can set up for the benefit of their employees. Contributions to the employees’ SIMPLE IRA are made by the employers and are made up of salary reduction contributions and employer contributions which are either matching contributions or nonelective contributions. A SIMPLE IRA can be either a traditional SIMPLE IRA or a Roth SIMPLE IRA but are subject to different rules than traditional or Roth IRAs. See Pub. 560 for more information about SIMPLE IRA plans and SIMPLE IRAs.
+
+Simplified Employee Pension (SEP) Arrangements and SIMPLE IRAs
+
+A SEP arrangement is a written plan that allows an employer to make contributions to an employee’s traditional SEP IRA or Roth SEP IRA. Employer contributions to SEP IRAs are subject to different limits than individual contributions to traditional and Roth IRAs. Distributions from SEP IRAs are subject to traditional and Roth IRA rules. See Pub. 560 for more information about SEP arrangements and SIMPLE IRAs.
+
+Employer and Employee Association Trust Accounts
+
+Your employer or your labor union or other employee association can set up a trust to provide individual retirement accounts for employees or members, provided certain requirements are met (such as separate accounting). The requirements for individual retirement accounts apply to these traditional and Roth IRAs.
+
+Required Disclosures
+
+The trustee or issuer (sometimes called the sponsor) of your traditional IRA must generally give you a disclosure statement at least 7 days before you open your IRA. However, the sponsor doesn’t have to give you the statement until the date you open (or purchase, if earlier) your IRA, provided you are given at least 7 days from that date to revoke the IRA.
+
+The disclosure statement must explain certain items in plain language. For example, the statement should explain when and how you can revoke the IRA, and include the name, address, and telephone number of the person to receive the notice of cancellation. This explanation must appear at the beginning of the disclosure statement.
+
+If you revoke your IRA within the revocation period, the sponsor must return to you the entire amount you paid. The sponsor must report on the appropriate IRS forms both your contribution to the IRA (unless it was made by a trustee-to-trustee transfer) and the amount returned to you. These requirements apply to all sponsors.
+
+How Much Can Be Contributed?
+
+There are limits and other rules that affect the amount that can be contributed to a traditional IRA. These limits and rules are explained below.
+
+Community property laws.
+
+Except as discussed later under Kay Bailey Hutchison Spousal IRA Limit , each spouse figures their limit separately, using their own compensation. This is the rule even in states with community property laws.
+
+Brokers' commissions.
+
+Brokers' commissions paid in connection with your traditional IRA are subject to the contribution limit. For information about whether you can deduct brokers' commissions, see Brokers' commissions , later, under How Much Can You Deduct .
+
+Trustees' fees.
+
+Trustees' administrative fees aren’t subject to the contribution limit. For information about whether you can deduct trustees' fees, see Trustees' fees , later, under How Much Can You Deduct .
+
+Qualified reservist repayments.
+
+If you were a member of a reserve component and you were ordered or called to active duty after September 11, 2001, you may be able to contribute (repay) to an IRA amounts equal to any qualified reservist distributions (defined under Early Distributions in Pub. 590-B) you received. You can make these repayment contributions even if they would cause your total contributions to the IRA to be more than the general limit on contributions. To be eligible to make these repayment contributions, you must have received a qualified reservist distribution from an IRA or from a section 401(k) or 403(b) plan or a similar arrangement. See Early Distributions in Pub. 590-B for more information on qualified reservist distributions.
+
+Limit.
+
+Your qualified reservist repayments can’t be more than your qualified reservist distributions.
+
+When repayment contributions can be made.
+
+You can’t make these repayment contributions later than the date that is 2 years after your active duty period ends.
+
+No deduction.
+
+You can’t deduct qualified reservist repayments.
+
+Reserve component.
+
+The term “reserve component” means the:
+
+-
+
+Army National Guard of the United States,
+
+-
+
+Army Reserve,
+
+-
+
+Naval Reserve,
+
+-
+
+Marine Corps Reserve,
+
+-
+
+Air National Guard of the United States,
+
+-
+
+Air Force Reserve,
+
+-
+
+Coast Guard Reserve, or
+
+-
+
+Reserve Corps of the Public Health Service.
+
+Figuring your IRA deduction.
+
+The repayment of qualified reservist distributions doesn’t affect the amount you can deduct as an IRA contribution.
+
+Reporting the repayment.
+
+If you repay a qualified reservist distribution, include the amount of the repayment with nondeductible contributions on line 1 of Form 8606.
+
+Example.
+
+In 2025, your IRA contribution limit is $7,000. However, because of your filing status and AGI, the limit on the amount you can deduct is $3,500. You can make a nondeductible contribution of $3,500 ($7,000 – $3,500). In an earlier year, you received a $3,000 qualified reservist distribution, which you would like to repay this year.
+
+For 2025, you can contribute a total of $10,000 to your IRA. This is made up of the maximum deductible contribution of $3,500; a nondeductible contribution of $3,500; and a $3,000 qualified reservist repayment. You contribute the maximum allowable for the year. Because you are making a nondeductible contribution ($3,500) and a qualified reservist repayment ($3,000), you must file Form 8606 with your return and include $6,500 ($3,500 + $3,000) on line 1 of Form 8606. The qualified reservist repayment isn’t deductible.
+
+. Contributions on your behalf to a traditional IRA reduce your limit for contributions to a Roth IRA. See chapter 2 for information about Roth IRAs. .
+
+General Limit
+
+For 2025, the most that can be contributed to your traditional IRA is generally the smaller of the following amounts.
+
+Note:
+
+This limit is reduced by any contributions to a section 501(c)(18) plan (generally, a pension plan created before June 25, 1959, that is funded entirely by employee contributions).
+
+This is the most that can be contributed regardless of whether the contributions are to one or more traditional IRAs or whether all or part of the contributions are nondeductible. (See Nondeductible Contributions , later.) Qualified reservist repayments don’t affect this limit.
+
+Examples.
+
+Gina, who is 34 years old and single, earns $24,000 in 2025. Her IRA contributions for 2025 are limited to $7,000.
+
+Danny, an unmarried college student working part time, earns $3,500 in 2025. His IRA contributions for 2025 are limited to $3,500, the amount of his compensation.
+
+More than one IRA.
+
+If you have more than one IRA, the limit applies to the total contributions made on your behalf to all your traditional IRAs for the year.
+
+Annuity or endowment contracts.
+
+If you invest in an annuity or endowment contract under an individual retirement annuity, no more than $7,000 ($8,000 if you are age 50 or older) can be contributed toward its cost for the tax year, including the cost of life insurance coverage. If more than this amount is contributed, the annuity or endowment contract is disqualified.
+
+Kay Bailey Hutchison Spousal IRA Limit
+
+For 2025, if you file a joint return and your taxable compensation is less than that of your spouse, the most that can be contributed for the year to your IRA is the smaller of the following two amounts.
+
+-
+
+$7,000 ($8,000 if you are age 50 or older).
+
+-
+
+The total compensation includible in the gross income of both you and your spouse for the year, reduced by the following two amounts.
+
+-
+
+Your spouse's IRA contribution for the year to a traditional IRA.
+
+-
+
+Any contributions for the year to a Roth IRA on behalf of your spouse.
+
+This means that the total combined contributions that can be made for the year to your IRA and your spouse's IRA can be as much as $14,000 ($15,000 if only one of you is age 50 or older, or $16,000 if both of you are age 50 or older).
+
+Note:
+
+This traditional IRA limit is reduced by any contributions to a section 501(c)(18) plan (generally, a pension plan created before June 25, 1959, that is funded entirely by employee contributions).
+
+Example.
+
+You are a full-time student with no taxable compensation and marry during the year. Neither you nor your spouse are at least age 50 by the end of 2025. Your spouse has taxable compensation of $30,000. Your spouse plans to contribute (and deduct) $7,000 to a traditional IRA. If you and your spouse file a joint return, you and your spouse can each contribute $7,000 to a traditional IRA. Because you have no compensation, you can add your spouse’s compensation, reduced by the amount of your spouse’s IRA contribution ($30,000 – $7,000 = $23,000), to your compensation (-0-) to figure your maximum contribution to a traditional IRA. In your case, $7,000 is your contribution limit, because $7,000 is less than $23,000 (your compensation for purposes of figuring your contribution limit).
+
+Filing Status
+
+Generally, except as discussed earlier under Kay Bailey Hutchison Spousal IRA Limit , your filing status has no effect on the amount of allowable contributions to your traditional IRA. However, if during the year either you or your spouse was covered by a retirement plan at work, your deduction may be reduced or eliminated, depending on your filing status and income. See How Much Can You Deduct , later.
+
+Example.
+
+You and your spouse are both age 53. You both work and you both have a traditional IRA. You earned $3,800 and your spouse earned $48,000 in 2025. Because of the Kay Bailey Hutchison Spousal IRA limit rule, even though you earned less than $8,000, you can contribute up to $8,000 to your IRA for 2025 if you file a joint return. Your spouse can contribute up to $8,000 to their IRA. If you file separate returns, the amount that can be contributed to your IRA is limited by your earned income, $3,800.
+
+Less Than Maximum Contributions
+
+If contributions to your traditional IRA for a year were less than the limit, you can’t contribute more after the due date of your return for that year to make up the difference.
+
+Example.
+
+You are age 40 and earn $30,000 in 2025. Although you can contribute up to $7,000 for 2025, you contribute only $3,000. After April 15, 2026, you can’t make up the difference between your actual contributions for 2025 ($3,000) and your 2025 limit ($7,000). You can’t contribute $4,000 more than the limit for any later year.
+
+More Than Maximum Contributions
+
+If contributions to your IRA for a year were more than the limit, you can apply the excess contribution in one year to a later year if the contributions for that later year are less than the maximum allowed for that year. However, a penalty or additional tax may apply. See Excess Contributions , later, under What Acts Result in Penalties or Additional Taxes .
+
+When Can Contributions Be Made?
+
+As soon as you open your traditional IRA, contributions can be made to it through your chosen sponsor (trustee or other administrator). Contributions must be in the form of money (cash, check, or money order). Property can’t be contributed.
+
+Although property can’t be contributed, your IRA may invest in certain property. For example, your IRA may purchase shares of stock. For other restrictions on the use of funds in your IRA, see Prohibited Transactions , later in this chapter. You may be able to transfer or roll over certain property from one retirement plan to another. See the discussion of rollovers and other transfers later in this chapter under Can You Move Retirement Plan Assets .
+
+. You can make a contribution to your IRA by having your income tax refund (or a portion of your refund), if any, paid directly to your traditional IRA or Roth IRA. For details, see the instructions for your income tax return or Form 8888, Allocation of Refund. .
+
+Contributions can be made to your traditional IRA for each year that you receive compensation. For any year in which you don’t work, contributions can’t be made to your IRA unless you receive taxable alimony, nontaxable combat pay, or military differential pay, or file a joint return with a spouse who has compensation. See Who Can Open a Traditional IRA , earlier. Even if contributions can’t be made for the current year, the amounts contributed for years in which you did qualify can remain in your IRA. Contributions can resume for any years that you qualify.
+
+Contributions must be made by due date.
+
+Contributions can be made to your traditional IRA for a year at any time during the year or by the due date for filing your return for that year, not including extensions. For most people, this means that contributions for 2025 must be made by April 15, 2026.
+
+. For tax years beginning after 2019, the rule that you are not able to make contributions to your traditional IRA for the year in which you reach age 70½ and all later years has been repealed. .
+
+Designating year for which contribution is made.
+
+If an amount is contributed to your traditional IRA between January 1 and April 15, you should tell the sponsor which year (the current year or the previous year) the contribution is for. If you don’t tell the sponsor which year it is for, the sponsor can assume, and report to the IRS, that the contribution is for the current year (the year the sponsor received it).
+
+Filing before a contribution is made.
+
+You can file your return claiming a traditional IRA contribution before the contribution is actually made. Generally, the contribution must be made by the due date of your return, not including extensions.
+
+Contributions not required.
+
+You don’t have to contribute to your traditional IRA for every tax year, even if you can.
+
+How Much Can You Deduct?
+
+Generally, you can deduct the lesser of:
+
+However, if you or your spouse was covered by an employer retirement plan, you may not be able to deduct this amount. See Limit if Covered by Employer Plan , later.
+
+. You may be able to claim a credit for contributions to your traditional IRA. For more information, see chapter 3 . .
+
+Trustees' fees.
+
+Trustees' administrative fees that are billed separately and paid in connection with your traditional IRA aren’t deductible as IRA contributions. You are also not able to deduct these fees as an itemized deduction.
+
+Brokers' commissions.
+
+These commissions are part of your IRA contribution and, as such, are deductible subject to the limits.
+
+Full deduction.
+
+If neither you nor your spouse was covered for any part of the year by an employer retirement plan, you can take a deduction for total contributions to one or more of your traditional IRAs of up to the lesser of:
+
+-
+
+$7,000 ($8,000 if you are age 50 or older), or
+
+-
+
+100% of your compensation.
+
+This limit is reduced by any contributions made to a section 501(c)(18) plan on your behalf.
+
+Kay Bailey Hutchison Spousal IRA.
+
+In the case of a married couple with unequal compensation who file a joint return, the deduction for contributions to the traditional IRA of the spouse with less compensation is limited to the lesser of:
+
+-
+
+$7,000 ($8,000 if the spouse with the lower compensation is age 50 or older), or
+
+-
+
+The total compensation includible in the gross income of both spouses for the year reduced by the following three amounts.
+
+-
+
+The IRA deduction for the year of the spouse with the greater compensation.
+
+-
+
+Any designated nondeductible contribution for the year made on behalf of the spouse with the greater compensation.
+
+-
+
+Any contributions for the year to a Roth IRA on behalf of the spouse with the greater compensation.
+
+This limit is reduced by any contributions to a section 501(c)(18) plan on behalf of the spouse with the lesser compensation.
+
+Note:
+
+If you were divorced or legally separated (and didn’t remarry) before the end of the year, you can’t deduct any contributions to your spouse's IRA. After a divorce or legal separation, you can deduct only the contributions to your own IRA. Your deductions are subject to the rules for single individuals.
+
+Covered by an employer retirement plan.
+
+If you or your spouse was covered by an employer retirement plan at any time during the year for which contributions were made, your deduction may be further limited. This is discussed later under Limit if Covered by Employer Plan . Limits on the amount you can deduct don’t affect the amount that can be contributed.
+
+Are You Covered by an Employer Plan?
+
+The Form W-2 you receive from your employer has a box used to indicate whether you were covered for the year. The “Retirement plan” box should be checked if you were covered.
+
+Reservists and volunteer firefighters should also see Situations in Which You Aren’t Covered , later.
+
+If you aren’t certain whether you were covered by your employer's retirement plan, you should ask your employer.
+
+Federal judges.
+
+For purposes of the IRA deduction, federal judges are covered by an employer plan.
+
+For Which Year(s) Are You Covered?
+
+Special rules apply to determine the tax years for which you are covered by an employer plan. These rules differ depending on whether the plan is a defined contribution plan or a defined benefit plan.
+
+Tax year.
+
+Your tax year is the annual accounting period you use to keep records and report income and expenses on your income tax return. For almost all people, the tax year is the calendar year.
+
+Defined contribution plan.
+
+Generally, you are covered by a defined contribution plan for a tax year if amounts are contributed or allocated to your account for the plan year that ends with or within that tax year. However, also see Situations in Which You Aren’t Covered , later.
+
+A defined contribution plan is a plan that provides for a separate account for each person covered by the plan. In a defined contribution plan, the amount to be contributed to each participant's account is spelled out in the plan. The level of benefits actually provided to a participant depends on the total amount contributed to that participant's account and any earnings and losses on those contributions. Types of defined contribution plans include profit-sharing plans, stock bonus plans, and money purchase pension plans.
+
+Example.
+
+Company A has a money purchase pension plan. Its plan year is from July 1 to June 30. The plan provides that contributions must be allocated as of June 30. An employee leaves Company A on December 31, 2024. The contribution for the plan year ending on June 30, 2025, is made February 15, 2026. Because an amount is contributed to the employee’s account for the plan year, this employee is covered by the plan for their 2025 tax year.
+
+Note:
+
+A special rule applies to certain plans in which it isn’t possible to determine if an amount will be contributed to your account for a given plan year. If, for a plan year, no amounts have been allocated to your account that are attributable to employer contributions, employee contributions, or forfeitures, by the last day of the plan year, and contributions are discretionary for the plan year, you aren’t covered for the tax year in which the plan year ends. If, after the plan year ends, the employer makes a contribution for that plan year, you are covered for the tax year in which the contribution is made.
+
+Example.
+
+You were covered by a profit-sharing plan and left the company on December 31, 2024. The plan year runs from July 1 to June 30. Under the terms of the plan, employer contributions don’t have to be made, but if they are made, they are contributed to the plan before the due date for filing the company's tax return. Such contributions are allocated as of the last day of the plan year, and allocations are made to the accounts of individuals who have any service during the plan year. As of June 30, 2025, no contributions were made that were allocated to the June 30, 2025, plan year, and no forfeitures had been allocated within the plan year. In addition, as of that date, the company wasn’t obligated to make a contribution for such plan year, and it was impossible to determine whether or not a contribution would be made for the plan year. On December 31, 2025, the company decided to contribute to the plan for the plan year ending June 30, 2025. That contribution was made on February 15, 2026. You are an active participant in the plan for your 2026 tax year but not for your 2025 tax year.
+
+No vested interest.
+
+If an amount is allocated to your account for a plan year, you are covered by that plan even if you have no vested interest in (legal right to) the account.
+
+Defined benefit plan.
+
+If you are eligible to participate in your employer's defined benefit plan for the plan year that ends within your tax year, you are covered by the plan. This rule applies even if you:
+
+-
+
+Declined to participate in the plan,
+
+-
+
+Didn’t make a required contribution, or
+
+-
+
+Didn’t perform the minimum service required to accrue a benefit for the year.
+
+A defined benefit plan is any plan that isn’t a defined contribution plan. In a defined benefit plan, the level of benefits to be provided to each participant is spelled out in the plan. The plan administrator figures the amount needed to provide those benefits, and those amounts are contributed to the plan. Defined benefit plans include pension plans and annuity plans.
+
+Example.
+
+You are an employee of Company B and are eligible to participate in Company B's defined benefit plan, which has a July 1 to June 30 plan year. You leave Company B on December 31, 2024. Because you are eligible to participate in the plan for its year ending June 30, 2025, you are covered by the plan for your 2025 tax year.
+
+No vested interest.
+
+If you accrue a benefit for a plan year, you are covered by that plan even if you have no vested interest in (legal right to) the accrual.
+
+Situations in Which You Aren’t Covered
+
+Unless you are covered by another employer plan, you aren’t covered by an employer plan if you are in one of the situations described below.
+
+Social security or railroad retirement.
+
+Coverage under social security or railroad retirement isn’t coverage under an employer retirement plan.
+
+Benefits from previous employer's plan.
+
+If you receive retirement benefits from a previous employer's plan, you aren’t covered by that plan.
+
+Reservists.
+
+If the only reason you participate in a plan is because you are a member of a reserve unit of the Armed Forces, you may not be covered by the plan. You aren’t covered by the plan if both of the following conditions are met.
+
+-
+
+The plan you participate in is established for its employees by:
+
+-
+
+The United States,
+
+-
+
+A state or political subdivision of a state, or
+
+-
+
+An instrumentality of either (a) or (b) above.
+
+-
+
+You didn’t serve more than 90 days on active duty during the year (not counting duty for training).
+
+Volunteer firefighters.
+
+If the only reason you participate in a plan is because you are a volunteer firefighter, you may not be covered by the plan. You aren’t covered by the plan if both of the following conditions are met.
+
+-
+
+The plan you participate in is established for its employees by:
+
+-
+
+The United States,
+
+-
+
+A state or political subdivision of a state, or
+
+-
+
+An instrumentality of either (a) or (b) above.
+
+-
+
+Your accrued retirement benefits at the beginning of the year won’t provide more than $1,800 per year at retirement.
+
+Limit if Covered by Employer Plan
+
+As discussed earlier , the deduction you can take for contributions made to your traditional IRA depends on whether you or your spouse was covered for any part of the year by an employer retirement plan. Your deduction is also affected by how much income you had and by your filing status. Your deduction may also be affected by social security benefits you received.
+
+Reduced or no deduction.
+
+If either you or your spouse was covered by an employer retirement plan, you may be entitled to only a partial (reduced) deduction or no deduction at all, depending on your income and your filing status.
+
+Your deduction begins to decrease (phase out) when your income rises above a certain amount and is eliminated altogether when it reaches a higher amount. These amounts vary depending on your filing status.
+
+To determine if your deduction is subject to the phaseout, you must determine your modified AGI and your filing status, as explained later under Deduction Phaseout . Once you have determined your modified AGI and your filing status, you can use Table 1-2 or Table 1-3 to determine if the phaseout applies.
+
+Social Security Recipients
+
+Instead of using Table 1-2 or Table 1-3 and Worksheet 1-2 , complete the worksheets in Appendix B of this publication if, for the year, all of the following apply.
+
+-
+
+You received social security benefits.
+
+-
+
+You received taxable compensation.
+
+-
+
+Contributions were made to your traditional IRA.
+
+-
+
+You or your spouse was covered by an employer retirement plan.
+
+Use the worksheets in Appendix B to figure your IRA deduction, your nondeductible contribution, and the taxable portion, if any, of your social security benefits. Appendix B includes an example with filled-in worksheets to assist you.
+
+Table 1-2. Effect of Modified AGI 1 on Deduction if You Are Covered by a Retirement Plan at Work
+
+If you are covered by a retirement plan at work, use this table to determine if your modified AGI affects the amount of your deduction.
+
+IF your filing status is... | AND your modified AGI is... | THEN you can take...
+single or head of household | $79,000 or less | a full deduction.
+more than $79,000 but less than $89,000 | a partial deduction.
+$89,000 or more | no deduction.
+married filing jointly or qualifying surviving spouse | $126,000 or less | a full deduction.
+more than $126,000 but less than $146,000 | a partial deduction.
+$146,000 or more | no deduction.
+married filing separately 2 | less than $10,000 | a partial deduction.
+$10,000 or more | no deduction.
+
+1 Modified AGI (adjusted gross income). See Modified adjusted gross income (AGI) , earlier. 2 If you didn’t live with your spouse at any time during the year, your filing status is considered Single for this purpose (therefore, your IRA deduction is determined under the “Single” filing status).
+
+Table 1-3. Effect of Modified AGI 1 on Deduction if You Aren’t Covered by a Retirement Plan at Work
+
+If you aren’t covered by a retirement plan at work, use this table to determine if your modified AGI affects the amount of your deduction.
+
+IF your filing status is... | AND your modified AGI is... | THEN you can take...
+single, head of household, or qualifying surviving spouse | any amount | a full deduction.
+married filing jointly or separately with a spouse who isn’t covered by a plan at work | any amount | a full deduction.
+married filing jointly with a spouse who is covered by a plan at work | $236,000 or less | a full deduction.
+more than $236,000 but less than $246,000 | a partial deduction.
+$246,000 or more | no deduction.
+married filing separately with a spouse who is covered by a plan at work 2 | less than $10,000 | a partial deduction.
+$10,000 or more | no deduction.
+
+1 Modified AGI (adjusted gross income). See Modified adjusted gross income (AGI) , earlier. 2 You are entitled to the full deduction if you didn’t live with your spouse at any time during the year.
+
+Deduction Phaseout
+
+The amount of any reduction in the limit on your IRA deduction (phaseout) depends on whether you or your spouse was covered by an employer retirement plan.
+
+Covered by a retirement plan.
+
+If you are covered by an employer retirement plan and you didn’t receive any social security retirement benefits, your IRA deduction may be reduced or eliminated depending on your filing status and modified AGI, as shown in Table 1-2 .
+
+If your spouse is covered.
+
+If you aren’t covered by an employer retirement plan, but your spouse is, and you didn’t receive any social security benefits, your IRA deduction may be reduced or eliminated entirely depending on your filing status and modified AGI as shown in Table 1-3 .
+
+Filing status.
+
+Your filing status depends primarily on your marital status. For this purpose, you need to know if your filing status is single or head of household, married filing jointly or qualifying surviving spouse, or married filing separately. If you need more information on filing status, see Pub. 501, Dependents, Standard Deduction, and Filing Information.
+
+Lived apart from spouse.
+
+If you didn’t live with your spouse at any time during the year and you file a separate return, your filing status, for this purpose, is single.
+
+Modified AGI.
+
+You can use Worksheet 1-1 to figure your modified AGI. If you made contributions to your IRA for 2025 and received a distribution from your IRA in 2025, see Both contributions for 2025 and distributions in 2025 , later.
+
+. Don’t assume that your modified AGI is the same as your compensation. Your modified AGI may include income in addition to your compensation (discussed earlier) such as interest, dividends, and income from IRA distributions. .
+
+Form 1040 or 1040-SR.
+
+If you file Form 1040 or 1040-SR, refigure the amount on line 11a, the “adjusted gross income” line, without taking into account any of the following amounts.
+
+-
+
+IRA deduction.
+
+-
+
+Student loan interest deduction.
+
+-
+
+Foreign earned income exclusion.
+
+-
+
+Foreign housing exclusion or deduction.
+
+-
+
+Exclusion of qualified savings bond interest shown on Form 8815.
+
+-
+
+Exclusion of employer-provided adoption benefits shown on Form 8839.
+
+This is your modified AGI.
+
+Form 1040-NR.
+
+If you file Form 1040-NR, refigure the amount on line 11a, the “adjusted gross income” line, without taking into account any of the following amounts.
+
+-
+
+IRA deduction.
+
+-
+
+Student loan interest deduction.
+
+-
+
+Exclusion of qualified savings bond interest shown on Form 8815.
+
+-
+
+Exclusion of employer-provided adoption benefits shown on Form 8839.
+
+This is your modified AGI.
+
+Income from IRA distributions.
+
+If you received distributions in 2025 from one or more traditional IRAs and your traditional IRAs include only deductible contributions, your distributions are fully taxable and are included in your modified AGI. See Pub. 590-B for more information on distributions.
+
+Both contributions for 2025 and distributions in 2025.
+
+If all three of the following apply, any IRA distributions you received in 2025 may be partly tax free and partly taxable.
+
+If this is your situation, you must figure the taxable part of the traditional IRA distribution before you can figure your modified AGI. To do this, you can use Worksheet 1-1 in Pub. 590-B.
+
+If at least one of the above doesn’t apply, figure your modified AGI using Worksheet 1-1 .
+
+How To Figure Your Reduced IRA Deduction
+
+If you or your spouse is covered by an employer retirement plan and you didn’t receive any social security benefits, you can figure your reduced IRA deduction by using Worksheet 1-2 . The Instructions for Form 1040 include a similar worksheet that you can use instead of the worksheet in this publication.
+
+If you or your spouse is covered by an employer retirement plan, and you received any social security benefits, see Social Security Recipients , earlier.
+
+Note:
+
+If you were married and both you and your spouse contributed to an IRA, figure your deduction and your spouse's deduction separately.
+
+Worksheet 1-1. Figuring Your Modified AGI
+
+Use this worksheet to figure your modified AGI for traditional IRA purposes.
+
+1. | Enter your adjusted gross income (AGI) from Form 1040, 1040-SR, or Form 1040-NR, line 11a, figured without taking into account the amount from Schedule 1 (Form 1040), line 20 | 1. | _____
+2. | Enter any student loan interest deduction from Schedule 1 (Form 1040), line 21 | 2. | _____
+3. | Enter any foreign earned income exclusion and/or housing exclusion from Form 2555, line 45 | 3. | _____
+4. | Enter any foreign housing deduction from Form 2555, line 50 | 4. | _____
+5. | Enter any excludable savings bond interest from Form 8815, line 14 | 5. | _____
+6. | Enter any excluded employer-provided adoption benefits from Form 8839, line 30 | 6. | _____
+7. | Add lines 1 through 6. This is your modified AGI for traditional IRA purposes | 7. | _____
+
+Reporting Deductible Contributions
+
+If you file Schedule 1 (Form 1040), enter your IRA deduction on line 20 of that form.
+
+Self-employed.
+
+If you are self-employed (a sole proprietor or partner) and have a SIMPLE IRA, enter your deduction for allowable plan contributions on Schedule 1 (Form 1040), line 16.
+
+Nondeductible Contributions
+
+Although your deduction for IRA contributions may be reduced or eliminated, contributions can be made to your IRA of up to the general limit or, if it applies, the Kay Bailey Hutchison Spousal IRA limit . The difference between your total permitted contributions and your IRA deduction, if any, is your nondeductible contribution.
+
+Example.
+
+You are 29 years old and single. In 2025, you were covered by a retirement plan at work. Your salary is $72,000. Your modified AGI is $90,000. You make a $7,000 IRA contribution for 2025. Because you were covered by a retirement plan and your modified AGI is above $89,000, you can’t deduct your $7,000 IRA contribution. You must designate this contribution as a nondeductible contribution by reporting it on Form 8606.
+
+Repayment of reservist distributions.
+
+Nondeductible contributions may include repayments of qualified reservist distributions. For more information, see Qualified reservist repayments under How Much Can Be Contributed , earlier.
+
+Difficulty of care payments.
+
+For contributions after December 20, 2019, you are able to elect to increase the nondeductible IRA contribution limit by some or all of the amount of difficulty of care payments, which are a type of qualified foster care payment, received. If you receive difficulty of care payments, then those amounts may increase the amount of nondeductible IRA contributions you can make but not above the $7,000 IRA deductible amount ($8,000 if you are age 50 or older). The increase to the nondeductible IRA contribution limit equals the lesser of (i) the amount of difficulty of care payments excluded from gross income, or (ii) the amount by which the deductible limit for IRA contributions exceeds the amount of the taxpayer's compensation included in gross income for the tax year.
+
+Form 8606.
+
+To designate contributions as nondeductible, you must file Form 8606.
+
+You don’t have to designate a contribution as nondeductible until you file your tax return. When you file, you can even designate otherwise deductible contributions as nondeductible contributions.
+
+You must file Form 8606 to report nondeductible contributions even if you don’t have to file a tax return for the year.
+
+. A Form 8606 isn’t used for the year that you make a rollover from a qualified retirement plan to a traditional IRA and the rollover includes nontaxable amounts. In those situations, a Form 8606 is completed for the year you take a distribution from that IRA. See Form 8606 under Distributions Fully or Partly Taxable in Pub. 590-B. .
+
+Failure to report nondeductible contributions.
+
+If you don’t report nondeductible contributions, all of the contributions to your traditional IRA will be treated like deductible contributions when withdrawn. All distributions from your IRA will be taxed unless you can show, with satisfactory evidence, that nondeductible contributions were made.
+
+Penalty for overstatement.
+
+If you overstate the amount of nondeductible contributions on your Form 8606 for any tax year, you must pay a penalty of $100 for each overstatement, unless it was due to reasonable cause.
+
+Penalty for failure to file Form 8606.
+
+You will have to pay a $50 penalty if you don’t file a required Form 8606, unless you can prove that the failure was due to reasonable cause.
+
+Tax on earnings on nondeductible contributions.
+
+As long as contributions are within the contribution limits, none of the earnings or gains on contributions (deductible or nondeductible) will be taxed until they are distributed.
+
+Cost basis.
+
+You will have a cost basis in your traditional IRA if you made any nondeductible contributions. Your cost basis is the sum of the nondeductible contributions to your IRA minus any withdrawals or distributions of nondeductible contributions.
+
+. Commonly, distributions from your traditional IRAs will include both taxable and nontaxable (cost basis) amounts. See Pub. 590-B for more information on distributions. .
+
+. Recordkeeping. There is a recordkeeping worksheet, Appendix A. Summary Record of Traditional IRA(s) for 2025 , that you can use to keep a record of deductible and nondeductible IRA contributions. .
+
+Examples—Worksheet for Reduced IRA Deduction for 2025
+
+The following examples illustrate the use of Worksheet 1-2 .
+
+Example 1.
+
+For 2025, you and your spouse file a joint return on Form 1040. You are both 39 years old. You are both employed. You are covered by your employer’s retirement plan. However, your spouse isn’t covered by their employer’s retirement plan. Your salary is $66,000, and your spouse’s salary is $51,500. You each have a traditional IRA and your combined modified AGI, which includes $9,000 interest and dividend income, is $126,500. Because your modified AGI is between $126,000 and $146,000 and you are covered by an employer plan, you are subject to the deduction phaseout discussed earlier under Limit if Covered by Employer Plan .
+
+For 2025, you and your spouse each contributed $7,000 to your respective IRAs. Even though you file a joint return, you must figure their IRA deductions separately.
+
+You can take a deduction of only $6,825. Using Worksheet 1-2, you figure your deductible and nondeductible amounts as shown on Worksheet 1-2. Figuring Your Reduced IRA Deduction for 2025—Example 1 Illustrated .
+
+You can choose to treat the $6,825 as either deductible or nondeductible contributions. You can either leave the $175 ($7,000 − $6,825) of nondeductible contributions in your IRA or withdraw them by April 15, 2026. You decide to treat the $6,825 as a deductible contribution and leave the $175 of nondeductible contributions in your IRA.
+
+Your spouse can treat all or part of their $7,000 contribution as either deductible or nondeductible. This is because they aren’t covered by their employer's retirement plan and your combined modified AGI isn’t between $236,000 and $246,000. Therefore, they aren’t subject to the deduction phaseout discussed earlier under Limit if Covered by Employer Plan , and they don’t need to use Worksheet 1-2 . Your spouse decides to treat their $7,000 IRA contribution as deductible.
+
+The IRA deductions of $6,825 and $7,000 on the joint return for you and your spouse total $13,825.
+
+Example 2.
+
+For 2025, you and your spouse file a joint return on Form 1040. You are both 39 years old. Your salary is $45,500 and you are covered by your employer's retirement plan. Your spouse had no compensation for the year and was not covered by an employer plan. You contribute $7,000 to your traditional IRA and $7,000 to your spouse's traditional IRA (a Kay Bailey Hutchison Spousal IRA). Your combined modified AGI which includes $2,000 interest and dividend income and a large capital gain from the sale of stock is $238,500.
+
+Because your combined modified AGI is $146,000 or more and you are covered by your employer's plan, you can’t deduct any of the contribution to your traditional IRA. You can either leave the $7,000 of nondeductible contributions in your IRA or withdraw them by April 15, 2026.
+
+Your spouse figures their IRA deduction as shown on Worksheet 1-2. Figuring Your Reduced IRA Deduction for 2025—Example 2 Illustrated .
+
+Worksheet 1-2. Figuring Your Reduced IRA Deduction for 2025
+
+(Use only if you or your spouse is covered by an employer plan and your modified AGI falls between the two amounts shown below for your coverage situation and filing status.) Note. If you were married and both you and your spouse contributed to IRAs, figure your deduction and your spouse's deduction separately.
+
+IF you... | AND your filing status is... | AND your modified AGI is over... | THEN enter on line 1 below...
+are covered by an employer plan | single or head of household | $79,000 | $89,000
+married filing jointly or qualifying surviving spouse | $126,000 | $146,000
+married filing separately | $0 | $10,000
+aren’t covered by an employer plan, but your spouse is covered | married filing jointly | $236,000 | $246,000
+married filing separately | $0 | $10,000
+1. | Enter applicable amount from table above | 1. | _____
+2. | Enter your modified AGI (that of both spouses, if married filing jointly) | 2. | _____
+Note: If line 2 is equal to or more than the amount on line 1, stop here . Your IRA contributions aren’t deductible. See Nondeductible Contributions , earlier.
+3. | Subtract line 2 from line 1. If line 3 is $10,000 or more ($20,000 or more if married filing jointly or qualifying surviving spouse and you are covered by an employer plan), stop here . You can take a full IRA deduction for contributions of up to $7,000 ($8,000 if you are age 50 or older) or 100% of your (and if married filing jointly, your spouse's) compensation, whichever is less | 3. | _____
+4. | Multiply line 3 by the percentage below that applies to you. If the result isn’t a multiple of $10, round it to the next highest multiple of $10. (For example, $611.40 is rounded to $620.) However, if the result is less than $200, enter $200.
+Married filing jointly or qualifying surviving spouse and you are covered by an employer plan, multiply line 3 by 35% (0.35) (by 40% (0.40) if you are age 50 or older). All others, multiply line 3 by 70% (0.70) (by 80% (0.80) if you are age 50 or older). |  | 4. | _____
+5. | Enter your compensation minus any deductions on Schedule 1 (Form 1040), line 15 (deductible part of self-employment tax), and Schedule 1 (Form 1040), line 16 (self-employed SEP, SIMPLE, and qualified plans). If you are filing a joint return and your compensation is less than your spouse's, include your spouse's compensation reduced by their traditional IRA and Roth IRA contributions for this year. If you file Form 1040, 1040-SR, or 1040-NR, don’t reduce your compensation by any losses from self-employment | 5. | _____
+6. | Enter contributions made, or to be made, to your IRA for 2025, but don’t enter more than $7,000 ($8,000 if you are age 50 or older). If contributions are more than $7,000 ($8,000 if you are age 50 or older), see Excess Contributions , later | 6. | _____
+7. | IRA deduction. Compare lines 4, 5, and 6. Enter the smallest amount (or a smaller amount if you choose) here and on your Schedule 1 (Form 1040), line 20. If line 6 is more than line 7 and you want to make a nondeductible contribution, go to line 8 | 7. | _____
+8. | Nondeductible contribution. Subtract line 7 from line 5 or line 6, whichever is smaller. Enter the result here and on line 1 of your Form 8606 | 8. | _____
+
+Worksheet 1-2. Figuring Your Reduced IRA Deduction for 2025—Example 1 Illustrated
+
+(Use only if you or your spouse is covered by an employer plan and your modified AGI falls between the two amounts shown below for your coverage situation and filing status.) Note. If you were married and both you and your spouse contributed to IRAs, figure your deduction and your spouse's deduction separately.
+
+IF you... | AND your filing status is... | AND your modified AGI is over... | THEN enter on line 1 below...
+are covered by an employer plan | single or head of household | $79,000 | $89,000
+married filing jointly or qualifying surviving spouse | $126,000 | $146,000
+married filing separately | $0 | $10,000
+aren’t covered by an employer plan, but your spouse is covered | married filing jointly | $236,000 | $246,000
+married filing separately | $0 | $10,000
+1. | Enter applicable amount from table above | 1. | 146,000
+2. | Enter your modified AGI (that of both spouses, if married filing jointly) | 2. | 126,500
+Note: If line 2 is equal to or more than the amount on line 1, stop here . Your IRA contributions are not deductible. See Nondeductible Contributions , earlier.
+3. | Subtract line 2 from line 1. If line 3 is $10,000 or more ($20,000 or more if married filing jointly or qualifying surviving spouse and you are covered by an employer plan), stop here . You can take a full IRA deduction for contributions of up to $7,000 ($8,000 if you are age 50 or older) or 100% of your (and if married filing jointly, your spouse's) compensation, whichever is less | 3. | 19,500
+4. | Multiply line 3 by the percentage below that applies to you. If the result isn’t a multiple of $10, round it to the next highest multiple of $10. (For example, $611.40 is rounded to $620.) However, if the result is less than $200, enter $200.
+Married filing jointly or qualifying surviving spouse and you are covered by an employer plan, multiply line 3 by 35% (0.35) (by 40% (0.40) if you are age 50 or older). All others, multiply line 3 by 70% (0.70) (by 80% (0.80) if you are age 50 or older). |  | 4. | 6,825
+5. | Enter your compensation minus any deductions on Schedule 1 (Form 1040), line 15 (deductible part of self-employment tax), and Schedule 1 (Form 1040), line 16 (self-employed SEP, SIMPLE, and qualified plans). If you are filing a joint return and your compensation is less than your spouse's, include your spouse's compensation reduced by their traditional IRA and Roth IRA contributions for this year. If you file Form 1040, 1040-SR, or 1040-NR, don’t reduce your compensation by any losses from self-employment | 5. | 66,000
+6. | Enter contributions made, or to be made, to your IRA for 2025, but don’t enter more than $7,000 ($8,000 if you are age 50 or older). If contributions are more than $7,000 ($8,000 if you are age 50 or older), see Excess Contributions , later | 6. | 7,000
+7. | IRA deduction. Compare lines 4, 5, and 6. Enter the smallest amount (or a smaller amount if you choose) here and on your Schedule 1 (Form 1040), line 20. If line 6 is more than line 7 and you want to make a nondeductible contribution, go to line 8 | 7. | 6,825
+8. | Nondeductible contribution. Subtract line 7 from line 5 or line 6, whichever is smaller. Enter the result here and on line 1 of your Form 8606 | 8. | 175
+
+Worksheet 1-2. Figuring Your Reduced IRA Deduction for 2025—Example 2 Illustrated
+
+(Use only if you or your spouse is covered by an employer plan and your modified AGI falls between the two amounts shown below for your coverage situation and filing status.) Note: If you were married and both you and your spouse contributed to IRAs, figure your deduction and your spouse's deduction separately.
+
+IF you... | AND your filing status is... | AND your modified AGI is over... | THEN enter on line 1 below...
+are covered by an employer plan | single or head of household | $79,000 | $89,000
+married filing jointly or qualifying surviving spouse | $126,000 | $146,000
+married filing separately | $0 | $10,000
+aren’t covered by an employer plan, but your spouse is covered | married filing jointly | $236,000 | $246,000
+married filing separately | $0 | $10,000
+1. | Enter applicable amount from table above | 1. | 246,000
+2. | Enter your modified AGI (that of both spouses, if married filing jointly) | 2. | 238,500
+Note: If line 2 is equal to or more than the amount on line 1, stop here . Your IRA contributions aren’t deductible. See Nondeductible Contributions , earlier.
+3. | Subtract line 2 from line 1. If line 3 is $10,000 or more ($20,000 or more if married filing jointly or qualifying surviving spouse and you are covered by an employer plan), stop here . You can take a full IRA deduction for contributions of up to $7,000 ($8,000 if you are age 50 or older) or 100% of your (and if married filing jointly, your spouse's) compensation, whichever is less | 3. | 7,500
+4. | Multiply line 3 by the percentage below that applies to you. If the result isn’t a multiple of $10, round it to the next highest multiple of $10. (For example, $611.40 is rounded to $620.) However, if the result is less than $200, enter $200.
+Married filing jointly or qualifying surviving spouse and you are covered by an employer plan, multiply line 3 by 35% (0.35) (by 40% (0.40) if you are age 50 or older). All others, multiply line 3 by 70% (0.70) (by 80% (0.80) if you are age 50 or older). |  | 4. | 5,250
+5. | Enter your compensation minus any deductions on Schedule 1 (Form 1040), line 15 (deductible part of self-employment tax), and Schedule 1 (Form 1040), line 16 (self-employed SEP, SIMPLE, and qualified plans). If you are filing a joint return and your compensation is less than your spouse's, include your spouse's compensation reduced by their traditional IRA and Roth IRA contributions for this year. If you file Form 1040, 1040-SR, or 1040-NR, don’t reduce your compensation by any losses from self-employment | 5. | 38,500
+6. | Enter contributions made, or to be made, to your IRA for 2025, but don’t enter more than $7,000 ($8,000 if you are age 50 or older). If contributions are more than $7,000 ($8,000 if you are age 50 or older), see Excess Contributions , later | 6. | 7,000
+7. | IRA deduction. Compare lines 4, 5, and 6. Enter the smallest amount (or a smaller amount if you choose) here and on your Schedule 1 (Form 1040), line 20, whichever applies. If line 6 is more than line 7 and you want to make a nondeductible contribution, go to line 8 | 7. | 5,250
+8. | Nondeductible contribution. Subtract line 7 from line 5 or line 6, whichever is smaller. Enter the result here and on line 1 of your Form 8606 | 8. | 1,750
+
+What if You Inherit an IRA?
+
+If you inherit a traditional IRA, you are called a beneficiary. A beneficiary can be any person or entity the owner chooses to receive the benefits of the IRA after the owner dies. Beneficiaries of a traditional IRA must include in their gross income any taxable distributions they receive.
+
+Inherited From Spouse
+
+If you inherit a traditional IRA from your spouse, you generally have the following three choices.
+
+-
+
+Treat it as your own IRA by designating yourself as the account owner.
+
+-
+
+Treat it as your own by rolling it over into your IRA, or to the extent it is taxable, into a:
+
+-
+
+Qualified employer plan,
+
+-
+
+Qualified employee annuity plan (section 403(a) plan),
+
+-
+
+Tax-sheltered annuity plan (section 403(b) plan), or
+
+-
+
+Deferred compensation plan of a state or local government (section 457 plan).
+
+-
+
+Treat yourself as the beneficiary rather than treating the IRA as your own.
+
+Treating it as your own.
+
+You will be considered to have chosen to treat the IRA as your own if:
+
+-
+
+Contributions (including rollover contributions) are made to the inherited IRA, or
+
+-
+
+You don’t take the RMD for a year as a beneficiary of the IRA.
+
+You will only be considered to have chosen to treat the IRA as your own if:
+
+-
+
+You are the sole beneficiary of the IRA, and
+
+-
+
+You have an unlimited right to withdraw amounts from it.
+
+However, if you receive a distribution from your deceased spouse's IRA, you can roll that distribution over into your own IRA within the 60-day time limit, as long as the distribution isn’t a required distribution, even if you aren’t the sole beneficiary of your deceased spouse's IRA. For more information, see When Must You Withdraw Assets? (Required Minimum Distributions) in Pub. 590-B for more information on RMDs.
+
+Inherited From Someone Other Than Spouse
+
+If you inherit a traditional IRA from anyone other than your deceased spouse, you can’t treat the inherited IRA as your own. This means that you can’t make any contributions to the IRA. It also means you can’t roll over any amounts into or out of the inherited IRA. However, you can make a trustee-to-trustee transfer as long as the IRA into which amounts are being moved is set up and maintained in the name of the deceased IRA owner for the benefit of you as beneficiary. See Pub. 590-B for more information.
+
+Like the original owner, you generally won’t owe tax on the assets in the IRA until you receive distributions from it. You must begin receiving distributions from the IRA under the rules for distributions that apply to beneficiaries.
+
+More information.
+
+For more information about rollovers, required distributions, and inherited IRAs, see:
+
+Can You Move Retirement Plan Assets?
+
+You can transfer, tax free, assets (money or property) from other retirement programs (including traditional IRAs) to a traditional IRA. You can make the following kinds of transfers.
+
+-
+
+Transfers from one trustee to another.
+
+-
+
+Rollovers.
+
+-
+
+Transfers incident to a divorce.
+
+This chapter discusses all three kinds of transfers.
+
+Transfers to Roth IRAs.
+
+Under certain conditions, you can move assets from a traditional IRA or from a designated Roth account to a Roth IRA. For more information about these transfers, see Converting From Any Traditional IRA Into a Roth IRA , later in this chapter, and Can You Move Amounts Into a Roth IRA? in chapter 2.
+
+Transfers to Roth IRAs from other retirement plans.
+
+Under certain conditions, you can move assets from a qualified retirement plan to a Roth IRA. For more information, see Can You Move Amounts Into a Roth IRA? in chapter 2.
+
+Trustee-to-Trustee Transfer
+
+A transfer of funds in your traditional IRA from one trustee directly to another, either at your request or at the trustee's request, isn’t a rollover. This includes the situation where the current trustee issues a check to the new trustee but gives it to you to deposit. Because there is no distribution to you, the transfer is tax free. Because it isn’t a rollover, it isn’t affected by the 1-year waiting period required between rollovers. This waiting period is discussed later under Rollover From One IRA Into Another .
+
+For information about direct transfers from retirement programs other than traditional IRAs, see Direct rollover option , later.
+
+Rollovers
+
+Generally, a rollover is a tax-free distribution to you of cash or other assets from one retirement plan that you contribute to another retirement plan within 60 days you received the payment or distribution. The contribution to the second retirement plan is called a rollover contribution.
+
+Note:
+
+An amount rolled over tax free from one retirement plan to another is generally includible in income when it is distributed from the second plan.
+
+Kinds of rollovers to a traditional IRA.
+
+You can roll over amounts from the following plans into a traditional IRA.
+
+-
+
+A traditional IRA.
+
+-
+
+An employer's qualified retirement plan for its employees.
+
+-
+
+A deferred compensation plan of a state or local government (section 457 plan).
+
+-
+
+A tax-sheltered annuity plan (section 403(b) plan).
+
+Also, see Table 1-4 .
+
+Table 1-4. Rollover Chart
+
+The following chart indicates the rollovers that are permitted between various types of plans.
+
+Roll To
+Roth IRA 1 | Traditional IRA 2 | Traditional SIMPLE IRA | Roth SIMPLE IRA | Govern- mental 457(b) Plan (pre-tax) | Qualified Plan 3 (pre-tax) | 403(b) Plan (pre-tax) | Designated Roth Account (401(k), 403(b), or 457(b))
+Roth IRA 1 | Yes 4 | No | No | Yes, 4 after 2 years 5 | No | No | No | No
+Traditional IRA 2 | Yes 6 | Yes 4 | Yes, 4 10 after 2 years 5 | Yes 6 after 2 years 5 | Yes 7 | Yes | Yes | No
+Traditional SIMPLE IRA | Yes, 6 after 2 years 5 | Yes, 4 after 2 years 5 | Yes 4 | Yes 6 | Yes, 7 after 2 years 5 | Yes, after 2 years 5 | Yes, after 2 years 5 | No
+Roth SIMPLE IRA | Yes, 4 after 2 years 5 | No | No | Yes 4 | No | No | No | No
+Govern- mental 457(b) Plan (pre-tax) | Yes 6 | Yes | Yes, 10 after 2 years 5 | Yes, 6 after 2 years 5 | Yes | Yes | Yes | Yes 6 8
+Roll From | Qualified Plan 3 (pre-tax) | Yes 6 | Yes | Yes, 10 after 2 years 5 | Yes, 6 after 2 years 5 | Yes 7 | Yes | Yes | Yes 6 8
+403(b) Plan (pre-tax) | Yes 6 | Yes | Yes, 10 after 2 years 5 | Yes, 6 after 2 years 5 | Yes 7 | Yes | Yes | Yes 6 8
+Designated Roth Account (401(k), 403(b), or 457(b)) | Yes | No | No | Yes, after 2 years 5 | No | No | No | Yes 9
+1 Roth IRAs include Roth IRAs that receive employer contributions from a SEP arrangement. 2 Traditional IRAs include traditional IRAs that receive employer contributions from a SEP arrangement. 3 Qualified plans include, for example, profit-sharing, 401(k), money purchase, and defined benefit plans. 4 Only one rollover in any 12-month period. 5 After the 2-year period beginning on the date you first participated in a qualified salary reduction arrangement under your employer’s SIMPLE IRA plan. 6 Must include in income. 7 Must have separate accounts. 8 Must be an in-plan rollover. 9 Any nontaxable amounts distributed must be rolled over by direct trustee-to-trustee transfer. 10 Applies to rollover contributions after December 18, 2015. For more information regarding retirement plans and rollovers, go to Tax Information for Retirement Plans .
+
+Treatment of rollovers.
+
+You can’t deduct a rollover contribution, but you must report the rollover distribution on your tax return as discussed later under Reporting rollovers from IRAs and Reporting rollovers from employer plans .
+
+Rollover notice.
+
+A written explanation of rollover treatment must be given to you by the plan (other than an IRA) making the distribution. See Written explanation to recipients , later, for more details.
+
+Kinds of rollovers from a traditional IRA.
+
+You may be able to roll over, tax free, a distribution from your traditional IRA into a qualified plan. These plans include the Federal Thrift Savings Plan (for federal employees), deferred compensation plans of state or local governments (section 457 plans), and tax-sheltered annuity plans (section 403(b) plans). The part of the distribution that you can roll over is the part that would otherwise be taxable (includible in your income). Qualified plans may, but aren’t required to, accept such rollovers.
+
+Tax treatment of a rollover from a traditional IRA to an eligible retirement plan other than an IRA.
+
+Ordinarily, when you have basis in your IRAs, any distribution is considered to include both nontaxable and taxable amounts. Without a special rule, the nontaxable portion of such a distribution couldn’t be rolled over. However, a special rule treats a distribution you roll over into an eligible retirement plan as including only otherwise taxable amounts if the amount you either leave in your IRAs or don’t roll over is at least equal to your basis. The effect of this special rule is to make the amount in your traditional IRAs that you can roll over to an eligible retirement plan as large as possible.
+
+Eligible retirement plans.
+
+The following are considered eligible retirement plans.
+
+-
+
+IRAs.
+
+-
+
+Qualified trusts.
+
+-
+
+Qualified employee annuity plans under section 403(a).
+
+-
+
+Deferred compensation plans of state and local governments (section 457 plans).
+
+-
+
+Tax-sheltered annuities (section 403(b) annuities).
+
+Time Limit for Making a Rollover Contribution
+
+You must generally make the rollover contribution by the 60th day after the day you receive the distribution from your traditional IRA or your employer's plan.
+
+Example.
+
+You received an eligible rollover distribution from your traditional IRA on June 30, 2025, that you intend to roll over to your 403(b) plan. To postpone including the distribution in your income, you must complete the rollover by August 29, 2025, the 60th day following June 30.
+
+The IRS may waive the 60-day requirement where the failure to do so would be against equity or good conscience, such as in the event of a casualty, a disaster, or another event beyond your reasonable control. For exceptions to the 60-day period, see Ways to get a waiver of the 60-day rollover requirement , later.
+
+Plan loan offset.
+
+A plan loan offset is the amount your employer plan account balance is reduced, or offset, to repay a loan from the plan. How long you have to complete the rollover of a plan loan offset depends on what kind of plan loan offset you have. For tax years beginning after December 31, 2017, if you have a qualified plan loan offset, you will have until the due date (including extensions) for your tax return for the tax year in which the offset occurs to complete your rollover. A qualified plan loan offset occurs when a plan loan in good standing is offset because your employer plan terminates, or because you sever from employment. If your plan loan offset occurs for any other reason, then you have 60 days from the date the offset occurs to complete your rollover.
+
+Rollovers completed after the 60-day period.
+
+In the absence of a waiver, amounts not rolled over within the 60-day period don’t qualify for tax-free rollover treatment. You must treat them as a taxable distribution from either your IRA or your employer's plan. These amounts are taxable in the year distributed, even if the 60-day period expires in the next year. You may also have to pay a 10% additional tax on early distributions as discussed under Early Distributions in Pub. 590-B.
+
+Unless there is a waiver or an extension of the 60-day rollover period, any contribution you make to your IRA more than 60 days after the distribution is a regular contribution, not a rollover contribution.
+
+Example.
+
+You received a distribution in late December 2025 from a traditional IRA that you don’t roll over into another traditional IRA within the 60-day limit. You don’t qualify for a waiver. This distribution is taxable in 2025 even though the 60-day limit wasn’t up until 2026.
+
+Ways to get a waiver of the 60-day rollover requirement.
+
+There are three ways to obtain a waiver of the 60-day rollover requirement.
+
+-
+
+You qualify for an automatic waiver.
+
+-
+
+You self-certify that you met the requirements of a waiver.
+
+-
+
+You request and receive a private letter ruling granting a waiver.
+
+How do you qualify for an automatic waiver?
+
+You qualify for an automatic waiver if all of the following apply.
+
+-
+
+The financial institution receives the funds on your behalf before the end of the 60-day rollover period.
+
+-
+
+You followed all of the procedures set by the financial institution for depositing the funds into an IRA or other eligible retirement plan within the 60-day rollover period (including giving instructions to deposit the funds into a plan or IRA).
+
+-
+
+The funds aren’t deposited into a plan or IRA within the 60-day rollover period solely because of an error on the part of the financial institution.
+
+-
+
+The funds are deposited into a plan or IRA within 1 year from the beginning of the 60-day rollover period.
+
+-
+
+It would have been a valid rollover if the financial institution had deposited the funds as instructed.
+
+If you don’t qualify for an automatic waiver, you can use the self-certification procedure to make a late rollover contribution or you can apply to the IRS for a waiver of the 60-day rollover requirement.
+
+How do you self-certify that you qualify for a waiver?
+
+Pursuant to Revenue Procedure 2020-46 in Internal Revenue Bulletin 2020-45, available at IRB 2020-45 , you may make a written certification to a plan administrator or an IRA trustee that you missed the 60-day rollover contribution deadline because of one or more of the reasons listed in Revenue Procedure 2020-46. A plan administrator or an IRA trustee may rely on the certification in accepting and reporting receipt of the rollover contribution. You may make the certification by using the model letter in the appendix to the revenue procedure or by using a letter that is substantially similar. There is no IRS fee for self-certification. A copy of the certification should be kept in your files and be available if requested on audit.
+
+Note:
+
+A self-certification is not a waiver by the IRS of the 60-day rollover requirement. If the IRS subsequently audits your income tax return, it may determine that you do not qualify for a waiver, in which case you may owe additional taxes and penalties.
+
+How do you apply for a waiver and what is the fee?
+
+You can request a ruling according to the procedures outlined in Revenue Procedure 2003-16 and Revenue Procedure 2026-4. The appropriate user fee of $18,500 must accompany every request for a waiver of the 60-day rollover requirement (see the user fee chart in Appendix A of Revenue Procedure 2026-4).
+
+How does the IRS determine whether to grant a waiver in a private letter ruling?
+
+In determining whether to issue a favorable letter ruling granting a waiver, the IRS will consider all of the relevant facts and circumstances, including:
+
+-
+
+Whether errors were made by the financial institution, that is, the plan administrator, or IRA trustee, issuer, or custodian;
+
+-
+
+Whether you were unable to complete the rollover within the 60-day period due to death, disability, hospitalization, incarceration, serious illness, restrictions imposed by a foreign country, or postal error;
+
+-
+
+Whether you used the amount distributed; and
+
+-
+
+How much time has passed since the date of the distribution.
+
+Note:
+
+The IRS can waive only the 60-day rollover requirement and not the other requirements for a valid rollover contribution. For example, the IRS can’t waive the IRA one-rollover-per-year rule.
+
+For more information on waivers of the 60-day rollover requirement, go to RetirementPlans-FAQs .
+
+Amount.
+
+The rules regarding the amount that can be rolled over within the 60-day time period also apply to the amount that can be deposited due to a waiver. For example, if you received $6,000 from your IRA, the most that you can deposit into an eligible retirement plan due to a waiver is $6,000.
+
+Extension of rollover period.
+
+If an amount distributed to you from a traditional IRA or a qualified employer retirement plan is a frozen deposit at any time during the 60-day period allowed for a rollover, two special rules extend the rollover period.
+
+-
+
+The period during which the amount is a frozen deposit isn’t counted in the 60-day period.
+
+-
+
+The 60-day period can’t end earlier than 10 days after the deposit is no longer frozen.
+
+Frozen deposit.
+
+This is any deposit that can’t be withdrawn from a financial institution because of either of the following reasons.
+
+-
+
+The financial institution is bankrupt or insolvent.
+
+-
+
+The state where the institution is located restricts withdrawals because one or more financial institutions in the state are (or are about to be) bankrupt or insolvent.
+
+Rollover From One IRA Into Another
+
+You can withdraw, tax free, all or part of the assets from one traditional IRA if you reinvest them within 60 days in the same or another traditional IRA. Because this is a rollover, you can’t deduct the amount that you reinvest in an IRA.
+
+. You may be able to treat a contribution made to one type of IRA as having been made to a different type of IRA. This is called recharacterizing the contribution. See Recharacterizations in this chapter for more information. .
+
+Waiting period between rollovers.
+
+Generally, if you make a tax-free rollover of any part of a distribution from a traditional IRA, you can’t, within a 1-year period, make a tax-free rollover of any later distribution from that same IRA. You also can’t make a tax-free rollover of any amount distributed, within the same 1-year period, from the IRA into which you made the tax-free rollover.
+
+The 1-year period begins on the date you receive the IRA distribution, not on the date you roll it over into an IRA. Rules apply to the number of rollovers you can have with your traditional IRAs. See Application of one-rollover-per-year limitation , later.
+
+Example.
+
+You have two traditional IRAs, IRA-1 and IRA-2. In 2025, you made a tax-free rollover of a distribution from IRA-1 into a new traditional IRA (IRA-3). You can’t, within 1 year of the distribution from IRA-1, make a tax-free rollover of any distribution from either IRA-1 or IRA-3 into another traditional IRA.
+
+For 2025, the rollover from IRA-1 into IRA-3 prevents you from making a tax-free rollover from IRA-2 into any other traditional IRA. This is because in 2025 you are only allowed to make one rollover within a 1-year period. So, when you make a rollover from IRA-1 to IRA-3, you can’t make a rollover from IRA-2 to any other traditional IRA.
+
+Exception.
+
+An IRA distribution made from a failed financial institution by the Federal Deposit Insurance Corporation as receiver is not treated as a rollover for purposes of the one-rollover-per-year limitation, provided:
+
+-
+
+Neither the failed financial institution nor the depositor initiated the distribution, and
+
+-
+
+No financial institution has assumed the IRAs of the failed financial institution.
+
+Application of one-rollover-per-year limitation.
+
+You can make only one rollover from an IRA to another (or the same) IRA in any 1-year period regardless of the number of IRAs you own. The limit will apply by aggregating all of an individual's IRAs (whether traditional, Roth, or SIMPLE), effectively treating them as one IRA for purposes of the limit. However, trustee-to-trustee transfers between IRAs aren’t limited and rollovers from traditional IRAs to Roth IRAs (conversions) aren’t limited.
+
+Example.
+
+You have three traditional IRAs: IRA-1, IRA-2, and IRA-3. You didn’t take any distributions from your IRAs in 2025. On January 1, 2026, you took a distribution from IRA-1 and rolled it over into IRA-2 on the same day. For 2026, you can’t roll over any other 2026 IRA distribution, including a rollover distribution involving IRA-3. This wouldn’t apply to a conversion.
+
+The same property must be rolled over.
+
+If property is distributed to you from an IRA and you complete the rollover by contributing property to an IRA, your rollover is tax free only if the property you contribute is the same property that was distributed to you.
+
+Partial rollovers.
+
+If you withdraw assets from a traditional IRA, you can roll over part of the withdrawal tax free and keep the rest of it. The amount you keep will generally be taxable (except for the part that is a return of nondeductible contributions). The amount you keep may be subject to the 10% additional tax on early distributions discussed later under What Acts Result in Penalties or Additional Taxes .
+
+Required distributions.
+
+Amounts that must be distributed during a particular year under the required distribution rules (discussed in Pub. 590-B) aren’t eligible for rollover treatment.
+
+Inherited IRAs.
+
+If you inherit a traditional IRA from your spouse, you can generally roll it over, or you can choose to make the inherited IRA your own as discussed earlier under What if You Inherit an IRA .
+
+Reporting rollovers from IRAs.
+
+Report any rollover from one traditional IRA to the same or another traditional IRA on Form 1040, 1040-SR, or 1040-NR, lines 4a and 4b.
+
+Enter the total amount of the distribution on Form 1040, 1040-SR, or 1040-NR, line 4a. If the total amount on Form 1040, 1040-SR, or 1040-NR, line 4a, was rolled over, enter zero on Form 1040, 1040-SR, or 1040-NR, line 4b. If the total distribution wasn't rolled over, enter the taxable portion of the part that wasn't rolled over on Form 1040, 1040-SR, or 1040-NR, line 4b. Check the box on line 4c for rollovers. See your tax return instructions.
+
+If you rolled over the distribution into a qualified plan (other than an IRA) or you make the rollover in 2026, attach a statement explaining what you did.
+
+For information on how to figure the taxable portion, see Are Distributions Taxable? in Pub. 590-B.
+
+Rollover From Employer's Plan Into an IRA
+
+You can roll over into a traditional IRA all or part of an eligible rollover distribution you receive from your (or your deceased spouse's):
+
+-
+
+Employer's qualified pension, profit-sharing, or stock bonus plan;
+
+-
+
+Annuity plan;
+
+-
+
+Tax-sheltered annuity plan (section 403(b) plan); or
+
+-
+
+Governmental deferred compensation plan (section 457 plan).
+
+A qualified plan is one that meets the requirements of the Internal Revenue Code.
+
+Eligible rollover distribution.
+
+Generally, an eligible rollover distribution is any distribution of all or part of the balance to your credit in a qualified retirement plan except the following.
+
+-
+
+An RMD (explained under When Must You Withdraw Assets? (Required Minimum Distributions) in Pub. 590-B).
+
+-
+
+A hardship distribution.
+
+-
+
+Any of a series of substantially equal periodic distributions paid at least once a year over:
+
+-
+
+Your lifetime or life expectancy,
+
+-
+
+The lifetimes or life expectancies of you and your beneficiary, or
+
+-
+
+A period of 10 years or more.
+
+-
+
+Corrective distributions of excess contributions or excess deferrals, and any income allocable to the excess, or of excess annual additions and any allocable gains.
+
+-
+
+A loan treated as a distribution because it doesn’t satisfy certain requirements either when made or later (such as upon default), unless the participant's accrued benefits are reduced (offset) to repay the loan. See the discussion earlier of plan loan offsets (including qualified plan loan offsets) under Time Limit for Making a Rollover Contribution .
+
+-
+
+Dividends on employer securities.
+
+-
+
+The cost of life insurance coverage.
+
+Your rollover into a traditional IRA may include both amounts that would be taxable and amounts that wouldn’t be taxable if they were distributed to you but not rolled over. To the extent the distribution is rolled over into a traditional IRA, it isn’t includible in your income.
+
+. Any nontaxable amounts that you roll over into your traditional IRA become part of your basis (cost) in your IRAs. To recover your basis when you take distributions from your IRA, you must complete Form 8606 for the year of the distribution. See Form 8606 under Distributions Fully or Partly Taxable in Pub. 590-B. .
+
+Rollover by nonspouse beneficiary.
+
+If you are a designated beneficiary (other than a surviving spouse) of a deceased employee, you can roll over all or part of an eligible rollover distribution from one of the types of plans listed above into a traditional IRA. You must make the rollover by a direct trustee-to-trustee transfer into an inherited IRA.
+
+You will determine your RMDs in years after you make the rollover based on whether the employee died before their required beginning date for taking distributions from the plan. For more information, see Distributions after the employee's death under Tax on Excess Accumulation in Pub. 575.
+
+Written explanation to recipients.
+
+Before making an eligible rollover distribution, the administrator of a qualified retirement plan must provide you with a written explanation. It must tell you about all of the following.
+
+-
+
+Your right to have the distribution paid tax free directly to a traditional IRA or another eligible retirement plan.
+
+-
+
+The requirement to withhold tax from the distribution if it isn’t paid directly to a traditional IRA or another eligible retirement plan.
+
+-
+
+The tax treatment of any part of the distribution that you roll over to a traditional IRA or another eligible retirement plan within 60 days after you receive the distribution.
+
+-
+
+Other qualified retirement plan rules, if they apply, including those for lump-sum distributions, alternate payees, and cash or deferred arrangements.
+
+-
+
+How the plan receiving the distribution differs from the plan making the distribution in its restrictions and tax consequences.
+
+The plan administrator must provide you with this written explanation no earlier than 90 days and no later than 30 days before the distribution is made.
+
+However, you can choose to have a distribution made less than 30 days after the explanation is provided as long as both of the following requirements are met.
+
+-
+
+You are given at least 30 days after the notice is provided to consider whether you want to elect a direct rollover.
+
+-
+
+You are given information that clearly states that you have this 30-day period to make the decision.
+
+Contact the plan administrator if you have any questions regarding this information.
+
+Withholding requirement.
+
+Generally, if an eligible rollover distribution is paid directly to you, the payer must withhold 20% of it. This applies even if you plan to roll over the distribution to a traditional IRA. You can avoid withholding by choosing the direct rollover option , discussed later.
+
+Exceptions.
+
+The payer doesn’t have to withhold from an eligible rollover distribution paid to you if either of the following conditions applies.
+
+-
+
+The distribution and all previous eligible rollover distributions you received during your tax year from the same plan (or, at the payer's option, from all your employer's plans) total less than $200.
+
+-
+
+The distribution consists solely of employer securities, plus cash of $200 or less in lieu of fractional shares.
+
+. The amount withheld is part of the distribution. If you roll over less than the full amount of the distribution, you may have to include in your income the amount you don’t roll over. However, you can make up the amount withheld with funds from other sources. .
+
+Other withholding rules.
+
+The 20% withholding requirement doesn’t apply to distributions that aren’t eligible rollover distributions. However, other withholding rules apply to these distributions. The rules that apply depend on whether the distribution is a periodic distribution or a nonperiodic distribution. For either of these types of distributions, you can still choose not to have tax withheld. For more information, see Pub. 505.
+
+Direct rollover option.
+
+Your employer's qualified plan must give you the option to have any part of an eligible rollover distribution paid directly to a traditional IRA. The plan isn’t required to give you this option if your eligible rollover distributions are expected to total less than $200 for the year.
+
+Withholding.
+
+If you choose the direct rollover option, no tax is withheld from any part of the designated distribution that is directly paid to the trustee of the traditional IRA.
+
+If any part is paid to you, the payer must withhold 20% of that part's taxable amount.
+
+Choosing an option.
+
+Table 1-5 may help you decide which distribution option to choose. Carefully compare the effects of each option.
+
+Table 1-5. Comparison of Payment to You Versus Direct Rollover
+
+Affected item | Result of a payment to you | Result of a direct rollover
+Withholding | The payer must withhold 20% of the taxable part. | There is no withholding.
+Additional tax | If you are under age 59½, a 10% additional tax may apply to the taxable part (including an amount equal to the tax withheld) that isn’t rolled over. | There is no 10% additional tax. See Early Distributions in Pub. 590-B.
+When to report as income | Any taxable part (including the taxable part of any amount withheld) not rolled over is income to you in the year paid. | Any taxable part isn’t income to you until later distributed to you from the IRA.
+
+. If you decide to roll over any part of a distribution, the direct rollover option will generally be to your advantage. This is because you won’t have 20% withholding or be subject to the 10% additional tax under that option. .
+
+If you have a lump-sum distribution and don’t plan to roll over any part of it, the distribution may be eligible for special tax treatment that could lower your tax for the distribution year. In that case, you may want to see Pub. 575 and Form 4972, Tax on Lump-Sum Distributions, and its instructions to determine whether your distribution qualifies for special tax treatment and, if so, to figure your tax under the special methods.
+
+You can then compare any advantages from using Form 4972 to figure your tax on the lump-sum distribution with any advantages from rolling over all or part of the distribution. However, if you roll over any part of the lump-sum distribution, you can’t use the Form 4972 special tax treatment for any part of the distribution.
+
+Contributions you made to your employer's plan.
+
+You can roll over a distribution of voluntary deductible employee contributions (DECs) you made to your employer's plan. Prior to January 1, 1987, employees could make and deduct these contributions to certain qualified employers' plans and government plans. These aren’t the same as an employee's elective contributions to a 401(k) plan, which aren’t deductible by the employee.
+
+If you receive a distribution from your employer's qualified plan of any part of the balance of your DECs and the earnings from them, you can roll over any part of the distribution.
+
+No waiting period between rollovers.
+
+The once-a-year limit on IRA-to-IRA rollovers doesn’t apply to eligible rollover distributions from an employer plan. You can roll over more than one distribution from the same employer plan within a year.
+
+IRA as a holding account (conduit IRA) for rollovers to other eligible plans.
+
+If you receive an eligible rollover distribution from your employer's plan, you can roll over part or all of it into one or more conduit IRAs. You can later roll over those assets into a new employer's plan. You can use a traditional IRA as a conduit IRA. You can roll over part or all of the conduit IRA to a qualified plan, even if you make regular contributions to it or add funds from sources other than your employer's plan. However, if you make regular contributions to the conduit IRA or add funds from other sources, the qualified plan into which you move funds won’t be eligible for any optional tax treatment for which it might have otherwise qualified.
+
+Property and cash received in a distribution.
+
+If you receive both property and cash in an eligible rollover distribution, you can roll over part or all of the property, part or all of the cash, or any combination of the two that you choose.
+
+The same property (or sales proceeds) must be rolled over.
+
+If you receive property in an eligible rollover distribution from a qualified retirement plan, you can’t keep the property and contribute cash to a traditional IRA in place of the property. You must either roll over the property or sell it and roll over the proceeds, as explained next.
+
+Sale of property received in a distribution from a qualified plan.
+
+Instead of rolling over a distribution of property other than cash, you can sell all or part of the property and roll over the amount you receive from the sale (the proceeds) into a traditional IRA. You can’t keep the property and substitute your own funds for property you received.
+
+Example.
+
+You receive a total distribution from your employer's plan consisting of $10,000 cash and $15,000 worth of property. You decide to keep the property. You can roll over to a traditional IRA the $10,000 cash received, but you can’t roll over an additional $15,000 representing the value of the property you choose not to sell.
+
+Treatment of gain or loss.
+
+If you sell the distributed property and roll over all the proceeds into a traditional IRA, no gain or loss is recognized. The sale proceeds (including any increase in value) are treated as part of the distribution and aren’t included in your gross income.
+
+Example.
+
+On September 6, you received a lump-sum distribution from your employer's retirement plan of $50,000 in cash and $50,000 in stock. The stock wasn’t stock of your employer. On September 24, you sold the stock for $60,000. On October 6, you rolled over $110,000 in cash ($50,000 from the original distribution and $60,000 from the sale of stock). You don’t include the $10,000 gain from the sale of stock as part of your income because you rolled over the entire amount into a traditional IRA.
+
+Note:
+
+Special rules may apply to distributions of employer securities. For more information, see Figuring the Taxable Amount under Taxation of Nonperiodic Payments in Pub. 575.
+
+Partial rollover.
+
+If you received both cash and property, or just property, but didn’t roll over the entire distribution, see Rollovers in Pub. 575.
+
+Life insurance contract.
+
+You can’t roll over a life insurance contract from a qualified plan into a traditional IRA.
+
+Distributions received by a surviving spouse.
+
+If you receive an eligible rollover distribution (defined earlier) from your deceased spouse's eligible retirement plan (defined earlier), you can roll over part or all of it into a traditional IRA. You can also roll over all or any part of a distribution of DECs.
+
+Distributions under divorce or similar proceedings (alternate payees).
+
+If you are the spouse or former spouse of an employee and you receive a distribution from a qualified retirement plan as a result of divorce or similar proceedings, you may be able to roll over all or part of it into a traditional IRA. To qualify, the distribution must be:
+
+Qualified domestic relations order.
+
+A domestic relations order is a judgment, decree, or order (including approval of a property settlement agreement) that is issued under the domestic relations law of a state. A “qualified domestic relations order” gives to an alternate payee (a spouse, former spouse, child, or dependent of a participant in a retirement plan) the right to receive all or part of the benefits that would be payable to a participant under the plan. The order requires certain specific information, and it can’t alter the amount or form of the benefits of the plan.
+
+Tax treatment if all of an eligible distribution isn’t rolled over.
+
+Any part of an eligible rollover distribution that you keep is taxable in the year you receive it. If you don’t roll over any of it, special rules for lump-sum distributions may apply. See Lump-Sum Distributions under Taxation of Nonperiodic Payments in Pub. 575. The 10% additional tax on early distributions, discussed later under What Acts Result in Penalties or Additional Taxes , doesn’t apply.
+
+Keogh plans and rollovers.
+
+If you are self-employed, you are generally treated as an employee for rollover purposes. Consequently, if you receive an eligible rollover distribution from a Keogh plan (a qualified plan with at least one self-employed participant), you can roll over all or part of the distribution (including a lump-sum distribution) into a traditional IRA. For information on lump-sum distributions, see Lump-Sum Distributions under Taxation of Nonperiodic Payments in Pub. 575.
+
+More information.
+
+For more information about Keogh plans, see chapter 4 of Pub. 560.
+
+Distribution from a tax-sheltered annuity.
+
+If you receive an eligible rollover distribution from a tax-sheltered annuity plan (section 403(b) plan), you can roll it over into a traditional IRA.
+
+Receipt of property other than money.
+
+If you receive property other than money, you can sell the property and roll over the proceeds as discussed earlier.
+
+Rollover from bond purchase plan.
+
+If you redeem retirement bonds that were distributed to you under a qualified bond purchase plan, you can roll over tax free into a traditional IRA the part of the amount you receive that is more than your basis in the retirement bonds.
+
+Reporting rollovers from employer plans.
+
+Enter the total distribution (before income tax or other deductions were withheld) on Form 1040, 1040-SR, or 1040-NR, line 5a. This amount should be shown in box 1 of Form 1099-R. From this amount, subtract any contributions (usually shown in box 5 of Form 1099-R) that were taxable to you when made. From that result, subtract the amount that was rolled over either directly or within 60 days of receiving the distribution. Enter the remaining amount, even if zero, on Form 1040, 1040-SR, or 1040-NR, line 5b. Also, check the box on line 5c for rollovers of Form 1040, 1040-SR, or 1040-NR. See your tax return instructions.
+
+Transfers Incident to Divorce
+
+If an interest in a traditional IRA is transferred from your spouse or former spouse to you by a divorce or separate maintenance decree or a written document related to such a decree, the interest in the IRA, starting from the date of the transfer, is treated as your IRA. The transfer is tax free. For information about transfers of interests in employer plans, see Distributions under divorce or similar proceedings (alternate payees) under Rollover From Employer's Plan Into an IRA, earlier.
+
+Transfer methods.
+
+There are two commonly used methods of transferring IRA assets to a spouse or former spouse. The methods are:
+
+-
+
+Changing the name on the IRA, and
+
+-
+
+Making a direct transfer of IRA assets.
+
+Changing the name on the IRA.
+
+If all the assets are to be transferred, you can make the transfer by changing the name on the IRA from your name to the name of your spouse or former spouse.
+
+Direct transfer.
+
+Under this method, you direct the trustee of the traditional IRA to transfer the affected assets directly to the trustee of a new or existing traditional IRA set up in the name of your spouse or former spouse.
+
+If your spouse or former spouse is allowed to keep their portion of the IRA assets in your existing IRA, you can direct the trustee to transfer the assets you are permitted to keep directly to a new or existing traditional IRA set up in your name. The name on the IRA containing your spouse's or former spouse's portion of the assets would then be changed to show their ownership.
+
+. If the transfer results in a change in the basis of the traditional IRA of either spouse, both spouses must file Form 8606 and follow the directions in the instructions for that form. .
+
+Converting From Any Traditional IRA Into a Roth IRA
+
+Allowable conversions.
+
+You can withdraw all or part of the assets from a traditional IRA and reinvest them (within 60 days) in a Roth IRA. The amount that you withdraw and timely contribute (convert) to the Roth IRA is called a conversion contribution. If properly (and timely) rolled over, the 10% additional tax on early distributions won’t apply. However, a part or all of the distribution from your traditional IRA may be included in gross income and subjected to ordinary income tax.
+
+You must roll over into the Roth IRA the same property you received from the traditional IRA. You can roll over part of the withdrawal into a Roth IRA and keep the rest of it. The amount you keep will generally be taxable (except for the part that is a return of nondeductible contributions) and may be subject to the 10% additional tax on early distributions. See When Can You Withdraw or Use Assets , later, for more information on distributions from traditional IRAs and Early Distributions in Pub. 590-B for more information on the tax on early distributions.
+
+Periodic distributions.
+
+If you started taking substantially equal periodic payments from a traditional IRA, you can convert the amounts in the traditional IRA to a Roth IRA and then continue the periodic payments. The 10% additional tax on early distributions won’t apply even if the distributions aren’t qualified distributions (as long as they are part of a series of substantially equal periodic payments).
+
+Required distributions.
+
+You can’t convert amounts that must be distributed from your traditional IRA for a particular year (including the calendar year in which you reach age 73) under the required distribution rules (discussed in Pub. 590-B).
+
+Income.
+
+You must include in your gross income distributions from a traditional IRA that you would have had to include in income if you hadn’t converted them into a Roth IRA. These amounts are normally included in income on your return for the year that you converted them from a traditional IRA to a Roth IRA.
+
+You don’t include in gross income any part of a distribution from a traditional IRA that is a return of your basis, as discussed under Are Distributions Taxable? in Pub. 590-B.
+
+. If you must include any amount in your gross income, you may have to increase your withholding or make estimated tax payments. See Pub. 505. .
+
+Recharacterizations
+
+You may be able to treat a contribution made to one type of IRA as having been made to a different type of IRA. This is called recharacterizing the contribution.
+
+To recharacterize a contribution, you must generally have the contribution transferred from the first IRA (the one to which it was made) to the second IRA in a trustee-to-trustee transfer. If the transfer is made by the due date (including extensions) for your tax return for the tax year for which the contribution was made, you can elect to treat the contribution as having been originally made to the second IRA instead of to the first IRA. If you recharacterize your contribution, you must do all three of the following.
+
+-
+
+Include in the transfer any net income allocable to the contribution. If there was a loss, the net income you must transfer may be a negative amount.
+
+-
+
+Report the recharacterization on your tax return for the year during which the contribution was made.
+
+-
+
+Treat the contribution as having been made to the second IRA on the date that it was actually made to the first IRA.
+
+No recharacterizations of conversions made in 2018 or later.
+
+A conversion of a traditional IRA to a Roth IRA, and a rollover from any other eligible retirement plan to a Roth IRA, made in tax years beginning after December 31, 2017, cannot be recharacterized as having been made to a traditional IRA. If you made a conversion in the 2017 tax year, you had until the due date (including extensions) for filing the return for that tax year to recharacterize it.
+
+No deduction allowed.
+
+You can’t deduct the contribution to the first IRA. Any net income you transfer with the recharacterized contribution is treated as earned in the second IRA. The contribution won’t be treated as having been made to the second IRA to the extent any deduction was allowed for the contribution to the first IRA.
+
+Conversion by rollover from traditional to Roth IRA.
+
+You receive a distribution from a traditional IRA in 1 tax year. You then roll it over into a Roth IRA within 60 days of the distribution from the traditional IRA but in the next year. For recharacterization purposes, you would treat this transaction as a contribution to the Roth IRA in the year of the distribution from the traditional IRA.
+
+Effect of previous tax-free transfers.
+
+If an amount has been moved from one IRA to another in a tax-free transfer, such as a rollover, you generally can’t recharacterize the amount that was transferred. However, see Traditional IRA mistakenly moved to SIMPLE IRA next.
+
+Traditional IRA mistakenly moved to SIMPLE IRA.
+
+If you mistakenly roll over or transfer an amount from a traditional IRA to a SIMPLE IRA, you can later recharacterize the amount as a contribution to another traditional IRA.
+
+Recharacterizing excess contributions.
+
+You can recharacterize only actual contributions. If you are applying excess contributions for prior years as current contributions, you can recharacterize them only if the recharacterization would still be timely with respect to the tax year for which the applied contributions were actually made.
+
+Example.
+
+You contributed more than you were entitled to in 2025. You can’t recharacterize the excess contributions you made in 2025 after April 15, 2026, because contributions after that date are no longer timely for 2025.
+
+Recharacterizing employer contributions.
+
+You can’t recharacterize employer contributions (including elective deferrals) under a SEP arrangement or SIMPLE IRA plan as contributions to another IRA. SEP arrangements are discussed in chapter 2 of Pub. 560. SIMPLE plans are discussed in chapter 3 of Pub. 560.
+
+Recharacterization not counted as rollover.
+
+The recharacterization of a contribution is not treated as a rollover for purposes of the 1-year waiting period described earlier in this chapter under Rollover From One IRA Into Another . This is true even if the contribution would have been treated as a rollover contribution by the second IRA if it had been made directly to the second IRA rather than as a result of a recharacterization of a contribution to the first IRA.
+
+How Do You Recharacterize a Contribution?
+
+To recharacterize a contribution, you must notify both the trustee of the first IRA (the one to which the contribution was actually made) and the trustee of the second IRA (the one to which the contribution is being moved) that you have elected to treat the contribution as having been made to the second IRA rather than the first. You must make the notifications by the date of the transfer. Only one notification is required if both IRAs are maintained by the same trustee. The notification(s) must include all of the following information.
+
+-
+
+The type and amount of the contribution to the first IRA that is to be recharacterized.
+
+-
+
+The date on which the contribution was made to the first IRA and the year for which it was made.
+
+-
+
+A direction to the trustee of the first IRA to transfer in a trustee-to-trustee transfer the amount of the contribution and any net income (or loss) allocable to the contribution to the trustee of the second IRA.
+
+-
+
+The name of the trustee of the first IRA and the name of the trustee of the second IRA.
+
+-
+
+Any additional information needed to make the transfer.
+
+In most cases, the net income you must transfer is determined by your IRA trustee or custodian. If you need to determine the applicable net income on IRA contributions made after 2025 that are recharacterized, use Worksheet 1-3 . See Regulations section 1.408A-5 for more information.
+
+Worksheet 1-3. Determining the Amount of Net Income Due to an IRA Contribution and Total Amount To Be Recharacterized
+
+1. | Enter the amount of your IRA contribution for 2026 to be recharacterized | 1. | _____
+2. | Enter the fair market value of the IRA immediately prior to the recharacterization (include any distributions, transfers, or recharacterizations made while the contribution was in the account) | 2. | _____
+3. | Enter the fair market value of the IRA immediately prior to the time the contribution being recharacterized was made, including the amount of such contribution and any other contributions, transfers, or recharacterizations made while the contribution was in the account | 3. | _____
+4. | Subtract line 3 from line 2 | 4. | _____
+5. | Divide line 4 by line 3. Enter the result as a decimal (rounded to at least three places) | 5. | _____
+6. | Multiply line 1 by line 5. This is the net income attributable to the contribution to be recharacterized | 6. | _____
+7. | Add lines 1 and 6. This is the amount of the IRA contribution plus the net income attributable to it to be recharacterized | 7. | _____
+
+Timing.
+
+The election to recharacterize and the transfer must both take place on or before the due date (including extensions) for filing your tax return for the tax year for which the contribution was made to the first IRA.
+
+Extension.
+
+Ordinarily, you must choose to recharacterize a contribution by the due date of the return or the due date including extensions. However, if you miss this deadline, you can still recharacterize a contribution if:
+
+-
+
+Your return was timely filed for the year the choice should have been made; and
+
+-
+
+You take appropriate corrective action within 6 months from the due date of your return, excluding extensions. For returns due April 15, 2026, this period ends on October 15, 2026. When the date for doing any act for tax purposes falls on a Saturday, Sunday, or legal holiday, the due date is delayed until the next business day.
+
+Appropriate corrective action consists of:
+
+-
+
+Notifying the trustee(s) of your intent to recharacterize,
+
+-
+
+Providing the trustee with all necessary information, and
+
+-
+
+Having the trustee transfer the contribution.
+
+Once this is done, you must amend your return to show the recharacterization. You have until the regular due date for amending a return to do this. Report the recharacterization on the amended return and write “Filed pursuant to section 301.9100-2” on the return. You can file your amended return electronically if you are amending your tax return for the current or 2 prior tax periods and your original return was filed electronically. Returns filed before these 3 tax years or tax returns filed by paper must be amended by filing an amended return by paper. See the Instructions for Form 1040-X for more information.
+
+Decedent.
+
+The election to recharacterize can be made on behalf of a deceased IRA owner by the executor, the administrator, or another person responsible for filing the decedent's final income tax return.
+
+Election can’t be changed.
+
+After the transfer has taken place, you can’t change your election to recharacterize.
+
+Same trustee.
+
+Recharacterizations made with the same trustee can be made by redesignating the first IRA as the second IRA, rather than transferring the account balance.
+
+Reporting a Recharacterization
+
+If you elect to recharacterize a contribution to one IRA as a contribution to another IRA, you must report the recharacterization on your tax return as directed by Form 8606 and its instructions. You must treat the contribution as having been made to the second IRA.
+
+More than one IRA.
+
+If you have more than one IRA, figure the amount to be recharacterized only on the account from which you withdraw the contribution.
+
+When Can You Withdraw or Use Assets?
+
+You can withdraw or use your traditional IRA assets at any time. However, a 10% additional tax generally applies if you withdraw or use IRA assets before you reach age 59½. This is explained under Age 59½ Rule under Early Distributions in Pub. 590-B.
+
+You can generally make a tax-free withdrawal of contributions if you do it before the due date for filing your tax return for the year in which you made them. This means that, even if you are under age 59½, the 10% additional tax may not apply. These withdrawals are explained later.
+
+Contributions Returned Before Due Date of Return
+
+If you made IRA contributions in 2025, you can withdraw them tax free by the due date of your return. If you have an extension of time to file your return, you can withdraw them tax free by the extended due date. You can do this if, for each contribution you withdraw, both of the following conditions apply.
+
+-
+
+You didn’t take a deduction for the contribution.
+
+-
+
+You withdraw any interest or other income earned on the contribution. You can take into account any loss on the contribution while it was in the IRA when calculating the amount that must be withdrawn. If there was a loss, the net income earned on the contribution may be a negative amount.
+
+Note:
+
+If you timely filed your 2025 tax return without withdrawing a contribution that you made in 2025, you can still have the contribution returned to you within 6 months of the due date of your 2025 tax return, excluding extensions. If you do, file an amended return with “Filed pursuant to section 301.9100-2” written at the top. Report any related earnings on the amended return and include an explanation of the withdrawal. Make any other necessary changes on the amended return (for example, if you reported the contributions as excess contributions on your original return, include an amended Form 5329 reflecting that the withdrawn contributions are no longer treated as having been contributed).
+
+In most cases, the net income you must withdraw is determined by the IRA trustee or custodian. If you need to determine the applicable net income on IRA contributions made after 2025 that are returned to you, use Worksheet 1-4 . See Regulations section 1.408-11 for more information.
+
+Worksheet 1-4. Determining the Amount of Net Income Due to an IRA Contribution and Total Amount To Be Withdrawn From the IRA
+
+1. | Enter the amount of your IRA contribution for 2026 to be returned to you | 1. | _____
+2. | Enter the fair market value of the IRA immediately prior to the removal of the contribution, plus the amount of any distributions, transfers, and recharacterizations made while the contribution was in the IRA | 2. | _____
+3. | Enter the fair market value of the IRA immediately before the contribution was made, plus the amount of such contribution and any other contributions, transfers, and recharacterizations made while the contribution was in the IRA | 3. | _____
+4. | Subtract line 3 from line 2 | 4. | _____
+5. | Divide line 4 by line 3. Enter the result as a decimal (rounded to at least three places) | 5. | _____
+6. | Multiply line 1 by line 5. This is the net income attributable to the contribution to be returned | 6. | _____
+7. | Add lines 1 and 6. This is the amount of the IRA contribution plus the net income attributable to it to be returned to you | 7. | _____
+
+Example.
+
+On May 2, 2026, when your IRA is worth $4,800, you make a $1,600 regular contribution to your IRA. You request that $400 of the May 2, 2026, contribution be returned to you. On February 2, 2027, when the IRA is worth $7,600, the IRA trustee distributes to you the $400 plus net income attributable to the contribution. No other contributions have been made to the IRA for 2026 and no distributions have been made.
+
+The adjusted opening balance is $6,400 ($4,800 + $1,600) and the adjusted closing balance is $7,600. The net income due to the May 2, 2026, contribution is $75 ($400 x ($7,600 – $6,400) ÷ $6,400). Therefore, the total to be distributed on February 2, 2027, is $475. This is shown on Worksheet 1-4. Example—Illustrated .
+
+Worksheet 1-4. Example—Illustrated
+
+1. | Enter the amount of your IRA contribution for 2026 to be returned to you | 1. | 400
+2. | Enter the fair market value of the IRA immediately prior to the removal of the contribution, plus the amount of any distributions, transfers, and recharacterizations made while the contribution was in the IRA | 2. | 7,600
+3. | Enter the fair market value of the IRA immediately before the contribution was made, plus the amount of such contribution and any other contributions, transfers, and recharacterizations made while the contribution was in the IRA | 3. | 6,400
+4. | Subtract line 3 from line 2 | 4. | 1,200
+5. | Divide line 4 by line 3. Enter the result as a decimal (rounded to at least three places) | 5. | 0.1875
+6. | Multiply line 1 by line 5. This is the net income attributable to the contribution to be returned | 6. | 75
+7. | Add lines 1 and 6. This is the amount of the IRA contribution plus the net income attributable to it to be returned to you | 7. | 475
+
+Last-in first-out rule.
+
+If you made more than one regular contribution for the year, your last contribution is considered to be the one that is returned to you first.
+
+Earnings Includible in Income
+
+You must include in income any earnings on the contributions you withdraw. Include the earnings in income for the year in which you made the contributions, not the year in which you withdraw them.
+
+. Generally, except for any part of a withdrawal that is a return of nondeductible contributions (basis), any withdrawal of your contributions after the due date (or extended due date) of your return will be treated as a taxable distribution. Excess contributions can also be recovered tax free as discussed under What Acts Result in Penalties or Additional Taxes , later. .
+
+Early Distributions Tax
+
+The 10% additional tax on distributions made before you reach age 59½ doesn’t apply to these tax-free withdrawals of your contributions. However, the distribution of interest or other income must be reported on Form 5329 and, unless the distribution qualifies for an exception to the age 59½ rule, it will be subject to this tax. See Early Distributions under What Acts Result in Penalties or Additional Taxes? in Pub. 590-B.
+
+Excess Contributions Tax
+
+If any part of these contributions is an excess contribution for 2024, it is subject to a 6% excise tax. You won’t have to pay the 6% tax if any 2024 excess contribution was withdrawn by April 15, 2025 (including extensions), and if any 2025 excess contribution is withdrawn by April 15, 2026 (including extensions). See Excess Contributions under What Acts Result in Penalties or Additional Taxes , later.
+
+. You may be able to treat a contribution made to one type of IRA as having been made to a different type of IRA. This is called recharacterizing the contribution. See Recharacterizations , earlier, for more information. .
+
+What Acts Result in Penalties or Additional Taxes?
+
+The tax advantages of using traditional IRAs for retirement savings can be offset by additional taxes and penalties if you don’t follow the rules. There are excise taxes and other negative tax consequences for using your IRA funds in prohibited transactions. There are also additional taxes for the following activities.
+
+-
+
+Investing in collectibles.
+
+-
+
+Making excess contributions.
+
+-
+
+Taking early distributions. See Pub. 590-B.
+
+-
+
+Allowing excess amounts to accumulate (failing to take required distributions). See Pub. 590-B.
+
+-
+
+Having unrelated business income.
+
+There are penalties for overstating the amount of nondeductible contributions and for failure to file Form 8606, if required.
+
+This chapter discusses those acts that you should avoid and the additional taxes and other costs, including loss of IRA status, that apply if you don’t avoid those acts.
+
+Prohibited Transactions
+
+Generally, a prohibited transaction is any improper use of your traditional IRA account or annuity by you, your beneficiary, or any disqualified person.
+
+Disqualified persons include your fiduciary and members of your family (spouse, ancestor, lineal descendant, and any spouse of a lineal descendant).
+
+The following are some examples of prohibited transactions with a traditional IRA.
+
+-
+
+Borrowing money from it.
+
+-
+
+Selling property to it.
+
+-
+
+Using it as security for a loan.
+
+-
+
+Buying property for personal use (present or future) with IRA funds.
+
+. If your IRA is invested in nonpublicly traded assets or assets that you directly control, the risk of engaging in a prohibited transaction in connection with your account may be increased. .
+
+Fiduciary.
+
+For these purposes, a fiduciary includes anyone who does any of the following.
+
+-
+
+Exercises any discretionary authority or discretionary control in managing your IRA or exercises any authority or control in managing or disposing of its assets.
+
+-
+
+Provides investment advice to your IRA for a fee, or has any authority or responsibility to do so.
+
+-
+
+Has any discretionary authority or discretionary responsibility in administering your IRA.
+
+Effect on an IRA account.
+
+Generally, if you or your beneficiary engages in a prohibited transaction in connection with your traditional IRA account at any time during the year, the account stops being an IRA as of the first day of that year.
+
+However, if you own more than one IRA, each IRA is treated as a separate account, and loss of IRA status only affects that IRA that participated in the prohibited transaction.
+
+Effect on you or your beneficiary.
+
+If your account stops being an IRA because you or your beneficiary engaged in a prohibited transaction, the account is treated as distributing all its assets to you at their fair market values on the first day of the year. If the total of those values is more than your basis in the IRA, you will have a taxable gain that is includible in your income. For information on figuring your gain and reporting it in income, see Are Distributions Taxable? in Pub. 590-B. The distribution may be subject to additional taxes or penalties.
+
+Borrowing on an annuity contract.
+
+If you borrow money against your traditional IRA annuity contract, you must include in your gross income the fair market value of the annuity contract as of the first day of your tax year. You may have to pay the 10% additional tax on early distributions discussed in Pub. 590-B.
+
+Pledging an account as security.
+
+If you use a part of your traditional IRA account as security for a loan, that part is treated as a distribution and is included in your gross income. You may have to pay the 10% additional tax on early distributions discussed in Pub. 590-B.
+
+Trust account set up by an employer or an employee association.
+
+Your account or annuity doesn’t lose its IRA treatment if your employer or the employee association with whom you have your traditional IRA engages in a prohibited transaction.
+
+Owner participation.
+
+If you participate in the prohibited transaction with your employer or the association, your account is no longer treated as an IRA.
+
+Taxes on prohibited transactions.
+
+If someone other than the owner or beneficiary of a traditional IRA engages in a prohibited transaction, that person may be liable for certain taxes. In general, there is a 15% tax on the amount involved in the prohibited transaction and a 100% additional tax if the transaction isn’t corrected.
+
+Loss of IRA status.
+
+If the traditional IRA ceases to be an IRA because of a prohibited transaction by you or your beneficiary, you or your beneficiary isn’t liable for these excise taxes. However, you or your beneficiary may have to pay other taxes, as discussed under Effect on you or your beneficiary , earlier.
+
+Exempt Transactions
+
+The Department of Labor (DOL) has authority to grant administrative exemptions from the prohibited transaction provisions of the Employee Retirement Income Security Act (ERISA) and the Internal Revenue Code for a class of transactions or for individual transactions. In order to grant an administrative exemption, the DOL must make the following three determinations.
+
+-
+
+The exemption must be administratively feasible.
+
+-
+
+In the interest of the plan and its participants.
+
+-
+
+Protective of the rights of plan participants and beneficiaries.
+
+For additional information on prohibited transaction exemptions, see the Exemptions page on the Department of Labor website. For information on filing and the processing of prohibited transactions exemption applications, see Procedures Governing the Filing and Processing of Prohibited Transaction Exemption Applications .
+
+The following two types of transactions aren’t prohibited transactions if they meet the requirements that follow.
+
+-
+
+Payments of cash, property, or other consideration by the trustee of your traditional IRA to you (or members of your family).
+
+-
+
+Your receipt of services at reduced or no cost from the bank where your traditional IRA is established or maintained.
+
+Payments of cash, property, or other consideration.
+
+Even if a trustee makes payments to you or your family, there is no prohibited transaction if all three of the following requirements are met.
+
+-
+
+The payments are for establishing a traditional IRA or for making additional contributions to it.
+
+-
+
+The IRA is established solely to benefit you, your spouse, and your or your spouse's beneficiaries.
+
+-
+
+During the year, the total fair market value of the payments you receive isn’t more than:
+
+-
+
+$10 for IRA deposits of less than $5,000, or
+
+-
+
+$20 for IRA deposits of $5,000 or more.
+
+If the consideration is group-term life insurance, requirements (1) and (3) don’t apply if no more than $5,000 of the face value of the insurance is based on a dollar-for-dollar basis on the assets in your IRA.
+
+Services received at reduced or no cost.
+
+Even if a trustee provides services at reduced or no cost, there is no prohibited transaction if all of the following requirements are met.
+
+-
+
+The traditional IRA qualifying you to receive the services is established and maintained for the benefit of you, your spouse, and your or your spouse's beneficiaries.
+
+-
+
+The bank itself can legally offer the services.
+
+-
+
+The services are provided in the ordinary course of business by the bank (or a bank affiliate) to customers who qualify but don’t maintain an IRA (or a Keogh plan).
+
+-
+
+The determination, for a traditional IRA, of who qualifies for these services is based on an IRA (or a Keogh plan) deposit balance equal to the lowest qualifying balance for any other type of account.
+
+-
+
+The rate of return on a traditional IRA investment that qualifies isn’t less than the return on an identical investment that could have been made at the same time at the same branch of the bank by a customer who isn’t eligible for (or doesn’t receive) these services.
+
+Investment in Collectibles
+
+If your traditional IRA invests in collectibles, the amount invested is considered distributed to you in the year invested. You may have to pay the 10% additional tax on early distributions discussed in Pub. 590-B.
+
+Any amounts that were considered to be distributed when the investment in the collectible was made, and which were included in your income at that time, aren’t included in your income when the collectible is actually distributed from your IRA.
+
+Collectibles.
+
+These include:
+
+-
+
+Artworks,
+
+-
+
+Rugs,
+
+-
+
+Antiques,
+
+-
+
+Metals,
+
+-
+
+Gems,
+
+-
+
+Stamps,
+
+-
+
+Coins,
+
+-
+
+Alcoholic beverages, and
+
+-
+
+Certain other tangible personal property.
+
+Exception.
+
+Your IRA can invest in one, one-half, one-quarter, or one-tenth ounce U.S. gold coins, or one-ounce silver coins minted by the Treasury Department. It can also invest in certain platinum coins and certain gold, silver, palladium, and platinum bullion.
+
+Unrelated Business Income
+
+An IRA is subject to tax on unrelated business income if it carries on an unrelated trade or business. An unrelated trade or business means any trade or business regularly carried on by the IRA or by a partnership of which it is a member. If the IRA has $1,000 or more of unrelated trade or business gross income, the IRA trustee is required to file a Form 990-T, Exempt Organization Business Income Tax Return. The Form 990-T must be filed by the 15th day of the 4th month after the end of the IRA’s tax year. See Pub. 598, Tax on Unrelated Business Income of Exempt Organizations, for more information.
+
+Excess Contributions
+
+Generally, an excess contribution is the amount contributed to your traditional IRAs for the year that is more than the smaller of:
+
+-
+
+$7,000 ($8,000 if you are age 50 or older), or
+
+-
+
+Your taxable compensation for the year.
+
+The taxable compensation limit applies whether your contributions are deductible or nondeductible.
+
+An excess contribution could be the result of your contribution, your spouse's contribution, your employer's contribution, or an improper rollover contribution. If your employer makes contributions under a SEP arrangement on your behalf to a SEP IRA, see chapter 2 of Pub. 560.
+
+Tax on Excess Contributions
+
+In general, if the excess contributions for a year aren’t withdrawn by the date your return for the year is due (including extensions), you are subject to a 6% tax. You must pay the 6% tax each year on excess amounts that remain in your traditional IRA at the end of your tax year. The tax can’t be more than 6% of the combined value of all your IRAs as of the end of your tax year.
+
+The additional tax is figured on Form 5329. For information on filing Form 5329, see Reporting Additional Taxes , later.
+
+Example.
+
+For 2025, you are 45 years old and single. Your compensation is $31,000 and you contributed $7,500 to your traditional IRA. You have made an excess contribution to your IRA of $500 ($7,500 minus the $7,000 limit). The contribution earned $5 interest in 2025 and $6 interest in 2026 before the due date of the return, including extensions. You don’t withdraw the $500 or the interest it earned by the due date of your return, including extensions.
+
+You figure your additional tax for 2025 by multiplying the excess contribution ($500) shown on Form 5329, line 16, by 0.06, giving you an additional tax liability of $30. You enter the tax on Form 5329, line 17, and on Schedule 2 (Form 1040), line 8. See the filled-in Form 5329 , later.
+
+Excess Contributions Withdrawn by Due Date of Return
+
+You won’t have to pay the 6% tax if you withdraw an excess contribution made during a tax year and you also withdraw any interest or other income earned on the excess contribution. You must complete your withdrawal by the date your tax return for that year is due, including extensions.
+
+How to treat withdrawn contributions.
+
+Don’t include in your gross income an excess contribution that you withdraw from your traditional IRA before your tax return is due if both of the following conditions are met.
+
+-
+
+No deduction was allowed for the excess contribution.
+
+-
+
+You withdraw the interest or other income earned on the excess contribution.
+
+You can take into account any loss on the contribution while it was in the IRA when calculating the amount that must be withdrawn. If there was a loss, the net income you must withdraw may be a negative amount.
+
+In most cases, the net income you must transfer will be determined by your IRA trustee or custodian. If you need to determine the applicable net income you need to withdraw, you can use the same method that was used on Worksheet 1-3 .
+
+If you timely filed your 2025 tax return without withdrawing a contribution that you made in 2025, you can still have the contribution returned to you within 6 months of the due date of your 2025 tax return, excluding extensions. If you do, file an amended return with “Filed pursuant to section 301.9100-2” written at the top. Report any related earnings on the amended return and include an explanation of the withdrawal. Make any other necessary changes on the amended return (for example, if you reported the contributions as excess contributions on your original return, include an amended Form 5329 reflecting that the withdrawn contributions are no longer treated as having been contributed).
+
+How to treat withdrawn interest or other income.
+
+You must include in your gross income the interest or other income that was earned on the excess contribution. Report it on your return for the year in which the excess contribution was made. Your withdrawal of interest or other income may be subject to an additional 10% tax on early distributions discussed in Pub. 590-B.
+
+Beginning on or after December 29, 2022, the 10% additional tax will not apply to your withdrawal of interest or other income, if withdrawn on or before the due date (including extensions) of the income tax return. See Pub. 590-B for more information.
+
+Form 1099-R.
+
+You will receive Form 1099-R indicating the amount of the withdrawal. If the excess contribution was made in a previous tax year, the form will indicate the year in which the earnings are taxable.
+
+Example.
+
+Maria, age 35, made an excess contribution in 2025 of $1,000, which she withdrew by April 15, 2026, the due date of her return. At the same time, she also withdrew the $50 income that was earned on the $1,000. She must include the $50 in her gross income for 2025 (the year in which the excess contribution was made).
+
+Maria doesn’t have to report the excess contribution as income or pay the 6% additional tax because she withdrew the excess contribution by the due date of her return. Maria receives a Form 1099-R showing that the earnings are taxable for 2025.
+
+Excess Contributions Withdrawn After Due Date of Return
+
+In general, you must include all distributions (withdrawals) from your traditional IRA in your gross income. However, if the following conditions are met, you can withdraw excess contributions from your IRA and not include the amount withdrawn in your gross income.
+
+-
+
+Total contributions (other than rollover contributions) for 2025 to your IRA weren’t more than $7,000 ($8,000 if you are age 50 or older).
+
+-
+
+You didn’t take a deduction for the excess contribution being withdrawn.
+
+The withdrawal can take place at any time, even after the due date, including extensions, for filing your tax return for the year.
+
+Excess contribution deducted in an earlier year.
+
+If you deducted an excess contribution in an earlier year for which the total contributions weren’t more than the maximum deductible amount for that year (see the following table), you can still remove the excess from your traditional IRA and not include it in your gross income. To do this, file Form 1040-X for that year and don’t deduct the excess contribution on the amended return. Generally, you can file an amended return within 3 years after you filed your return, or 2 years from the time the tax was paid, whichever is later.
+
+Year(s) | Contribution limit | Contribution limit if age 50 or older at the end of the year
+2024 | $7,000 | $8,000
+2023 | $6,500 | $7,500
+2019 through 2022 | $6,000 | $7,000
+2013 through 2018 | $5,500 | $6,500
+2008 through 2012 | $5,000 | $6,000
+2006 or 2007 | $4,000 | $5,000
+2005 | $4,000 | $4,500
+2002 through 2004 | $3,000 | $3,500
+1997 through 2001 | $2,000 | —
+before 1997 | $2,250 | —
+
+Excess due to incorrect rollover information.
+
+If an excess contribution in your traditional IRA is the result of a rollover and the excess occurred because the information the plan was required to give you was incorrect, you can withdraw the excess contribution. The limits mentioned above are increased by the amount of the excess that is due to the incorrect information. You will have to amend your return for the year in which the excess occurred to correct the reporting of the rollover amounts in that year. Don’t include in your gross income the part of the excess contribution caused by the incorrect information.
+
+Deducting an Excess Contribution in a Later Year
+
+You can’t apply an excess contribution to an earlier year even if you contributed less than the maximum amount allowable for the earlier year. However, you may be able to apply it to a later year if the contributions for that later year are less than the maximum allowed for that year.
+
+You can deduct excess contributions for previous years that are still in your traditional IRA. The amount you can deduct this year is the lesser of the following two amounts.
+
+-
+
+Your maximum IRA deduction for this year minus any amounts contributed to your traditional IRAs for this year.
+
+-
+
+The total excess contributions in your IRAs at the beginning of this year.
+
+This method lets you avoid making a withdrawal. It doesn’t, however, let you avoid the 6% tax on any excess contributions remaining at the end of a tax year.
+
+To figure the amount of excess contributions for previous years that you can deduct this year, see Worksheet 1-5 .
+
+Worksheet 1-5. Excess Contributions Deductible This Year
+
+Use this worksheet to figure the amount of excess contributions from prior years you can deduct this year.
+
+1. | Maximum IRA deduction for the current year | 1. | _____
+2. | IRA contributions for the current year | 2. | _____
+3. | Subtract line 2 from line 1. If zero or less, enter -0- | 3. | _____
+4. | Excess contributions in IRA at beginning of year | 4. | _____
+5. | Enter the lesser of line 3 or line 4. This is the amount of excess contributions for previous years that you can deduct this year | 5. | _____
+
+Example.
+
+You were entitled to contribute to your traditional IRA and deduct $1,000 in 2024 and $1,500 in 2025 (the amounts of your taxable compensation for these years). For 2024, you contributed $1,400 but could deduct only $1,000. In 2024, $400 is an excess contribution subject to the 6% tax. However, you wouldn’t have to pay the 6% tax if you withdrew the excess (including any earnings) before the due date of your 2024 return. Because you didn’t withdraw the excess, you owe excise tax of $24 for 2024. To avoid the excise tax for 2025, you can correct the $400 excess amount from 2024 in 2025 if your actual contributions are only $1,100 for 2024 (the allowable deductible contribution of $1,500 minus the $400 excess from 2024 you want to treat as a deductible contribution in 2025). You can deduct $1,500 in 2025 (the $1,100 actually contributed plus the $400 excess contribution from 2024). This is shown on Worksheet 1-5. Example—Illustrated .
+
+Form 5329, page 1 Paul Jones
+
+Form 5329 Additional Taxes on Qualified Plans (Including IRAs) and Other Tax-Favored Accounts 2025
+
+Form 5329 Additional Taxes on Qualified Plans (Including IRAs) and Other Tax-Favored Accounts 2025
+
+Summary: This is an example of Form 5329 (2025) with items included as described in the text. Additionally, these line items are completed:
+
+"Name of individual subject to additional tax. If married filing jointly, see instructions." field contains Paul Jones
+"Your social security number" field contains 003-00-0000
+Under"Part III: Additional Tax on Excess Contributions to Traditional IRAs":
+"15. Excess contributions for 2024 (see instructions)"field contains 500
+"16. Total excess contributions. Add lines 14 and 15" field contains 500
+"17. Additional tax. Enter 6% (0.06) of the smaller of line 16 or the value of your traditional IRAs on December 31, 2025 (including 2025 contributions made in 2026). Include this amount on Schedule 2 (Form 1040), line 8" field contains 30
+
+Please click here for the text description of the image.
+
+Worksheet 1-5. Example—Illustrated
+
+Use this worksheet to figure the amount of excess contributions from prior years you can deduct this year.
+
+1. | Maximum IRA deduction for the current year | 1. | 1,500
+2. | IRA contributions for the current year | 2. | 1,100
+3. | Subtract line 2 from line 1. If zero or less, enter -0- | 3. | 400
+4. | Excess contributions in IRA at beginning of year | 4. | 400
+5. | Enter the lesser of line 3 or line 4. This is the amount of excess contributions for previous years that you can deduct this year | 5. | 400
+
+Closed tax year.
+
+A special rule applies if you incorrectly deducted part of the excess contribution in a closed tax year (one for which the period to assess a tax deficiency has expired). The amount allowable as a traditional IRA deduction for a later correction year (the year you contribute less than the allowable amount) must be reduced by the amount of the excess contribution deducted in the closed year.
+
+To figure the amount of excess contributions for previous years that you can deduct this year if you incorrectly deducted part of the excess contribution in a closed tax year, see Worksheet 1-6 .
+
+Worksheet 1-6. Excess Contributions Deductible This Year if Any Were Deducted in a Closed Tax Year
+
+Use this worksheet to figure the amount of excess contributions for prior years that you can deduct this year if you incorrectly deducted excess contributions in a closed tax year.
+
+1. | Maximum IRA deduction for the current year | 1. | _____
+2. | IRA contributions for the current year | 2. | _____
+3. | If line 2 is less than line 1, enter any excess contributions that were deducted in a closed tax year. Otherwise, enter -0- | 3. | _____
+4. | Subtract line 3 from line 1 | 4. | _____
+5. | Subtract line 2 from line 4. If zero or less, enter -0- | 5. | _____
+6. | Excess contributions in IRA at beginning of year | 6. | _____
+7. | Enter the lesser of line 5 or line 6. This is the amount of excess contributions for previous years that you can deduct this year | 7. | _____
+
+Reporting Additional Taxes
+
+Generally, you must use Form 5329 to report the tax on excess contributions, early distributions, and excess accumulations.
+
+Filing a tax return.
+
+If you must file an individual income tax return, complete Form 5329 and attach it to your Form 1040, 1040-SR, or 1040-NR. Enter the total additional taxes due on Schedule 2 (Form 1040), line 8.
+
+Not filing a tax return.
+
+If you don’t have to file a individual income tax return, but do have to pay one of the additional taxes mentioned earlier, file the completed Form 5329 with the IRS at the time and place you would have filed Form 1040, 1040-SR, or 1040-NR. If you file Form 5329 by itself, then it cannot be filed electronically. Be sure to include your address on page 1 and your signature and date on page 3. For payment options, see the Instructions for Form 1040 or the Instructions for Form 1040-NR, or go to IRS.gov/Payments to see all your payment options.
+
+Form 5329 not required.
+
+You don’t have to use Form 5329 if either of the following situations exists.
+
+-
+
+Distribution code 1 is correctly shown in box 7 of Forms 1099-R. If distribution code 1 is correctly shown in box 7 of all your Forms 1099-R and you owe the additional tax on the full amount shown on each Form 1099-R, you don’t have to file Form 5239. Instead, see the instructions for Schedule 2 (Form 1040), line 8, in the Instructions for Form 1040, or the Instructions for Form 1040-NR, for how to report the 10% additional tax directly on that line.
+
+-
+
+If you rolled over part or all of a distribution from a qualified retirement plan, the part rolled over isn’t subject to the 10% additional tax on early distributions. See the instructions for Form 1040, or 1040-NR, lines 4a, 4b, and 4c or lines 5a, 5b, and 5c, for how to report the rollover.

@@ -1,0 +1,1424 @@
+IRS Pub 17 (2025) | 8. Other Income
+
+8. Other Income
+
+What’s New
+
+No tax on overtime. If you received overtime compensation, you may be able to claim a deduction for qualified overtime compensation. See Overtime , later.
+
+No tax on tips. If you received tips, you may be able to claim a deduction for qualified tips on your tax return. See Tips , later.
+
+Reminders
+
+Certain relief payments made to individuals affected by the East Palestine train derailment are not taxable. If you received relief payments from a government agency, Norfolk Southern Railway, or its subsidiary, insurer, agent, or a related person due to being affected by the February 3, 2023, East Palestine, Ohio, train derailment, these payments may be nontaxable. See Pub. 547 for more information.
+
+Qualified wildfire relief payments are not taxable. If you received a qualified wildfire relief payment, those payments may be nontaxable. See Pub. 547 for more information.
+
+Temporary allowance of 100% business meal deduction has expired. Section 210 of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 provided for the temporary allowance of a 100% business meal deduction for food or beverages provided by a restaurant and paid or incurred after December 31, 2020, and before January 1, 2023.
+
+Unemployment compensation. If you received unemployment compensation but did not receive Form 1099-G, Certain Government Payments, through the mail, you may need to access your information through your state’s website to get your electronic Form 1099-G.
+
+Introduction
+
+You must include on your return all items of income you receive in the form of money, property, and services unless the tax law states that you don’t include them. Some items, however, are only partly excluded from income. This chapter discusses many kinds of income and explains whether they’re taxable or nontaxable.
+
+-
+
+Income that’s taxable must be reported on your tax return and is subject to tax.
+
+-
+
+Income that’s nontaxable may have to be shown on your tax return but isn’t taxable.
+
+This chapter begins with discussions of the following income items.
+
+-
+
+Bartering.
+
+-
+
+Canceled debts.
+
+-
+
+Sales parties at which you’re the host or hostess.
+
+-
+
+Life insurance proceeds.
+
+-
+
+Partnership income.
+
+-
+
+S corporation income.
+
+-
+
+Recoveries (including state income tax refunds).
+
+-
+
+Rents from personal property.
+
+-
+
+Repayments.
+
+-
+
+Royalties.
+
+-
+
+Unemployment benefits.
+
+-
+
+Welfare and other public assistance benefits.
+
+These discussions are followed by brief discussions of other income items.
+
+Useful Items
+
+You may want to see:
+
+Publication
+
+-
+
+502 Medical and Dental Expenses
+
+-
+
+504 Divorced or Separated Individuals
+
+-
+
+523 Selling Your Home
+
+-
+
+525 Taxable and Nontaxable Income
+
+-
+
+544 Sales and Other Dispositions of Assets
+
+-
+
+547 Casualties, Disasters, and Thefts
+
+-
+
+550 Investment Income and Expenses
+
+-
+
+4681 Canceled Debts, Foreclosures, Repossessions, and Abandonments
+
+For these and other useful items, go to IRS.gov/Forms .
+
+Bartering
+
+Bartering is an exchange of property or services. You must include in your income, at the time received, the fair market value of property or services you receive in bartering. If you exchange services with another person and you both have agreed ahead of time on the value of the services, that value will be accepted as fair market value unless the value can be shown to be otherwise.
+
+Generally, you report this income on Schedule C (Form 1040), Profit or Loss From Business. However, if the barter involves an exchange of something other than services, such as in Example 3 below, you may have to use another form or schedule instead.
+
+Example 1.
+
+You’re a self-employed attorney who performs legal services for a client, a small corporation. The corporation gives you shares of its stock as payment for your services. You must include the fair market value of the shares in your income on Schedule C (Form 1040) in the year you receive them.
+
+Example 2.
+
+You’re self-employed and a member of a barter club. The club uses “credit units” as a means of exchange. It adds credit units to your account for goods or services you provide to members, which you can use to purchase goods or services offered by other members of the barter club. The club subtracts credit units from your account when you receive goods or services from other members. You must include in your income the value of the credit units that are added to your account, even though you may not actually receive goods or services from other members until a later tax year.
+
+Example 3.
+
+You own a small apartment building. In return for 6 months rent-free use of an apartment, an artist gives you a work of art she created. You must report as rental income on Schedule E (Form 1040), Supplemental Income and Loss, the fair market value of the artwork, and the artist must report as income on Schedule C (Form 1040) the fair rental value of the apartment.
+
+Form 1099-B from barter exchange.
+
+If you exchanged property or services through a barter exchange, Form 1099-B, Proceeds From Broker and Barter Exchange Transactions, or a similar statement from the barter exchange should generally be sent to you by February 15, 2026 (if it's not a weekend or holiday). It should show the value of cash, property, services, credits, or scrip you received from exchanges during 2025. The IRS will also receive a copy of Form 1099-B.
+
+Canceled Debts
+
+In most cases, if a debt you owe is canceled or forgiven, other than as a gift or bequest, you must include the canceled amount in your income. You have no income from the canceled debt if it’s intended as a gift to you. A debt includes any indebtedness for which you’re liable or which attaches to property you hold.
+
+If the debt is a nonbusiness debt, report the canceled amount on Schedule 1 (Form 1040), line 8c. If it’s a business debt, report the amount on Schedule C (Form 1040), (or on Schedule F (Form 1040), Profit or Loss From Farming, if the debt is farm debt and you’re a farmer).
+
+Form 1099-C.
+
+If a federal government agency, financial institution, or credit union cancels or forgives a debt you owe of $600 or more, you will receive a Form 1099-C, Cancellation of Debt. The amount of the canceled debt is shown in box 2.
+
+Interest included in canceled debt.
+
+If any interest is forgiven and included in the amount of canceled debt in box 2, the amount of interest will also be shown in box 3. Whether or not you must include the interest portion of the canceled debt in your income depends on whether the interest would be deductible when you paid it. See Deductible debt under Exceptions , later.
+
+If the interest wouldn’t be deductible (such as interest on a personal loan), include in your income the amount from box 2 of Form 1099-C. If the interest would be deductible (such as on a business loan), include in your income the net amount of the canceled debt (the amount shown in box 2 less the interest amount shown in box 3).
+
+Discounted mortgage loan.
+
+If your financial institution offers a discount for the early payment of your mortgage loan, the amount of the discount is canceled debt. You must include the canceled amount in your income.
+
+Mortgage relief upon sale or other disposition.
+
+If you’re personally liable for a mortgage (recourse debt), and you’re relieved of the mortgage when you dispose of the property, you may realize gain or loss up to the fair market value of the property. Also, to the extent the mortgage discharge exceeds the fair market value of the property, it’s income from discharge of indebtedness unless it qualifies for exclusion under Excluded debt , later. Report any income from discharge of indebtedness on nonbusiness debt that doesn’t qualify for exclusion as other income on Schedule 1 (Form 1040), line 8c.
+
+If you aren’t personally liable for a mortgage (nonrecourse debt), and you’re relieved of the mortgage when you dispose of the property (such as through foreclosure), that relief is included in the amount you realize. You may have a taxable gain if the amount you realize exceeds your adjusted basis in the property. Report any gain on nonbusiness property as a capital gain.
+
+See Pub. 4681 for more information.
+
+Stockholder debt.
+
+If you’re a stockholder in a corporation and the corporation cancels or forgives your debt to it, the canceled debt is a constructive distribution that’s generally dividend income to you. For more information, see Pub. 542, Corporations.
+
+If you’re a stockholder in a corporation and you cancel a debt owed to you by the corporation, you generally don’t realize income. This is because the canceled debt is considered as a contribution to the capital of the corporation equal to the amount of debt principal that you canceled.
+
+Repayment of canceled debt.
+
+If you included a canceled amount in your income and later pay the debt, you may be able to file a claim for refund for the year the amount was included in income. You can file a claim on Form 1040-X, Amended U.S. Individual Income Tax Return, if the statute of limitations for filing a claim is still open. The statute of limitations generally doesn’t end until 3 years after the due date of your original return.
+
+Exceptions
+
+There are several exceptions to the inclusion of canceled debt in income. These are explained next.
+
+Student loans.
+
+Generally, if you are responsible for making loan payments, and the loan is canceled or repaid by someone else, you must include the amount that was canceled or paid on your behalf in your gross income for tax purposes. However, in certain circumstances, you may be able to exclude amounts from gross income as a result of the cancellation or repayment of certain student loans. These exclusions are for:
+
+Exclusion for student loan cancellation due to meeting certain work requirements.
+
+If your student loan is canceled in part or in whole in 2025 due to meeting certain work requirements, you may not have to include the canceled debt in your income. To qualify for this work-related exclusion, your loan must have been made by a qualified lender to assist you in attending an eligible educational organization described in section 170(b)(1)(A)(ii). In addition, the cancellation must be pursuant to a provision in the student loan that all or part of the debt will be canceled if you work:
+
+-
+
+For a certain period of time,
+
+-
+
+In certain professions, and
+
+-
+
+For any of a broad class of employers.
+
+. The cancellation of your loan won’t qualify for tax-free treatment if it was made by an educational organization or tax-exempt section 501(c)(3) organization and was canceled because of the services you performed for either organization. See Exception , later. .
+
+Educational organization described in section 170(b)(1)(A)(ii).
+
+This is an educational organization that maintains a regular faculty and curriculum and normally has a regularly enrolled body of students in attendance at the place where it carries on its educational activities.
+
+Qualified lenders.
+
+These include the following.
+
+-
+
+The United States, or an instrumentality or agency thereof.
+
+-
+
+A state or territory of the United States; or the District of Columbia; or any political subdivision thereof.
+
+-
+
+A public benefit corporation that is tax exempt under section 501(c)(3); and that has assumed control of a state, county, or municipal hospital; and whose employees are considered public employees under state law.
+
+-
+
+An educational organization described in section 170(b)(1)(A)(ii), if the loan is made:
+
+-
+
+As part of an agreement with an entity described in (1), (2), or (3) under which the funds to make the loan were provided to the educational organization; or
+
+-
+
+Under a program of the educational organization that is designed to encourage its students to serve in occupations with unmet needs or in areas with unmet needs where services provided by the students (or former students) are for or under the direction of a governmental unit or a tax-exempt section 501(c)(3) organization.
+
+Special rule for student loan discharges for 2021 through 2025.
+
+The American Rescue Plan Act of 2021 modified the treatment of student loan forgiveness for discharges in 2021 through 2025. Generally, if you are responsible for making loan payments, and the loan is canceled or repaid by someone else, you must include the amount that was canceled or paid on your behalf in your gross income for tax purposes. However, in certain circumstances, you may be able to exclude this amount from gross income if the loan was one of the following.
+
+-
+
+A loan for postsecondary educational expenses.
+
+-
+
+A private education loan.
+
+-
+
+A loan from an educational organization described in section 170(b)(1)(A)(ii).
+
+-
+
+A loan from an organization exempt from tax under section 501(a) to refinance a student loan.
+
+See Pub. 4681 and Pub. 970 for more information.
+
+Loan for postsecondary educational expenses.
+
+This is any loan provided expressly for postsecondary education, regardless of whether provided through the educational organization or directly to the borrower, if such loan was made, insured, or guaranteed by one of the following.
+
+-
+
+The United States, or an instrumentality or agency thereof.
+
+-
+
+A state or territory of the United States; or the District of Columbia; or any political subdivision thereof.
+
+-
+
+An eligible educational organization.
+
+Eligible educational organization.
+
+An eligible educational organization is generally any accredited public, nonprofit, or proprietary (privately owned profit-making) college, university, vocational school, or other postsecondary educational organization. Also, the organization must be eligible to participate in a student aid program administered by the U.S. Department of Education.
+
+An eligible educational organization also includes certain educational organizations located outside the United States that are eligible to participate in a student aid program administered by the U.S. Department of Education.
+
+. The educational organization should be able to tell you if it is an eligible educational organization. .
+
+Private education loan.
+
+A private education loan is a loan provided by a private educational lender that:
+
+-
+
+Is not made, insured, or guaranteed under Title IV of the Higher Education Act of 1965; and
+
+-
+
+Is issued expressly for postsecondary educational expenses to a borrower, regardless of whether the loan is provided through the educational organization that the student attends or directly to the borrower from the private educational lender. A private education loan does not include an extension of credit under an open-end consumer credit plan, a reverse mortgage transaction, a residential mortgage transaction, or any other loan that is secured by real property or a dwelling.
+
+Private educational lender.
+
+A private educational lender is one of the following.
+
+-
+
+A financial institution that solicits, makes, or extends private education loans.
+
+-
+
+A federal credit union that solicits, makes, or extends private education loans.
+
+-
+
+Any other person engaged in the business of soliciting, making, or extending private education loans.
+
+. The cancellation of your loan won’t qualify for tax-free treatment if it is canceled because of services you performed for the private educational lender that made the loan or other organization that provided the funds. .
+
+Loan from an educational organization described in section 170(b)(1)(A)(ii).
+
+This is any loan made by the organization if the loan is made:
+
+-
+
+As part of an agreement with an entity described earlier under which the funds to make the loan were provided to the educational organization; or
+
+-
+
+Under a program of the educational organization that is designed to encourage its students to serve in occupations with unmet needs or in areas with unmet needs where the services provided by the students (or former students) are for or under the direction of a governmental unit or tax-exempt section 501(c)(3) organization.
+
+Educational organization described in section 170(b)(1)(A)(ii).
+
+This is an educational organization that maintains a regular faculty and curriculum and normally has a regularly enrolled body of students in attendance at the place where it carries on its educational activities.
+
+. The cancellation of your loan won’t qualify for tax-free treatment if it was made by an educational organization, a tax-exempt section 501(c)(3) organization, or a private education lender (as defined in section 140(a)(7) of the Truth in Lending Act) and was canceled because of the services you performed for either such organization or private education lender. See Exception , later. .
+
+Section 501(c)(3) organization.
+
+This is any corporation, community chest, fund, or foundation organized and operated exclusively for one or more of the following purposes.
+
+-
+
+Charitable.
+
+-
+
+Religious.
+
+-
+
+Educational.
+
+-
+
+Scientific.
+
+-
+
+Literary.
+
+-
+
+Testing for public safety.
+
+-
+
+Fostering national or international amateur sports competition (but only if none of its activities involve providing athletic facilities or equipment).
+
+-
+
+The prevention of cruelty to children or animals.
+
+Exception.
+
+In most cases, the cancellation of a student loan made by an educational organization because of services you performed for that organization or another organization that provided the funds for the loan must be included in gross income on your tax return.
+
+Refinanced loan.
+
+If you refinanced a student loan with another loan from an eligible educational organization or a tax-exempt organization, that loan may also be considered as made by a qualified lender. The refinanced loan is considered made by a qualified lender if it’s made under a program of the refinancing organization that is designed to encourage students to serve in occupations with unmet needs or in areas with unmet needs where the services required of the students are for or under the direction of a governmental unit or a tax-exempt section 501(c)(3) organization.
+
+Student loan repayment assistance.
+
+Student loan repayments made to you are tax free if you received them for any of the following.
+
+-
+
+The National Health Service Corps (NHSC) Loan Repayment Program.
+
+-
+
+A state education loan repayment program eligible for funds under the Public Health Service Act.
+
+-
+
+Any other state loan repayment or loan forgiveness program that is intended to provide for the increased availability of health services in underserved or health professional shortage areas (as determined by such state).
+
+. You can’t deduct the interest you paid on a student loan to the extent payments were made through your participation in any of the above programs. .
+
+Deductible debt.
+
+You don’t have income from the cancellation of a debt if your payment of the debt would be deductible. This exception applies only if you use the cash method of accounting. For more information, see chapter 5 of Pub. 334, Tax Guide for Small Business.
+
+Price reduced after purchase.
+
+In most cases, if the seller reduces the amount of debt you owe for property you purchased, you don’t have income from the reduction. The reduction of the debt is treated as a purchase price adjustment and reduces your basis in the property.
+
+Excluded debt.
+
+Don’t include a canceled debt in your gross income in the following situations.
+
+-
+
+The debt is canceled in a bankruptcy case under title 11 of the U.S. Code. See Pub. 908, Bankruptcy Tax Guide.
+
+-
+
+The debt is canceled when you’re insolvent. However, you can’t exclude any amount of canceled debt that’s more than the amount by which you’re insolvent. See Pub. 908.
+
+-
+
+The debt is qualified farm debt and is canceled by a qualified person. See chapter 3 of Pub. 225, Farmer's Tax Guide.
+
+-
+
+The debt is qualified real property business debt. See chapter 5 of Pub. 334.
+
+-
+
+The cancellation is intended as a gift.
+
+-
+
+The debt is qualified principal residence indebtedness (QPRI).
+
+Forgiveness of Paycheck Protection Program (PPP) loans.
+
+The forgiveness of a PPP loan creates tax-exempt income, so although you don't need to report the income from the forgiveness of your PPP loan on Form 1040 or 1040-SR, you do need to report certain information related to your PPP loan.
+
+Revenue Procedure 2021-48, 2021-49 I.R.B. 835, permits taxpayers to treat tax-exempt income resulting from the forgiveness of a PPP loan as received or accrued (1) as, and to the extent that, eligible expenses are paid or incurred; (2) when you apply for forgiveness of the PPP loan; or (3) when forgiveness of the PPP loan is granted. If you have tax-exempt income resulting from the forgiveness of a PPP loan, attach a statement to your return reporting each tax year for which you are applying Revenue Procedure 2021-48, and which section of Revenue Procedure 2021-48 you are applying–either section 3.01(1), (2), or (3). Any statement should include the following information for each PPP loan.
+
+-
+
+Your name, address, and ITIN or SSN.
+
+-
+
+A statement that you are applying or applied section 3.01(1), (2), or (3) of Revenue Procedure 2021-48, and for what tax year.
+
+-
+
+The amount of tax-exempt income from forgiveness of the PPP loan that you are treating as received or accrued and for what tax year.
+
+-
+
+Whether forgiveness of the PPP loan has been granted as of the date you file your return.
+
+Write “RP 2021-48” at the top of your attached statement.
+
+Host
+
+If you host a party or event at which sales are made, any gift or gratuity you receive for giving the event is a payment for helping a direct seller make sales. You must report this item as income at its fair market value.
+
+Your out-of-pocket party expenses are subject to the 50% limit for meal expenses. For tax years 2018 and after, no deduction is allowed for any expenses related to activities generally considered entertainment, amusement, or recreation. Taxpayers may continue to deduct 50% of the cost of business meals if the taxpayer (or an employee of the taxpayer) is present and the food or beverages are not considered lavish or extravagant. The meals may be provided to a current or potential business customer, client, consultant, or similar business contact. Food and beverages that are provided during entertainment events will not be considered entertainment if purchased separately from the event.
+
+For more information about the limit for meal expenses, see Pub. 463, Travel, Gift, and Car Expenses.
+
+Life Insurance Proceeds
+
+Life insurance proceeds paid to you because of the death of the insured person aren’t taxable unless the policy was turned over to you for a price. This is true even if the proceeds were paid under an accident or health insurance policy or an endowment contract. However, interest income received as a result of life insurance proceeds may be taxable.
+
+Proceeds not received in installments.
+
+If death benefits are paid to you in a lump sum or other than at regular intervals, include in your income only the benefits that are more than the amount payable to you at the time of the insured person's death. If the benefit payable at death isn’t specified, you include in your income the benefit payments that are more than the present value of the payments at the time of death.
+
+Proceeds received in installments.
+
+If you receive life insurance proceeds in installments, you can exclude part of each installment from your income.
+
+To determine the excluded part, divide the amount held by the insurance company (generally, the total lump sum payable at the death of the insured person) by the number of installments to be paid. Include anything over this excluded part in your income as interest.
+
+Surviving spouse.
+
+If your spouse died before October 23, 1986, and insurance proceeds paid to you because of the death of your spouse are received in installments, you can exclude up to $1,000 a year of the interest included in the installments. If you remarry, you can continue to take the exclusion.
+
+Surrender of policy for cash.
+
+If you surrender a life insurance policy for cash, you must include in income any proceeds that are more than the cost of the life insurance policy. In most cases, your cost (or investment in the contract) is the total of premiums that you paid for the life insurance policy, less any refunded premiums, rebates, dividends, or unrepaid loans that weren’t included in your income.
+
+You should receive a Form 1099-R showing the total proceeds and the taxable part. Report these amounts on lines 5a and 5b of Form 1040 or 1040-SR.
+
+More information.
+
+For more information, see Life Insurance Proceeds in Pub. 525.
+
+Endowment Contract Proceeds
+
+An endowment contract is a policy under which you’re paid a specified amount of money on a certain date unless you die before that date, in which case the money is paid to your designated beneficiary. Endowment proceeds paid in a lump sum to you at maturity are taxable only if the proceeds are more than the cost of the policy. To determine your cost, subtract any amount that you previously received under the contract and excluded from your income from the total premiums (or other consideration) paid for the contract. Include in your income the part of the lump-sum payment that’s more than your cost.
+
+Accelerated Death Benefits
+
+Certain amounts paid as accelerated death benefits under a life insurance contract or viatical settlement before the insured's death are excluded from income if the insured is terminally or chronically ill.
+
+Viatical settlement.
+
+This is the sale or assignment of any part of the death benefit under a life insurance contract to a viatical settlement provider. A viatical settlement provider is a person who regularly engages in the business of buying or taking assignment of life insurance contracts on the lives of insured individuals who are terminally or chronically ill and who meets the requirements of section 101(g)(2)(B) of the Internal Revenue Code.
+
+Exclusion for terminal illness.
+
+Accelerated death benefits are fully excludable if the insured is a terminally ill individual. This is a person who has been certified by a physician as having an illness or physical condition that can reasonably be expected to result in death within 24 months from the date of the certification.
+
+Exclusion for chronic illness.
+
+If the insured is a chronically ill individual who’s not terminally ill, accelerated death benefits paid on the basis of costs incurred for qualified long-term care services are fully excludable. Accelerated death benefits paid on a per diem or other periodic basis are excludable up to a limit. For 2025, this limit is $420. It applies to the total of the accelerated death benefits and any periodic payments received from long-term care insurance contracts. For information on the limit and the definitions of “chronically ill individual,” “qualified long-term care services,” and “long-term care insurance contracts,” see Long-Term Care Insurance Contracts under Sickness and Injury Benefits in Pub. 525.
+
+Exception.
+
+The exclusion doesn’t apply to any amount paid to a person (other than the insured) who has an insurable interest in the life of the insured because the insured:
+
+-
+
+Is a director, officer, or employee of the person; or
+
+-
+
+Has a financial interest in the person's business.
+
+Form 8853.
+
+To claim an exclusion for accelerated death benefits made on a per diem or other periodic basis, you must file Form 8853, Archer MSAs and Long-Term Care Insurance Contracts, with your return. You don’t have to file Form 8853 to exclude accelerated death benefits paid on the basis of actual expenses incurred.
+
+Public Safety Officer Killed or Injured in the Line of Duty
+
+A spouse, former spouse, and child of a public safety officer killed in the line of duty can exclude from gross income survivor benefits received from a governmental section 401(a) plan attributable to the officer’s service. See section 101(h).
+
+A public safety officer who’s permanently and totally disabled or killed in the line of duty and a surviving spouse or child can exclude from income death or disability benefits received from the federal Bureau of Justice Assistance or death benefits paid by a state program. See section 104(a)(6).
+
+For this purpose, the term “public safety officer” includes law enforcement officers, firefighters, chaplains, and rescue squad and ambulance crew members. For more information, see Pub. 559, Survivors, Executors, and Administrators.
+
+Partnership Income
+
+A partnership generally isn’t a taxable entity. The income, gains, losses, deductions, and credits of a partnership are passed through to the partners based on each partner's distributive share of these items.
+
+Schedule K-1 (Form 1065).
+
+Although a partnership generally pays no tax, it must file an information return on Form 1065, U.S. Return of Partnership Income, and send Schedule K-1 (Form 1065) to each partner. In addition, the partnership will send each partner a copy of the Partner's Instructions for Schedule K-1 (Form 1065) to help each partner report his or her share of the partnership's income, deductions, credits, and tax preference items.
+
+. Keep Schedule K-1 (Form 1065) for your records. Don’t attach it to your Form 1040 or 1040-SR, unless you’re specifically required to do so. .
+
+For more information on partnerships, see Pub. 541, Partnerships.
+
+Qualified joint venture (QJV).
+
+If you and your spouse each materially participate as the only members of a jointly owned and operated business, and you file a joint return for the tax year, you can make a joint election to be treated as a QJV instead of a partnership. To make this election, you must divide all items of income, gain, loss, deduction, and credit attributable to the business between you and your spouse in accordance with your respective interests in the venture. For further information on how to make the election and which schedule(s) to file, see the instructions for your individual tax return.
+
+S Corporation Income
+
+In most cases, an S corporation doesn’t pay tax on its income. Instead, the income, losses, deductions, and credits of the corporation are passed through to the shareholders based on each shareholder's pro rata share.
+
+Schedule K-1 (Form 1120-S).
+
+An S corporation must file a return on Form 1120-S, U.S. Income Tax Return for an S Corporation, and send Schedule K-1 (Form 1120-S) to each shareholder. In addition, the S corporation will send each shareholder a copy of the Shareholder's Instructions for Schedule K-1 (Form 1120-S) to help each shareholder report her or his share of the S corporation's income, losses, credits, and deductions.
+
+. Keep Schedule K-1 (Form 1120-S) for your records. Don’t attach it to your Form 1040 or 1040-SR unless you’re specifically required to do so. .
+
+For more information on S corporations and their shareholders, see the Instructions for Form 1120-S.
+
+Recoveries
+
+A recovery is a return of an amount you deducted or took a credit for in an earlier year. The most common recoveries are refunds, reimbursements, and rebates of deductions itemized on Schedule A (Form 1040). You may also have recoveries of nonitemized deductions (such as payments on previously deducted bad debts) and recoveries of items for which you previously claimed a tax credit.
+
+Tax benefit rule.
+
+You must include a recovery in your income in the year you receive it up to the amount by which the deduction or credit you took for the recovered amount reduced your tax in the earlier year. For this purpose, any increase to an amount carried over to the current year that resulted from the deduction or credit is considered to have reduced your tax in the earlier year.
+
+Federal income tax refund.
+
+Refunds of federal income taxes aren’t included in your income because they’re never allowed as a deduction from income.
+
+State tax refund.
+
+If you received a state or local income tax refund (or credit or offset) in 2025, you must generally include it in income if you deducted the tax in an earlier year. The payer should generally send Form 1099-G to you by January 31 (if it's not a weekend or holiday). The IRS will also receive a copy of the Form 1099-G. If you file Form 1040 or 1040-SR, use the State and Local Income Tax Refund Worksheet under Instructions for Schedule 1 in the Instructions for Form 1040 to figure the amount (if any) to include in your income. See Pub. 525 for when you must use another worksheet.
+
+If you could choose to deduct for a tax year either:
+
+-
+
+State and local income taxes, or
+
+-
+
+State and local general sales taxes, then
+
+the maximum refund that you may have to include in income is limited to the excess of the tax you chose to deduct for that year over the tax you didn’t choose to deduct for that year. For examples, see Pub. 525.
+
+Mortgage interest refund.
+
+If you received a refund or credit in 2025 of mortgage interest paid in an earlier year, the amount should be shown in box 4 of Form 1098, Mortgage Interest Statement. Don’t subtract the refund amount from the interest you paid in 2025. You may have to include it in your income under the rules explained in the following discussions.
+
+Interest on recovery.
+
+Interest on any of the amounts you recover must be reported as interest income in the year received. For example, report any interest you received on state or local income tax refunds on Form 1040, 1040-SR, or 1040-NR, line 2b.
+
+Recovery and expense in same year.
+
+If the refund or other recovery and the expense occur in the same year, the recovery reduces the deduction or credit and isn’t reported as income.
+
+Recovery for 2 or more years.
+
+If you receive a refund or other recovery that’s for amounts you paid in 2 or more separate years, you must allocate, on a pro rata basis, the recovered amount between the years in which you paid it. This allocation is necessary to determine the amount of recovery from any earlier years and to determine the amount, if any, of your allowable deduction for this item for the current year. For information on how to figure the allocation, see Recoveries in Pub. 525.
+
+Itemized Deduction Recoveries
+
+If you recover any amount that you deducted in an earlier year on Schedule A (Form 1040), you must generally include the full amount of the recovery in your income in the year you receive it.
+
+Where to report.
+
+Enter your state or local income tax refund on Schedule 1 (Form 1040), line 1, and the total of all other recoveries as other income on Schedule 1 (Form 1040), line 8z.
+
+Standard deduction limit.
+
+You are generally allowed to claim the standard deduction if you don’t itemize your deductions. Only your itemized deductions that are more than your standard deduction are subject to the recovery rule (unless you’re required to itemize your deductions). If your total deductions on the earlier year return weren’t more than your income for that year, include in your income this year the lesser of:
+
+-
+
+Your recoveries, or
+
+-
+
+The amount by which your itemized deductions exceeded the standard deduction.
+
+Example.
+
+For 2024, you filed a joint return. Your taxable income was $60,000 and you weren’t entitled to any tax credits. Your standard deduction was $29,200, and you had itemized deductions of $30,700. In 2025, you received the following recoveries for amounts deducted on your 2024 return.
+
+Medical expenses | $200
+State and local income tax refund | 400
+Refund of mortgage interest | 325
+Total recoveries | $925
+
+None of the recoveries were more than the deductions taken for 2024. The difference between the state and local income tax you deducted and your local general sales tax was more than $400.
+
+Your total recoveries are less than the amount by which your itemized deductions exceeded the standard deduction ($30,700 − $29,200 = $1,500), so you must include your total recoveries in your income for 2025. Report the state and local income tax refund of $400 on Schedule 1 (Form 1040), line 1, and the balance of your recoveries, $525, on Schedule 1 (Form 1040), line 8z.
+
+Standard deduction for earlier years.
+
+To determine if amounts recovered in the current year must be included in your income, you must know the standard deduction for your filing status for the year the deduction was claimed. Look in the instructions for your tax return from prior years to locate the standard deduction for the filing status for that prior year. If you filed Form 1040-NR, you couldn’t claim the standard deduction except for certain nonresident aliens from India; see Pub. 519.
+
+Example.
+
+You filed a joint return on Form 1040 for 2024 with taxable income of $45,000. Your itemized deductions were $29,450. The standard deduction that you could have claimed was $29,200. In 2025, you recovered $2,100 of your 2024 itemized deductions. None of the recoveries were more than the actual deductions for 2024. Include $250 of the recoveries in your 2025 income. This is the smaller of your recoveries ($2,100) or the amount by which your itemized deductions were more than the standard deduction ($29,450 − $29,200 = $250).
+
+Recovery limited to deduction.
+
+You don’t include in your income any amount of your recovery that’s more than the amount you deducted in the earlier year. The amount you include in your income is limited to the smaller of:
+
+-
+
+The amount deducted on Schedule A (Form 1040), or
+
+-
+
+The amount recovered.
+
+Example.
+
+During 2024, you paid $1,700 for medical expenses. Of this amount, you deducted $200 on your 2024 Schedule A (Form 1040). In 2025, you received a $500 reimbursement from your medical insurance for your 2024 expenses. The only amount of the $500 reimbursement that must be included in your income for 2025 is $200—the amount actually deducted.
+
+Other recoveries.
+
+See Recoveries in Pub. 525 if:
+
+-
+
+You have recoveries of items other than itemized deductions, or
+
+-
+
+You received a recovery for an item for which you claimed a tax credit (other than investment credit or foreign tax credit) in a prior year.
+
+Rents From Personal Property
+
+If you rent out personal property, such as equipment or vehicles, how you report your income and expenses is in most cases determined by:
+
+-
+
+Whether or not the rental activity is a business, and
+
+-
+
+Whether or not the rental activity is conducted for profit.
+
+In most cases, if your primary purpose is income or profit and you’re involved in the rental activity with continuity and regularity, your rental activity is a business.
+
+Reporting business income and expenses.
+
+If you’re in the business of renting personal property, report your income and expenses on Schedule C (Form 1040). The form instructions have information on how to complete them.
+
+Reporting nonbusiness income.
+
+If you aren’t in the business of renting personal property, report your rental income on Schedule 1 (Form 1040), line 8l.
+
+Reporting nonbusiness expenses.
+
+If you rent personal property for profit, include your rental expenses in the total amount you enter on Schedule 1 (Form 1040), line 24b, and see the instructions there.
+
+If you don’t rent personal property for profit, your deductions are limited and you can’t report a loss to offset other income. See Activities not engaged in for profit under Other Income , later.
+
+Repayments
+
+If you had to repay an amount that you included in your income in an earlier year, you may be able to deduct the amount repaid from your income for the year in which you repaid it. Or, if the amount you repaid is more than $3,000, you may be able to take a credit against your tax for the year in which you repaid it. Generally, you can claim a deduction or credit only if the repayment qualifies as an expense or loss incurred in your trade or business or in a for-profit transaction.
+
+Type of deduction.
+
+The type of deduction you’re allowed in the year of repayment depends on the type of income you included in the earlier year. You generally deduct the repayment on the same form or schedule on which you previously reported it as income. For example, if you reported it as self-employment income, deduct it as a business expense on Schedule C (Form 1040) or Schedule F (Form 1040). If you reported it as a capital gain, deduct it as a capital loss as explained in the Instructions for Schedule D (Form 1040). If you reported it as wages, unemployment compensation, or other nonbusiness income, you may be able to deduct it as an other itemized deduction if the amount repaid is over $3,000.
+
+. Beginning in 2018, you can no longer claim any miscellaneous itemized deductions, so if the amount repaid was $3,000 or less, you are not able to deduct it from your income in the year you repaid it. .
+
+Repaid social security benefits.
+
+If you repaid social security benefits or equivalent railroad retirement benefits, see Repayment of benefits in chapter 7.
+
+Repayment over $3,000.
+
+If the amount you repaid was more than $3,000, you can deduct the repayment as an other itemized deduction on Schedule A (Form 1040), line 16, if you included the income under a claim of right. This means that at the time you included the income, it appeared that you had an unrestricted right to it. However, you can choose to take a credit for the year of repayment. Figure your tax under both methods and compare the results. Use the method (deduction or credit) that results in less tax.
+
+. When determining whether the amount you repaid was more or less than $3,000, consider the total amount being repaid on the return. Each instance of repayment isn’t considered separately. .
+
+Method 1.
+
+Figure your tax for 2025 claiming a deduction for the repaid amount. If you deduct it as an other itemized deduction, enter it on Schedule A (Form 1040), line 16.
+
+Method 2.
+
+Figure your tax for 2025 claiming a credit for the repaid amount. Follow these steps.
+
+-
+
+Figure your tax for 2025 without deducting the repaid amount.
+
+-
+
+Refigure your tax from the earlier year without including in income the amount you repaid in 2025.
+
+-
+
+Subtract the tax in (2) from the tax shown on your return for the earlier year. This is the credit.
+
+-
+
+Subtract the answer in (3) from the tax for 2025 figured without the deduction (step 1).
+
+If method 1 results in less tax, deduct the amount repaid. If method 2 results in less tax, claim the credit figured in (3) above on Schedule 3 (Form 1040), line 13b, by adding the amount of the credit to any other credits on this line, and see the instructions there.
+
+An example of this computation can be found in Pub. 525.
+
+Repaid wages subject to social security and Medicare taxes.
+
+If you had to repay an amount that you included in your wages or compensation in an earlier year on which social security, Medicare, or tier 1 RRTA tax was paid, ask your employer to refund the excess amount to you. If the employer refuses to refund the taxes, ask for a statement indicating the amount of the overcollection to support your claim. File a claim for refund using Form 843, Claim for Refund and Request for Abatement.
+
+Repaid wages subject to Additional Medicare Tax.
+
+Employers can’t make an adjustment or file a claim for refund for Additional Medicare Tax withholding when there is a repayment of wages received by an employee in a prior year because the employee determines liability for Additional Medicare Tax on the employee's income tax return for the prior year. If you had to repay an amount that you included in your wages or compensation in an earlier year, and on which Additional Medicare Tax was paid, you may be able to recover the Additional Medicare Tax paid on the amount. To recover Additional Medicare Tax on the repaid wages or compensation, you must file Form 1040-X for the prior year in which the wages or compensation was originally received. See the Instructions for Form 1040-X.
+
+Royalties
+
+Royalties from copyrights, patents, and oil, gas, and mineral properties are taxable as ordinary income.
+
+In most cases, you report royalties in Part I of Schedule E (Form 1040). However, if you hold an operating oil, gas, or mineral interest or are in business as a self-employed writer, inventor, artist, etc., report your income and expenses on Schedule C (Form 1040).
+
+Copyrights and patents.
+
+Royalties from copyrights on literary, musical, or artistic works, and similar property, or from patents on inventions, are amounts paid to you for the right to use your work over a specified period of time. Royalties are generally based on the number of units sold, such as the number of books, tickets to a performance, or machines sold.
+
+Name, image, likeness (NIL).
+
+NIL is a term that describes the means through which student-athletes are allowed to receive financial compensation. NIL refers to the use of a student-athlete's name, image, or likeness for commercial purposes through marketing and promotional endeavors. This can include such things as autograph signings, product endorsements, licensing and merchandising agreements, participating in advertising campaigns, social media posts, teaching camps or lessons, and more.
+
+Oil, gas, and minerals.
+
+Royalty income from oil, gas, and mineral properties is the amount you receive when natural resources are extracted from your property. The royalties are based on units, such as barrels, tons, etc., and are paid to you by a person or company that leases the property from you.
+
+Depletion.
+
+If you’re the owner of an economic interest in mineral deposits or oil and gas wells, you can recover your investment through the depletion allowance.
+
+Coal and iron ore.
+
+Under certain circumstances, you can treat amounts you receive from the disposal of coal and iron ore as payments from the sale of a capital asset, rather than as royalty income. For information about gain or loss from the sale of coal and iron ore, see chapter 2 of Pub. 544.
+
+Sale of property interest.
+
+If you sell your complete interest in oil, gas, or mineral rights, the amount you receive is considered payment for the sale of property used in a trade or business under section 1231, not royalty income. Under certain circumstances, the sale is subject to capital gain or loss treatment as explained in the Instructions for Schedule D (Form 1040). For more information on selling section 1231 property, see chapter 3 of Pub. 544.
+
+If you retain a royalty, an overriding royalty, or a net profit interest in a mineral property for the life of the property, you have made a lease or a sublease, and any cash you receive for the assignment of other interests in the property is ordinary income subject to a depletion allowance.
+
+Part of future production sold.
+
+If you own mineral property but sell part of the future production, in most cases, you treat the money you receive from the buyer at the time of the sale as a loan from the buyer. Don’t include it in your income or take depletion based on it.
+
+When production begins, you include all the proceeds in your income, deduct all the production expenses, and deduct depletion from that amount to arrive at your taxable income from the property.
+
+Unemployment Benefits
+
+The tax treatment of unemployment benefits you receive depends on the type of program paying the benefits.
+
+Unemployment compensation.
+
+You must include in income all unemployment compensation you receive. You should receive a Form 1099-G showing in box 1 the total unemployment compensation paid to you. In most cases, you enter unemployment compensation on Schedule 1 (Form 1040), line 7.
+
+. If you received unemployment compensation but did not receive Form 1099-G through the mail, you may need to access your information through your state’s website to get your electronic Form 1099-G. .
+
+Types of unemployment compensation.
+
+Unemployment compensation generally includes any amount received under an unemployment compensation law of the United States or of a state. It includes the following benefits.
+
+Governmental program.
+
+If you contribute to a governmental unemployment compensation program and your contributions aren’t deductible, amounts you receive under the program aren’t included as unemployment compensation until you recover your contributions. If you deducted all of your contributions to the program, the entire amount you receive under the program is included in your income.
+
+Repayment of unemployment compensation.
+
+If you repaid in 2025 unemployment compensation you received in 2025, subtract the amount you repaid from the total amount you received and enter the difference on Schedule 1 (Form 1040), line 7. On the dotted line next to your entry, enter “Repaid” and the amount you repaid. If you repaid unemployment compensation in 2025 that you included in income in an earlier year, you can deduct the amount repaid on Schedule A (Form 1040), line 16, if you itemize deductions and the amount is more than $3,000. See Repayments , earlier.
+
+Tax withholding.
+
+You can choose to have federal income tax withheld from your unemployment compensation. To make this choice, complete Form W-4V, Voluntary Withholding Request, and give it to the paying office. Tax will be withheld at 10% of your payment.
+
+. If you don’t choose to have tax withheld from your unemployment compensation, you may be liable for estimated tax. If you don’t pay enough tax, either through withholding or estimated tax, or a combination of both, you may have to pay a penalty. For more information on estimated tax, see chapter 4 . .
+
+Supplemental unemployment benefits.
+
+Benefits received from an employer-financed fund (to which the employees didn’t contribute) aren’t unemployment compensation. They are taxable as wages. For more information, see Supplemental Unemployment Compensation Benefits in section 5 of Pub. 15-A, Employer's Supplemental Tax Guide. Report these payments on line 1a of Form 1040 or 1040-SR.
+
+Repayment of benefits.
+
+You may have to repay some of your supplemental unemployment benefits to qualify for trade readjustment allowances under the Trade Act of 1974. If you repay supplemental unemployment benefits in the same year you receive them, reduce the total benefits by the amount you repay. If you repay the benefits in a later year, you must include the full amount of the benefits received in your income for the year you received them.
+
+Deduct the repayment in the later year as an adjustment to gross income on Form 1040 or 1040-SR. Include the repayment on Schedule 1 (Form 1040), line 24e, and see the instructions there. If the amount you repay in a later year is more than $3,000, you may be able to take a credit against your tax for the later year instead of deducting the amount repaid. For more information on this, see Repayments , earlier.
+
+Private unemployment fund.
+
+Unemployment benefit payments from a private (nonunion) fund to which you voluntarily contribute are taxable only if the amounts you receive are more than your total payments into the fund. Report the taxable amount on Schedule 1 (Form 1040), line 8z.
+
+Payments by a union.
+
+Benefits paid to you as an unemployed member of a union from regular union dues are included in your income on Schedule 1 (Form 1040), line 8z. However, if you contribute to a special union fund and your payments to the fund aren’t deductible, the unemployment benefits you receive from the fund are includible in your income only to the extent they’re more than your contributions.
+
+Guaranteed annual wage.
+
+Payments you receive from your employer during periods of unemployment, under a union agreement that guarantees you full pay during the year, are taxable as wages. Include them on line 1a of Form 1040 or 1040-SR.
+
+State employees.
+
+Payments similar to a state's unemployment compensation may be made by the state to its employees who aren’t covered by the state's unemployment compensation law. Although the payments are fully taxable, don’t report them as unemployment compensation. Report these payments on Schedule 1 (Form 1040), line 8z.
+
+Welfare and Other Public Assistance Benefits
+
+Don’t include in your income governmental benefit payments from a public welfare fund based upon need, such as payments to blind individuals under a state public assistance law. Payments from a state fund for the victims of crime shouldn’t be included in the victims' incomes if they’re in the nature of welfare payments. Don’t deduct medical expenses that are reimbursed by such a fund. You must include in your income any welfare payments that are compensation for services or that are obtained fraudulently.
+
+Reemployment Trade Adjustment Assistance (RTAA) payments.
+
+RTAA payments received from a state must be included in your income. The state must send you Form 1099-G to advise you of the amount you should include in income. The amount should be reported on Schedule 1 (Form 1040), line 8z.
+
+Persons with disabilities.
+
+If you have a disability, you must include in income compensation you receive for services you perform unless the compensation is otherwise excluded. However, you don’t include in income the value of goods, services, and cash that you receive, not in return for your services, but for your training and rehabilitation because you have a disability. Excludable amounts include payments for transportation and attendant care, such as interpreter services for the deaf, reader services for the blind, and services to help individuals with an intellectual disability do their work.
+
+Disaster relief grants.
+
+Don’t include post-disaster grants received under the Robert T. Stafford Disaster Relief and Emergency Assistance Act in your income if the grant payments are made to help you meet necessary expenses or serious needs for medical, dental, housing, personal property, transportation, childcare, or funeral expenses. Don’t deduct casualty losses or medical expenses that are specifically reimbursed by these disaster relief grants. If you have deducted a casualty loss for the loss of your personal residence and you later receive a disaster relief grant for the loss of the same residence, you may have to include part or all of the grant in your taxable income. See Recoveries , earlier. Unemployment assistance payments under the Act are taxable unemployment compensation. See Unemployment compensation under Unemployment Benefits , earlier.
+
+Disaster relief payments.
+
+You can exclude from income any amount you receive that’s a qualified disaster relief payment. A qualified disaster relief payment is an amount paid to you:
+
+-
+
+To reimburse or pay reasonable and necessary personal, family, living, or funeral expenses that result from a qualified disaster;
+
+-
+
+To reimburse or pay reasonable and necessary expenses incurred for the repair or rehabilitation of your home or repair or replacement of its contents to the extent it’s due to a qualified disaster;
+
+-
+
+By a person engaged in the furnishing or sale of transportation as a common carrier because of the death or personal physical injuries incurred as a result of a qualified disaster; or
+
+-
+
+By a federal, state, or local government; agency; or instrumentality in connection with a qualified disaster in order to promote the general welfare.
+
+You can exclude this amount only to the extent any expense it pays for isn’t paid for by insurance or otherwise. The exclusion doesn’t apply if you were a participant or conspirator in a terrorist action or a representative of one.
+
+A qualified disaster is:
+
+-
+
+A disaster that results from a terrorist or military action;
+
+-
+
+A federally declared disaster; or
+
+-
+
+A disaster that results from an accident involving a common carrier, or from any other event, that is determined to be catastrophic by the Secretary of the Treasury or his or her delegate.
+
+For amounts paid under item (4) above, a disaster is qualified if it’s determined by an applicable federal, state, or local authority to warrant assistance from the federal, state, or local government, agency, or instrumentality.
+
+Disaster mitigation payments.
+
+You can exclude from income any amount you receive that’s a qualified disaster mitigation payment. Qualified disaster mitigation payments are most commonly paid to you in the period immediately following damage to property as a result of a natural disaster. However, disaster mitigation payments are used to mitigate (reduce the severity of) potential damage from future natural disasters. They’re paid to you through state and local governments based on the provisions of the Robert T. Stafford Disaster Relief and Emergency Assistance Act or the National Flood Insurance Act.
+
+You can’t increase the basis or adjusted basis of your property for improvements made with nontaxable disaster mitigation payments.
+
+Mortgage assistance payments under section 235 of the National Housing Act.
+
+Payments made under section 235 of the National Housing Act for mortgage assistance aren’t included in the homeowner's income. Interest paid for the homeowner under the mortgage assistance program can’t be deducted.
+
+Medicare.
+
+Medicare benefits received under title XVIII of the Social Security Act aren’t includible in the gross income of the individuals for whom they’re paid. This includes basic (Part A (Hospital Insurance Benefits for the Aged)) and supplementary (Part B (Supplementary Medical Insurance Benefits for the Aged)).
+
+Social security benefits (including lump-sum payments attributable to prior years), Supplemental Security Income (SSI) benefits, and lump-sum death benefits.
+
+The Social Security Administration (SSA) provides benefits such as old-age benefits, benefits to disabled workers, and benefits to spouses and dependents. These benefits may be subject to federal income tax depending on your filing status and other income. See chapter 7 in this publication and Pub. 915, Social Security and Equivalent Railroad Retirement Benefits, for more information. An individual originally denied benefits, but later approved, may receive a lump-sum payment for the period when benefits were denied (which may be prior years). See Pub. 915 for information on how to make a lump-sum election, which may reduce your tax liability. There are also other types of benefits paid by the SSA. However, SSI benefits and lump-sum death benefits (one-time payment to spouse and children of deceased) aren’t subject to federal income tax. For more information on these benefits, go to SSA.gov .
+
+Nutrition Program for the Elderly.
+
+Food benefits you receive under the Nutrition Program for the Elderly aren’t taxable. If you prepare and serve free meals for the program, include in your income as wages the cash pay you receive, even if you’re also eligible for food benefits.
+
+Payments to reduce cost of winter energy.
+
+Payments made by a state to qualified people to reduce their cost of winter energy use aren’t taxable.
+
+Other Income
+
+The following brief discussions are arranged in alphabetical order. Other income items briefly discussed below can be found in other publications that provide more topical information.
+
+Activities not engaged in for profit.
+
+You must include on your return income from an activity from which you don’t expect to make a profit. An example of this type of activity is a hobby or a farm you operate mostly for recreation and pleasure. Enter this income on Schedule 1 (Form 1040), line 8j. Deductions for expenses related to the activity are limited. They can’t total more than the income you report and can be taken only if you itemize deductions on Schedule A (Form 1040).
+
+Alaska Permanent Fund dividend.
+
+If you received a payment from Alaska's mineral income fund (Alaska Permanent Fund dividend), report it as income on Schedule 1 (Form 1040), line 8g. The 2024 Alaska Permanent Fund dividend payment included an energy relief payment as part of the total dividend payment. Do not reduce the amount on line 8g by the energy relief payment portion of the 2024 Alaska Permanent Fund dividend payment; the entire $1,702 Alaska Permanent Fund dividend payment for 2024 is taxable for federal income tax purposes. The state of Alaska sends each recipient a document that shows the amount of the payment with the check. The amount is also reported to the IRS.
+
+Alimony.
+
+Include in your income on Schedule 1 (Form 1040), line 2a, any taxable alimony payments you receive. Amounts you receive for child support aren’t income to you. Alimony and child support payments are discussed in Pub. 504.
+
+. Don’t include alimony payments you receive under a divorce or separation agreement (1) executed after 2018 or (2) executed before 2019 but later modified if the modification expressly states the repeal of the deduction for alimony payments applies to the modification. .
+
+Bribes.
+
+If you receive a bribe, include it in your income.
+
+Campaign contributions.
+
+These contributions aren’t income to a candidate unless they’re diverted to her or his personal use. To be nontaxable, the contributions must be spent for campaign purposes or kept in a fund for use in future campaigns. However, interest earned on bank deposits, dividends received on contributed securities, and net gains realized on sales of contributed securities are taxable and must be reported on Form 1120-POL, U.S. Income Tax Return for Certain Political Organizations. Excess campaign funds transferred to an office account must be included in the officeholder's income on Schedule 1 (Form 1040), line 8z, in the year transferred.
+
+Carpools.
+
+Don’t include in your income amounts you receive from the passengers for driving a car in a carpool to and from work. These amounts are considered reimbursement for your expenses. However, this rule doesn’t apply if you have developed carpool arrangements into a profit-making business of transporting workers for hire.
+
+Cash rebates.
+
+A cash rebate you receive from a dealer or manufacturer of an item you buy isn’t income, but you must reduce your basis by the amount of the rebate.
+
+Example.
+
+You buy a new car for $24,000 cash and receive a $2,000 rebate check from the manufacturer. The $2,000 isn’t income to you. Your basis in the car is $22,000. This is the basis on which you figure gain or loss if you sell the car and depreciation if you use it for business.
+
+Casualty insurance and other reimbursements.
+
+You generally shouldn’t report these reimbursements on your return unless you’re figuring gain or loss from the casualty or theft. See Pub. 547 for more information.
+
+Child support payments.
+
+You shouldn’t report these payments on your return. See Pub. 504 for more information.
+
+Court awards and damages.
+
+To determine if settlement amounts you receive by compromise or judgment must be included in your income, you must consider the item that the settlement replaces. The character of the income as ordinary income or capital gain depends on the nature of the underlying claim. Include the following as ordinary income.
+
+-
+
+Interest on any award.
+
+-
+
+Compensation for lost wages or lost profits in most cases.
+
+-
+
+Punitive damages, in most cases. It doesn’t matter if they relate to a physical injury or physical sickness.
+
+-
+
+Amounts received in settlement of pension rights (if you didn’t contribute to the plan).
+
+-
+
+Damages for:
+
+-
+
+Patent or copyright infringement,
+
+-
+
+Breach of contract, or
+
+-
+
+Interference with business operations.
+
+-
+
+Back pay and damages for emotional distress received to satisfy a claim under title VII of the Civil Rights Act of 1964.
+
+-
+
+Attorney fees and costs (including contingent fees) where the underlying recovery is included in gross income.
+
+-
+
+Attorney fees and costs relating to whistleblower awards where the underlying recovery is included in gross income.
+
+Don’t include in your income compensatory damages for personal physical injury or physical sickness (whether received in a lump sum or installments).
+
+Emotional distress.
+
+Emotional distress itself isn’t a physical injury or physical sickness, but damages you receive for emotional distress due to a physical injury or sickness are treated as received for the physical injury or sickness. Don’t include them in your income.
+
+If the emotional distress is due to a personal injury that isn’t due to a physical injury or sickness (for example, employment discrimination or injury to reputation), you must include the damages in your income, except for any damages that aren’t more than amounts paid for medical care due to that emotional distress. Emotional distress includes physical symptoms that result from emotional distress, such as headaches, insomnia, and stomach disorders.
+
+Credit card insurance.
+
+In most cases, if you receive benefits under a credit card disability or unemployment insurance plan, the benefits are taxable to you. These plans make the minimum monthly payment on your credit card account if you can’t make the payment due to injury, illness, disability, or unemployment. Report on Schedule 1 (Form 1040), line 8z, the amount of benefits you received during the year that’s more than the amount of the premiums you paid during the year.
+
+Down payment assistance.
+
+If you purchase a home and receive assistance from a nonprofit corporation to make the down payment, that assistance isn’t included in your income. If the corporation qualifies as a tax-exempt charitable organization, the assistance is treated as a gift and is included in your basis of the house. If the corporation doesn’t qualify, the assistance is treated as a rebate or reduction of the purchase price and isn’t included in your basis.
+
+Employment agency fees.
+
+If you get a job through an employment agency, and the fee is paid by your employer, the fee isn’t includible in your income if you aren’t liable for it. However, if you pay it and your employer reimburses you for it, it’s includible in your income.
+
+Energy conservation subsidies.
+
+You can exclude from gross income any subsidy provided, either directly or indirectly, by public utilities for the purchase or installation of an energy conservation measure for a dwelling unit.
+
+Energy conservation measure.
+
+This includes installations or modifications that are primarily designed to reduce consumption of electricity or natural gas, or improve the management of energy demand.
+
+Dwelling unit.
+
+This includes a house, apartment, condominium, mobile home, boat, or similar property. If a building or structure contains both dwelling and other units, any subsidy must be properly allocated.
+
+Estate and trust income.
+
+An estate or trust, unlike a partnership, may have to pay federal income tax. If you’re a beneficiary of an estate or trust, you may be taxed on your share of its income distributed or required to be distributed to you. However, there is never a double tax. Estates and trusts file their returns on Form 1041, U.S. Income Tax Return for Estates and Trusts, and your share of the income is reported to you on Schedule K-1 (Form 1041).
+
+Current income required to be distributed.
+
+If you’re the beneficiary of an estate or trust that must distribute all of its current income, you must report your share of the distributable net income, whether or not you actually received it.
+
+Current income not required to be distributed.
+
+If you’re the beneficiary of an estate or trust and the fiduciary has the choice of whether to distribute all or part of the current income, you must report:
+
+-
+
+All income that’s required to be distributed to you, whether or not it’s actually distributed, plus
+
+-
+
+All other amounts actually paid or credited to you,
+
+up to the amount of your share of distributable net income.
+
+How to report.
+
+Treat each item of income the same way that the estate or trust would treat it. For example, if a trust's dividend income is distributed to you, you report the distribution as dividend income on your return. The same rule applies to distributions of tax-exempt interest and capital gains.
+
+The fiduciary of the estate or trust must tell you the type of items making up your share of the estate or trust income and any credits you’re allowed on your individual income tax return.
+
+Losses.
+
+Losses of estates and trusts generally aren’t deductible by the beneficiaries.
+
+Grantor trust.
+
+Income earned by a grantor trust is taxable to the grantor, not the beneficiary, if the grantor keeps certain control over the trust. (The grantor is the one who transferred property to the trust.) This rule applies if the property (or income from the property) put into the trust will or may revert (be returned) to the grantor or the grantor's spouse.
+
+Generally, a trust is a grantor trust if the grantor has a reversionary interest valued (at the date of transfer) at more than 5% of the value of the transferred property.
+
+Expenses paid by another.
+
+If your personal expenses are paid for by another person, such as a corporation, the payment may be taxable to you depending upon your relationship with that person and the nature of the payment. But if the payment makes up for a loss caused by that person, and only restores you to the position you were in before the loss, the payment isn’t includible in your income.
+
+Fees for services.
+
+Include all fees for your services in your income. Examples of these fees are amounts you receive for services you perform as:
+
+-
+
+A corporate director;
+
+-
+
+An executor, administrator, or personal representative of an estate;
+
+-
+
+A manager of a trade or business you operated before declaring chapter 11 bankruptcy;
+
+-
+
+A notary public; or
+
+-
+
+An election precinct official.
+
+Nonemployee compensation.
+
+If you aren’t an employee and the fees for your services from a single payer in the course of the payer's trade or business total $600 or more for the year, the payer should send you a Form 1099-NEC. You may need to report your fees as self-employment income. See Self-Employed Persons in chapter 1 for a discussion of when you’re considered self-employed.
+
+Corporate director.
+
+Corporate director fees are self-employment income. Report these payments on Schedule C (Form 1040).
+
+Personal representatives.
+
+All personal representatives must include in their gross income fees paid to them from an estate. If you aren’t in the trade or business of being an executor (for instance, you’re the executor of a friend's or relative's estate), report these fees on Schedule 1 (Form 1040), line 8z. If you’re in the trade or business of being an executor, report these fees as self-employment income on Schedule C (Form 1040). The fee isn’t includible in income if it’s waived.
+
+Manager of trade or business for bankruptcy estate.
+
+Include in your income all payments received from your bankruptcy estate for managing or operating a trade or business that you operated before you filed for bankruptcy. Report this income on Schedule 1 (Form 1040), line 8z.
+
+Notary public.
+
+Report payments for these services on Schedule C (Form 1040). These payments aren’t subject to self-employment tax. See the separate Instructions for Schedule SE (Form 1040) for details.
+
+Election precinct official.
+
+You should receive a Form W-2 showing payments for services performed as an election official or election worker. Report these payments on line 1a of Form 1040 or 1040-SR.
+
+Foster care providers.
+
+Generally, payment you receive from a state, a political subdivision, or a qualified foster care placement agency for caring for a qualified foster individual in your home is excluded from your income. However, you must include in your income payment to the extent it’s received for the care of more than five qualified foster individuals age 19 years or older.
+
+A qualified foster individual is a person who:
+
+-
+
+Is living in a foster family home; and
+
+-
+
+Was placed there by:
+
+-
+
+An agency of a state or one of its political subdivisions, or
+
+-
+
+A qualified foster care placement agency.
+
+Difficulty-of-care payments.
+
+These are payments that are designated by the payer as compensation for providing the additional care that’s required for physically, mentally, or emotionally handicapped qualified foster individuals. A state must determine that this compensation is needed, and the care for which the payments are made must be provided in the foster care provider's home in which the qualified foster individual was placed.
+
+Certain Medicaid waiver payments are treated as difficulty-of-care payments when received by an individual care provider for caring for an eligible individual living in the provider's home. See Notice 2014-7, available at IRS.gov/irb/2014-04_IRB#NOT-2014-7 ; and related questions and answers, available at IRS.gov/Individuals/Certain-Medicaid-Waiver-Payments-May-Be-Excludable-From-Income , for more information.
+
+You must include in your income difficulty-of-care payments to the extent they’re received for more than:
+
+-
+
+10 qualified foster individuals under age 19, or
+
+-
+
+5 qualified foster individuals age 19 or older.
+
+Maintaining space in home.
+
+If you’re paid to maintain space in your home for emergency foster care, you must include the payment in your income.
+
+Reporting taxable payments.
+
+If you receive payments that you must include in your income and you’re in business as a foster care provider, report the payments on Schedule C (Form 1040). See Pub. 587, Business Use of Your Home, to help you determine the amount you can deduct for the use of your home.
+
+Found property.
+
+If you find and keep property that doesn’t belong to you that has been lost or abandoned (treasure trove), it’s taxable to you at its fair market value in the first year it’s your undisputed possession.
+
+Free tour.
+
+If you received a free tour from a travel agency for organizing a group of tourists, you must include its value in your income. Report the fair market value of the tour on Schedule 1 (Form 1040), line 8z, if you aren’t in the trade or business of organizing tours. You can’t deduct your expenses in serving as the voluntary leader of the group at the group's request. If you organize tours as a trade or business, report the tour's value on Schedule C (Form 1040).
+
+Gambling winnings.
+
+You must include your gambling winnings in income on Schedule 1 (Form 1040), line 8b. Winnings from fantasy sports leagues are gambling winnings. If you itemize your deductions on Schedule A (Form 1040), you can deduct gambling losses you had during the year, but only up to the amount of your winnings. If you’re in the trade or business of gambling, use Schedule C (Form 1040).
+
+Lotteries and raffles.
+
+Winnings from lotteries and raffles are gambling winnings. In addition to cash winnings, you must include in your income the fair market value of bonds, cars, houses, and other noncash prizes.
+
+. If you win a state lottery prize payable in installments, see Pub. 525 for more information. .
+
+Form W-2G.
+
+You may have received a Form W-2G, Certain Gambling Winnings, showing the amount of your gambling winnings and any tax taken out of them. Include the amount from box 1 on Schedule 1 (Form 1040), line 8b. Include the amount shown in box 4 on Form 1040 or 1040-SR, line 25c, as federal income tax withheld.
+
+Reporting winnings and recordkeeping.
+
+For more information on reporting gambling winnings and recordkeeping, see Gambling Losses up to the Amount of Gambling Winnings in chapter 12.
+
+Gifts and inheritances.
+
+In most cases, property you receive as a gift, bequest, or inheritance isn’t included in your income. However, if property you receive this way later produces income such as interest, dividends, or rents, that income is taxable to you. If property is given to a trust and the income from it is paid, credited, or distributed to you, that income is also taxable to you. If the gift, bequest, or inheritance is the income from the property, that income is taxable to you.
+
+Inherited pension or individual retirement arrangement (IRA).
+
+If you inherited a pension or an IRA, you may have to include part of the inherited amount in your income. See Survivors and Beneficiaries in Pub. 575 if you inherited a pension. See What if You Inherit an IRA? in Pubs. 590-A and 590-B if you inherited an IRA.
+
+Hobby losses.
+
+Losses from a hobby aren’t deductible from other income. A hobby is an activity from which you don’t expect to make a profit. See Activities not engaged in for profit , earlier.
+
+. If you collect stamps, coins, or other items as a hobby for recreation and pleasure, and you sell any of the items, your gain is taxable as a capital gain. (See Pub. 550.) However, if you sell items from your collection at a loss, you can’t deduct the loss. .
+
+Illegal activities.
+
+Income from illegal activities, such as money from dealing illegal drugs, must be included in your income on Schedule 1 (Form 1040), line 8z, or on Schedule C (Form 1040) if from your self-employment activity.
+
+Indian fishing rights.
+
+If you’re a member of a qualified Indian tribe that has fishing rights secured by treaty, Executive order, or an Act of Congress as of March 17, 1988, don’t include in your income amounts you receive from activities related to those fishing rights. The income isn’t subject to income tax, self-employment tax, or employment taxes.
+
+Interest on frozen deposits.
+
+In general, you exclude from your income the amount of interest earned on a frozen deposit. See Interest income on frozen deposits in chapter 6.
+
+Interest on qualified savings bonds.
+
+You may be able to exclude from income the interest from qualified U.S. savings bonds you redeem if you pay qualified higher education expenses in the same year. For more information on this exclusion, see Education Savings Bond Program under U.S. Savings Bonds in chapter 6.
+
+Job interview expenses.
+
+If a prospective employer asks you to appear for an interview and either pays you an allowance or reimburses you for your transportation and other travel expenses, the amount you receive is generally not taxable. You include in income only the amount you receive that’s more than your actual expenses.
+
+Jury duty.
+
+Jury duty pay you receive must be included in your income on Schedule 1 (Form 1040), line 8h. If you gave any of your jury duty pay to your employer because your employer continued to pay you while you served jury duty, include the amount you gave your employer as an income adjustment on Schedule 1 (Form 1040), line 24a, and see the instructions there.
+
+Kickbacks.
+
+You must include kickbacks, side commissions, push money, or similar payments you receive in your income on Schedule 1 (Form 1040), line 8z; or on Schedule C (Form 1040) if from your self-employment activity.
+
+Example.
+
+You sell cars and help arrange car insurance for buyers. Insurance brokers pay back part of their commissions to you for referring customers to them. You must include the kickbacks in your income.
+
+Medical savings accounts (Archer MSAs and Medicare Advantage MSAs).
+
+In most cases, you don’t include in income amounts you withdraw from your Archer MSA or Medicare Advantage MSA if you use the money to pay for qualified medical expenses. Generally, qualified medical expenses are those you can deduct on Schedule A (Form 1040). For more information about qualified medical expenses, see Pub. 502. For more information about Archer MSAs or Medicare Advantage MSAs, see Pub. 969, Health Savings Accounts and Other Tax-Favored Health Plans.
+
+Overtime.
+
+If you earned qualified overtime, you may be eligible to deduct up to $12,500 ($25,000 if married filing jointly) of your qualified overtime compensation. Your deduction will be limited if your modified adjusted gross income is more than $150,000 ($300,000 if married filing jointly). To be eligible, you and/or your spouse who received the overtime must have a valid SSN. If you are married, you must file a joint return.
+
+Prizes and awards.
+
+If you win a prize in a lucky number drawing, television or radio quiz program, beauty contest, or other event, you must include it in your income. For example, if you win a $50 prize in a photography contest, you must report this income on Schedule 1 (Form 1040), line 8i. If you refuse to accept a prize, don’t include its value in your income.
+
+Prizes and awards in goods or services must be included in your income at their fair market value.
+
+Employee awards or bonuses.
+
+Cash awards or bonuses given to you by your employer for good work or suggestions must generally be included in your income as wages. However, certain noncash employee achievement awards can be excluded from income. See Bonuses and awards in chapter 5.
+
+Pulitzer, Nobel, and similar prizes.
+
+If you were awarded a prize in recognition of accomplishments in religious, charitable, scientific, artistic, educational, literary, or civic fields, you must generally include the value of the prize in your income. However, you don’t include this prize in your income if you meet all of the following requirements.
+
+-
+
+You were selected without any action on your part to enter the contest or proceeding.
+
+-
+
+You aren’t required to perform substantial future services as a condition to receiving the prize or award.
+
+-
+
+The prize or award is transferred by the payer directly to a governmental unit or tax-exempt charitable organization as designated by you.
+
+See Pub. 525 for more information about the conditions that apply to the transfer.
+
+Qualified Opportunity Fund (QOF).
+
+Effective December 22, 2017, Code section 1400Z-2 provides a temporary deferral on inclusion in gross income for capital gains invested in QOFs, and permanent exclusion of capital gains from the sale or exchange of an investment in the QOF if the investment is held for at least 10 years. See the Instructions for Form 8949 on how to report your election to defer eligible gains invested in a QOF. See the instructions for Form 8997, Initial and Annual Statement of Qualified Opportunity Fund (QOF) Investments, for reporting information. For additional information, see Opportunity Zones Frequently Asked Questions at IRS.gov/Newsroom/Opportunity-Zones-Frequently-Asked-Questions .
+
+Qualified tuition programs (QTPs).
+
+A QTP (also known as a 529 program) is a program set up to allow you to either prepay or contribute to an account established for paying a student's qualified higher education expenses at an eligible educational institution. A program can be established and maintained by a state, an agency or instrumentality of a state, or an eligible educational institution.
+
+The part of a distribution representing the amount paid or contributed to a QTP isn’t included in income. This is a return of the investment in the program.
+
+In most cases, the beneficiary doesn’t include in income any earnings distributed from a QTP if the total distribution is less than or equal to adjusted qualified higher education expenses. See Pub. 970 for more information.
+
+Railroad retirement annuities.
+
+The following types of payments are treated as pension or annuity income and are taxable under the rules explained in Pub. 575, Pension and Annuity Income.
+
+-
+
+Tier 1 railroad retirement benefits that are more than the social security equivalent benefit.
+
+-
+
+Tier 2 benefits.
+
+-
+
+Vested dual benefits.
+
+Rewards.
+
+If you receive a reward for providing information, include it in your income.
+
+Sale of home.
+
+You may be able to exclude from income all or part of any gain from the sale or exchange of your main home. See Pub. 523.
+
+Sale of personal items.
+
+If you sold an item you owned for personal use, such as a car, refrigerator, furniture, stereo, jewelry, or silverware, your gain is taxable as a capital gain. Report it as explained in the Instructions for Schedule D (Form 1040). You can’t deduct a loss.
+
+However, if you sold an item you held for investment, such as gold or silver bullion, coins, or gems, any gain is taxable as a capital gain and any loss is deductible as a capital loss.
+
+Example.
+
+You sold a painting on an online auction website for $100. You bought the painting for $20 at a garage sale years ago. Report your gain as a capital gain as explained in the Instructions for Schedule D (Form 1040).
+
+Scholarships and fellowships.
+
+A candidate for a degree can exclude amounts received as a qualified scholarship or fellowship. A qualified scholarship or fellowship is any amount you receive that’s for:
+
+-
+
+Tuition and fees to enroll at or attend an educational institution; or
+
+-
+
+Fees, books, supplies, and equipment required for courses at the educational institution.
+
+Amounts used for room and board don’t qualify for the exclusion. See Pub. 970 for more information on qualified scholarships and fellowship grants.
+
+Payment for services.
+
+In most cases, you must include in income the part of any scholarship or fellowship that represents payment for past, present, or future teaching, research, or other services. This applies even if all candidates for a degree must perform the services to receive the degree.
+
+For information about the rules that apply to a tax-free qualified tuition reduction provided to employees and their families by an educational institution, see Pub. 970.
+
+Department of Veterans Affairs (VA) payments.
+
+Allowances paid by the VA aren’t included in your income. These allowances aren’t considered scholarship or fellowship grants.
+
+Prizes.
+
+Scholarship prizes won in a contest aren’t scholarships or fellowships if you don’t have to use the prizes for educational purposes. You must include these amounts in your income on Schedule 1 (Form 1040), line 8i, whether or not you use the amounts for educational purposes.
+
+Sharing/gig economy.
+
+A sharing economy is one in which assets are shared between individuals for a fee, usually through the Internet. For example, you rent out your car when you don’t need it, or you share your wi-fi account for a fee.
+
+A gig economy is one in which a short-term contract or freelance work is the norm, as opposed to a permanent job. For example, you drive for a ride-sharing service, or work as a fitness trainer, babysitter, or tutor.
+
+Generally, if you have income from sharing economy transactions, or you did gig work, you must include all income received whether you received a Form 1099-K, Payment Card and Third-Party Network Transactions, or not. See the Instructions for Schedule C (Form 1040) and the Instructions for Schedule SE (Form 1040).
+
+State tax payments.
+
+Do not include payments on your tax return made by states under legislatively provided social benefit programs for the promotion of the general welfare. To qualify for the general welfare exclusion, state payments must be paid from a governmental fund, be for the promotion of general welfare (that is, based on the need of the individual or family receiving such payments), and not represent compensation for services.
+
+Stolen property.
+
+If you steal property, you must report its fair market value in your income in the year you steal it unless you return it to its rightful owner in the same year.
+
+Tips.
+
+You may be eligible to take a deduction for qualified tips paid to you in 2025. You can’t deduct more than $25,000 of those tips. Your deduction will be limited if your modified adjusted gross income is more than $150,000 ($300,000 if married filing jointly). To be eligible, you and/or your spouse who received the tips must have a valid SSN. If you are married, you must file a joint return.
+
+Transporting school children.
+
+Don’t include in your income a school board mileage allowance for taking children to and from school if you aren’t in the business of taking children to school. You can’t deduct expenses for providing this transportation.
+
+Union benefits and dues.
+
+Amounts deducted from your pay for union dues, assessments, contributions, or other payments to a union can’t be excluded from your income.
+
+Strike and lockout benefits.
+
+Benefits paid to you by a union as strike or lockout benefits, including both cash and the fair market value of other property, are usually included in your income as compensation. You can exclude these benefits from your income only when the facts clearly show that the union intended them as gifts to you.
+
+Utility rebates.
+
+If you’re a customer of an electric utility company and you participate in the utility's energy conservation program, you may receive on your monthly electric bill either:
+
+-
+
+A reduction in the purchase price of electricity furnished to you (rate reduction), or
+
+-
+
+A nonrefundable credit against the purchase price of the electricity.
+
+The amount of the rate reduction or nonrefundable credit isn’t included in your income.

@@ -1,0 +1,610 @@
+IRS Pub 17 (2025) | 11. Taxes
+
+11. Taxes
+
+What’s New
+
+State and local tax deduction limit increased. The overall limit on the deduction for state and local income, sales, and property taxes has increased to $40,000 ($20,000 if married filing separately). See Limitation on deduction for state and local taxes , later.
+
+Reminder
+
+No deduction for foreign taxes paid for real estate. You can no longer deduct foreign taxes you paid on real estate.
+
+Introduction
+
+This chapter discusses which taxes you can deduct if you itemize deductions on Schedule A (Form 1040). It also explains which taxes you can deduct on other schedules or forms and which taxes you can’t deduct.
+
+This chapter covers the following topics.
+
+-
+
+Income taxes (federal, state, local, and foreign).
+
+-
+
+General sales taxes (state and local).
+
+-
+
+Real estate taxes (state, local, and foreign).
+
+-
+
+Personal property taxes (state and local).
+
+-
+
+Taxes and fees you can’t deduct.
+
+Use Table 11-1 as a guide to determine which taxes you can deduct.
+
+The end of the chapter contains a section that explains which forms you use to deduct different types of taxes.
+
+Business taxes.
+
+You can deduct certain taxes only if they are ordinary and necessary expenses of your trade or business or of producing income. For information on these taxes, see chapter 8, Business Expenses in Pub. 334.
+
+State or local taxes.
+
+These are taxes imposed by the 50 states, U.S. territories, or any of their political subdivisions (such as a county or city), or by the District of Columbia.
+
+Indian tribal government.
+
+An Indian tribal government recognized by the Secretary of the Treasury as performing substantial government functions will be treated as a state for purposes of claiming a deduction for taxes. Income taxes, real estate taxes, and personal property taxes imposed by that Indian tribal government (or by any of its subdivisions that are treated as political subdivisions of a state) are deductible.
+
+General sales taxes.
+
+These are taxes imposed at one rate on retail sales of a broad range of classes of items.
+
+Foreign taxes.
+
+These are taxes imposed by a foreign country or any of its political subdivisions.
+
+Useful Items
+
+You may want to see:
+
+Publication
+
+-
+
+502 Medical and Dental Expenses
+
+-
+
+503 Child and Dependent Care Expenses
+
+-
+
+504 Divorced or Separated Individuals
+
+-
+
+514 Foreign Tax Credit for Individuals
+
+-
+
+525 Taxable and Nontaxable Income
+
+-
+
+530 Tax Information for Homeowners
+
+Form (and Instructions)
+
+-
+
+Schedule A (Form 1040) Itemized Deductions
+
+-
+
+Schedule C (Form 1040) Profit or Loss From Business (Sole Proprietorship)
+
+-
+
+Schedule E (Form 1040) Supplemental Income and Loss
+
+-
+
+Schedule F (Form 1040) Profit or Loss From Farming
+
+-
+
+Schedule SE (Form 1040) Self-Employment Tax
+
+-
+
+1116 Foreign Tax Credit
+
+For these and other useful items, go to IRS.gov/Forms .
+
+Tests To Deduct Any Tax
+
+The following two tests must be met for you to deduct any tax.
+
+-
+
+The tax must be imposed on you.
+
+-
+
+You must pay the tax during your tax year.
+
+The tax must be imposed on you.
+
+In general, you can deduct only taxes imposed on you.
+
+Generally, you can deduct property taxes only if you are an owner of the property. If your spouse owns the property and pays the real estate taxes, the taxes are deductible on your spouse's separate return or on your joint return.
+
+You must pay the tax during your tax year.
+
+If you are a cash-basis taxpayer, you can deduct only those taxes you actually paid during your tax year. If you pay your taxes by check and the check is honored by your financial institution, the day you mail or deliver the check is the date of payment. If you use a pay-by-phone account (such as a credit card or electronic funds withdrawal), the date reported on the statement of the financial institution showing when payment was made is the date of payment. If you contest a tax liability and are a cash-basis taxpayer, you can deduct the tax only in the year you actually pay it (or transfer money or other property to provide for satisfaction of the contested liability). See Pub. 538 for details.
+
+If you use an accrual method of accounting, see Pub. 538 for more information.
+
+Income Taxes
+
+This section discusses the deductibility of state and local income taxes (including employee contributions to state benefit funds) and foreign income taxes.
+
+State and Local Income Taxes
+
+You can deduct state and local income taxes.
+
+Exception.
+
+You can’t deduct state and local income taxes you pay on income that is exempt from federal income tax, unless the exempt income is interest income. For example, you can’t deduct the part of a state's income tax that is on a cost-of-living allowance exempt from federal income tax.
+
+What To Deduct
+
+Your deduction may be for withheld taxes, estimated tax payments, or other tax payments as follows.
+
+Withheld taxes.
+
+You can deduct state and local income taxes withheld from your salary in the year they are withheld. Your Form(s) W-2 will show these amounts. Forms W-2G, 1099-B, 1099-DIV, 1099-G, 1099-K, 1099-MISC, 1099-NEC, 1099-OID, and 1099-R may also show state and local income taxes withheld.
+
+Estimated tax payments.
+
+You can deduct estimated tax payments you made during the year to a state or local government. However, you must have a reasonable basis for making the estimated tax payments. Any estimated state or local tax payments that aren’t made in good faith at the time of payment aren’t deductible.
+
+Example.
+
+You made an estimated state income tax payment. However, the estimate of your state tax liability shows that you will get a refund of the full amount of your estimated payment. You had no reasonable basis to believe you had any additional liability for state income taxes and you can’t deduct the estimated tax payment.
+
+Refund applied to taxes.
+
+You can deduct any part of a refund of prior-year state or local income taxes that you chose to have credited to your 2025 estimated state or local income taxes.
+
+Don’t reduce your deduction by either of the following items.
+
+-
+
+Any state or local income tax refund (or credit) you expect to receive for 2025.
+
+-
+
+Any refund of (or credit for) prior-year state and local income taxes you actually received in 2025.
+
+However, part or all of this refund (or credit) may be taxable. See Refund (or credit) of state or local income taxes , later.
+
+Separate federal returns.
+
+If you and your spouse file separate state, local, and federal income tax returns, each of you can deduct on your federal return only the amount of your own state and local income tax that you paid during the tax year.
+
+Joint state and local returns.
+
+If you and your spouse file joint state and local returns and separate federal returns, each of you can deduct on your separate federal return a part of the state and local income taxes paid during the tax year. You can deduct only the amount of the total taxes that is proportionate to your gross income compared to the combined gross income of you and your spouse. However, you can’t deduct more than the amount you actually paid during the year. You can avoid this calculation if you and your spouse are jointly and individually liable for the full amount of the state and local income taxes. If so, you and your spouse can deduct on your separate federal returns the amount you each actually paid.
+
+Joint federal return.
+
+If you file a joint federal return, you can deduct the state and local income taxes both of you paid.
+
+Contributions to state benefit funds.
+
+As an employee, you can deduct mandatory contributions to state benefit funds withheld from your wages that provide protection against loss of wages. For example, certain states require employees to make contributions to state funds providing disability or unemployment insurance benefits. Mandatory payments made to the following state benefit funds are deductible as state income taxes on Schedule A (Form 1040), line 5a.
+
+-
+
+Alaska Unemployment Compensation Fund.
+
+-
+
+California Nonoccupational Disability Benefit Fund.
+
+-
+
+New Jersey Nonoccupational Disability Benefit Fund.
+
+-
+
+New Jersey Unemployment Compensation Fund.
+
+-
+
+New York Nonoccupational Disability Benefit Fund.
+
+-
+
+Pennsylvania Unemployment Compensation Fund.
+
+-
+
+Rhode Island Temporary Disability Benefit Fund.
+
+-
+
+Washington State Supplemental Workmen's Compensation Fund.
+
+. Employee contributions to private or voluntary disability plans aren’t deductible. .
+
+Refund (or credit) of state or local income taxes.
+
+If you receive a refund of (or credit for) state or local income taxes in a year after the year in which you paid them, you may have to include the refund in income on Schedule 1 (Form 1040), line 1, in the year you receive it. This includes refunds resulting from taxes that were overwithheld, applied from a prior-year return, not figured correctly, or figured again because of an amended return. If you didn’t itemize your deductions in the previous year, don’t include the refund in income. If you deducted the taxes in the previous year, include all or part of the refund on Schedule 1 (Form 1040), line 1, in the year you receive the refund. For a discussion of how much to include, see Recoveries in Pub. 525 for more information.
+
+Foreign Income Taxes
+
+Generally, you can take either a deduction or a credit for income taxes imposed on you by a foreign country or a U.S. territory. However, you can’t take a deduction or credit for foreign income taxes paid on income that is exempt from U.S. tax under the foreign earned income exclusion or the foreign housing exclusion. For information on these exclusions, see Pub. 54, Tax Guide for U.S. Citizens and Resident Aliens Abroad. For information on the foreign tax credit, see Pub. 514.
+
+State and Local General Sales Taxes
+
+You can elect to deduct state and local general sales taxes, instead of state and local income taxes, as an itemized deduction on Schedule A (Form 1040), line 5a. You can use either your actual expenses or the state and local sales tax tables to figure your sales tax deduction.
+
+Actual expenses.
+
+Generally, you can deduct the actual state and local general sales taxes (including compensating use taxes) if the tax rate was the same as the general sales tax rate.
+
+Food, clothing, and medical supplies.
+
+Sales taxes on food, clothing, and medical supplies are deductible as a general sales tax even if the tax rate was less than the general sales tax rate.
+
+Motor vehicles.
+
+Sales taxes on motor vehicles are deductible as a general sales tax even if the tax rate was less than the general sales tax rate. However, if you paid sales tax on a motor vehicle at a rate higher than the general sales tax, you can deduct only the amount of the tax that you would have paid at the general sales tax rate on that vehicle. Include any state and local general sales taxes paid for a leased motor vehicle. For purposes of this section, motor vehicles include cars, motorcycles, motor homes, recreational vehicles, sport utility vehicles, trucks, vans, and off-road vehicles.
+
+Trade or business items.
+
+Don't include sales taxes paid on items used in your trade or business on Schedule A (Form 1040). Instead, go to the instructions for the form you are using to report business income and expenses to see if you can deduct these taxes.
+
+. If you use the actual expenses method, you must have receipts to show the general sales taxes paid. .
+
+Optional sales tax tables.
+
+Instead of using your actual expenses, you can figure your state and local general sales tax deduction using the state and local sales tax tables in the Instructions for Schedule A (Form 1040). You may also be able to add the state and local general sales taxes paid on certain specified items.
+
+Your applicable table amount is based on the state where you live, your income, and your family size. Your income is your adjusted gross income plus any nontaxable items such as the following.
+
+-
+
+Tax-exempt interest.
+
+-
+
+Veterans’ benefits.
+
+-
+
+Nontaxable combat pay.
+
+-
+
+Workers’ compensation.
+
+-
+
+Nontaxable part of social security and railroad retirement benefits.
+
+-
+
+Nontaxable part of IRA, pension, or annuity distributions, excluding rollovers.
+
+-
+
+Public assistance payments.
+
+If you lived in different states during the same tax year, you must prorate your applicable table amount for each state based on the days you lived in each state. See the instructions for Schedule A (Form 1040), line 5a, for details.
+
+State and Local Real Estate Taxes
+
+Deductible real estate taxes are any state and local taxes on real property levied for the general public welfare. You can deduct these taxes only if they are assessed uniformly against all property under the jurisdiction of the taxing authority. The proceeds must be for general community or governmental purposes and not be a payment for a special privilege granted or service rendered to you.
+
+Deductible real estate taxes generally don’t include taxes charged for local benefits and improvements that increase the value of the property. They also don’t include itemized charges for services (such as trash collection) assessed against specific property or certain people, even if the charge is paid to the taxing authority. For more information about taxes and charges that aren’t deductible, see Real Estate-Related Items You Can’t Deduct , later.
+
+Tenant-shareholders in a cooperative housing corporation.
+
+Generally, if you are a tenant-stockholder in a cooperative housing corporation, you can deduct the amount paid to the corporation that represents your share of the real estate taxes the corporation paid or incurred for your dwelling unit. The corporation should provide you with a statement showing your share of the taxes. For more information, see Special Rules for Cooperatives in Pub. 530.
+
+Division of real estate taxes between buyers and sellers.
+
+If you bought or sold real estate during the year, the real estate taxes must be divided between the buyer and the seller.
+
+The buyer and the seller must divide the real estate taxes according to the number of days in the real property tax year (the period to which the tax is imposed relates) that each owned the property. The seller is treated as paying the taxes up to, but not including, the date of sale. The buyer is treated as paying the taxes beginning with the date of sale. This applies regardless of the lien dates under local law. Generally, this information is included on the settlement statement provided at the closing.
+
+If you (the seller) can’t deduct taxes until they are paid because you use the cash method of accounting, and the buyer of your property is personally liable for the tax, you are considered to have paid your part of the tax at the time of the sale. This lets you deduct the part of the tax to the date of sale even though you didn’t actually pay it. However, you must also include the amount of that tax in the selling price of the property. The buyer must include the same amount in the cost of the property.
+
+You figure your deduction for taxes on each property bought or sold during the real property tax year as follows.
+
+Worksheet 11-1. Figuring Your State and Local Real Estate Tax Deduction
+
+1. | Enter the total state and local real estate taxes for the real property tax year | _____
+2. | Enter the number of days in the real property tax year that you owned the property | _____
+3. | Divide line 2 by 365 (for leap years, divide line 2 by 366) | .
+4. | Multiply line 1 by line 3. This is your deduction. Enter it on Schedule A (Form 1040), line 5b
+Note: Repeat steps 1 through 4 for each property you bought or sold during the real property tax year. Your total deduction is the sum of the line 4 amounts for all of the properties.
+
+Real estate taxes for prior years.
+
+Don’t divide delinquent taxes between the buyer and seller if the taxes are for any real property tax year before the one in which the property is sold. Even if the buyer agrees to pay the delinquent taxes, the buyer can’t deduct them. The buyer must add them to the cost of the property. The seller can deduct these taxes paid by the buyer. However, the seller must include them in the selling price.
+
+Examples.
+
+The following examples illustrate how real estate taxes are divided between buyer and seller.
+
+Example 1.
+
+Porter and Riley White's real property tax year for both their old home and their new home is the calendar year, with payment due August 1. The tax on their old home, sold on May 7, was $620. The tax on their new home, bought on May 3, was $732. Porter and Riley are considered to have paid a proportionate share of the real estate taxes on the old home even though they didn’t actually pay them to the taxing authority. On the other hand, they can claim only a proportionate share of the taxes they paid on their new property even though they paid the entire amount.
+
+Porter and Riley owned their old home during the real property tax year for 126 days (January 1 to May 6, the day before the sale). They figure their deduction for taxes on their old home as follows.
+
+Worksheet 11-1. Figuring Your State and Local Real Estate Tax Deduction—Taxes on Old Home
+
+1. | Enter the total state and local real estate taxes for the real property tax year | $620
+2. | Enter the number of days in the real property tax year that you owned the property | 126
+3. | Divide line 2 by 365 (for leap years, divide line 2 by 366) | 0.3452
+4. | Multiply line 1 by line 3. This is your deduction. Enter it on Schedule A (Form 1040), line 5b | $214
+
+Because the buyers of their old home paid all of the taxes, Porter and Riley also include the $214 in the selling price of the old home. (The buyers add the $214 to their cost of the home.)
+
+Porter and Riley owned their new home during the real property tax year for 243 days (May 3 to December 31, including their date of purchase). They figure their deduction for taxes on their new home as follows.
+
+Worksheet 11-1. Figuring Your State and Local Real Estate Tax Deduction—Taxes on New Home
+
+1. | Enter the total state and local real estate taxes for the real property tax year | $732
+2. | Enter the number of days in the real property tax year that you owned the property | 243
+3. | Divide line 2 by 365 (for leap years, divide line 2 by 366) | 0.6658
+4. | Multiply line 1 by line 3. This is your deduction. Enter it on Schedule A (Form 1040), line 5b | $487
+
+Because Porter and Riley paid all of the taxes on the new home, they add $245 ($732 paid less $487 deduction) to their cost of the new home. (The sellers add this $245 to their selling price and deduct the $245 as a real estate tax.)
+
+Porter and Riley's real estate tax deduction for their old and new homes is the sum of $214 and $487, or $701. They will enter this amount on Schedule A (Form 1040), line 5b.
+
+Example 2.
+
+Reese and Quin Brown bought a new home on May 3, 2025. Their real property tax year for the new home is the calendar year. Real estate taxes for 2024 were assessed in their state on January 1, 2025. The taxes became due on May 31, 2025, and October 31, 2025.
+
+The Browns agreed to pay all taxes due after the date of purchase. Real estate taxes for 2024 were $680. They paid $340 on May 31, 2025, and $340 on October 31, 2025. These taxes were for the 2024 real property tax year. The Browns can’t deduct them because they didn’t own the property until 2025. Instead, they must add $680 to the cost of their new home.
+
+In January 2026, the Browns receive their 2025 property tax statement for $752, which they will pay in 2026. The Browns owned their new home during the 2025 real property tax year for 243 days (May 3 to December 31). They will figure their 2026 deduction for taxes as follows.
+
+Worksheet 11-1. Figuring Your State and Local Real Estate Tax Deduction—Taxes on New Home
+
+1. | Enter the total state and local real estate taxes for the real property tax year | $752
+2. | Enter the number of days in the real property tax year that you owned the property | 243
+3. | Divide line 2 by 365 (for leap years, divide line 2 by 366) | 0.6658
+4. | Multiply line 1 by line 3. This is your deduction. Claim it on Schedule A (Form 1040), line 5b | $501
+
+The remaining $251 ($752 paid less $501 deduction) of taxes paid in 2026, along with the $680 paid in 2025, is added to the cost of their new home.
+
+Because the taxes up to the date of sale are considered paid by the seller on the date of sale, the seller is entitled to a 2025 tax deduction of $931. This is the sum of the $680 for 2024 and the $251 for the 122 days the seller owned the home in 2025. The seller must also include the $931 in the selling price when they figure the gain or loss on the sale. The seller should contact the Browns in January 2026 to find out how much real estate tax is due for 2025.
+
+Form 1099-S.
+
+For certain sales or exchanges of real estate, the person responsible for closing the sale (generally, the settlement agent) prepares Form 1099-S, Proceeds From Real Estate Transactions, to report certain information to the IRS and to the seller of the property. Box 2 of Form 1099-S is for the gross proceeds from the sale and should include the portion of the seller's real estate tax liability that the buyer will pay after the date of sale. The buyer includes these taxes in the cost basis of the property, and the seller both deducts this amount as a tax paid and includes it in the sales price of the property.
+
+For a real estate transaction that involves a home, any real estate tax the seller paid in advance but that is the liability of the buyer appears in box 6 of Form 1099-S. The buyer deducts this amount as a real estate tax, and the seller reduces their real estate tax deduction (or includes it in income) by the same amount. See Refund (or rebate) , later.
+
+Taxes placed in escrow.
+
+If your monthly mortgage payment includes an amount placed in escrow (put in the care of a third party) for real estate taxes, you may not be able to deduct the total amount placed in escrow. You can deduct only the real estate tax that the third party actually paid to the taxing authority. If the third party doesn’t notify you of the amount of real estate tax that was paid for you, contact the third party or the taxing authority to find the proper amount to show on your return.
+
+Tenants by the entirety.
+
+If you and your spouse held property as tenants by the entirety and you file separate federal returns, each of you can deduct only the taxes each of you paid on the property.
+
+Divorced individuals.
+
+If your divorce or separation agreement states that you must pay the real estate taxes for a home owned by you and your spouse, part of your payments may be deductible as alimony and part as real estate taxes. See Payments to a third party in Pub. 504 for more information.
+
+Ministers’ and military housing allowances.
+
+If you are a minister or a member of the uniformed services and receive a housing allowance that you can exclude from income, you can still deduct all of the real estate taxes you pay on your home.
+
+Refund (or rebate).
+
+If you received a refund or rebate in 2025 of real estate taxes you paid in 2025, you must reduce your deduction by the amount refunded to you. If you received a refund or rebate in 2025 of real estate taxes you deducted in an earlier year, you must generally include the refund or rebate in income in the year you receive it. However, the amount you include in income is limited to the amount of the deduction that reduced your tax in the earlier year. For more information, see Recoveries in Pub. 525.
+
+Table 11-1. Which Taxes Can You Deduct?
+
+Type of tax | You can deduct | You can’t deduct
+Fees and charges | Fees and charges that are expenses of your trade or business or of producing income. | Fees and charges that aren’t expenses of your trade or business or of producing income, such as fees for driver's licenses, car inspections, parking, or charges for water bills (see Taxes and Fees You Can’t Deduct ).
+Fines and penalties.
+Income taxes | State and local income taxes. | Federal income taxes.
+Foreign income taxes. | Employee contributions to private or voluntary disability plans.
+Employee contributions to state funds listed under Contributions to state benefit funds . | State and local general sales taxes if you choose to deduct state and local income taxes.
+General sales taxes | State and local general sales taxes, including compensating use taxes. | State and local income taxes if you choose to deduct state and local general sales taxes.
+Other taxes | Taxes that are expenses of your trade or business. | Federal excise taxes, such as tax on gasoline, that aren’t expenses of your trade or business or of producing income.
+Taxes on property producing rent or royalty income. | Per capita taxes.
+One-half of self-employment tax paid.
+Personal property taxes | State and local personal property taxes. | Customs duties that aren’t expenses of your trade or business or of producing income.
+Real estate taxes | State and local real estate taxes. | Real estate taxes that are treated as imposed on someone else (see Division of real estate taxes between buyers and sellers ).
+Tenant's share of real estate taxes paid by a cooperative housing corporation. | Foreign real estate taxes.
+Taxes for local benefits (with exceptions). See Real Estate-Related Items You Can’t Deduct .
+Trash and garbage pickup fees (with exceptions). See Real Estate-Related Items You Can’t Deduct .
+Rent increase due to higher real estate taxes.
+Homeowners' association charges.
+
+Real Estate-Related Items You Can’t Deduct
+
+Payments for the following items generally aren’t deductible as real estate taxes.
+
+-
+
+Taxes for local benefits.
+
+-
+
+Itemized charges for services (such as trash and garbage pickup fees).
+
+-
+
+Transfer taxes (or stamp taxes).
+
+-
+
+Rent increases due to higher real estate taxes.
+
+-
+
+Homeowners' association charges.
+
+Taxes for local benefits.
+
+Deductible real estate taxes generally don’t include taxes charged for local benefits and improvements tending to increase the value of your property. These include assessments for streets, sidewalks, water mains, sewer lines, public parking facilities, and similar improvements. You should increase the basis of your property by the amount of the assessment.
+
+Local benefit taxes are deductible only if they are for maintenance, repair, or interest charges related to those benefits. If only a part of the taxes is for maintenance, repair, or interest, you must be able to show the amount of that part to claim the deduction. If you can’t determine what part of the tax is for maintenance, repair, or interest, none of it is deductible.
+
+. Taxes for local benefits may be included in your real estate tax bill. If your taxing authority (or mortgage lender) doesn’t furnish you a copy of your real estate tax bill, ask for it. You should use the rules above to determine if the local benefit tax is deductible. Contact the taxing authority if you need additional information about a specific charge on your real estate tax bill. .
+
+Itemized charges for services.
+
+An itemized charge for services assessed against specific property or certain people isn’t a tax, even if the charge is paid to the taxing authority. For example, you can’t deduct the charge as a real estate tax if it is:
+
+-
+
+A unit fee for the delivery of a service (such as a $5 fee charged for every 1,000 gallons of water you use),
+
+-
+
+A periodic charge for a residential service (such as a $20 per month or $240 annual fee charged to each homeowner for trash collection), or
+
+-
+
+A flat fee charged for a single service provided by your government (such as a $30 charge for mowing your lawn because it was allowed to grow higher than permitted under your local ordinance).
+
+. You must look at your real estate tax bill to determine if any nondeductible itemized charges, such as those listed above, are included in the bill. If your taxing authority (or mortgage lender) doesn’t furnish you a copy of your real estate tax bill, ask for it. .
+
+Exception.
+
+Service charges used to maintain or improve services (such as trash collection or police and fire protection) are deductible as real estate taxes if:
+
+-
+
+The fees or charges are imposed at a like rate against all property in the taxing jurisdiction;
+
+-
+
+The funds collected aren’t earmarked; instead, they are commingled with general revenue funds; and
+
+-
+
+Funds used to maintain or improve services aren’t limited to or determined by the amount of these fees or charges collected.
+
+Transfer taxes (or stamp taxes).
+
+Transfer taxes and similar taxes and charges on the sale of a personal home aren’t deductible. If they are paid by the seller, they are expenses of the sale and reduce the amount realized on the sale. If paid by the buyer, they are included in the cost basis of the property.
+
+Rent increase due to higher real estate taxes.
+
+If your landlord increases your rent in the form of a tax surcharge because of increased real estate taxes, you can’t deduct the increase as taxes.
+
+Homeowners' association charges.
+
+These charges aren’t deductible because they are imposed by the homeowners' association, rather than the state or local government.
+
+Personal Property Taxes
+
+Personal property tax is deductible if it is a state or local tax that is:
+
+-
+
+Charged on personal property;
+
+-
+
+Based only on the value of the personal property; and
+
+-
+
+Charged on a yearly basis, even if it is collected more or less than once a year.
+
+A tax that meets the above requirements can be considered charged on personal property even if it is for the exercise of a privilege. For example, a yearly tax based on value qualifies as a personal property tax even if it is called a registration fee and is for the privilege of registering motor vehicles or using them on the highways.
+
+If the tax is partly based on value and partly based on other criteria, it may qualify in part.
+
+Example.
+
+Your state charges a yearly motor vehicle registration tax of 1% of value plus 50 cents per hundredweight. You paid $32 based on the value ($1,500) and weight (3,400 lbs.) of your car. You can deduct $15 (1% × $1,500) as a personal property tax because it is based on the value. The remaining $17 ($0.50 × 34), based on the weight, isn’t deductible.
+
+Taxes and Fees You Can’t Deduct
+
+Many federal, state, and local government taxes aren’t deductible because they don’t fall within the categories discussed earlier. Other taxes and fees, such as federal income taxes, aren’t deductible because the tax law specifically prohibits a deduction for them. See Table 11-1 .
+
+Taxes and fees that are generally not deductible include the following items.
+
+-
+
+Employment taxes. This includes social security, Medicare, and railroad retirement taxes withheld from your pay. However, one-half of self-employment tax you pay is deductible. In addition, the social security and other employment taxes you pay on the wages of a household worker may be included in medical expenses that you can deduct, or childcare expenses that allow you to claim the child and dependent care credit. For more information, see Pub. 502 and Pub. 503.
+
+-
+
+Estate, inheritance, legacy, or succession taxes. You can deduct the estate tax attributable to income in respect of a decedent if you, as a beneficiary, must include that income in your gross income. In that case, deduct the estate tax on Schedule A (Form 1040), line 16. For more information, see Pub. 559.
+
+-
+
+Federal income taxes. This includes income taxes withheld from your pay.
+
+-
+
+Fines and penalties. You can’t deduct fines and penalties paid to a government for violation of any law, including related amounts forfeited as collateral deposits.
+
+-
+
+Foreign personal or real property taxes.
+
+-
+
+Gift taxes.
+
+-
+
+License fees. You can’t deduct license fees for personal purposes (such as marriage, driver's, and pet license fees).
+
+-
+
+Per capita taxes. You can’t deduct state or local per capita taxes.
+
+Many taxes and fees other than those listed above are also nondeductible, unless they are ordinary and necessary expenses of a business or income-producing activity. For other nondeductible items, see Real Estate-Related Items You Can’t Deduct , earlier.
+
+Where To Deduct
+
+You deduct taxes on the following schedules.
+
+State and local income taxes.
+
+These taxes are deducted on Schedule A (Form 1040), line 5a, even if your only source of income is from business, rents, or royalties.
+
+Limitation on deduction for state and local taxes.
+
+The deduction for state and local taxes is limited to $40,000 ($20,000 if married filing separately). The overall limit is reduced if your modified adjusted gross income is more than $500,000 ($250,000 if married filing separately) but will not be reduced below $10,000 ($5,000 if married filing separately).
+
+State and local taxes are the taxes that you include on Schedule A (Form 1040), lines 5a, 5b, and 5c. Include taxes imposed by a U.S. territory with your state and local taxes on Schedule A (Form 1040), lines 5a, 5b, and 5c. However, don't include any U.S. territory taxes you paid that are allocable to excluded income.
+
+. You may want to take a credit for U.S. territory tax instead of a deduction. See the instructions for Schedule 3 (Form 1040), line 1, for details. .
+
+General sales taxes.
+
+Sales taxes are deducted on Schedule A (Form 1040), line 5a. You must check the box on line 5a. If you elect to deduct sales taxes, you can’t deduct state and local income taxes on Schedule A (Form 1040), line 5a.
+
+Foreign income taxes.
+
+Generally, income taxes you pay to a foreign country or U.S. territory can be claimed as an itemized deduction on Schedule A (Form 1040), line 6, or as a credit against your U.S. income tax on Schedule 3 (Form 1040), line 1. To claim the credit, you may have to complete and attach Form 1116. For more information, see the Instructions for Form 1040 or Pub. 514.
+
+Real estate taxes and personal property taxes.
+
+Real estate and personal property taxes are deducted on Schedule A (Form 1040), lines 5b and 5c, respectively, unless they are paid on property used in your business, in which case they are deducted on Schedule C (Form 1040) or Schedule F (Form 1040). Taxes on property that produces rent or royalty income are deducted on Schedule E (Form 1040).
+
+Self-employment tax.
+
+Deduct one-half of your self-employment tax on Schedule 1 (Form 1040), line 15.
+
+Other taxes.
+
+All other deductible taxes are deducted on Schedule A (Form 1040), line 6.

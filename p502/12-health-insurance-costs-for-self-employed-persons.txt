@@ -1,0 +1,49 @@
+IRS Pub 502 (2025) | Health Insurance Costs for Self-Employed Persons
+
+Health Insurance Costs for Self-Employed Persons
+
+If you were self-employed and had a net profit for the year, you may be able to deduct, as an adjustment to income, amounts paid for health insurance (which includes medical, dental, and vision insurance and qualified long-term care insurance) on behalf of yourself, your spouse, your dependents, and your children who were under age 27 at the end of 2025. For this purpose, you were self-employed if you were a general partner (or a limited partner receiving guaranteed payments) or you received wages from an S corporation in which you were more than a 2% shareholder. The insurance plan must be established under your trade or business and the deduction can’t be more than your earned income from that trade or business.
+
+You can’t deduct payments for health insurance for any month in which you were eligible to participate in a health plan subsidized by your employer, your spouse’s employer, or an employer of your dependent, or your child under age 27, at the end of 2025. You can’t deduct payments for a qualified long-term care insurance contract for any month in which you were eligible to participate in a long-term care insurance plan subsidized by your employer or your spouse’s employer.
+
+If you qualify to take the deduction, use the Self-Employed Health Insurance Deduction Worksheet in the Instructions for Form 1040 to figure the amount you can deduct. But if any of the following applies, don’t use that worksheet.
+
+-
+
+You had more than one source of income subject to self-employment tax.
+
+-
+
+You file Form 2555, Foreign Earned Income.
+
+-
+
+You are using amounts paid for qualified long-term care insurance to figure the deduction.
+
+If you can’t use the worksheet in the Instructions for Form 1040, use Form 7206, Self-Employed Health Deduction, to figure your deduction.
+
+Use Pub. 974, Premium Tax Credit, instead of the worksheet in the 2025 Instructions for Form 1040 if the insurance plan established or considered to be established under your business was obtained through the Health Insurance Marketplace and you are claiming the premium tax credit.
+
+When figuring the amount you can deduct for insurance premiums, don’t include amounts paid for health insurance coverage with retirement plan distributions that were tax free because you are a retired public safety officer.
+
+Where to report.
+
+You take this deduction on Form 1040 or 1040-SR. If you itemize your deductions and don’t claim 100% of your self-employed health insurance costs on Form 1040 or 1040-SR, include any remaining premiums with all other medical expenses on Schedule A (Form 1040) subject to the 7.5% limit.
+
+Child under age 27.
+
+If the insurance policy covers your nondependent child who was under age 27 at the end of 2025, you can claim the premiums for that coverage on Form 1040 or 1040-SR. If you can’t claim 100% of your self-employed health insurance costs on Form 1040 or 1040-SR, any excess amounts attributable to that child aren’t eligible to be claimed on Schedule A (Form 1040).
+
+Generally, family health insurance premiums don’t increase if coverage for an additional child is added. If this is the situation, no allocation would be necessary. If the premiums did increase (such as where coverage was expanded from single to family to add the nondependent child), you can allocate the amount on Form 1040 or 1040-SR to the nondependent child and any excess amounts not attributable to that child would be eligible to be claimed on Schedule A (Form 1040).
+
+Example 1.
+
+You were self-employed in 2025 and had self-only coverage for health insurance. Your premium for that coverage was $5,000 for the year. You change to family coverage only to add your 26-year-old nondependent child to the plan. Your health insurance premium increases to $10,000 for the year. After completing the Self-Employed Health Insurance Deduction Worksheet in the Instructions for Form 1040, you can only deduct $4,000 on Form 1040 or 1040-SR. The $4,000 is allocable to the nondependent child. You can only claim the $5,000 allocable to your coverage on Schedule A (Form 1040). The $1,000 excess premiums allocable to the nondependent child can’t be claimed by you.
+
+Example 2.
+
+The facts are the same as in Example 1 , except that you had family coverage when you added your 26-year-old nondependent child to the policy. There was no increase in the $10,000 premium. In this case, you could claim $4,000 on Form 1040 or 1040-SR and $6,000 on Schedule A (Form 1040).
+
+More information.
+
+For more information, see Instructions for Form 7206, Self-Employed Health Insurance Deduction.

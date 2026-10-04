@@ -1,0 +1,162 @@
+IRS Pub 970 (2025) | 9. Education Savings Bond Program
+
+9. Education Savings Bond Program
+
+What’s New
+
+Modified adjusted gross income (MAGI) limits. For 2025, the amount of your education savings bond interest exclusion is gradually reduced (phased out) if your MAGI is between $99,500 and $114,500 ($149,250 and $179,250 if you file a joint return). You can’t exclude any of the interest if your MAGI is $114,500 or more ($179,250 or more if you file a joint return).
+
+Introduction
+
+Generally, you must pay tax on the interest earned on U.S. savings bonds. If you don’t include the interest in income in the years it is earned, you must include it in your income in the year in which you cash in the bonds.
+
+However, when you cash in certain savings bonds under an education savings bond program, you may be able to exclude the interest from income.
+
+Who Can Cash in Bonds Tax Free?
+
+You may be able to cash in qualified U.S. savings bonds without having to include in your income some or all of the interest earned on the bonds if you meet all of the following conditions.
+
+-
+
+You pay qualified education expenses for yourself, your spouse, or a dependent.
+
+-
+
+Your MAGI is less than $114,500 ($179,250 if married filing jointly).
+
+-
+
+Your filing status isn’t married filing separately.
+
+Qualified U.S. savings bonds.
+
+A qualified U.S. savings bond is a series EE bond issued after 1989 or a series I bond. The bond must be issued either in your name (as the sole owner) or in the name of both you and your spouse (as co-owners).
+
+The owner must be at least 24 years old before the bond’s issue date. The issue date is printed in the upper-right corner of a paper bond and shown in TreasuryDirect for an electronic bond.
+
+Qualified education expenses.
+
+These include the following items you pay for either yourself, your spouse, or a dependent.
+
+-
+
+Tuition and fees required to enroll at or attend an eligible educational institution. Qualified education expenses don’t include expenses for room and board or for courses involving sports, games, or hobbies that aren’t part of a degree- or certificate-granting program.
+
+-
+
+Contributions to a qualified tuition program (QTP) (see How Much Can You Contribute? in chapter 7 ).
+
+-
+
+Contributions to a Coverdell education savings account (ESA) (see Contributions in chapter 6 ).
+
+Adjusted qualified education expenses (AQEE).
+
+You must reduce your qualified education expenses by all of the following tax-free benefits.
+
+-
+
+Tax-free part of scholarships and fellowship grants (see Tax-Free Scholarships and Fellowship Grants in chapter 1 ).
+
+-
+
+Expenses used to figure the tax-free portion of distributions from a Coverdell ESA (see Qualified Education Expenses in chapter 6 ).
+
+-
+
+Expenses used to figure the tax-free portion of distributions from a QTP (see Qualified Education Expenses in chapter 7 ).
+
+-
+
+Any tax-free payments (other than gifts or inheritances) received as educational assistance, such as:
+
+-
+
+Veterans’ educational assistance benefits (see Veterans' Benefits in chapter 1 ),
+
+-
+
+Qualified tuition reductions (see Qualified Tuition Reduction in chapter 1 ), or
+
+-
+
+Employer-provided educational assistance (see chapter 10 ).
+
+-
+
+Any expenses used in figuring the American opportunity and lifetime learning credits. See What Expenses Qualify? in chapter 2 (American opportunity credit) , and What Expenses Qualify? in chapter 3 (lifetime learning credit) , for more information.
+
+Eligible educational institution.
+
+An eligible educational institution is any college, university, vocational school, or other postsecondary educational institution eligible to participate in a student aid program administered by the U.S. Department of Education. Virtually all accredited public, non-profit, and proprietary (privately owned profit-making) postsecondary institutions meet this definition.
+
+An eligible educational institution also includes certain educational institutions located outside the United States that are eligible to participate in a student aid program administered by the U.S. Department of Education.
+
+. The educational institution should be able to tell you if it is an eligible educational institution. .
+
+Dependent.
+
+A person who qualifies as your dependent will be listed by name in the Dependents section of your Form 1040 or 1040-SR. See the Instructions for Form 1040.
+
+Modified adjusted gross income (MAGI).
+
+For most taxpayers, MAGI is adjusted gross income (AGI) as figured on their federal income tax return without taking into account this interest exclusion. However, as discussed below, there may be other modifications.
+
+Your MAGI is the AGI on line 11a of Form 1040 or 1040-SR figured without taking into account any savings bond interest exclusion and modified by adding back any:
+
+-
+
+Foreign earned income exclusion,
+
+-
+
+Foreign housing exclusion,
+
+-
+
+Foreign housing deduction,
+
+-
+
+Exclusion of income by bona fide residents of American Samoa,
+
+-
+
+Exclusion of income by bona fide residents of Puerto Rico,
+
+-
+
+Exclusion for adoption benefits received under an employer’s adoption assistance program, and
+
+-
+
+Deduction for student loan interest.
+
+Use the worksheet in the instructions for line 9 of Form 8815 to figure your MAGI. If you claim any of the exclusion or deduction items (1)–(6) listed above, add the amount of the exclusion or deduction to the amount on line 5 of the worksheet. Don’t add in the deduction for (7) student loan interest, because line 4 of the worksheet already includes this amount. Enter the total on Form 8815, line 9, as your MAGI.
+
+. Because the deduction for interest expenses attributable to royalties and other investments is limited to your net investment income, you can’t figure the deduction until you have figured this interest exclusion. Therefore, if you had interest expenses attributable to royalties and deductible on Schedule E (Form 1040), Supplemental Income and Loss, you must make a special computation of your deductible interest without regard to this exclusion to figure the net royalty income included in your MAGI. See Form 8815 and its instructions for more information. .
+
+Figuring the Tax-Free Amount
+
+If the total you receive when you cash in the bonds isn’t more than the AQEE for the year, all of the interest on the bonds may be tax free. However, if the total you receive when you cash in the bonds is more than the adjusted expenses, only part of the interest may be tax free.
+
+To determine the tax-free amount, multiply the interest part of the proceeds by a fraction. The numerator (top part) of the fraction is the AQEE you paid during the year. The denominator (bottom part) of the fraction is the total proceeds you received during the year.
+
+Example.
+
+In February 2025, a married couple cashed a qualified series EE U.S. savings bond. They received proceeds of $9,000, representing principal of $6,000 and interest of $3,000. In 2025, they paid $7,650 of their child’s college tuition. They aren’t claiming an American opportunity or lifetime learning credit for those expenses, and their child doesn’t have any tax-free educational assistance. Their MAGI for 2025 was $90,000.
+
+$3,000 interest | × | $7,650 AQEE | = | $2,550 tax-free interest
+$9,000 proceeds
+
+They can exclude $2,550 of interest in 2025. They must pay tax on the remaining $450 ($3,000 − $2,550) of interest.
+
+Effect of the Amount of Your Income on the Amount of Your Exclusion
+
+The amount of your interest exclusion is gradually reduced (phased out) if your MAGI is between $99,500 and $114,500 (between $149,250 and $179,250 if your filing status is married filing jointly). You can’t exclude any of the interest if your MAGI is equal to or more than the upper limit.
+
+The phaseout, if any, is figured for you when you fill out Form 8815.
+
+Claiming the Exclusion
+
+Use Form 8815 to figure your education savings bond interest exclusion. Enter your exclusion on line 3 of Schedule B (Form 1040), Interest and Ordinary Dividends. Attach Form 8815 to your tax return.

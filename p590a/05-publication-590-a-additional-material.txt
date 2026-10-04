@@ -1,0 +1,238 @@
+IRS Pub 590-A (2025) | Publication 590-A - Additional Material
+
+Publication 590-A - Additional Material
+
+Appendices
+
+To help you complete your tax return, use the following appendices that include worksheets and tables.
+
+-
+
+Appendix A —Summary Record of Traditional IRA(s) for 2025.
+
+-
+
+Appendix B —Worksheets you use if you receive social security benefits and are subject to the IRA deduction phaseout rules. A filled-in example is included.
+
+-
+
+Worksheet 1, Computation of Modified AGI.
+
+-
+
+Worksheet 2, Computation of Traditional IRA Deduction for 2025.
+
+-
+
+Worksheet 3, Computation of Taxable Social Security Benefits.
+
+-
+
+Comprehensive Example and completed worksheets.
+
+-
+
+Appendix C —Line 1 Worksheet.
+
+Appendix A. Summary Record of Traditional IRA(s) for 2025
+
+Name ______________________________________
+I was □ covered □ not covered by my employer's retirement plan during the year.
+I became age 59½ on ______________________________________(month) (day) (year)
+Contributions
+Name of traditional IRA | Date | Amount contributed for 2025 | Check if rollover contribution | Fair market value of IRA as of December 31, 2025, from Form 5498
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+Total
+Total contributions deducted on tax return | $
+Total contributions treated as nondeductible on Form 8606 | $
+Distributions
+Name of traditional IRA | Date | Amount of distribution | Reason (for example, retirement, rollover, conversion, withdrawal of excess contributions) | Income earned on IRA | Taxable amount reported on income tax return | Nontaxable amount from Form 8606, line 13
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+Total
+Basis of all traditional IRAs for 2025 and earlier years (from Form 8606, line 14) | $
+Note. You should keep copies of your income tax return, and Forms W-2, 8606, and 5498.
+
+Appendix B. Worksheets for Social Security Recipients Who Contribute to a Traditional IRA
+
+If you receive social security benefits, have taxable compensation, contribute to your traditional IRA, and you or your spouse is covered by an employer retirement plan, complete the following worksheets. (See Are You Covered by an Employer Plan? in chapter 1.) Use Worksheet 1 to figure your modified adjusted gross income. This amount is needed in the computation of your IRA deduction, if any, which is figured using Worksheet 2. The IRA deduction figured using Worksheet 2 is entered on your tax return.
+Worksheet 1
+Computation of Modified AGI
+(For use only by taxpayers who receive social security benefits)
+Filing Status— Check only one box: □ A. Married filing jointly □ B. Single, Head of household, Qualifying surviving spouse, or Married filing separately and lived apart from your spouse during the entire year □ C. Married filing separately and lived with your spouse at any time during the year
+1. | Adjusted gross income (AGI) from Form 1040 or 1040-SR. (For purposes of this worksheet, figure your AGI without taking into account any social security benefits from Form SSA-1099 or RRB-1099, any deduction for contributions to a traditional IRA, any student loan interest deduction, or any exclusion of interest from savings bonds to be reported on Form 8815. See the Line 1 Worksheet in Appendix C for assistance with this calculation.) | 1. | _____
+2. | Enter the amount in box 5 of all Forms SSA-1099 and RRB-1099 | 2.
+3. | Enter one-half of line 2 | 3. | _____
+4. | Enter the amount of any foreign earned income exclusion, foreign housing exclusion, U.S. territories income exclusion, exclusion of income from Puerto Rico you claimed as a bona fide resident of Puerto Rico, or exclusion of employer-provided adoption benefits | 4. | _____
+5. | Enter the amount of any tax-exempt interest reported on Form 1040 or 1040-SR, line 2a | 5. | _____
+6. | Add lines 1, 3, 4, and 5 | 6. | _____
+7. | Enter the amount listed below for your filing status. $32,000 if you checked box A above. $25,000 if you checked box B above. $0 if you checked box C above | 7.
+8. | Subtract line 7 from line 6. If zero or less, enter -0- on this line | 8.
+9. | If line 8 is zero, skip to line 17, enter -0-, and continue with line 18. If line 8 is more than zero, enter the amount listed below for your filing status. $12,000 if you checked box A above. $9,000 if you checked box B above. $0 if you checked box C above | 9.
+10. | Subtract line 9 from line 8. If zero or less, enter -0- | 10.
+11. | Enter the smaller of line 8 or line 9 | 11.
+12. | Enter one-half of line 11 | 12.
+13. | Enter the smaller of line 3 or line 12 | 13.
+14. | Multiply line 10 by 0.85. If line 10 is zero, enter -0- | 14.
+15. | Add lines 13 and 14 | 15.
+16. | Multiply line 2 by 0.85 | 16.
+17. | Taxable benefits to be included in modified AGI for traditional IRA deduction purposes. Enter the smaller of line 15 or line 16 | 17.
+18. | Enter the amount of any employer-provided adoption benefits exclusion and any foreign earned income exclusion and foreign housing exclusion or deduction that you claimed | 18.
+19. | Modified AGI for determining your reduced traditional IRA deduction—add lines 1, 17, and 18. Enter here and on line 2 of Worksheet 2 next | 19.
+
+Appendix B (continued)
+
+Worksheet 2
+Computation of Traditional IRA Deduction for 2025
+(For use only by taxpayers who receive social security benefits)
+IF your filing status is... | AND your modified AGI is over... | THEN enter on line 1 below...
+married filing jointly or qualifying surviving spouse |  | $126,000* |  |  | $146,000
+married filing jointly (you are not covered by an employer plan but your spouse is) |  | $236,000* |  |  | $246,000
+single, or head of household |  | $79,000* |  |  | $89,000
+married filing separately** |  | $0* |  |  | $10,000
+* If your modified AGI isn’t over this amount, you can take an IRA deduction for your contributions of up to the lesser of $7,000 ($8,000 if you are age 50 or older) or your taxable compensation. Skip this worksheet, proceed to Worksheet 3, and enter your IRA deduction on line 2 of Worksheet 3. ** If you didn’t live with your spouse at any time during the year, consider your filing status as single. Note. If you were married and you or your spouse worked and you both contributed to IRAs, figure the deduction for each of you separately.
+1. | Enter the applicable amount from above | 1. | _____
+2. | Enter your modified AGI from Worksheet 1, line 19 | 2. | _____
+Note. If line 2 is equal to or more than the amount on line 1, stop here ; your traditional IRA contributions aren’t deductible. Proceed to Worksheet 3.
+3. | Subtract line 2 from line 1 | 3. | _____
+4. | Multiply line 3 by the percentage below that applies to you. If the result isn’t a multiple of $10, round it to the next highest multiple of $10. (For example, $611.40 is rounded to $620.) However, if the result is less than $200, enter $200.
+Married filing jointly or qualifying surviving spouse and you are covered by an employer plan, multiply line 3 by 35% (0.35) (by 40% (0.40) if you are age 50 or older). All others, multiply line 3 by 70% (0.70) (by 80% (0.80) if you are age 50 or older). | Right brace | 4. | _____
+5. | Enter your compensation minus any deductions on Schedule 1 (Form 1040), line 15 (deductible part of self-employment tax), and Schedule 1 (Form 1040), line 16 (self-employed SEP, SIMPLE, and qualified plans). If you are the lower-income spouse, include your spouse's compensation reduced by their traditional IRA and Roth IRA contributions for this year | 5. | _____
+6. | Enter contributions you made, or plan to make, to your traditional IRA for 2025, but don’t enter more than $7,000 ($8,000 if you are age 50 or older). | 6. | _____
+7. | Deduction. Compare lines 4, 5, and 6. Enter the smallest amount here (or a smaller amount if you choose). Enter this amount on your Schedule 1 (Form 1040), line 20. (If the amount on line 6 is more than the amount on line 7, complete line 8.) | 7. | _____
+8. | Nondeductible contributions. Subtract line 7 from line 5 or line 6, whichever is smaller. Enter the result here and on line 1 of your Form 8606, Nondeductible IRAs | 8. | _____
+
+Appendix B (continued)
+
+Worksheet 3
+Computation of Taxable Social Security Benefits
+(For use by taxpayers who receive social security benefits and take a traditional IRA deduction)
+Filing Status— Check only one box:
+□ A. Married filing jointly
+□ B. Single, Head of household, Qualifying surviving spouse, or Married filing separately and lived apart from your spouse during the entire year
+□ C. Married filing separately and lived with your spouse at any time during the year
+1. | Adjusted gross income (AGI) from Form 1040 or 1040-SR. (For purposes of this worksheet, figure your AGI without taking into account any IRA deduction, any student loan interest deduction, or any social security benefits from Form SSA-1099 or RRB-1099, or any exclusion of interest from savings bonds to be reported on Form 8815. See the Line 1 Worksheet in Appendix C for assistance with this calculation.) | 1. | _____
+2. | Deduction(s) from line 7 of Worksheet(s) 2 | 2. | _____
+3. | Subtract line 2 from line 1 | 3. | _____
+4. | Enter the amount in box 5 of all Forms SSA-1099 and RRB-1099 | 4. | _____
+5. | Enter one-half of line 4 | 5. | _____
+6. | Enter the amount of any foreign earned income exclusion, foreign housing exclusion, exclusion of income from U.S. territories, exclusion of income from Puerto Rico you claimed as a bona fide resident of Puerto Rico, or exclusion of employer-provided adoption benefits | 6. | _____
+7. | Enter the amount of any tax-exempt interest reported on line 2a of Form 1040 or 1040-SR | 7. | _____
+8. | Add lines 3, 5, 6, and 7 | 8. | _____
+9. | Enter the amount listed below for your filing status. $32,000 if you checked box A above. $25,000 if you checked box B above. $0 if you checked box C above | 9. | _____
+10. | Subtract line 9 from line 8. If zero or less, enter -0- on this line | 10. | _____
+11. | If line 10 is zero, stop here. None of your social security benefits are taxable. If line 10 is more than zero, enter the amount listed below for your filing status. $12,000 if you checked box A above. $9,000 if you checked box B above. $0 if you checked box C above | 11. | _____
+12. | Subtract line 11 from line 10. If zero or less, enter -0- | 12. | _____
+13. | Enter the smaller of line 10 or line 11 | 13. | _____
+14. | Enter one-half of line 13 | 14. | _____
+15. | Enter the smaller of line 5 or line 14 | 15. | _____
+16. | Multiply line 12 by 0.85. If line 12 is zero, enter -0- | 16. | _____
+17. | Add lines 15 and 16 | 17. | _____
+18. | Multiply line 4 by 0.85 | 18. | _____
+19. | Taxable social security benefits. Enter the smaller of line 17 or line 18 | 19. | _____
+
+Appendix B (continued)
+
+Comprehensive Example
+Determining Your Traditional IRA Deduction and
+the Taxable Portion of Your Social Security Benefits
+You are married and file a joint return. You are 65 years old and had 2025 wages of $115,000. Your spouse didn’t work in 2025. You received social security benefits of $12,000 and made a $8,000 contribution to your traditional IRA for the year. You had no foreign income, no tax-exempt interest, and no adjustments to income on lines 11 through 26 on your Schedule 1 (Form 1040). You participated in a section 401(k) retirement plan at work. You complete Worksheets 1 and 2. Worksheet 2 shows that your 2025 IRA deduction is $7,200. You must either withdraw the contributions that are more than the deduction amount (the $880 shown on line 8 of Worksheet 2) or treat the excess amounts as nondeductible contributions (in which case you must complete Form 8606 and attach it to your Form 1040-SR). The completed worksheets that follow show how you figured your modified AGI to determine the IRA deduction and the taxable social security benefits to report on your Form 1040-SR.
+Worksheet 1
+Computation of Modified AGI
+(For use only by taxpayers who receive social security benefits)
+Filing Status— Check only one box: ☑ A. Married filing jointly □ B. Single, Head of household, Qualifying surviving spouse, or Married filing separately and lived apart from your spouse during the entire year □ C. Married filing separately and lived with your spouse at any time during the year
+1. | Adjusted gross income (AGI) from Form 1040 or 1040-SR. (For purposes of this worksheet, figure your AGI without taking into account any social security benefits from Form SSA-1099 or RRB-1099, any deduction for contributions to a traditional IRA, any student loan interest deduction, or any exclusion of interest from savings bonds to be reported on Form 8815. See the Line 1 Worksheet in Appendix C for assistance with this calculation.) | 1. | 118,000
+2. | Enter the amount in box 5 of all Forms SSA-1099 and RRB-1099 | 2. | 12,000
+3. | Enter one-half of line 2 | 3. | 6,000
+4. | Enter the amount of any foreign earned income exclusion, foreign housing exclusion, U.S. territories income exclusion, exclusion of income from Puerto Rico you claimed as a bona fide resident of Puerto Rico, or exclusion of employer-provided adoption benefits | 4. | 0
+5. | Enter the amount of any tax-exempt interest reported on Form 1040 or 1040-SR, line 2a | 5. | 0
+6. | Add lines 1, 3, 4, and 5 | 6. | 124,000
+7. | Enter the amount listed below for your filing status. $32,000 if you checked box A above. $25,000 if you checked box B above. $0 if you checked box C above | 7. | 32,000
+8. | Subtract line 7 from line 6. If zero or less, enter -0- on this line | 8. | 92,000
+9. | If line 8 is zero, skip to line 17, enter -0-, and continue with line 18. If line 8 is more than zero, enter the amount listed below for your filing status. $12,000 if you checked box A above. $9,000 if you checked box B above. $0 if you checked box C above | 9. | 12,000
+10. | Subtract line 9 from line 8. If zero or less, enter -0- | 10. | 80,000
+11. | Enter the smaller of line 8 or line 9 | 11. | 12,000
+12. | Enter one-half of line 11 | 12. | 6,000
+13. | Enter the smaller of line 3 or line 12 | 13. | 6,000
+14. | Multiply line 10 by 0.85. If line 10 is zero, enter -0- | 14. | 68,000
+15. | Add lines 13 and 14 | 15. | 74,000
+16. | Multiply line 2 by 0.85 | 16. | 10,200
+17. | Taxable benefits to be included in modified AGI for traditional IRA deduction purposes. Enter the smaller of line 15 or line 16 | 17. | 10,200
+18. | Enter the amount of any employer-provided adoption benefits exclusion and any foreign earned income exclusion and foreign housing exclusion or deduction that you claimed | 18. | 0
+19. | Modified AGI for determining your reduced traditional IRA deduction—add lines 1, 17, and 18. Enter here and on line 2 of Worksheet 2 next | 19. | 128,200
+
+Appendix B (continued)
+
+Worksheet 2
+Computation of Traditional IRA Deduction for 2025
+(For use only by taxpayers who receive social security benefits)
+IF your filing status is... | AND your modified AGI is over... | THEN enter on line 1 below...
+married filing jointly or qualifying surviving spouse |  | $126,000* |  |  | $146,000
+married filing jointly (you aren’t covered by an employer plan but your spouse is) |  | $236,000* |  |  | $246,000
+single, or head of household |  | $79,000* |  |  | $89,000
+married filing separately** |  | $0* |  |  | $10,000
+* If your modified AGI isn’t over this amount, you can take an IRA deduction for your contributions of up to the lesser of $7,000 ($8,000 if you are age 50 or older) or your taxable compensation. Skip this worksheet, proceed to Worksheet 3, and enter your IRA deduction on line 2 of Worksheet 3. ** If you didn’t live with your spouse at any time during the year, consider your filing status as single. Note. If you were married and you or your spouse worked and you both contributed to IRAs, figure the deduction for each of you separately.
+1. | Enter the applicable amount from above | 1. | 146,000
+2. | Enter your modified AGI from Appendix B, Worksheet 1, line 19 | 2. | 128,200
+Note. If line 2 is equal to or more than the amount on line 1, stop here ; your traditional IRA contributions aren’t deductible. Proceed to Worksheet 3.
+3. | Subtract line 2 from line 1 | 3. | 17,800
+4. | Multiply line 3 by the percentage below that applies to you. If the result isn’t a multiple of $10, round it to the next highest multiple of $10. (For example, $611.40 is rounded to $620.) However, if the result is less than $200, enter $200.
+Married filing jointly or qualifying surviving spouse and you are covered by an employer plan, multiply line 3 by 35% (0.35) (by 40% (0.40) if you are age 50 or older). All others, multiply line 3 by 70% (0.70) (by 80% (0.80) if you are age 50 or older). | Right brace | 4. | 7,120
+5. | Enter your compensation minus any deductions on Schedule 1 (Form 1040), line 15 (deductible part of self-employment tax), and Schedule 1 (Form 1040), line 16 (self-employed SEP, SIMPLE, and qualified plans). If you are the lower-income spouse, include your spouse's compensation reduced by their traditional IRA and Roth IRA contributions for this year | 5. | 118,000
+6. | Enter contributions you made, or plan to make, to your traditional IRA for 2025, but don’t enter more than $7,000 ($8,000 if you are age 50 or older). | 6. | 8,000
+7. | Deduction. Compare lines 4, 5, and 6. Enter the smallest amount here (or a smaller amount if you choose). Enter this amount on your Schedule 1 (Form 1040), line 20. (If the amount on line 6 is more than the amount on line 7, complete line 8.) | 7. | 7,120
+8. | Nondeductible contributions. Subtract line 7 from line 5 or line 6, whichever is smaller. Enter the result here and on line 1 of your Form 8606, Nondeductible IRAs | 8. | 880
+
+Appendix B (continued)
+
+Worksheet 3
+Computation of Taxable Social Security Benefits
+(For use by taxpayers who receive social security benefits and take a traditional IRA deduction)
+Filing Status— Check only one box:
+☑ A. Married filing jointly
+□ B. Single, Head of household, Qualifying surviving spouse, or Married filing separately and lived apart from your spouse during the entire year
+□ C. Married filing separately and lived with your spouse at any time during the year
+1. | Adjusted gross income (AGI) from Form 1040 or 1040-SR. (For purposes of this worksheet, figure your AGI without taking into account any IRA deduction, any student loan interest deduction, any social security benefits from Form SSA-1099 or RRB-1099, or any exclusion of interest from savings bonds to be reported on Form 8815. See the Line 1 Worksheet in Appendix C for assistance with this calculation.) | 1. | 128,200
+2. | Deduction(s) from line 7 of Worksheet(s) 2 in Appendix B | 2. | 7,120
+3. | Subtract line 2 from line 1 | 3. | 121,080
+4. | Enter the amount in box 5 of all Forms SSA-1099 and RRB-1099 | 4. | 12,000
+5. | Enter one-half of line 4 | 5. | 6,000
+6. | Enter the amount of any foreign earned income exclusion, foreign housing exclusion, exclusion of income from U.S. territories, exclusion of income from Puerto Rico you claimed as a bona fide resident of Puerto Rico, or exclusion of employer-provided adoption benefits | 6. | 0
+7. | Enter the amount of any tax-exempt interest reported on Form 1040 or 1040-SR, line 2a | 7. | 0
+8. | Add lines 3, 5, 6, and 7 | 8. | 127,080
+9. | Enter the amount listed below for your filing status. $32,000 if you checked box A above. $25,000 if you checked box B above. $0 if you checked box C above | 9. | 32,000
+10. | Subtract line 9 from line 8. If zero or less, enter -0- on this line | 10. | 95,080
+11. | If line 10 is zero, stop here. None of your social security benefits are taxable. If line 10 is more than zero, enter the amount listed below for your filing status. $12,000 if you checked box A above. $9,000 if you checked box B above. $0 if you checked box C above | 11. | 12,000
+12. | Subtract line 11 from line 10. If zero or less, enter -0- | 12. | 83,080
+13. | Enter the smaller of line 10 or line 11 | 13. | 12,000
+14. | Enter one-half of line 13 | 14. | 6,000
+15. | Enter the smaller of line 5 or line 14 | 15. | 6,000
+16. | Multiply line 12 by 0.85. If line 12 is zero, enter -0- | 16. | 70,618
+17. | Add lines 15 and 16 | 17. | 76,618
+18. | Multiply line 4 by 0.85 | 18. | 10,200
+19. | Taxable social security benefits. Enter the smaller of line 17 or line 18 | 19. | 10,200
+
+Appendix C. Line 1 Worksheet
+
+Line 1 Supplemental Worksheet
+1. | Enter your adjusted gross income (AGI) from Form 1040 or 1040-SR, line 11a | 1. | _____
+2. | Enter any social security benefits included in AGI from Form 1040 or 1040-SR, line 6b | 2. | _____
+3. | Enter your IRA deduction amount from Schedule 1 (Form 1040), line 20 | 3. | _____
+4. | Enter your student loan interest deduction from Schedule 1 (Form 1040), line 21 | 4. | _____
+5 | Enter the amount of savings bond interest reported on Form 8815, line14 | 5. | _____
+6. | Add the amounts on lines 2 through 6 | 6. | _____
+7. | Subtract the amount on line 6 from line 1 | 7. | _____
+8. | Enter this amount on line 1 of Worksheets 1 and 3 | 8. | _____

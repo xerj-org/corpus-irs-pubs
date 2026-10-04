@@ -1,0 +1,789 @@
+IRS Pub 970 (2025) | 2. American Opportunity Credit
+
+2. American Opportunity Credit
+
+Reminders
+
+Educational institution’s EIN required. To claim the American opportunity credit, you must provide the educational institution’s employer identification number (EIN) on your Form 8863. You should be able to obtain this information from Form 1098-T or the educational institution.
+
+Form 8862 may be required. If your American opportunity credit was denied or reduced for any reason other than a math or clerical error for any tax year beginning after 2015, you must attach a completed Form 8862, Information To Claim Certain Credits After Disallowance, to your tax return for the next year for which you claim the credit. See Form 8862 and its instructions for details.
+
+Form 1098-T requirement. To be eligible to claim the American opportunity credit, the law requires a taxpayer (or a dependent) to have received Form 1098-T, Tuition Statement, from an eligible educational institution, whether domestic or foreign. However, you may claim the credit if the student doesn’t receive a Form 1098-T because the student’s educational institution isn’t required to furnish a Form 1098-T to the student under existing rules (for example, if the student is a qualified nonresident alien, has qualified education expenses paid entirely with scholarships, has qualified education expenses paid under a formal billing arrangement, or is enrolled in courses for which no academic credit is awarded). If a student’s educational institution isn’t required to provide a Form 1098-T to the student, you may claim the credit without a Form 1098-T if you otherwise qualify, can demonstrate that you (or a dependent) were enrolled at an eligible educational institution, and can substantiate the payment of qualified tuition and related expenses.You may also claim a credit if the student attended an eligible educational institution required to furnish Form 1098-T but the student doesn’t receive Form 1098-T before you file your tax return (for example, if the institution is otherwise required to furnish the Form 1098-T and doesn’t furnish it or refuses to do so) and you take the following required steps: After February 2, 2026 (January 31 falls on a Saturday), but before you file your 2025 tax return, you or the student must request that the educational institution furnish a Form 1098-T. You must fully cooperate with the educational institution’s efforts to gather the information needed to furnish the Form 1098-T. You must also otherwise qualify for the benefit, be able to demonstrate that you (or a dependent) were enrolled at an eligible educational institution, and substantiate the payment of qualified tuition and related expenses.
+
+Ban on claiming the American opportunity credit. If you claim the American opportunity credit even though you’re not eligible, you may be banned from claiming the credit for 2 or 10 years depending on your conduct. See Caution under Introduction below.
+
+Taxpayer identification number (TIN) needed by due date of return. If you haven’t been issued a TIN by the due date of your 2025 return (including extensions), you can’t claim the American opportunity credit on either your original or an amended 2025 return. Also, the American opportunity credit isn’t allowed on either your original or an amended 2025 return for a student who hasn’t been issued a TIN by the due date of your return (including extensions).
+
+Introduction
+
+For 2025, there are two tax credits available to help you offset the costs of higher education by reducing the amount of your income tax. They are the American opportunity credit (this chapter) and the lifetime learning credit ( chapter 3 ).
+
+This chapter explains:
+
+-
+
+Who can claim the American opportunity credit,
+
+-
+
+What expenses qualify for the credit,
+
+-
+
+Who is an eligible student,
+
+-
+
+Who can claim a dependent’s expenses,
+
+-
+
+How to figure the credit,
+
+-
+
+How to claim the credit, and
+
+-
+
+When the credit must be repaid.
+
+What is the tax benefit of the American opportunity credit?
+
+For 2025, you may be able to claim a credit of up to $2,500 for adjusted qualified education expenses paid for each student who qualifies for the American opportunity credit.
+
+A tax credit reduces the amount of income tax you may have to pay. Unlike a deduction, which reduces the amount of income subject to tax, a credit directly reduces the tax itself. Forty percent of the American opportunity credit may be refundable. This means that if the refundable portion of your credit is more than your tax, the excess will be refunded to you.
+
+Your allowable American opportunity credit may be limited by the amount of your income. Also, the nonrefundable part of the credit may be limited by the amount of your tax.
+
+Overview of the American opportunity credit for 2025.
+
+See Table 2-1 for the basics of this credit. The details are discussed in this chapter.
+
+Can you claim more than one education credit this year?
+
+For each student, you can elect for any year only one of the credits. For example, if you elect to claim the American opportunity credit for a dependent on your 2025 tax return, you can’t use that same dependent’s qualified education expenses to figure the lifetime learning credit for 2025.
+
+If you pay qualified education expenses for more than one student in the same year, you can choose to claim the American opportunity credit on a per-student, per-year basis. If you pay qualified education expenses for a student (or students) for whom you don’t claim the American opportunity credit, you can use the adjusted qualified education expenses of that student (or those students) in figuring your lifetime learning credit. This means that, for example, you can claim the American opportunity credit for one student and the lifetime learning credit for another student in the same year.
+
+Differences between the American opportunity and lifetime learning credits.
+
+There are several differences between these two credits. For example, you can claim the American opportunity credit based on the same student’s expenses for no more than 4 tax years. However, there is no limit on the number of years for which you can claim a lifetime learning credit based on the same student’s expenses. The differences between these credits are shown in the Appendix near the end of this publication.
+
+. If you claim the American opportunity credit for any student, you can choose between using that student’s adjusted qualified education expenses for the American opportunity credit or the lifetime learning credit. If you have the choice, the American opportunity credit will always be greater than the lifetime learning credit. .
+
+Form 8862 may be required.
+
+If your American opportunity credit was denied or reduced for any reason other than a math or clerical error for any tax year beginning after 2015, you must attach a completed Form 8862 to your tax return for the next tax year for which you claim the credit. See Form 8862 and its instructions for details.
+
+. Don’t claim the American opportunity credit for 2 years after there was a final determination that your claim was due to reckless or intentional disregard of the rules, or 10 years after there was a final determination that your claim was due to fraud. If you disagree with the final determination, see the Instructions for Form 8862. .
+
+Table 2-1. Overview of the American Opportunity Credit for 2025
+
+Maximum credit | Up to $2,500 credit per eligible student
+Limit on modified adjusted gross income (MAGI) | $180,000 if married filing jointly; $90,000 if single, head of household, or qualifying surviving spouse
+Refundable or nonrefundable | 40% of credit may be refundable; the rest is nonrefundable
+Number of years of postsecondary education | Available ONLY if the student had not completed the first 4 years of postsecondary education before 2025 (generally, the freshman through senior years, determined by the eligible educational institution, not including academic credit awarded solely because of the student’s performance on proficiency examinations)
+Number of tax years credit available | Available ONLY for 4 tax years per eligible student
+Type of program required | Student must be pursuing a program leading to a degree or other recognized education credential
+Number of courses | Student must be enrolled at least half-time for at least one academic period that begins during 2025 (or the first 3 months of 2026 if the qualified expenses were paid in 2025)
+Felony drug conviction | As of the end of 2025, the student had not been convicted of a felony for possessing or distributing a controlled substance
+Qualified expenses | Tuition, required enrollment fees, and course materials that the student needs for a course of study whether or not the materials are bought at the educational institution as a condition of enrollment or attendance
+Payments for academic periods | Payments made in 2025 for academic periods beginning in 2025 or beginning in the first 3 months of 2026
+TIN needed by filing due date | Filers and students must have been issued a TIN by the due date of their 2025 return (including extensions)
+Educational institution’s EIN | You must provide the educational institution’s employer identification number (EIN) on your Form 8863
+
+Can You Claim the Credit?
+
+The following rules will help you determine if you are eligible to claim the American opportunity credit on your tax return.
+
+Who Can Claim the Credit?
+
+Generally, you can claim the American opportunity credit if all three of the following requirements are met.
+
+-
+
+You pay qualified education expenses of higher education.
+
+-
+
+You pay the education expenses for an eligible student.
+
+-
+
+The eligible student is either yourself, your spouse, or a dependent you claim on your tax return.
+
+Note:
+
+Qualified education expenses paid by a dependent you claim on your tax return, or by a third party for that dependent, are considered paid by you.
+
+Student qualifications.
+
+Generally, you can claim the American opportunity credit for a student only if all of the following four requirements are met.
+
+-
+
+As of the beginning of 2025, the student had not completed the first 4 years of postsecondary education (generally, the freshman through senior years of college), as determined by the eligible educational institution. For this purpose, don’t include academic credit awarded solely because of the student’s performance on proficiency examinations.
+
+-
+
+The American opportunity credit has not been claimed by you or anyone else (see below) for this student for any 4 tax years before 2025. If the American opportunity credit has been claimed for this student for any 3 or fewer tax years before 2025, this requirement is met.
+
+-
+
+For at least one academic period beginning (or treated as beginning) in 2025, the student both:
+
+-
+
+Was enrolled in a program that leads to a degree, certificate, or other recognized educational credential; and
+
+-
+
+Carried at least one-half the normal full-time workload for his or her course of study.
+
+The standard for what is half of the normal full-time workload is determined by each eligible educational institution. However, the standard may not be lower than any of those established by the U.S. Department of Education under the Higher Education Act of 1965.
+
+For 2025, treat an academic period beginning in the first 3 months of 2026 as if it began in 2025 if qualified education expenses for the student were paid in 2025 for that academic period. See Prepaid expenses , later.
+
+-
+
+As of the end of 2025, the student had not been convicted of a federal or state felony for possessing or distributing a controlled substance.
+
+Example 1.
+
+Sharon was eligible for the American opportunity credit for 2019, 2020, 2022, and 2024. Sharon’s parents claimed the American opportunity credit for Sharon on their 2019, 2020, and 2022 tax returns. Sharon claimed the American opportunity credit on her 2024 tax return. The American opportunity credit has been claimed for Sharon for 4 tax years before 2025. Therefore, the American opportunity credit can’t be claimed for Sharon for 2025. If Sharon files Form 8863 for 2025, the box on line 23 should be checked “Yes” and only the lifetime learning credit would be able to be claimed.
+
+Example 2.
+
+Wilbert was eligible for the American opportunity credit for 2021, 2022, 2023, and 2025. Wilbert’s parents claimed the American opportunity credit for Wilbert on their tax returns for 2021, 2022, and 2023. No one claimed an American opportunity credit for Wilbert for any other tax year. The American opportunity credit has been claimed for Wilbert for only 3 tax years before 2025. Therefore, Wilbert meets the second requirement to be eligible for the American opportunity credit. If Wilbert files Form 8863 for 2025, the box on line 23 should be checked “No.” If Wilbert meets all of the other requirements, he is eligible for the American opportunity credit.
+
+Example 3.
+
+Glenda enrolls on a full-time basis in a degree program for the 2026 spring semester, which begins in January 2026. Glenda pays the tuition for the 2026 spring semester in December 2025. Because the tuition Glenda paid in 2025 relates to an academic period that begins in the first 3 months of 2026, the eligibility to claim an American opportunity credit in 2025 is determined as if the 2026 spring semester began in 2025. Therefore, Glenda satisfies this third requirement.
+
+. If the requirements above aren’t met for any student, you can’t claim the American opportunity credit for that student. You may be able to claim the lifetime learning credit for part or all of that student’s qualified education expenses instead. .
+
+“Qualified education expenses” are defined later under Qualified Education Expenses . “Eligible students” are defined later under Who Is an Eligible Student . A dependent you claim on your tax return is defined later under Who Can Claim a Dependent’s Expenses .
+
+You may find Figure 2-1 helpful in determining if you can claim an American opportunity credit on your tax return.
+
+Figure 2-1. Can You Claim the American Opportunity Credit for 2025?
+
+Figure 2-1
+
+Figure 2-1. Can You Claim the American Opportunity Credit for 2025?
+
+Figure 2-1. Can You Claim the American Opportunity Credit for 2025?
+
+Summary: This flowchart is used to determine if you qualify to claim the American opportunity Credit for 2025.
+
+Start
+
+This is the start of the flowchart.
+
+Decision (1)
+
+Did you pay qualified education expenses in 2025 for an eligible student?*
+
+IF YES continue to Decision (2)
+IF NO continue to Process (a)
+For note, continue to Footnote 1.
+
+Decision (2)
+
+Did the academic period for which you paid qualified education expenses begin in 2025 or the first 3 months of 2025?
+
+IF YES continue to Decision (3)
+IF NO continue to Process (a)
+
+Decision (3)
+
+Is the eligible student you, your spouse (if married filing jointly), or your dependent you claim on your tax return?
+
+IF YES continue to Decision (4)
+IF NO continue to Process (a)
+
+Decision (4)
+
+Are you listed as a dependent on another person’s tax return?
+
+IF YES continue to Process (a)
+IF NO continue to Decision (5)
+
+Decision (5)
+
+Is your filing status married filing separately?
+
+IF YES continue to Process (a)
+IF NO continue to Decision (6)
+
+Decision (6)
+
+For any part of 2025, were you (or your spouse) a nonresident alien who didn’t elect to be treated as a resident alien for tax purposes?
+
+IF YES continue to Process (a)
+IF NO continue to Decision (7)
+
+Decision (7)
+
+Is your modified adjusted gross income (MAGI) less than $90,000 ($180,000 if married filing jointly)?
+
+IF YES continue to Decision (8)
+IF NO continue to Process (a)
+
+Decision (8)
+
+Did you use the same expenses to claim a deduction or credit?
+
+IF YES continue to Process (a)
+IF NO continue to Decision (9)
+
+Decision (9)
+
+Were the same expenses paid entirely with a tax-free scholarship, grant, or employer-provided educational assistance?
+
+IF YES continue to Process (a)
+IF NO continue to Decision (10)
+
+Decision (10)
+
+Did you or someone else receive a refund of all the expenses?
+
+IF YES continue to Process (a)
+IF NO continue to Process (b)
+
+Process (a)
+
+You can’t claim the American opportunity credit for 2025
+
+Continue to End
+
+Process (b)
+
+You can claim the American opportunity credit for 2025.**
+
+For note, continue to Footnote 2.
+Continue to End
+Footnote 1: Qualified education expenses paid by a dependent you claim on your tax return, or by a third party for that dependent, are considered paid by you.
+Footnote 2: Your education credits may be limited to your tax liability minus certain credits. See Form 8863 for more details.
+
+End
+
+This is the end of the flowchart.
+
+Please click here for the text description of the image.
+
+Who Can’t Claim the Credit?
+
+You can’t claim the American opportunity credit for 2025 if any of the following apply.
+
+What Expenses Qualify?
+
+The American opportunity credit is based on adjusted qualified education expenses you pay for yourself, your spouse, or a dependent you claim on your tax return. Generally, the credit is allowed for adjusted qualified education expenses paid in 2025 for an academic period beginning in 2025 or beginning in the first 3 months of 2026.
+
+For example, if you paid $1,500 in December 2025 for qualified tuition for the spring 2026 semester beginning January 2026, you can use that $1,500 in figuring your 2025 credit.
+
+Academic period.
+
+An academic period includes a semester, trimester, quarter, or other period of study (such as a summer school session) as reasonably determined by an educational institution. If an educational institution uses credit hours or clock hours and doesn’t have academic terms, each payment period can be treated as an academic period.
+
+Paid with borrowed funds.
+
+You can claim an American opportunity credit for qualified education expenses paid with the proceeds of a loan. Use the expenses to figure the American opportunity credit for the year in which the expenses are paid, not the year in which the loan is repaid. Treat loan payments sent directly to the educational institution as paid on the date the institution credits the student’s account.
+
+Student withdraws from class(es).
+
+You can claim an American opportunity credit for qualified education expenses not refunded when a student withdraws.
+
+Qualified Education Expenses
+
+For purposes of the American opportunity credit, qualified education expenses are tuition and certain related expenses required for enrollment or attendance at an eligible educational institution.
+
+Eligible educational institution.
+
+An eligible educational institution is any college, university, vocational school, or other postsecondary educational institution eligible to participate in a student aid program administered by the U.S. Department of Education. Virtually all accredited public, nonprofit, and proprietary (privately owned profit-making) postsecondary institutions meet this definition.
+
+An eligible educational institution also includes certain educational institutions located outside the United States that are eligible to participate in a student aid program administered by the U.S. Department of Education.
+
+. The educational institution should be able to tell you if it is an eligible educational institution. .
+
+Related expenses.
+
+Student activity fees are included in qualified education expenses only if the fees must be paid to the institution as a condition of enrollment or attendance.
+
+However, expenses for books, supplies, and equipment needed for a course of study are included in qualified education expenses whether or not the materials are purchased from the educational institution.
+
+Prepaid expenses.
+
+Qualified education expenses paid in 2025 for an academic period that begins in the first 3 months of 2026 can be used in figuring an education credit for 2025 only. See Academic period , earlier. For example, if you pay $2,000 in December 2025 for qualified tuition for the 2026 winter quarter that begins in January 2026, you can use that $2,000 in figuring an education credit for 2025 only (if you meet all the other requirements).
+
+. You can’t use any amount you paid in 2024 or 2026 to figure the qualified education expenses you use to figure your 2025 education credit(s). .
+
+In the following examples, assume that each student is an eligible student at an eligible educational institution.
+
+Example 1.
+
+Jefferson is a sophomore in University V’s degree program in dentistry. This year, in addition to tuition, there is a requirement to pay a fee to the university for the rental of the dental equipment used in this program. Because the equipment rental is needed for this course of study, Jefferson’s equipment rental fee is a qualified expense.
+
+Example 2.
+
+Grace and William, both first-year students at College W, are required to have certain books and other reading materials to use in their mandatory first-year classes. The college has no policy about how students should obtain these materials, but any student who purchases them from College W’s bookstore will receive a bill directly from the college. William bought the books from a friend; Grace bought the books at College W’s bookstore. Both are qualified education expenses for the American opportunity credit.
+
+Example 3.
+
+When Kelly enrolled at College X for the freshman year, the school required payment of a separate student activity fee in addition to the tuition. This activity fee is required of all students, and is used solely to fund on-campus organizations and activities run by students, such as the student newspaper and the student government. No portion of the fee covers personal expenses. Although labeled as a student activity fee, the fee is required for Kelly’s enrollment and attendance at College X and is a qualified expense.
+
+No Double Benefit Allowed
+
+You can’t do any of the following.
+
+Adjustments to Qualified Education Expenses
+
+For each student, reduce the qualified education expenses paid by or on behalf of that student under the following rules. The result is the amount of adjusted qualified education expenses for each student.
+
+Tax-free educational assistance.
+
+For tax-free educational assistance received in 2025, reduce the qualified educational expenses for each academic period by the amount of tax-free educational assistance allocable to that academic period. See Academic period , earlier.
+
+Some tax-free educational assistance received after 2025 may be treated as a refund of qualified education expenses paid in 2025. This tax-free educational assistance is any tax-free educational assistance received by you or anyone else after 2025 for qualified education expenses paid on behalf of a student in 2025 (or attributable to enrollment at an eligible educational institution during 2025).
+
+If this tax-free educational assistance is received after 2025 but before you file your 2025 income tax return, see Refunds received after 2025 but before your income tax return is filed , later. If this tax-free educational assistance is received after 2025 and after you file your 2025 income tax return, see Refunds received after 2025 and after your income tax return is filed , later.
+
+Tax-free educational assistance includes:
+
+Generally, any scholarship or fellowship grant is treated as tax free. However, a scholarship or fellowship grant isn’t treated as tax free to the extent the student includes it in gross income (the student may or may not be required to file a tax return for the year the scholarship or fellowship grant is received) and either of the following is true.
+
+. A student can’t choose to include in income a scholarship or fellowship grant provided by an Indian tribal government that is excluded from income under the Tribal General Welfare Exclusion Act of 2014 or benefits provided by an educational program described in Revenue Procedure 2014-35, section 5.02(2)(b)(ii), available at
+
+IRS.gov/irb/2014-26_IRB#RP-2014-35 . .
+
+. You may be able to increase the combined value of an education credit if the student includes some or all of a scholarship or fellowship grant in income in the year it is received. For examples, see Coordination with Pell grants and other scholarships , later. .
+
+Refunds.
+
+A refund of qualified education expenses may reduce adjusted qualified education expenses for the tax year or require repayment (recapture) of a credit claimed in an earlier year. Some tax-free educational assistance received after 2025 may be treated as a refund. See Tax-free educational assistance , earlier.
+
+Refunds received in 2025.
+
+For each student, figure the adjusted qualified education expenses for 2025 by adding all the qualified education expenses for 2025 and subtracting any refunds of those expenses received from the eligible educational institution during 2025.
+
+Refunds received after 2025 but before your income tax return is filed.
+
+If anyone receives a refund after 2025 of qualified education expenses paid on behalf of a student in 2025 and the refund is paid before you file an income tax return for 2025, the amount of qualified education expenses for 2025 is reduced by the amount of the refund.
+
+Refunds received after 2025 and after your income tax return is filed.
+
+If anyone receives a refund after 2025 of qualified education expenses paid on behalf of a student in 2025 and the refund is paid after you file an income tax return for 2025, you may need to repay some or all of the credit. See Credit recapture next.
+
+Credit recapture.
+
+If any tax-free educational assistance for the qualified education expenses paid in 2025, or any refund of your qualified education expenses paid in 2025, is received after you file your 2025 income tax return, you must recapture (repay) any excess credit. You do this by refiguring the amount of your adjusted qualified education expenses for 2025 by reducing the expenses by the amount of the refund or tax-free educational assistance. You then refigure your education credit(s) for 2025 and figure the amount by which your 2025 tax liability would have increased if you claimed the refigured credit(s). Include that amount as an additional tax for the year the refund or tax-free assistance was received.
+
+Example.
+
+You paid $7,000 tuition and fees in August 2025, and your child began college in September 2025. You filed your 2025 tax return on February 17, 2026, and claimed an American opportunity credit of $2,500. After you filed your return, you received a refund of $4,000. You must refigure your 2025 American opportunity credit using $3,000 of qualified education expenses instead of $7,000. The refigured credit is $2,250. The increase to your tax liability is $250. Include the difference of $250 as additional tax on your 2026 tax return. See the instructions for your 2026 income tax return to determine where to include this tax.
+
+. If you pay qualified education expenses in both 2025 and 2026 for an academic period that begins in the first 3 months of 2026 and you receive tax-free educational assistance, or a refund, as described above, you may choose to reduce your qualified education expenses for 2026 instead of reducing your expenses for 2025. .
+
+Amounts that don’t reduce qualified education expenses.
+
+Don’t reduce qualified education expenses by amounts paid with funds the student receives as:
+
+-
+
+Payment for services, such as wages;
+
+-
+
+A loan;
+
+-
+
+A gift;
+
+-
+
+An inheritance; or
+
+-
+
+A withdrawal from the student’s personal savings.
+
+Don’t reduce the qualified education expenses by any scholarship or fellowship grant reported as income on the student’s tax return in the following situations.
+
+Example 1.
+
+Joan paid $3,000 for tuition and $5,000 for room and board at University X. The university did not require payment of any fees in addition to the tuition in order to enroll in or attend classes. To help pay these costs, Joan was awarded a $2,000 scholarship and a $4,000 student loan. The terms of the scholarship state that it can be used to pay any of Joan’s college expenses.
+
+University X applies the $2,000 scholarship against Joan’s $8,000 total bill, and Joan pays the $6,000 balance of the bill from University X with a combination of the student loan and personal savings. Joan doesn’t report any portion of the scholarship as income on the tax return.
+
+In figuring the amount of either education credit (American opportunity or lifetime learning), Joan must reduce the qualified education expenses by the amount of the scholarship ($2,000) because the entire scholarship was excluded from the reported income on Joan’s tax return. The student loan isn’t tax-free educational assistance, so the qualified expenses don’t need to be reduced by any part of the loan proceeds. Joan is treated as having paid $1,000 in qualified education expenses ($3,000 tuition − $2,000 scholarship).
+
+Example 2.
+
+The facts are the same as in Example 1 , except that Joan reports the entire scholarship as income on the tax return. Because Joan reported the entire $2,000 scholarship as income, the qualified education expenses don’t need to be reduced. Joan is treated as having paid $3,000 in qualified education expenses.
+
+Coordination with Pell grants and other scholarships.
+
+You may be able to increase your American opportunity credit when the student (you, your spouse, or your dependent) includes certain scholarships or fellowship grants in the student’s gross income. Your credit may increase only if the amount of the student’s qualified education expenses minus the total amount of scholarships and fellowship grants is less than $4,000. If this situation applies, consider including some or all of the scholarship or fellowship grant in the student’s income in order to treat the included amount as paying nonqualified expenses instead of qualified education expenses. Nonqualified expenses are expenses such as room and board that aren’t qualified education expenses such as tuition and related fees.
+
+Scholarships and fellowship grants that the student includes in income don’t reduce the student’s qualified education expenses available to figure your American opportunity credit. Thus, including enough scholarship or fellowship grant in the student’s income to report up to $4,000 in qualified education expenses for your American opportunity credit may increase the credit by enough to increase your tax refund or reduce the amount of tax you owe even considering any increased tax liability from the additional income. However, the increase in tax liability as well as the loss of other tax credits may be greater than the additional American opportunity credit and may cause your tax refund to decrease or the amount of tax you owe to increase. Your specific circumstances will determine what amount, if any, of scholarship or fellowship grant to include in income to maximize your tax refund or minimize the amount of tax you owe.
+
+The scholarship or fellowship grant must be one that may qualify as a tax-free scholarship under the rules discussed in chapter 1 . Also, the scholarship or fellowship grant must be one that may (by its terms) be used for nonqualified expenses. Finally, the amount of the scholarship or fellowship grant that is applied to nonqualified expenses can’t exceed the amount of the student’s actual nonqualified expenses that are paid in the tax year. This amount may differ from the student’s living expenses estimated by the student’s school in figuring the official cost of attendance under student aid rules.
+
+The fact that the educational institution applies the scholarship or fellowship grant to qualified education expenses, such as tuition and related fees, doesn’t prevent the student from choosing to apply certain scholarships or fellowship grants to the student’s actual nonqualified expenses. By making this choice (that is, by including the part of the scholarship or fellowship grant applied to the student’s nonqualified expenses in income), the student may increase taxable income and may be required to file a tax return. But this allows payments made in cash, by check, by credit or debit card, or with borrowed funds such as a student loan to be applied to qualified education expenses.
+
+Example 1—no scholarship.
+
+Bill, age 28 and unmarried, enrolled full-time in 2025 as a first-year student at a local college to earn a degree in law enforcement. This was Bill’s first year of postsecondary education. During 2025, Bill paid $5,600 for qualified education expenses and $4,400 for room and board for the fall 2025 semester. Bill and the college meet all the requirements for the American opportunity credit. Bill’s adjusted gross income (AGI) and MAGI, for purposes of figuring the credit, are $39,250. Bill claims the standard deduction of $15,750, resulting in taxable income of $23,500 and an income tax liability before credits of $2,585. Bill claims no credits other than the American opportunity credit. Bill figures the American opportunity credit based on qualified education expenses of $4,000, which results in a credit of $2,500 and a tax liability after credits of $85 ($2,585 − $2,500).
+
+Example 2—scholarship excluded from income.
+
+The facts are the same as in Example 1 , except that Bill was awarded a $5,600 scholarship. Under the terms of the scholarship, it may be used to pay any educational expenses, including room and board. If Bill excludes the scholarship from income, it will be deemed (for purposes of figuring the education credit) to have been applied to pay tuition, required fees, and course materials. Bill’s adjusted qualified education expenses would be zero, and there would be no education credit. Therefore, Bill’s tax liability after credits would be $2,585.
+
+Example 3—scholarship partially included in income.
+
+The facts are the same as in Example 2 . If, unlike Example 2 , Bill includes $4,000 of the scholarship in income, the $4,000 will be deemed to have been applied to pay for room and board. The remaining $1,600 of the $5,600 scholarship would reduce the qualified education expenses, and the adjusted qualified education expenses would be $4,000. Bill’s AGI and MAGI would increase to $43,250, the taxable income would increase to $27,500, and the tax liability before credits would increase to $3,065. Based on the adjusted qualified education expenses of $4,000, Bill would be able to claim an American opportunity credit of $2,500, and the tax liability after credits would be $565 ($3,065 − $2,500).
+
+Example 4—scholarship applied by the postsecondary school to tuition.
+
+The facts are the same as in Example 3 , except the $5,600 scholarship is paid directly to the local college. The fact that the local college applies the scholarship to Bill’s tuition and related fees doesn’t prevent Bill from including $4,000 of the scholarship in income. As in Example 3 , by doing so, Bill will be deemed to have applied $4,000 to pay for room and board. Bill would be able to claim the American opportunity credit of $2,500, and the tax liability after credits would be $565.
+
+Example 5—student with a dependent child.
+
+Jane, age 28 and unmarried, enrolled full-time as a first-year student at a local technical college to get a certificate as a computer technician. This was Jane’s first year of postsecondary education. During 2025, Jane paid $6,000 for qualified education expenses. Jane and the college meet all the requirements for the American opportunity credit. Jane has a dependent child, age 10, who is a qualifying child for purposes of receiving the earned income credit (EIC) and the child tax credit. Jane’s wages are $24,125. Jane withheld no income taxes on these wages and has no other income or adjustments. Jane was awarded a $5,500 scholarship. Under the terms of the scholarship, it may be used to pay tuition and any living expense, including rent. Jane paid $10,000 in living expenses in 2025.
+
+If Jane excludes the entire scholarship from income , Jane will be deemed to have applied the entire scholarship to pay qualified education expenses. The AGI and MAGI would be $24,125. The tax liability before any credits would be $51. The qualified education expenses would be reduced to $500. Jane would be able to receive a $251 American opportunity credit ($200 refundable and $51 nonrefundable), a $1,700 additional child tax credit, and a $4,204 EIC. In total, Jane would be able to receive a tax refund of $6,104.
+
+If Jane includes the entire scholarship in income , Jane will be deemed to have applied the entire scholarship to pay living expenses. The qualified education expenses would be $6,000, and the AGI and MAGI would be $29,625. The tax liability before any credits would be $603. Jane would be able to receive a $1,603 American opportunity credit ($1,000 refundable and $603 nonrefundable), a $1,700 additional child tax credit, and a $3,325 EIC. In total, Jane would be able to receive a tax refund of $6,025.
+
+If Jane includes $3,500 of the scholarship in income , Jane will be deemed to have applied $3,500 of the scholarship to pay living expenses, and $2,000 to pay qualified education expenses. The qualified education expenses would be $4,000, and the AGI and MAGI would be $27,625. The tax liability before any credits would be $403. Jane would be able to receive a $1,403 American opportunity credit ($1,000 refundable and $403 nonrefundable), a $1,700 additional child tax credit, and a $3,645 EIC. In total, Jane would be able to receive a tax refund of $6,345.
+
+If Jane includes $1,500 of the scholarship in income , Jane will be deemed to have applied $1,500 of the scholarship to pay living expenses, and $4,000 to pay qualified education expenses. The qualified education expenses would be $2,000, and the AGI and MAGI would be $25,625. The tax liability before any credits would be $201. Jane would be able to receive a $1,001 American opportunity credit ($800 refundable and $201 nonrefundable), a $1,700 additional child tax credit, and a $3,964 EIC. In total, Jane would be able to receive a tax refund of $6,464. This is the highest tax refund among these scenarios.
+
+Note:
+
+Whether you will benefit from applying a scholarship or fellowship grant to nonqualified expenses will depend on the amount of the student’s qualified education expenses, the amount of the scholarship or fellowship grant, and whether the scholarship or fellowship grant may (by its terms) be used for nonqualified expenses. Any benefit will also depend on the student’s federal and state marginal tax rates as well as any federal and state tax credits the student claims. Before deciding, look at the total amount of your federal and state tax refunds or taxes owed and, if the student is your dependent, the student’s tax refunds or taxes owed. For example, if you are the student and you also claim the EIC, choosing to apply a scholarship or fellowship grant to nonqualified expenses by including the amount in your income may benefit you if the increase to your American opportunity credit is more than the decrease to your EIC.
+
+Expenses That Don’t Qualify
+
+Qualified education expenses don’t include amounts paid for:
+
+-
+
+Insurance;
+
+-
+
+Medical expenses (including student health fees);
+
+-
+
+Room and board;
+
+-
+
+Transportation; or
+
+-
+
+Similar personal, living, or family expenses.
+
+This is true even if the amount must be paid to the institution as a condition of enrollment or attendance.
+
+Sports, games, hobbies, and noncredit courses.
+
+Qualified education expenses generally don’t include expenses that relate to any course of instruction or other education that involves sports, games, or hobbies, or any noncredit course. However, if the course of instruction or other education is part of the student’s degree program, these expenses can qualify.
+
+Comprehensive or bundled fees.
+
+Some eligible educational institutions combine all of their fees for an academic period into one amount. If you don’t receive or don’t have access to an allocation showing how much you paid for qualified education expenses and how much you paid for personal expenses, such as those listed earlier, contact the institution. The institution is generally required to make this allocation and provide you with the amount you paid for qualified education expenses on Form 1098-T. See Figuring the Credit , later, for more information about Form 1098-T.
+
+Who Is an Eligible Student?
+
+To claim the American opportunity credit, the student for whom you pay qualified education expenses must be an eligible student. This is a student who meets all of the following requirements.
+
+-
+
+The student didn’t have expenses that were used to figure an American opportunity credit in any 4 earlier tax years.
+
+-
+
+The student hadn’t completed the first 4 years of postsecondary education (generally, the freshman, sophomore, junior, and senior years of college) before 2025.
+
+-
+
+For at least one academic period beginning in 2025 (or the first 3 months of 2026 if the qualified expenses were paid in 2025), the student was enrolled at least half-time in a program leading to a degree, certificate, or other recognized educational credential.
+
+-
+
+The student hasn’t been convicted of any federal or state felony for possessing or distributing a controlled substance as of the end of 2025.
+
+These requirements are also shown in Figure 2-2 .
+
+Completion of first 4 years.
+
+A student has completed the first 4 years of postsecondary education if the institution at which the student is enrolled awards the student 4 years of academic credit at that institution for coursework completed by the student before 2025. This student generally wouldn’t be an eligible student for purposes of the American opportunity credit.
+
+Exception.
+
+Any academic credit awarded solely on the basis of the student’s performance on proficiency examinations is disregarded in determining whether the student has completed 4 years of postsecondary education.
+
+Enrolled at least half-time.
+
+A student was enrolled at least half-time if the student was taking at least half the normal full-time workload for their course of study.
+
+The standard for what is half of the normal full-time workload is determined by each eligible educational institution. However, the standard may not be lower than any of those established by the U.S. Department of Education under the Higher Education Act of 1965.
+
+Figure 2-2. Who Is an Eligible Student for the American Opportunity Credit?
+
+Figure 2-2
+
+Figure 2-2. Who Is an Eligible Student for the American Opportunity Credit?
+
+Figure 2-2. Who Is an Eligible Student for the American Opportunity Credit?
+
+Note under title: This chart is provided to help you quickly decide whether a student is eligible for the American opportunity credit. See the text for more details.
+
+Start
+
+This is the start of the flowchart.
+
+Decision (1)
+
+Did the student complete the first 4 years of postsecondary education before the beginning of the tax year?
+
+IF Yes Continue To Process (a)
+IF No Continue To Decision (2)
+
+Decision (2)
+
+Was the American opportunity credit claimed in at least 4 prior tax years for this student?
+
+IF Yes Continue To Process (a)
+IF No Continue To Decision (3)
+
+Decision (3)
+
+Was the student enrolled at least half-time in a program leading to a degree, certificate, or other recognized educational credential for at least one academic period beginning during 2025 (or the first 3 months of 2025 if the qualified expenses were paid in 2025)?
+
+IF Yes Continue To Decision (4)
+IF No Continue To Process (a)
+
+Decision (4)
+
+Is the student free of any federal or state felony conviction for possessing or distributing a controlled substance as of the end of the tax year?
+
+IF Yes Continue To Process (b)
+IF No Continue To Process (a)
+
+Process (a)
+
+The student isn’t an eligible student.
+
+Continue To End
+
+Process (b)
+
+The student is an eligible student.
+
+Continue To End
+
+End
+
+This is the end of the flowchart.
+
+Please click here for the text description of the image.
+
+Example 1.
+
+Mack graduated from high school in June 2024. In September, Mack enrolled in an undergraduate degree program at College U and attended full-time for both the 2024 fall and 2025 spring semesters. For the 2025 fall semester, Mack was enrolled less than half-time. Because Mack was enrolled in an undergraduate degree program on at least a half-time basis for at least one academic period that began in 2024 and at least one academic period that began in 2025, Mack is an eligible student for tax years 2024 and 2025 (including the 2025 fall semester when Mack enrolled at College U on less than a half-time basis).
+
+Example 2.
+
+After taking classes at College V on a part-time basis for a few years, Shelly became a full-time student for the 2025 spring semester. College V classified Shelly as a second-semester senior (fourth year) for the 2025 spring semester and as a first-semester graduate student (fifth year) for the 2025 fall semester. Because College V didn’t classify Shelly as having completed the first 4 years of postsecondary education as of the beginning of 2025, Shelly is an eligible student for tax year 2025. Therefore, the qualified education expenses paid for the 2025 spring semester and the 2025 fall semester are taken into account in figuring the American opportunity credit for 2025.
+
+Example 3.
+
+During the 2024 fall semester, Larry was a high school student who took classes on a half-time basis at College X. Larry wasn’t enrolled as part of a degree program at College X because College X only admits students to a degree program if they have a high school diploma or equivalent. Because Larry wasn’t enrolled in a degree program at College X during 2024, Larry wasn’t an eligible student for tax year 2024.
+
+Example 4.
+
+The facts are the same as in Example 3 . During the 2025 spring semester, Larry again attended College X but not as part of a degree program. Larry graduated from high school in June 2025. For the 2025 fall semester, Larry enrolled as a full-time student in College X as part of a degree program, and College X awarded Larry credit for the prior coursework at College X. Because Larry was enrolled in a degree program at College X for the 2025 fall term on at least a half-time basis, Larry is an eligible student for all of tax year 2025. Therefore, the qualified education expenses paid for classes taken at College X during both the 2025 spring semester (during which Larry wasn’t enrolled in a degree program) and the 2025 fall semester are taken into account in figuring any American opportunity credit.
+
+Example 5.
+
+Dee graduated from high school in June 2024. In January 2025, Dee enrolled in a 1-year postsecondary certificate program on a full-time basis to obtain a certificate as a travel agent. Dee completed the program in December 2025 and was awarded a certificate. In January 2026, Dee enrolled in a 1-year postsecondary certificate program on a full-time basis to obtain a certificate as a computer programmer. Dee is an eligible student for both tax years 2025 and 2026 because the degree requirement, the workload requirement, and the year of study requirement for those years have been met.
+
+Who Can Claim a Dependent’s Expenses?
+
+If there are qualified education expenses for your dependent during a tax year, either you or your dependent, but not both of you, can claim an American opportunity credit for your dependent’s expenses for that year.
+
+For you to claim an American opportunity credit for your dependent’s expenses, you must also claim your dependent on your tax return. You do this by listing your dependent’s name and other required information on Form 1040 or 1040-SR.
+
+IF you... | THEN only...
+claim on your tax return a dependent who is an eligible student | you can claim the American opportunity credit based on that dependent’s expenses. The dependent can’t claim the credit.
+don’t claim on your tax return a dependent who is an eligible student (even if entitled to claim the dependent) | the dependent can claim the American opportunity credit. You can’t claim the credit based on this dependent’s expenses.
+
+Expenses paid by dependent.
+
+If you claim on your tax return an eligible student who is your dependent, treat any expenses paid (or deemed paid) by your dependent as if you had paid them. Include these expenses when figuring the amount of your American opportunity credit.
+
+. Qualified education expenses paid directly to an eligible educational institution for your dependent under a court-approved divorce decree are treated as paid by your dependent. .
+
+Expenses paid by you.
+
+If you claim a dependent who is an eligible student, only you can include any expenses you paid when figuring the amount of the American opportunity credit. If neither you nor anyone else claims the dependent, only the dependent can include any expenses you paid when figuring the American opportunity credit.
+
+Expenses paid by others.
+
+Someone other than you, your spouse, or your dependent (such as a relative or former spouse) may make a payment directly to an eligible educational institution to pay for an eligible student’s qualified education expenses. In this case, the student is treated as receiving the payment from the other person and, in turn, paying the institution. If you claim the student as a dependent on your tax return, you are considered to have paid the expenses.
+
+Example.
+
+In 2025, Todd’s grandparent makes a payment directly to an eligible educational institution for Todd’s qualified education expenses. For purposes of claiming an American opportunity credit, Todd is treated as receiving the money from the grandparent and, in turn, paying the qualified education expenses himself.
+
+Unless Todd is claimed as a dependent on someone else’s 2025 tax return, only Todd can use the payment to claim an American opportunity credit.
+
+If anyone, such as Todd’s parents, claims Todd on his or her 2025 tax return, whoever claims Todd may be able to use the expenses to claim an American opportunity credit. If anyone else claims Todd, Todd can’t claim an American opportunity credit.
+
+Tuition reduction.
+
+When an eligible educational institution provides a reduction in tuition to an employee of the institution (or spouse or dependent child of an employee), the amount of the reduction may or may not be taxable. If it is taxable, the employee is treated as receiving a payment of that amount and, in turn, paying it to the educational institution on behalf of the student. For more information on tuition reductions, see Qualified Tuition Reduction in chapter 1.
+
+Figuring the Credit
+
+The amount of the American opportunity credit (per eligible student) is the sum of:
+
+-
+
+100% of the first $2,000 of qualified education expenses you paid for the eligible student, and
+
+-
+
+25% of the next $2,000 of qualified education expenses you paid for that student.
+
+The maximum amount of American opportunity credit you can claim in 2025 is $2,500 multiplied by the number of eligible students. You can claim the full $2,500 for each eligible student for whom you paid at least $4,000 of adjusted qualified education expenses. However, the credit may be reduced based on your MAGI. See Effect of the Amount of Your Income on the Amount of Your Credit , later.
+
+Example.
+
+Jack and Kay are married and file a joint tax return. For 2025, they claim their dependent child on their tax return. Their MAGI is $70,000. Their child is in the junior (third) year of studies at the local university. Jack and Kay paid qualified education expenses of $4,300 in 2025.
+
+Jack and Kay, their child, and the local university meet all of the requirements for the American opportunity credit. Jack and Kay can claim a $2,500 American opportunity credit in 2025. This is 100% of the first $2,000 of qualified education expenses, plus 25% of the next $2,000.
+
+Form 1098-T.
+
+To help you figure your American opportunity credit, the student may receive Form 1098-T. Generally, an eligible educational institution (such as a college or university) must send Form 1098-T (or acceptable substitute) to each enrolled student by February 2, 2026 (January 31 falls on a Saturday). An institution will report payments received (box 1) for qualified education expenses. However, the amount on Form 1098-T might be different from what you paid. When figuring the credit, use only the amounts you paid or are deemed to have paid in 2025 for qualified education expenses.
+
+In addition, Form 1098-T should give other information for that institution, such as adjustments made for prior years, the amount of scholarships or grants, reimbursements or refunds, and whether the student was enrolled at least half-time or was a graduate student.
+
+The eligible educational institution may ask for a completed Form W-9S, Request for Student’s or Borrower’s Taxpayer Identification Number and Certification, or similar statement to obtain the student’s name, address, and TIN.
+
+. To claim the American opportunity credit, you must provide the educational institution’s EIN on your Form 8863. You should be able to obtain this information from Form 1098-T or the educational institution. .
+
+Effect of the Amount of Your Income on the Amount of Your Credit
+
+The amount of your American opportunity credit is phased out (gradually reduced) if your MAGI is between $80,000 and $90,000 ($160,000 and $180,000 if you file a joint return). You can’t claim an American opportunity credit if your MAGI is $90,000 or more ($180,000 or more if you file a joint return).
+
+Modified adjusted gross income (MAGI).
+
+For most taxpayers, MAGI is adjusted gross income (AGI) as figured on their federal income tax return.
+
+MAGI when using Form 1040 or 1040-SR.
+
+If you file Form 1040 or 1040-SR, your MAGI is the AGI on line 11a of that form, modified by adding back any:
+
+-
+
+Foreign earned income exclusion,
+
+-
+
+Foreign housing exclusion,
+
+-
+
+Foreign housing deduction,
+
+-
+
+Exclusion of income by bona fide residents of American Samoa, and
+
+-
+
+Exclusion of income by bona fide residents of Puerto Rico.
+
+You can use Worksheet 2-1 to figure your MAGI.
+
+Worksheet 2-1. MAGI for the American Opportunity Credit
+
+1. | Enter your adjusted gross income (Form 1040 or 1040-SR, line 11a) |  | 1. | _____
+2. | Enter your foreign earned income exclusion and/or housing exclusion (Form 2555, line 45) |  | 2. | _____
+3. | Enter your foreign housing deduction (Form 2555, line 50) |  | 3. | _____
+4. | Enter the amount of income from Puerto Rico you are excluding |  | 4. | _____
+5. | Enter the amount of income from American Samoa you are excluding (Form 4563, line 15) |  | 5. | _____
+6. | Add the amounts on lines 2, 3, 4, and 5 |  | 6. | _____
+7. | Add the amounts on lines 1 and 6. This is your modified adjusted gross income . Enter here and on Form 8863, line 3 |  | 7. | _____
+
+Phaseout.
+
+If your MAGI is within the range of incomes where the credit must be reduced, you will figure your reduced credit using lines 2–7 of Form 8863. The same method is shown in the following example.
+
+Example.
+
+You are filing a joint return and your MAGI is $165,000. In 2025, you paid $5,000 of qualified education expenses.
+
+You figure a tentative American opportunity credit of $2,500 (100% of the first $2,000 of qualified education expenses, plus 25% of the next $2,000 of qualified education expenses).
+
+Because your MAGI is within the range of incomes where the credit must be reduced, you must multiply your tentative credit ($2,500) by a fraction. The numerator (top part) of the fraction is $180,000 (the upper limit for those filing a joint return) minus your MAGI. The denominator (bottom part) is $20,000, the range of incomes for the phaseout ($160,000 to $180,000). The result is the amount of your phased out (reduced) American opportunity credit ($1,875).
+
+$2,500 | × | $180,000-$165,000 | = | $1,875
+$20,000
+
+Refundable Part of Credit
+
+Forty percent of the American opportunity credit is refundable for most taxpayers. However, if you were under age 24 at the end of 2025 and the conditions listed below apply to you, you can’t claim any part of the American opportunity credit as a refundable credit on your tax return. Instead, your allowed credit (figured on Form 8863, Part II) will be used to reduce your tax as a nonrefundable credit only.
+
+You don’t qualify for a refund if items 1 (a, b, or c), 2, and 3 below apply to you.
+
+-
+
+You were:
+
+-
+
+Under age 18 at the end of 2025, or
+
+-
+
+Age 18 at the end of 2025 and your earned income (defined below) was less than one-half of your support (defined below), or
+
+-
+
+Over age 18 and under age 24 at the end of 2025 and a full-time student (defined below) and your earned income (defined below) was less than one-half of your support (defined below).
+
+-
+
+At least one of your parents was alive at the end of 2025.
+
+-
+
+You are filing a return as single, head of household, qualifying surviving spouse, or married filing separately for 2025.
+
+Earned income.
+
+Earned income includes wages, salaries, professional fees, and other payments received for personal services actually performed. Earned income includes the part of any scholarship or fellowship grant that represents payment for teaching, research, or other services performed by the student that are required as a condition for receiving the scholarship or fellowship grant. Earned income doesn’t include that part of the compensation for personal services rendered to a corporation that represents a distribution of earnings or profits rather than a reasonable allowance as compensation for the personal services actually rendered.
+
+If you are a sole proprietor or a partner in a trade or business in which both personal services and capital are material income-producing factors, earned income also includes a reasonable allowance for compensation for personal services, but not more than 30% of your share of the net profits from that trade or business (after subtracting the deduction for one-half of self-employment tax). However, if capital isn’t an income-producing factor and your personal services produced the business income, the 30% limit doesn’t apply.
+
+Support.
+
+Your support includes food, shelter, clothing, medical and dental care, education, and the like. Generally, the amount of the item of support will be the amount of expenses incurred by the one furnishing such item. If the item of support is in the form of property or lodging, measure the amount of such item of support by its fair market value. However, a scholarship received by you isn’t considered support if you are a full-time student. See Pub. 501 for details.
+
+Full-time student.
+
+You are a full-time student for 2025 if during any part of any 5 calendar months during the year you were enrolled as a full-time student at an eligible educational institution (defined earlier), or took a full-time, on-farm training course given by such an institution or by a state, county, or local government agency.
+
+Claiming the Credit
+
+You claim the American opportunity credit by completing Form 8863 and submitting it with your Form 1040 or 1040-SR. Enter the nonrefundable part of the credit on Schedule 3 (Form 1040), line 3. Enter the refundable part of the credit on Form 1040 or 1040-SR, line 29.

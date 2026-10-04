@@ -1,0 +1,302 @@
+IRS Pub 503 (2025) | How To Figure the Credit
+
+How To Figure the Credit
+
+Your credit is a percentage of your work-related expenses. Your expenses are subject to the earned income limit and the dollar limit. The percentage is based on your adjusted gross income.
+
+Figuring Total Work-Related Expenses
+
+To figure the credit for 2025 work-related expenses, count only those you paid by December 31, 2025.
+
+Expenses prepaid in an earlier year.
+
+If you pay for services before they are provided, you can count the prepaid expenses only in the year the care is received. Claim the expenses for the later year as if they were actually paid in that later year.
+
+Expenses not paid until the following year.
+
+Don't count 2024 expenses that you paid in 2025 as work-related expenses for 2025. You may be able to claim an additional credit for them on your 2025 return, but you must figure it separately. See Payments for prior-year expenses under Amount of Credit, later.
+
+Tip:
+
+If you had expenses in 2025 that you didn't pay until 2026, you can't count them when figuring your 2025 credit. You may be able to claim a credit for them on your 2026 return.
+
+Expenses reimbursed.
+
+If your employer reimburses your employment-related expenses under a dependent care assistance program, you can't count the expenses that are reimbursed as work-related expenses.
+
+If a state social services agency pays you a nontaxable amount to reimburse you for some of your child and dependent care expenses, you can't count the expenses that are reimbursed as work-related expenses.
+
+Example.
+
+You paid work-related expenses of $3,000. You are reimbursed $2,000 by a state social services agency. You can use only $1,000 to figure your credit.
+
+Medical expenses.
+
+Some expenses for the care of qualifying persons who aren't able to care for themselves may qualify as work-related expenses and also as medical expenses. You can use them either way, but you can't use the same expenses to claim both a credit and a medical expense deduction.
+
+If you use these expenses to figure the credit and they are more than the earned income limit or the dollar limit , discussed later, you can add the excess to your medical expenses. However, if you use your total expenses to figure your medical expense deduction, you can't use any part of them to figure your credit. For information on medical expenses, see Pub. 502, Medical and Dental Expenses.
+
+Caution:
+
+Amounts excluded from your income under your employer's dependent care benefits plan can't be used to claim a medical expense deduction.
+
+Dependent Care Benefits
+
+If you receive dependent care benefits, your dollar limit for purposes of the credit may be reduced. See Reduced Dollar Limit , later. But, even if you can't take the credit, you may be able to take an exclusion or deduction for the dependent care benefits.
+
+Dependent care benefits.
+
+Dependent care benefits include:
+
+-
+
+Amounts your employer paid directly to either you or your care provider for the care of your qualifying person while you work,
+
+-
+
+The fair market value of care in a daycare facility provided or sponsored by your employer, and
+
+-
+
+Pre-tax contributions you made under a dependent care flexible spending arrangement.
+
+Your salary may have been reduced to pay for these benefits. If you received dependent care benefits as an employee, they should be shown in box 10 of your Form W-2, Wage and Tax Statement. See Statement for employee , later. Benefits you received as a partner should be shown in box 13 of your Schedule K-1 (Form 1065) with code O.
+
+Enter the amount of these benefits on Form 2441, Part III, line 12.
+
+Exclusion or deduction.
+
+If your employer provides dependent care benefits under a qualified plan, you may be able to exclude these benefits from your income. Your employer can tell you whether your benefit plan qualifies. To claim the exclusion, you must complete Part III of Form 2441.
+
+If you are self-employed and receive benefits from a qualified dependent care benefit plan, you are treated as both employer and employee. Therefore, you wouldn't get an exclusion from wages. Instead, you would get a deduction on Schedule C (Form 1040), line 14; Schedule E (Form 1040), line 19 or 28; or Schedule F (Form 1040), line 15. To claim the deduction, you must use Form 2441.
+
+The amount you can exclude or deduct is limited to the smallest of:
+
+-
+
+The total amount of dependent care benefits you received during the year,
+
+-
+
+The total amount of qualified expenses you incurred during the year,
+
+-
+
+Your earned income,
+
+-
+
+Your spouse's earned income, or
+
+-
+
+The maximum amount allowed under your dependent care plan. For 2025, the maximum amount that can be excluded from an employee's income through a dependent care assistance program is $5,000 ($2,500 if married filing separately).
+
+The definition of earned income for the exclusion or deduction is the same as the definition used when figuring the credit except that earned income for the exclusion or deduction doesn't include any dependent care benefits you receive.
+
+Tip:
+
+You can elect to include your nontaxable combat pay in earned income when figuring your exclusion or deduction, even if you elect not to include it in earned income for the earned income credit or the credit for child and dependent care expenses.
+
+Statement for employee.
+
+Your employer must give you a Form W-2 (or similar statement), showing in box 10 the total amount of dependent care benefits provided to you during the year under a qualified plan. Your employer will also include in your wages shown in box 1 of your Form W-2 any dependent care benefits that exceed the maximum amount of dependent care benefits allowed to be excluded. The maximum amount is $5,000 ($2,500 if married filing separately).
+
+Effect of exclusion on credit.
+
+If you exclude dependent care benefits from your income, the amount of the excluded benefits:
+
+-
+
+Isn't included in your work-related expenses; and
+
+-
+
+Reduces the dollar limit , discussed later.
+
+Earned Income Limit
+
+The amount of work-related expenses you use to figure your credit can't be more than:
+
+-
+
+Your earned income for the year if you are single at the end of the year, or
+
+-
+
+The smaller of your or your spouse's earned income for the year if you are married at the end of the year.
+
+Earned income for the purpose of figuring the credit is defined under You Must Have Earned Income , earlier.
+
+Tip:
+
+For purposes of item (2), use your spouse's earned income for the entire year, even if you were married for only part of the year.
+
+Example.
+
+You remarried on December 3. Your earned income for the year was $18,000. Your new spouse's earned income for the year was $2,000. You paid work-related expenses of $3,000 for the care of your 5-year-old child and qualified to claim the credit. The amount of expenses you use to figure your credit can't be more than $2,000 (the smaller of your earned income or that of your spouse).
+
+Separated spouse.
+
+If you are legally separated or married and living apart from your spouse (as described under What’s Your Filing Status , earlier), you aren't considered married for purposes of the earned income limit. Use only your income in figuring the earned income limit.
+
+Surviving spouse.
+
+If your spouse died during the year and you file a joint return as a surviving spouse, you may, but aren't required to, take into account the earned income of your spouse who died during the year.
+
+Community property laws.
+
+Disregard community property laws when you figure earned income for this credit. Community property laws are explained in Pub. 555.
+
+Self-employment earnings.
+
+If you are self-employed, include your net earnings in earned income. For purposes of the child and dependent care credit, net earnings from self-employment generally means the amount from Schedule SE (Form 1040), line 3, minus any deduction for self-employment tax on Schedule 1 (Form 1040), line 15. Include your self-employment earnings in earned income, even if they are less than $400 and you didn't file Schedule SE (Form 1040).
+
+Clergy or church employee.
+
+If you are a member of the clergy or a church employee, see the Instructions for Form 2441 for details.
+
+Statutory employee.
+
+If you filed Schedule C (Form 1040) to report income as a statutory employee, also include as earned income the amount from line 1 of that Schedule C (Form 1040).
+
+Net loss.
+
+You must reduce your earned income by any net loss from self-employment.
+
+Optional method if earnings are low or a net loss.
+
+If your net earnings from self-employment are low or you have a net loss, you may be able to figure your net earnings by using an optional method instead of the regular method. See Pub. 334, Tax Guide for Small Business, for details. If you use an optional method to figure net earnings for self-employment tax purposes, include those net earnings in your earned income for this credit. In this case, subtract any deduction you claimed on Schedule 1 (Form 1040), line 15, from the total of the amounts on Schedule SE (Form 1040), lines 3 and 4b, to figure your net earnings.
+
+You or your spouse is a student or not able to care for self.
+
+Your spouse who is either a full-time student or not able to care for themselves is treated as having earned income. Their earned income for each month is considered to be at least $250 if there is one qualifying person in your home, or at least $500 if there are two or more qualifying persons at any time during the year.
+
+Spouse works.
+
+If your spouse works during that month, use the higher of $250 (or $500) or their actual earned income for that month.
+
+Spouse qualifies for part of month.
+
+If your spouse is a full-time student or not able to care for themselves for only part of a month, the full $250 (or $500) still applies for that month.
+
+You are a student or not able to care for yourself.
+
+These rules also apply if you are a student or not able to care for yourself and are filing a joint return. For each month or part of a month you are a student or not able to care for yourself, your earned income is considered to be at least $250 (or $500). If you also work during that month, use the higher of $250 (or $500) or your actual earned income for that month.
+
+Both spouses qualify.
+
+If, in the same month, both you and your spouse are either full-time students or not able to care for yourselves, only one spouse can be considered to have this earned income of $250 (or $500) for that month.
+
+Example 1.
+
+Jim works and keeps up a home for himself and his wife, Sharon. Because of an accident, Sharon isn't able to care for herself for 11 months during the tax year.
+
+During the 11 months, Jim pays $3,300 of work-related expenses for Sharon's care. These expenses also qualify as medical expenses. Their adjusted gross income is $29,000 and the entire amount is Jim's earned income.
+
+Jim and Sharon's earned income limit is the smallest of the following amounts.
+
+Jim and Sharon's Earned Income Limit
+1) | Work-related expenses Jim paid | $ |  | 3,300
+2) | Jim's earned income | $ |  | 29,000
+3) | Income considered earned by Sharon (11 × $250) | $ |  | 2,750
+
+Jim and Sharon can use $2,750 to figure the credit and treat the balance of $550 ($3,300 − $2,750) as a medical expense. However, if they use the $3,300 first as a medical expense, they can't use any part of that amount to figure the credit.
+
+Example 2.
+
+For all of the year, Karen is a full-time student and Mark, Karen's husband, is an individual who is incapable of self-care. Karen and Mark have no earned income and pay expenses of $5,000 for Mark's care. Either Karen or Mark may be deemed to have $3,000 of earned income. However, earned income may be attributed to only one spouse. Therefore, the lesser of Karen's and Mark's earned income is zero. Karen and Mark may not take the expenses into account and may not claim the credit for the year.
+
+Dollar Limit
+
+There is a dollar limit on the amount of your work-related expenses you can use to figure the credit. This limit is $3,000 if you had one qualifying person, or $6,000 if you had two or more qualifying persons.
+
+Tip:
+
+The maximum amount of work-related expenses you can take into account for purposes of the credit is $6,000 if you have two or more qualifying persons even if you only incurred expenses for just one of them. For example, if you have two qualifying children, one age 3 and one age 11, and you incur $6,000 of qualifying work-related expenses for the 3-year-old, and no qualifying work-related expenses for the 11-year-old, you can use $6,000 to figure the credit. In this situation, you should list $6,000 for the 3-year-old child and -0- for the 11-year-old child. The $6,000 limit would be used to compute your credit unless you have already excluded or deducted dependent care benefits paid to you (or on your behalf) by your employer.
+
+Yearly limit.
+
+The dollar limit is a yearly limit. The amount of the dollar limit remains the same no matter how long, during the year, you have a qualifying person in your household. Use the $3,000 limit if you had one qualifying person at any time during the year. Use $6,000 if you had more than one qualifying person at any time during the year.
+
+Example 1.
+
+You pay $500 a month for after-school care for your son. He turned 13 on May 1 and is no longer a qualifying person. You can use the $2,000 of expenses for his care January through April to figure your credit because it isn't more than the $3,000 yearly limit.
+
+Example 2.
+
+In July of this year, to permit your spouse to begin a new job, you enrolled your 3-year-old daughter in a nursery school that provides preschool childcare. You paid $400 per month for the childcare. You can use the full $2,400 you paid ($400 × 6 months) as qualified expenses because it isn't more than the $3,000 yearly limit.
+
+Reduced Dollar Limit
+
+If you received dependent care benefits that you exclude or deduct from your income, you must subtract that amount from the dollar limit that applies to you. Your reduced dollar limit is figured on Form 2441, Part III. See Dependent Care Benefits , earlier, for information on excluding or deducting these benefits.
+
+Example 1.
+
+George is a widower with one child and earns $24,000 a year. He pays work-related expenses of $2,900 for the care of his 4-year-old child and qualifies to claim the credit for child and dependent care expenses. His employer pays directly to his dependent care provider an additional $1,000 under a qualified dependent care benefit plan. This $1,000 is excluded from George's income.
+
+Although the dollar limit for his work-related expenses is $3,000 (one qualifying person), George figures his credit on only $2,000 of the $2,900 work-related expenses he paid. This is because his dollar limit is reduced as shown next.
+
+George's Reduced Dollar Limit
+1) | Maximum allowable expenses for one qualifying person | $3,000
+2) | Minus: Dependent care benefits George excludes from income | −1,000
+3) | Reduced dollar limit on expenses George can use for the credit | $2,000
+
+Example 2.
+
+Randall is married and both he and his wife are employed. Each has earned income in excess of $6,000. They have two children, Anne and Andy, ages 2 and 4, who attend a daycare facility licensed and regulated by the state. Randall's work-related expenses are $6,000 for the year.
+
+Randall's employer has a dependent care assistance program as part of its cafeteria plan, which allows employees to make pre-tax contributions to a dependent care flexible spending arrangement. Randall has elected to take the maximum $5,000 exclusion from his salary to cover dependent care expenses through this program.
+
+Although the dollar limit for his work-related expenses is $6,000 (two or more qualifying persons), Randall figures his credit on only $1,000 of the $6,000 work-related expense paid. This is because his dollar limit is reduced as shown next.
+
+Randall's Reduced Dollar Limit
+1) | Maximum allowable expenses for two qualifying persons | $6,000
+2) | Minus: Dependent care benefits selected from employer's cafeteria plan and excluded from Randall's income | −5,000
+3) | Reduced dollar limit on work-related expenses Randall can use for the credit | $1,000
+
+Amount of Credit
+
+To determine the amount of your credit, multiply your work-related expenses (after applying the earned income and dollar limits) by a percentage. This percentage depends on your adjusted gross income shown on Form 1040, 1040-SR, or 1040-NR, line 11a. The following table shows the percentage to use based on adjusted gross income.
+
+IF your adjusted gross income is: | THEN the
+Over: |  |  |  | But not over: |  | percentage is:
+$ 0 |  | — |  | $15,000 |  | 35%
+15,000 |  | — |  | 17,000 |  | 34%
+17,000 |  | — |  | 19,000 |  | 33%
+19,000 |  | — |  | 21,000 |  | 32%
+21,000 |  | — |  | 23,000 |  | 31%
+23,000 |  | — |  | 25,000 |  | 30%
+25,000 |  | — |  | 27,000 |  | 29%
+27,000 |  | — |  | 29,000 |  | 28%
+29,000 |  | — |  | 31,000 |  | 27%
+31,000 |  | — |  | 33,000 |  | 26%
+33,000 |  | — |  | 35,000 |  | 25%
+35,000 |  | — |  | 37,000 |  | 24%
+37,000 |  | — |  | 39,000 |  | 23%
+39,000 |  | — |  | 41,000 |  | 22%
+41,000 |  | — |  | 43,000 |  | 21%
+43,000 |  | — |  | No limit |  | 20%
+
+To qualify for the credit, you must have one or more qualifying persons. You should show the expenses for each person on Form 2441, line 2, column (d). It is possible a qualifying person could have no expenses and a second qualifying person could have expenses exceeding $3,000. You should list -0- for the one person and the actual amount for the second person. The $6,000 limit that applies to two or more qualifying persons would be used to figure your credit unless you already excluded or deducted, in Part III of Form 2441, certain dependent care benefits paid to you (or on your behalf) by your employer.
+
+Example.
+
+Roger and Megan Paris have two qualifying children. Susan is 9 years old, and James is 15 years old and is disabled. They received $1,000 of dependent care benefits from Megan's employer during 2025, but they incurred a total of $19,500 of child and dependent care expenses. They complete Part III of Form 2441 to exclude the $1,000 from their taxable income (offsetting $1,000 of their expenses). Roger and Megan continue to line 27 to figure their credit using the remaining $18,500 of expenses.
+
+Line 30 tells them to complete line 2 without including any dependent care benefits. They complete line 2 of Form 2441, listing both Susan and James, as shown in the Line 2 Example . They check the box in column (c) to indicate that James is disabled.
+
+Line 2 Example
+
+(a) Qualifying person's name | (b) Qualifying person's social security number | (c) Check here if the qualifying person was over age 12 and was disabled. (see instructions) | (d) Qualified expenses you incurred and paid in 2025 for the person listed in column (a)
+First | Last
+Susan | Paris | 123-00-6789 | [ ] | -0-
+James | Paris | 987-00-4321 | [X] | 18,500
+
+All of Susan's expenses were covered by the $1,000 of employer-provided dependent care benefits. However, their son James has special needs and they paid $18,500 for his care. Line 3 imposes a $5,000 limit for two or more children ($6,000 limit minus $1,000 already excluded from income = $5,000) and Roger and Megan continue to complete the form.
+
+Even though line 2 indicates one of the Paris children didn't have any dependent care expenses, it doesn't change the fact that they had two qualifying children for the purposes of Form 2441.
+
+Payments for prior-year expenses.
+
+If you had work-related expenses in 2024 that you paid in 2025 and you didn't claim a credit on the maximum amount of qualified expenses for 2024, you may be able to increase the amount of the credit you can take in 2025. To figure the credit, complete Worksheet A in the Instructions for Form 2441. Enter the amount of the credit on Form 2441, line 9b.

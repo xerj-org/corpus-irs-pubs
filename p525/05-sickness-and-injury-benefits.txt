@@ -1,0 +1,253 @@
+IRS Pub 525 (2025) | Sickness and Injury Benefits
+
+Sickness and Injury Benefits
+
+In most cases, you must report as income any amount you receive for personal injury or sickness through an accident or health plan that is paid for by your employer. If both you and your employer pay for the plan, only the amount you receive that is due to your employer’s payments is reported as income. However, certain payments may not be taxable to you. For information on nontaxable payments, see Military and Government Disability Pensions and Other Sickness and Injury Benefits , later in this discussion.
+
+Tip:
+
+Don’t report as income any amounts paid to reimburse you for medical expenses you incurred after the plan was established.
+
+Cost paid by you.
+
+If you pay the entire cost of an accident or health plan, don’t include any amounts you receive from the plan for personal injury or sickness as income on your tax return. If your plan reimbursed you for medical expenses you deducted in an earlier year, you may have to include some, or all, of the reimbursement in your income. See Recoveries under Miscellaneous Income , later.
+
+Cafeteria plans.
+
+In most cases, if you’re covered by an accident or health insurance plan through a cafeteria plan, and the amount of the insurance premiums wasn’t included in your income, you aren’t considered to have paid the premiums and you must include any benefits you receive in your income. If the amount of the premiums was included in your income, you’re considered to have paid the premiums and any benefits you receive aren’t taxable.
+
+Disability Pensions
+
+If you retired on disability, you must include in income any disability pension you receive under a plan that is paid for by your employer. You must report your taxable disability payments on line 1h of Form 1040 or 1040-SR until you reach minimum retirement age. Minimum retirement age is generally the age at which you can first receive a pension or annuity if you aren’t disabled.
+
+Tip:
+
+You may be entitled to a tax credit if you were permanently and totally disabled when you retired. For information on this credit, see Pub. 524.
+
+Beginning on the day after you reach minimum retirement age, payments you receive are taxable as a pension or annuity. Report the payments on lines 5a and 5b of Form 1040 or 1040-SR. For more information on pensions and annuities, see Pub. 575.
+
+Terrorist attacks or military action.
+
+Don’t include in your income disability payments you receive for injuries incurred as a direct result of terrorist attacks or military action directed against the United States (or its allies), whether outside or within the United States. In the case of the September 11 attacks, injuries eligible for coverage by the September 11 Victim Compensation Fund are treated as incurred as a direct result of the attack. However, you must include in your income any amounts that you received that you would have received in retirement had you not become disabled as a result of a terrorist attack or military action. Accordingly, you must include in your income any payments you receive from a 401(k), pension, or other retirement plan to the extent that you would have received the amount at the same or later time regardless of whether you had become disabled. See Pub. 907.
+
+A terrorist action is one that is directed against the United States or any of its allies (including a multinational force in which the United States is participating). A military action is one that involves the U.S. Armed Forces and is a result of actual or threatened violence or aggression against the United States or any of its allies but doesn’t include training exercises.
+
+Tip:
+
+Contact the company or agency making these payments if it incorrectly reports your payments as taxable income to the IRS on Form W-2, or on Form 1099-R, to request that it reissue the form to report some or all of these payments as nontaxable income in box 12 (under code J) of Form W-2 or in box 1 but not in box 2a of Form 1099-R. If income taxes are being incorrectly withheld from these payments, you may also submit Form W-4 to the company or agency to stop the withholding of income taxes from payments reported on Form W-2 or you may submit Form W-4P to stop the withholding of income taxes from payments reported on Form 1099-R.
+
+Disability payments you receive for injuries not incurred as a direct result of a terrorist attack or military action or for illnesses or diseases not resulting from an injury incurred as a direct result of a terrorist attack or military action can’t be excluded from your income under this provision but may be excludable for other reasons. See Pub. 907.
+
+Retirement and profit-sharing plans.
+
+If you receive payments from a retirement or profit-sharing plan that doesn’t provide for disability retirement, don’t treat the payments as a disability pension. The payments must be reported as a pension or annuity.
+
+Accrued leave payment.
+
+If you retire on disability, any lump-sum payment you receive for accrued annual leave is a salary payment. The payment isn’t a disability payment. Include it in your income in the tax year you receive it.
+
+Military and Government Disability Pensions
+
+Certain military and government disability pensions aren’t taxable.
+
+Service-connected disability.
+
+You may be able to exclude from income amounts you receive as a pension, an annuity, or similar allowance for personal injury or sickness resulting from active service in one of the following government services.
+
+-
+
+The armed forces of any country.
+
+-
+
+The National Oceanic and Atmospheric Administration.
+
+-
+
+The Public Health Service.
+
+-
+
+The Foreign Service.
+
+Conditions for exclusion.
+
+Don’t include the disability payments in your income if any of the following conditions apply.
+
+-
+
+You were entitled to receive a disability payment before September 25, 1975.
+
+-
+
+You were a member of a listed government service or its reserve component, or were under a binding written commitment to become a member, on September 24, 1975.
+
+-
+
+You receive the disability payments for a combat-related injury. This is a personal injury or sickness that:
+
+-
+
+Results directly from armed conflict;
+
+-
+
+Takes place while you’re engaged in extra-hazardous service;
+
+-
+
+Takes place under conditions simulating war, including training exercises such as maneuvers; or
+
+-
+
+Is caused by an instrumentality of war.
+
+-
+
+You would be entitled to receive disability compensation from the VA if you filed an application for it. Your exclusion under this condition is equal to the amount you would be entitled to receive from the VA.
+
+Pension based on years of service.
+
+If you receive a disability pension based on years of service, in most cases, you must include it in your income. However, if the pension qualifies for the exclusion for a service-connected disability (discussed earlier), don’t include in income the part of your pension that you would have received if the pension had been based on a percentage of disability. You must include the rest of your pension in your income.
+
+Retroactive VA determination.
+
+If you retire from the U.S. Armed Forces based on years of service and are later given a retroactive service-connected disability rating by the VA, your retirement pay for the retroactive period is excluded from income up to the amount of VA disability benefits you would have been entitled to receive. You can claim a refund of any tax paid on the excludable amount (subject to the statute of limitations) by filing an amended return on Form 1040-X for each previous year during the retroactive period. You must include with each Form 1040-X a copy of the official VA determination letter granting the retroactive benefit. The letter must show the amount withheld and the effective date of the benefit.
+
+Generally, the VA determination letter will contain a table with five headings. The table on the letter must cover the same dates for the tax year reported on the Form 1040-X. To calculate the correct tax reduction, multiply the Effective Months by the Amount Withheld for the tax year. For example, Form 1040-X was filed for tax year 2022. The table shows the Amount Withheld effective December 2021 is $320.00. To calculate the amount for the tax reduction, multiply the 2022 Effective Months by the Amount Withheld. In this case, January–December (2022) is 12 months x $320.00 (Amount Withheld) = $3,840.00; this amount should be the amount claimed as a reduction in column B of the 2022 Form 1040-X, line 1, Adjusted gross income.
+
+If you receive a lump-sum disability severance payment and are later awarded VA disability benefits, exclude 100% of the severance benefit from your income. However, you must include in your income any lump-sum readjustment or other nondisability severance payment you received on release from active duty, even if you’re later given a retroactive disability rating by the VA.
+
+Special statute of limitations.
+
+In most cases, under the statute of limitations, a claim for credit or refund must be filed within 3 years from the time a return was filed. However, if you receive a retroactive service-connected disability rating determination, the statute of limitations is extended by a 1-year period beginning on the date of the determination. This 1-year extended period applies to claims for credit or refund filed after June 17, 2008, and doesn’t apply to any tax year that began more than 5 years before the date of the determination.
+
+Example 19.
+
+You retired in 2019 and receive a pension based on your years of service. On August 3, 2025, you receive a determination of service-connected disability retroactive to 2019. Generally, you could claim a refund for the taxes paid on your pension for 2022, 2023, and 2024. However, under the special limitation period, you can also file a claim for 2021 as long as you file the claim by August 3, 2026. You can’t file a claim for 2019 and 2020 because those tax years began more than 5 years before the determination.
+
+Combat-related special compensation.
+
+Combat-related special compensation, as described under 10 U.S.C. section 1413a, is a specific entitlement only payable to retirees of the uniformed services. If you’re in receipt of combat-related special compensation, you may exclude the amount of your combat-related special compensation from your income. Other portions of your military or disability retirement pay may still be included in your income.
+
+Terrorist attack or military action.
+
+Don’t include in your income disability payments you receive for injuries resulting directly from a terrorist or military action. In the case of the September 11 attacks, injuries eligible for coverage by the September 11 Victim Compensation Fund are treated as incurred as a direct result of the attack. However, you must include in your income any amounts that you received that you would have received in retirement had you not become disabled as a result of a terrorist or military action. Accordingly, you must include in your income any payments you receive from a 401(k), pension, or other retirement plan to the extent that you would have received the amount at the same or later time regardless of whether you had become disabled. Disability payments you receive for injuries not incurred as a direct result of a terrorist or military action or for illnesses or diseases not resulting from an injury incurred as a direct result of a terrorist or military action may be excludable from income for other reasons. See Pub. 907.
+
+A terrorist action is one that is directed against the United States or any of its allies (including a multinational force in which the United States is participating). A military action is one that involves the U.S. Armed Forces and is a result of actual or threatened violence or aggression against the United States or any of its allies but doesn’t include training exercises.
+
+Long-Term Care Insurance Contracts
+
+In most cases, long-term care insurance contracts are treated as accident and health insurance contracts. Amounts you receive from them (other than policyholder dividends or premium refunds) are excludable in most cases from income as amounts received for personal injury or sickness. To claim an exclusion for payments made on a per diem or other periodic basis under a long-term care insurance contract, you must file Form 8853 with your return.
+
+A long-term care insurance contract is an insurance contract that only provides coverage for qualified long-term care services. The contract must:
+
+-
+
+Be guaranteed renewable;
+
+-
+
+Not provide for a cash surrender value or other money that can be paid, assigned, pledged, or borrowed;
+
+-
+
+Provide that refunds, other than refunds on the death of the insured or complete surrender or cancellation of the contract, and dividends under the contract may be used only to reduce future premiums or increase future benefits; and
+
+-
+
+In most cases, not pay or reimburse expenses incurred for services or items that would be reimbursed under Medicare, except where Medicare is a secondary payer or the contract makes per diem or other periodic payments without regard to expenses.
+
+Qualified long-term care services.
+
+Qualified long-term care services are:
+
+-
+
+Necessary diagnostic, preventive, therapeutic, curing, treating, mitigating, rehabilitative services, and maintenance and personal care services; and
+
+-
+
+Required by a chronically ill individual and provided pursuant to a plan of care prescribed by a licensed health care practitioner.
+
+Chronically ill individual.
+
+A chronically ill individual is one who has been certified by a licensed health care practitioner within the previous 12 months as one of the following.
+
+-
+
+An individual who, for at least 90 days, is unable to perform at least two activities of daily living without substantial assistance due to a loss of functional capacity. Activities of daily living are eating, toileting, transferring, bathing, dressing, and continence.
+
+-
+
+An individual who requires substantial supervision to be protected from threats to health and safety due to severe cognitive impairment.
+
+Limit on exclusion.
+
+The exclusion for payments made on a per diem or other periodic basis under a long-term care insurance contract is subject to a limit. The limit applies to the total of these payments and any accelerated death benefits made on a per diem or other periodic basis under a life insurance contract because the insured is chronically ill. (For more information on accelerated death benefits, see Life Insurance Proceeds under Miscellaneous Income , later.)
+
+Under this limit, the excludable amount for any period is figured by subtracting any reimbursement received (through insurance or otherwise) for the cost of qualified long-term care services during the period from the larger of the following amounts.
+
+-
+
+The cost of qualified long-term care services during the period.
+
+-
+
+The dollar amount for the period ($420 per day for any period in 2025).
+
+See Section C of Form 8853 and its instructions for more information.
+
+Workers’ Compensation
+
+Amounts you receive as workers’ compensation for an occupational sickness or injury are fully exempt from tax if they’re paid under a workers’ compensation act or a statute in the nature of a workers’ compensation act. The exemption also applies to your survivors. The exemption, however, doesn’t apply to retirement plan benefits you receive based on your age, length of service, or prior contributions to the plan, even if you retired because of an occupational sickness or injury.
+
+Caution:
+
+If part of your workers’ compensation reduces your social security or equivalent railroad retirement benefits received, that part is considered social security (or equivalent railroad retirement) benefits and may be taxable. See Pub. 554; and Pub. 915, Social Security and Equivalent Railroad Retirement Benefits, for more information.
+
+Return to work.
+
+If you return to work after qualifying for workers’ compensation, salary payments you receive for performing light duties are taxable as wages.
+
+Disability pension.
+
+If your disability pension is paid under a statute that provides benefits only to employees with service-connected disabilities, part of it may be workers’ compensation. That part is exempt from tax. The rest of your pension, based on years of service, is taxable as pension or annuity income. If you die, the part of your survivors’ benefit that is a continuation of the workers’ compensation is exempt from tax.
+
+Other Sickness and Injury Benefits
+
+In addition to disability pensions and annuities, you may receive other payments for sickness or injury.
+
+Railroad sick pay.
+
+Payments you receive as sick pay under the Railroad Unemployment Insurance Act are taxable and you must include them in your income. However, don’t include them in your income if they’re for an on-the-job injury.
+
+Black lung benefit payments.
+
+These payments are similar to workers’ compensation and aren’t taxable in most cases.
+
+Federal Employees’ Compensation Act (FECA).
+
+Payments received under FECA for personal injury or sickness, including payments to beneficiaries in case of death, aren’t taxable. However, you’re taxed on amounts you receive under FECA as continuation of pay for up to 45 days while a claim is being decided. Report this income on line 1a of Form 1040 or 1040-SR. Also, pay for sick leave while a claim is being processed is taxable and must be included in your income as wages.
+
+Caution:
+
+If part of the payments you receive under FECA reduces your social security or equivalent railroad retirement benefits received, that part is considered social security (or equivalent railroad retirement) benefits and may be taxable. See Pub. 554 for more information.
+
+Qualified Indian health care benefit.
+
+For benefits and coverage provided after March 23, 2010, the value of any qualified Indian health care benefit isn’t taxable. These benefits include any health service or benefits provided by the Indian Health Service, amounts to reimburse medical care expenses provided by an Indian tribe, coverage under accident or health insurance, and any other medical care provided by an Indian tribe.
+
+Other compensation.
+
+Many other amounts you receive as compensation for sickness or injury aren’t taxable. These include the following amounts.
+
+Reimbursement for medical care.
+
+A reimbursement for medical care is generally not taxable. However, it may reduce your medical expense deduction. If you receive reimbursement for an expense you deducted in an earlier year, see Recoveries , later.
+
+If you receive an advance reimbursement or loan for future medical expenses from your employer without regard to whether you suffered a personal injury or sickness or incurred medical expenses, that amount is included in your income, whether or not you incur uninsured medical expenses during the year.
+
+Reimbursements received under your employer’s plan for expenses incurred before the plan was established are included in income.
+
+Amounts you receive under a reimbursement plan that provides for the payment of unused reimbursement amounts in cash or other benefits are included in your income. For details, see Pub. 969.

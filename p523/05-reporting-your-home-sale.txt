@@ -1,0 +1,144 @@
+IRS Pub 523 (2025) | Reporting Your Home Sale
+
+Reporting Your Home Sale
+
+This section tells you how to report taxable gain, take deductions relating to your home sale, and report income other than the gain that you may have received from your home sale.
+
+This section also covers special circumstances that apply to some home sellers.
+
+What records to keep.
+
+Any time you buy real estate, you should keep records to document the property’s adjusted basis. In general, keep these records until 3 years after the due date for your tax return for the year in which you sold your home.
+
+Reporting Gain or Loss on Your Home Sale
+
+Determine whether you need to report the gain from your home.
+
+You need to report the gain if ANY of the following is true.
+
+-
+
+You have taxable gain on your home sale (or on the residential portion of your property if you made separate calculations for home and business) and don’t qualify to exclude all of the gain.
+
+-
+
+You received a Form 1099-S. If so, you must report the sale on Form 8949 even if you have no taxable gain to report. See Instructions for Form 8949 and Instructions for Schedule D (Form 1040) for more details.
+
+-
+
+You wish to report your gain as a taxable gain even though some or all of it is eligible for exclusion. You may wish to do this if, for example, you plan to sell another main home within the next 2 years and are likely to receive a larger gain from the sale of that property. If you later choose to report, rather than exclude, your taxable gain, you can undo that choice by filing an amended return within 3 years of the due date of your return for the year of the sale, excluding extensions.
+
+If NONE of the three bullets above is true, you don’t need to report your home sale on your tax return. If you didn’t make separate home and business calculations on your property, skip to Reporting Deductions Related to Your Home Sale , later.
+
+If ANY of the three bullets above is true, skip to Determine whether your home sale is an installment sale , later.
+
+If you made separate gain/loss calculations for business and residence portions of your property,
+
+you may have to use Form 4797 to report the sale of the business or rental part. See Property Used Partly for Business or Rental , earlier.
+
+Determine any depreciation amounts you may need to recapture.
+
+The exclusion of gain doesn't apply to any gain from depreciation adjustments attributable to periods after May 6, 1997. Such gain is not accounted for in determining the amount of gain allocated to business or rental use. You must adjust basis for depreciation deducted in earlier years. If you didn't deduct any depreciation, decrease your basis by the amount you could have deducted. For information on depreciation deductions associated with business or rental use of a principal residence, see Pub. 946.
+
+For depreciation deducted during periods of rental or business use, the adjustment to basis will affect net gain or loss. Upon the sale of real property held more than a year, additional depreciation in excess of the straight-line method are taxed as ordinary income if the property was held more than a year. Net gain in excess of the maximum excludable (for your filing status) is taxed at the applicable capital gains rate. See the Instructions for Form 4797 and for Schedule D (Form 1040) to figure the total amount of depreciation deductions for any period when the property was used for business or rental. See Additional Depreciation in Pub. 544 for guidance on the potential recapture of additional depreciation deductions.
+
+Determine whether your home sale is an installment sale.
+
+If you finance the buyer’s purchase of your home (you hold a note, mortgage, or other financial agreement), you probably have an installment sale. You may be able to report any nonexcludable gain on an installment basis. However, generally where a seller of property reports profit on the installment method, any recapturable depreciation gain recognized must all be reported for the year of the installment sale. Use Form 6252, Installment Sale Income, to report the sale.
+
+For more information, see Pub. 537, Installment Sales.
+
+Report any interest you receive from the buyer.
+
+If the buyer is making payments to you over time (as when you provide seller financing), then you must generally report part of each payment as interest on your tax return. Report the interest portion of the payment as ordinary income on Form 1040 or 1040-SR, line 2b, or Schedule NEC (Form 1040-NR) if a nonresident alien. If the buyer is using the property as a first or second home, also report the interest on Schedule B (Form 1040), Interest and Ordinary Dividends, and provide the buyer’s name, address, and social security number (SSN). If you don’t show the buyer’s name, address, and SSN you may have to pay a $50 penalty.
+
+If you’re a nonresident or resident alien who doesn’t have and isn’t eligible to get a SSN,
+
+you may be issued an individual taxpayer identification number (ITIN). If you don’t have an ITIN, apply for one by filing Form W-7, Application for IRS Individual Taxpayer Identification Number. If needed, a nonresident or resident alien buyer can apply for an ITIN as well.
+
+Complete Form 8949, Sales and Other Dispositions of Capital Assets.
+
+Use Form 8949 to report gain from the sale or disposition of the personal-use portion of your home if you can’t exclude the gain. If you received Form 1099-S, report the transaction on Form 8949. See the Instructions for Form 8949.
+
+Reporting recognized gain.
+
+If you have gain that can’t be excluded, you must generally report it on Form 8949, Sales and Other Dispositions of Capital Assets, and Schedule D (Form 1040), Capital Gains and Losses. Report the sale on Part I or Part II of Form 8949 as a short-term or long-term transaction, depending on how long you owned the home. In addition, you may be able to temporarily defer capital gains invested in a Qualified Opportunity Fund (QOF). You may also be able to permanently exclude capital gains from the sale or exchange of an investment in a QOF if the investment is held for at least 10 years. For more information, see the Instructions for Form 8949.
+
+Complete Schedule D (Form 1040), Capital Gains and Losses.
+
+Using the information on Form 8949, report on Schedule D (Form 1040) the gain or loss on your home as a capital gain or loss. Follow the instructions for Schedule D when completing the form.
+
+If you have any taxable gain from the sale of your home, you may have to increase your withholding or make estimated tax payments. See Pub. 505, Tax Withholding and Estimated Tax.
+
+Reporting Deductions Related to Your Home Sale
+
+If you aren’t itemizing deductions on your return for the year in which you sold your home, skip to Reporting Other Income Related to Your Home Sale , later.
+
+There is no tax deduction for transfer taxes, stamp taxes, or other taxes, fees, and charges you paid when you sold your home. However, if you paid these amounts as the seller, you can treat these taxes and fees as selling expenses. If you pay these amounts as the buyer, include them in your cost basis of the property.
+
+Determine the amount of real estate tax deductions associated with your home sale.
+
+Depending on your circumstances, you may need to figure your real estate tax deductions differently. See the discussion that follows for more information.
+
+If you didn’t receive a Form 1099-S,
+
+use the following method to compute your real estate tax deduction, which may be different from the amount of real estate tax you actually paid.
+
+-
+
+Divide the number of days you owned the property during the year of sale, not counting the date of sale, by 365 (or 366 for a leap year).
+
+-
+
+Multiply that figure by the amount of real estate tax due on the home during the 12-month billing cycle that contains the date of sale. The result is the amount of real estate tax you can deduct as an itemized deduction.
+
+Example.
+
+The real estate tax on Jackie and Pat White’s home was $620 for the year. Their real property tax year was the calendar year, with payment due August 3, 2025. They sold the home on May 6, 2025. Jackie and Pat are considered to have paid a proportionate share of the real estate taxes on the home even though they didn’t actually pay them to the taxing authority.
+
+Jackie and Pat owned their home during the 2025 real property tax year for 125 days (January 1 to May 5, the day before the sale). They figure their deduction for taxes as follows.
+
+1. | Total real estate taxes for the real property tax year | $620
+2. | Number of days in the real property tax year that you owned the property | 125
+3. | Divide line 2 by 365 (366 if leap year) | 0.342
+4. | Multiply line 1 by line 3. This is your deduction. Enter it on line 5b of Schedule A (Form 1040) | $212
+
+Since the buyers paid all of the taxes, Jackie and Pat also include the $212 in the home’s selling price. The buyers add the $212 to their basis in the home. The buyers can deduct $408 ($620 – $212) as an itemized deduction, the taxes for the part of the year they owned the home.
+
+If you received a Form 1099-S,
+
+start with the amount of real estate tax you actually paid in the year of sale. Subtract the buyer’s share of real estate tax, as shown in box 6. The result is the amount you can use in figuring your itemized deductions.
+
+If you didn’t already deduct all your mortgage points on an earlier tax return,
+
+you may be able to deduct them on your tax return for the year of sale. See Pub. 936, Home Mortgage Interest Deduction.
+
+Report on Schedule A (Form 1040), Itemized Deductions, any itemized real estate deduction.
+
+Follow the Instructions for Schedule A when completing the form.
+
+Reporting Other Income Related to Your Home Sale
+
+Report as ordinary income on Form 1040, 1040-SR, or 1040-NR any amounts received from selling personal property.
+
+If you sold furniture, drapes, lawn equipment, a washer/dryer, or other property that wasn’t a permanent part of your home, report the amount you received for the items as ordinary income. Report this amount on Schedule 1 (Form 1040), line 8z, or Schedule NEC (Form 1040-NR) if a nonresident alien. The selling price of your home doesn’t include amounts you received for personal property sold with your home.
+
+Report as ordinary income on Form 1040, 1040-SR, or 1040-NR any amounts received for sales of expired options to purchase your property.
+
+If you granted someone an option to buy your home and it expired in the year of sale, report the amount you received for the option as ordinary income. Report this amount on Schedule 1 (Form 1040), line 8z, or Schedule NEC (Form 1040-NR) if a nonresident alien.
+
+Report as ordinary income on Form 1040, 1040-SR, or 1040-NR applicable canceled or forgiven mortgage debt.
+
+If you went through a mortgage workout, foreclosure, or other process in which a lender forgave or canceled mortgage debt on your home, then you must generally report the amount of forgiven or canceled debt as income on your tax return. However, if you had a written agreement for the forgiveness of the debt in place before January 1, 2026, then you may be able to exclude the forgiven amount from your income. For more information, see Pub. 4681, Canceled Debts, Foreclosures, Repossessions, and Abandonments.
+
+Paying Back Credits and Subsidies
+
+If you received any homebuyer credits or federal mortgage subsidies, you may have to pay back (“recapture”) some or all of the amount by increasing your tax payment.
+
+Determine any amounts you may have received in federal mortgage subsidies in the 9 years leading up to the date of sale.
+
+If you financed your home under a federally subsidized program (loans from tax-exempt qualified mortgage bonds or loans with mortgage credit certificates), you may have to recapture all or part of the benefit you received from that program upon the sale or other transfer of ownership of your home. You recapture the benefit by increasing your federal income tax for the year of the sale. You may have to pay this recapture tax even if you can exclude your gain from income under the rules discussed earlier; that exclusion doesn’t affect the recapture tax.
+
+See Form 8828, Recapture of Federal Mortgage Subsidy, to find out how much to repay or whether you qualify for any exceptions.
+
+If you did receive any federal mortgage subsidies, you must file Form 8828 with your tax return whether you sold your home at a loss or a gain. If you had a loss, you won't have to pay back any subsidy.

@@ -1,0 +1,154 @@
+IRS Pub 502 (2025) | How Do You Treat Reimbursements?
+
+How Do You Treat Reimbursements?
+
+You can include in medical expenses only those amounts paid during the tax year for which you received no insurance or other reimbursement.
+
+Insurance Reimbursement
+
+You must reduce your total medical expenses for the year by all reimbursements for medical expenses that you receive from insurance or other sources during the year. This includes payments from Medicare.
+
+Even if a policy provides reimbursement only for certain specific medical expenses, you must use amounts you receive from that policy to reduce your total medical expenses, including those it doesn’t reimburse.
+
+Example.
+
+You have insurance policies that cover your hospital and doctors’ bills but not your nursing bills. The insurance you receive for the hospital and doctors’ bills is more than their charges. In figuring your medical deduction, you must reduce the total amount you spent for medical care by the total amount of insurance you received, even if the policies don’t cover some of your medical expenses.
+
+Health reimbursement arrangement (HRA).
+
+An HRA is an employer-funded plan that reimburses employees for medical care expenses and allows unused amounts to be carried forward. An HRA is funded solely by the employer and the reimbursements for medical expenses, up to a maximum dollar amount for a coverage period, aren’t included in your income.
+
+Other reimbursements.
+
+Generally, you don’t reduce medical expenses by payments you receive for:
+
+-
+
+Permanent loss or loss of use of a member or function of the body (loss of limb, sight, hearing, etc.) or disfigurement to the extent the payment is based on the nature of the injury without regard to the amount of time lost from work, or
+
+-
+
+Loss of earnings.
+
+You must, however, reduce your medical expenses by any part of these payments that is designated for medical costs. See How Do You Figure and Report the Deduction on Your Tax Return , later.
+
+For how to treat damages received for personal injury or sickness, see Damages for Personal Injuries , later.
+
+What if Your Insurance Reimbursement Is More Than Your Medical Expenses?
+
+If you are reimbursed more than your medical expenses, you may have to include the excess in income. You may want to use Figure 1 to help you decide if any of your reimbursement is taxable.
+
+Premiums paid by you.
+
+If you pay either the entire premium for your medical insurance or all the costs of a plan similar to medical insurance and your insurance payments or other reimbursements are more than your total medical expenses for the year, you have excess reimbursement. Generally, you don’t include the excess reimbursement in your gross income. However, gross income does include total payments in excess of $420 a day ($153,300 for 2025) for qualified long-term care services.
+
+Premiums paid by you and your employer.
+
+If both you and your employer contribute to your medical insurance plan and your employer’s contributions aren’t included in your gross income, you must include in your gross income the part of your excess reimbursement that is from your employer’s contribution.
+
+If you aren’t covered by more than one policy, you can figure the amount of the excess reimbursement you must include in gross income using Worksheet B. If you are covered under more than one policy, see More than one policy , later.
+
+Premiums paid by your employer.
+
+If your employer or your former employer pays the total cost of your medical insurance plan and your employer’s contributions aren’t included in your income, you must report all of your excess reimbursement as other income.
+
+More than one policy.
+
+If you are covered under more than one policy, the cost of at least one of which is paid by both you and your employer, you must first divide the medical expenses among the policies to figure the excess reimbursement from each policy. Then divide the policy costs to figure the part of any excess reimbursement that is from your employer’s contribution. Any excess reimbursement that is due to your employer’s contributions is includible in your income.
+
+You can figure the part of the excess reimbursement that is from your employer’s contribution by using Worksheet C. Use Worksheet C only if both you and your employer paid part of the cost of at least one policy. If you had more than one policy but you didn’t share in the cost of at least one policy, don’t use Worksheet C.
+
+Reimbursement Taxable?
+
+Figure 1. Is Your Excess Medical Reimbursement Taxable?
+
+Figure 1. Is Your Excess Medical Reimbursement Taxable?
+
+Summary: This flowchart is used to determine if any reimbursements you receive for your medical expenses is taxable.
+
+Start
+
+This is the starting of the flowchart.
+
+Decision (1)
+
+Was any part of your premiums paid by your employer?
+
+IF Yes Continue To Decision (2)
+IF No Continue To Process (a)
+
+Decision (2)
+
+Were your employer's contributions to your premiums included in your income?
+
+IF Yes Continue To Process (a)
+IF No Continue To Decision (3)
+
+Process (a)
+
+NONE of the excess reimbursement is taxable.
+
+Continue To End
+
+Decision (3)
+
+Did you pay any part of the premiums?
+
+IF Yes Continue To Process (c)
+IF No Continue To Process (b)
+
+Process (b)
+
+ALL of the excess reimbursement is taxable.
+
+Continue To End
+
+Process (c)
+
+PART of the excess reimbursement is taxable.
+
+Footnote: See Premiums paid by you and your employer.
+
+Continue To End
+
+End
+
+This is the ending of the flowchart.
+
+Please click here for the text description of the image.
+
+Worksheet B. Excess Reimbursement Includible in Income When You Have Only One Policy
+
+Instructions: Use this worksheet to figure the amount of excess reimbursement you must include in income when both you and your employer contributed to your medical insurance and your employer’s contributions aren’t included in your gross income.
+1. | Enter the amount contributed to your medical insurance for the year by your employer | 1. | _____
+2. | Enter the total annual cost of the policy | 2. | _____
+3. | Divide line 1 by line 2 | 3. | _____
+4. | Enter the amount of excess reimbursement | 4. | _____
+5. | Multiply line 3 by line 4. This is the amount of the excess reimburse- ment you must include as other income on Form 1040 or 1040-SR | 5. | _____
+
+Worksheet C. Excess Reimbursement Includible in Income When You Have More Than One Policy
+
+Instructions: Use this worksheet to figure the amount of excess reimbursement you must include as income on your tax return when (a) you are reimbursed under two or more health insurance policies, (b) at least one of which is paid for by both you and your employer, and (c) your employer’s contributions aren’t included in your gross income. If you and your employer didn’t share in the cost of at least one policy, don’t use this worksheet.
+1. | Enter the reimbursement from your employer’s policy | 1. | _____
+2. | Enter the reimbursement from your own policy | 2. | _____
+3. | Add lines 1 and 2 | 3. | _____
+4. | Divide line 1 by line 3 | 4. | _____
+5. | Enter the total medical expenses you paid during the year. If this amount is at least as much as the amount on line 3, stop here because there is no excess reimbursement | 5. | _____
+6. | Multiply line 4 by line 5 | 6. | _____
+7. | Subtract line 6 from line 1 | 7. | _____
+8. | Enter employer’s contribution to the annual cost of the employer’s policy | 8. | _____
+9. | Enter total annual cost of the employer’s policy | 9. | _____
+10. | Divide line 8 by line 9. This is the percentage of your total excess reimbursement you must report as other income | 10. | _____
+11. | Multiply line 7 by line 10. This is the amount of your total excess reimbursement you must report as other income on Form 1040 or 1040-SR | 11. | _____
+
+What if You Receive Insurance Reimbursement in a Later Year?
+
+If you are reimbursed in a later year for medical expenses you deducted in an earlier year, you must generally report the reimbursement as income up to the amount you previously deducted as medical expenses.
+
+However, don’t report as income the amount of reimbursement you received up to the amount of your medical deductions that didn’t reduce your tax for the earlier year.
+
+For more information about the recovery of an amount that you claimed as an itemized deduction in an earlier year, see Recoveries in Pub. 525.
+
+What if You Are Reimbursed for Medical Expenses You Didn’t Deduct?
+
+If you didn’t deduct a medical expense in the year you paid it because your medical expenses weren’t more than 7.5% of your AGI or because you didn’t itemize deductions, don’t include the reimbursement, up to the amount of the expense, in income. However, if the reimbursement is more than the expense, see What if Your Insurance Reimbursement Is More Than Your Medical Expenses , earlier.

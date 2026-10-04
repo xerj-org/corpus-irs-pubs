@@ -1,0 +1,407 @@
+IRS Pub 551 (12/2025) | Cost Basis
+
+Cost Basis
+
+The basis of property you buy is usually its cost. The cost is the amount you pay in cash, debt obligations, other property, or services. Your cost also includes amounts you pay for the following items.
+
+-
+
+Sales tax.
+
+-
+
+Freight.
+
+-
+
+Installation and testing.
+
+-
+
+Excise taxes.
+
+-
+
+Legal and accounting fees (when they must be capitalized).
+
+-
+
+Revenue stamps.
+
+-
+
+Recording fees.
+
+-
+
+Real estate taxes (if assumed for the seller).
+
+You may also have to capitalize (add to basis) certain other costs related to buying or producing property.
+
+Loans with low or no interest.
+
+If you buy property on a time-payment plan that charges little or no interest, the basis of your property is generally your stated purchase price, minus the amount of the stated purchase price considered to be unstated interest or original issue discount, whichever is applicable. You generally have unstated interest or original issue discount if your interest rate is less than the applicable federal rate. For more information, see Unstated Interest and Original Issue Discount in Pub. 537.
+
+Purchase of a business.
+
+When you purchase a trade or business, you generally purchase all assets used in the business operations, such as land, buildings, and machinery. Allocate the price among the various assets, including any section 197 intangibles. See Allocating the Basis , later.
+
+Stocks and Bonds
+
+The basis of stocks or bonds you buy is generally the purchase price plus any costs of purchase, such as commissions and recording or transfer fees. If you get stocks or bonds other than by purchase, your basis is usually determined by the fair market value (FMV) or the previous owner's adjusted basis of the stock.
+
+You must adjust the basis of stocks for certain events that occur after purchase. See Stocks and Bonds in chapter 4 of Pub. 550 for more information on the basis of stock.
+
+Identifying stock or bonds sold.
+
+If you can adequately identify the shares of stock or the bonds you sold, their basis is the cost or other basis of the particular shares of stock or bonds. If you buy and sell securities at various times in varying quantities and you can't adequately identify the shares you sell, the basis of the securities you sell is the basis of the securities you acquired first. For more information about identifying securities you sell, see Stocks and Bonds under Basis of Investment Property in chapter 4 of Pub. 550.
+
+Mutual fund shares.
+
+If you sell mutual fund shares acquired at different times and prices, you can choose to use an average basis. For more information, see Pub. 550.
+
+Real Property
+
+Real property, also called real estate, is land and generally anything built on or attached to it. If you buy real property, certain fees and other expenses become part of your cost basis in the property.
+
+Real estate taxes.
+
+If you pay real estate taxes the seller owed on real property you bought, and the seller didn't reimburse you, treat those taxes as part of your basis. You can't deduct them as taxes.
+
+If you reimburse the seller for taxes the seller paid for you, you can usually deduct that amount as an expense in the year of purchase. Don't include that amount in the basis of the property. If you didn't reimburse the seller, you must reduce your basis by the amount of those taxes.
+
+Settlement costs.
+
+Your basis includes the settlement fees and closing costs for buying property. You can't include in your basis the fees and costs for getting a loan on property. A fee for buying property is a cost that must be paid even if you bought the property for cash.
+
+The following items are some of the settlement fees or closing costs you can include in the basis of your property.
+
+-
+
+Abstract fees (abstract of title fees).
+
+-
+
+Charges for installing utility services.
+
+-
+
+Legal fees (including title search and preparation of the sales contract and deed).
+
+-
+
+Recording fees.
+
+-
+
+Surveys.
+
+-
+
+Transfer taxes.
+
+-
+
+Owner's title insurance.
+
+-
+
+Any amounts the seller owes that you agree to pay, such as back taxes or interest, recording or mortgage fees, charges for improvements or repairs, and sales commissions.
+
+Settlement costs don't include amounts placed in escrow for the future payment of items such as taxes and insurance.
+
+The following items are some settlement fees and closing costs you can't include in the basis of the property.
+
+-
+
+Casualty insurance premiums.
+
+-
+
+Rent for occupancy of the property before closing.
+
+-
+
+Charges for utilities or other services related to occupancy of the property before closing.
+
+-
+
+Charges connected with getting a loan. The following are examples of these charges.
+
+-
+
+Points (discount points, loan origination fees).
+
+-
+
+Mortgage insurance premiums.
+
+-
+
+Loan assumption fees.
+
+-
+
+Cost of a credit report.
+
+-
+
+Fees for an appraisal required by a lender.
+
+-
+
+Fees for refinancing a mortgage.
+
+If these costs relate to business property, items (1) through (3) are deductible as business expenses. Items (4) and (5) must be capitalized as costs of getting a loan and can be deducted over the period of the loan.
+
+Points.
+
+If you pay points to obtain a loan (including a mortgage, second mortgage, line of credit, or a home equity loan), don't add the points to the basis of the related property. Generally, you deduct the points over the term of the loan.
+
+Points on home mortgage.
+
+Special rules may apply to points you and the seller pay when you obtain a mortgage to purchase your main home. If certain requirements are met, you can deduct the points in full for the year in which they're paid. Reduce the basis of your home by any seller-paid points. For more information, see Points in Pub. 936, Home Mortgage Interest Deduction.
+
+Assumption of mortgage.
+
+If you buy property and assume (or buy subject to) an existing mortgage on the property, your basis includes the amount you pay for the property plus the amount to be paid on the mortgage.
+
+Example.
+
+If you buy a building for $20,000 cash and assume a mortgage of $80,000 on it, your basis is $100,000.
+
+Constructing assets.
+
+If you build property or have assets built for you, your expenses for this construction are part of your basis. Some of these expenses include the following costs.
+
+-
+
+Land.
+
+-
+
+Labor and materials.
+
+-
+
+Architect's fees.
+
+-
+
+Building permit charges.
+
+-
+
+Payments to contractors.
+
+-
+
+Payments for rental equipment.
+
+-
+
+Inspection fees.
+
+In addition, if you own a business and use your employees, material, and equipment to build an asset, don't deduct the following expenses. You must include them in the asset's basis.
+
+-
+
+Employee wages paid for the construction work, reduced by any employment credits allowed.
+
+-
+
+Depreciation on equipment you own while it's used in the construction.
+
+-
+
+Operating and maintenance costs for equipment used in the construction.
+
+-
+
+The cost of business supplies and materials used in the construction.
+
+Caution:
+
+Don't include the value of your own labor, or any other labor you didn't pay for, in the basis of any property you construct.
+
+Business Assets
+
+If you purchase property to use in your business, your basis is usually its actual cost to you. If you construct, create, or otherwise produce property, you must capitalize the costs as your basis. In certain circumstances, you may be subject to the uniform capitalization rules (discussed next).
+
+Uniform Capitalization Rules
+
+The uniform capitalization rules specify the costs you add to basis in certain circumstances.
+
+Activities subject to the rules.
+
+You must use the uniform capitalization rules if you do any of the following in your trade or business or activity carried on for profit. However, see Exceptions below.
+
+-
+
+Produce real or tangible personal property for use in the business or activity.
+
+-
+
+Produce real or tangible personal property for sale to customers.
+
+-
+
+Acquire property for resale.
+
+You produce property if you construct, build, install, manufacture, develop, improve, create, raise, or grow the property. Treat property produced for you under a contract as produced by you up to the amount you pay or costs you otherwise incur for the property. Tangible personal property includes films, sound recordings, video tapes, books, or similar property.
+
+Under the uniform capitalization rules, you must capitalize all direct costs and an allocable part of most indirect costs you incur due to your production or resale activities. To capitalize means to include certain expenses in the basis of property you produce or in your inventory costs rather than deduct them as a current expense. You recover these costs through deductions for depreciation, amortization, or cost of goods sold when you use, sell, or otherwise dispose of the property.
+
+Any cost you can't use to figure your taxable income for any tax year isn't subject to the uniform capitalization rules.
+
+Example.
+
+If you incur a business meal expense for which your deduction would be limited to 50% of the cost of the meal, that amount is subject to the uniform capitalization rules. The nondeductible part of the cost isn't subject to the uniform capitalization rules.
+
+More information.
+
+For more information about these rules, see the regulations under section 263A of the Internal Revenue Code and Pub. 538, Accounting Periods and Methods.
+
+Exceptions.
+
+For tax years beginning in 2025, you're not subject to the uniform capitalization rules if your average annual gross receipts are $31 million or less for the 3 preceding tax years and you're not a tax shelter. See section 263A(i).
+
+Caution:
+
+The average annual gross receipts test threshold amount may be adjusted for inflation. Publication 551 may not be revised to reflect this amount. For tax years beginning after 2025, see the instructions for your applicable income tax return for the average annual gross receipts test threshold amount for the current tax year. The average annual gross receipts test threshold amount is also available at IRS.gov/Newsroom/Inflation-Adjusted-Tax-Items-by-Tax-Year . Select the applicable tax year news release, then click the Revenue Procedure link to see the threshold amount under Limitation on Use of Cash Method of Accounting.
+
+In addition, the following are not subject to the uniform capitalization rules.
+
+-
+
+Property you produce that you don't use in your trade, business, or activity conducted for profit.
+
+-
+
+Research and experimental expenses deductible under section 174 or 174A of the Internal Revenue Code.
+
+-
+
+Qualified creative expenses you pay or incur as a freelance (self-employed) writer, photographer, or artist that are otherwise deductible on your tax return.
+
+-
+
+Property you produce under a long-term contract, except for certain home construction contracts.
+
+-
+
+Before 2018, costs for personal property acquired for resale if your (or your predecessor's) average annual gross receipts for the 3 previous tax years don't exceed $10 million.
+
+For other exceptions to the uniform capitalization rules, see section 1.263A-1(b) of the regulations.
+
+For information on the special rules that apply to costs incurred in the business of farming, see chapter 6 in Pub. 225, Farmer's Tax Guide.
+
+Intangible Assets
+
+Intangible assets include goodwill, patents, copyrights, trademarks, trade names, and franchises. The basis of an intangible asset is usually the cost to buy or create it. If you acquire multiple assets, for example, an ongoing business for a lump sum, see Allocating the Basis , later, to figure the basis of the individual assets. The basis of certain intangibles can be amortized. See the instructions for Form 4562 for information on the amortization of these costs.
+
+Patents.
+
+The basis of a patent you get for an invention is the cost of development, such as research and experimental expenditures, drawings, working models, and attorneys' and governmental fees. If you deduct the research and experimental expenditures as current business expenses, you can't include them in the basis of the patent. The value of the inventor's time spent on an invention isn't part of the basis.
+
+Copyrights.
+
+If you're an author, the basis of a copyright will usually be the cost of getting the copyright plus copyright fees, attorneys' fees, clerical assistance, and the cost of plates that remain in your possession. Don't include the value of your time as the author, or any other person's time you didn't pay for.
+
+Franchises, trademarks, and trade names.
+
+If you buy a franchise, trademark, or trade name, the basis is its cost, unless you can deduct your payments as a business expense.
+
+Allocating the Basis
+
+If you buy multiple assets for a lump sum, allocate the amount you pay among the assets you receive. You must make this allocation to figure your basis for depreciation and gain or loss on a later disposition of any of these assets. See Trade or Business Acquired below.
+
+Group of Assets Acquired
+
+If you buy multiple assets for a lump sum, you and the seller may agree to a specific allocation of the purchase price among the assets in the sales contract. If this allocation is based on the value of each asset and you and the seller have adverse tax interests, the allocation will generally be accepted. However, see Trade or Business Acquired next.
+
+Trade or Business Acquired
+
+If you acquire a trade or business, allocate the consideration paid to the various assets acquired. Generally, reduce the consideration paid by any cash and general deposit accounts (including checking and savings accounts) received. Allocate the remaining consideration to the other business assets received in proportion to (but not more than) their FMV in the following order.
+
+-
+
+Certificates of deposit, U.S. government securities, foreign currency, and actively traded personal property, including stock and securities.
+
+-
+
+Accounts receivable, other debt instruments, and assets you mark to market at least annually for federal income tax purposes.
+
+-
+
+Property of a kind that would properly be included in inventory if on hand at the end of the tax year or property held primarily for sale to customers in the ordinary course of business.
+
+-
+
+All other assets except section 197 intangibles, goodwill, and going concern value.
+
+-
+
+Section 197 intangibles except goodwill and going concern value.
+
+-
+
+Goodwill and going concern value (whether or not they qualify as section 197 intangibles).
+
+Agreement.
+
+The buyer and seller may enter into a written agreement as to the allocation of any consideration or the FMV of any of the assets. This agreement is binding on both parties unless the IRS determines the amounts are not appropriate.
+
+Reporting requirement.
+
+Both the buyer and seller involved in the sale of business assets must report to the IRS the allocation of the sales price among section 197 intangibles and the other business assets. Use Form 8594 to provide this information. The buyer and seller should each attach Form 8594 to their federal income tax return for the year in which the sale occurred.
+
+More information.
+
+See Sale of a Business in chapter 2 of Pub. 544 for more information.
+
+Land and Buildings
+
+If you buy buildings and the land on which they stand for a lump sum, allocate the basis of the property among the land and the buildings so you can figure the depreciation allowable on the buildings.
+
+Figure the basis of each asset by multiplying the lump sum by a fraction. The numerator is the FMV of that asset and the denominator is the FMV of the whole property at the time of purchase. If you're not certain of the FMV of the land and buildings, you can allocate the basis based on their assessed values for real estate tax purposes.
+
+Demolition of building.
+
+Add demolition costs and other losses incurred for the demolition of any building to the basis of the land on which the demolished building was located. Don't claim the costs as a current deduction.
+
+Modification of building.
+
+A modification of a building won't be treated as a demolition if both the following conditions are satisfied.
+
+-
+
+75% or more of the existing external walls of the building are retained in place as internal or external walls.
+
+-
+
+75% or more of the existing internal structural framework of the building is retained in place.
+
+If the building is a certified historic structure, the modification must also be part of a certified rehabilitation.
+
+If these conditions are met, add the costs of the modifications to the basis of the building.
+
+Subdivided lots.
+
+If you buy a tract of land and subdivide it, you must determine the basis of each lot. This is necessary because you must figure the gain or loss on the sale of each individual lot. As a result, you don't recover your entire cost in the tract until you have sold all of the lots.
+
+To determine the basis of an individual lot, multiply the total cost of the tract by a fraction. The numerator is the FMV of the lot and the denominator is the FMV of the entire tract.
+
+Future improvement costs.
+
+If you're a developer and sell subdivided lots before the development work is completed, you can (with IRS consent) include in the basis of the properties sold an allocation of the estimated future cost for common improvements. See Revenue Procedure 92-29, 1992-1 C.B. 748, for more information, including an explanation of the procedures for getting consent from the IRS.
+
+Use of erroneous cost basis.
+
+If you made a mistake in figuring the cost basis of subdivided lots sold in previous years, you can't correct the mistake for years for which the statute of limitations (generally, 3 tax years) has expired. Figure the basis of any remaining lots by allocating the correct original cost basis of the entire tract among the original lots.
+
+Example.
+
+You bought a tract of land to which you assigned a cost of $15,000. You subdivided the land into 15 building lots of equal size and equitably divided your basis so that each lot had a basis of $1,000. You treated the sale of each lot as a separate transaction and figured gain or loss separately on each sale.
+
+Several years later, you determine that your original basis in the tract was $22,500 and not $15,000. You sold eight lots using $8,000 of basis in years for which the statute of limitations has expired. You now can take $1,500 of basis into account for figuring gain or loss only on the sale of each of the remaining seven lots ($22,500 basis divided among all 15 lots). You can't refigure the basis of the eight lots sold in tax years barred by the statute of limitations.

@@ -1,0 +1,22 @@
+IRS Pub 502 (2025) | Sale of Medical Equipment or Property
+
+Sale of Medical Equipment or Property
+
+If you deduct the cost of medical equipment or property in one year and sell it in a later year, you may have a taxable gain. The taxable gain is the amount of the selling price that is more than the adjusted basis of the equipment or property.
+
+The adjusted basis is the portion of the cost of the equipment or property that you couldn’t deduct because of the 7.5% or 10% AGI limit used to figure your medical deduction. Refer to your Schedule A (Form 1040) for the year the cost was included to determine which limit applied to you. Use Worksheet D to figure the adjusted basis of the equipment or property.
+
+Next, use Worksheet E to figure the total gain or loss on the sale of the medical equipment or property.
+
+Worksheet E. Gain or Loss on the Sale of Medical Equipment or Property
+
+Instructions: Use the following worksheet to figure total gain or loss on the sale of medical equipment or property that you deducted in an earlier year.
+1. | Enter the amount that the medical equipment or property sold for | 1. | _____
+2. | Enter your selling expenses | 2. | _____
+3. | Subtract line 2 from line 1 | 3. | _____
+4. | Enter the adjusted basis of the equipment or property from Worksheet D, line 5, or line 12, if applicable | 4. | _____
+5. | Subtract line 4 from line 3. This is the total gain or loss from the sale of the medical equipment or property | 5. | _____
+
+If you have a loss, it isn’t deductible. If you have a gain, it’s includible in your income. The part of the gain that is a recovery of an amount you previously deducted is taxable as ordinary income. Enter it on Form 1040 or 1040-SR. Any part of the gain that is more than the recovery of an amount you previously deducted is taxable as a capital gain. Enter it on Form 8949, Sales and Other Dispositions of Capital Assets, and Schedule D (Form 1040), Capital Gains and Losses.
+
+For more information about the recovery of an amount that you claimed as an itemized deduction in an earlier year, see Recoveries in Pub. 525.

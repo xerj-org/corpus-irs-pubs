@@ -1,0 +1,411 @@
+IRS Pub 590-B (2025) | 2. Roth IRAs
+
+2. Roth IRAs
+
+Reminders
+
+Disaster relief. If you were affected by a qualified disaster, see chapter 3 .
+
+Designated Roth accounts. Designated Roth accounts are separate accounts under section 401(k), 403(b), or 457(b) plans that accept elective deferrals that are referred to as Roth contributions. These elective deferrals are included in your income, but qualified distributions from these accounts aren't included in your income. Designated Roth accounts aren't IRAs and shouldn’t be confused with Roth IRAs. Contributions, up to their respective limits, can be made to Roth IRAs and designated Roth accounts according to your eligibility to participate. A contribution to one doesn't impact your eligibility to contribute to the other. See Pub. 575 for more information on designated Roth accounts.
+
+Introduction
+
+Regardless of your age, you may be able to establish and make nondeductible contributions to an individual retirement plan called a Roth IRA.
+
+Contributions not reported.
+
+You don't report Roth IRA contributions on your return.
+
+What Is a Roth IRA?
+
+A Roth IRA is an individual retirement plan that, except as explained in this chapter, is subject to the rules that apply to a traditional IRA (defined next). It can be either an account or an annuity. Individual retirement accounts and annuities are described in How Can a Traditional IRA Be Opened? in chapter 1 of Pub. 590-A.
+
+To be a Roth IRA, the account or annuity must be designated as a Roth IRA when it is opened. A deemed IRA can be a Roth IRA, a Roth SEP IRA, or a Roth SIMPLE IRA.
+
+Unlike a traditional IRA, you can't deduct contributions to a Roth IRA. But, if you satisfy the requirements, qualified distributions (discussed later) are tax free and you can leave amounts in your Roth IRA as long as you live.
+
+Tip:
+
+Beginning in 2023, SEP and SIMPLE IRAs can be designated as Roth IRAs.
+
+Traditional IRA.
+
+A traditional IRA is any IRA that isn't a Roth IRA or SIMPLE IRA. Traditional IRAs are discussed in chapter 1 .
+
+Are Distributions Taxable?
+
+You don't include in your gross income qualified distributions or distributions that are a return of your regular contributions from your Roth IRA(s). You also don't include distributions from your Roth IRA that you roll over tax free into another Roth IRA. You may have to include part of other distributions in your income. See Ordering Rules for Distributions , later.
+
+Basis of distributed property.
+
+The basis of property distributed from a Roth IRA is its fair market value on the date of distribution, whether or not the distribution is a qualified distribution.
+
+Withdrawals of contributions by due date.
+
+If you withdraw contributions (including any net earnings on the contributions) by the due date of your return for the year in which you made the contribution, the contributions are treated as if you never made them. If you have an extension of time to file your return, you can withdraw the contributions and earnings by the extended due date. The withdrawal of contributions is tax free, but you must include the earnings on the contributions in income for the year in which you made the contributions.
+
+What Are Qualified Distributions?
+
+A qualified distribution is any payment or distribution from your Roth IRA that meets the following requirements.
+
+-
+
+It is made after the 5-year period beginning with the first tax year for which a contribution was made to a Roth IRA set up for your benefit.
+
+-
+
+The payment or distribution is:
+
+-
+
+Made on or after the date you reach age 59½,
+
+-
+
+Made because you are disabled (defined earlier),
+
+-
+
+Made to a beneficiary or to your estate after your death, or
+
+-
+
+One that meets the requirements listed under First home under Exceptions in chapter 1 (up to a $10,000 lifetime limit).
+
+Figure 2-1. Is the Distribution from Your Roth IRA a Qualified Distribution?
+
+Figure 2-1. Is the Distribution from Your Roth IRA a Qualified Distribution?
+
+Figure 2-1. Is the Distribution from Your Roth IRA a Qualified Distribution?
+
+Summary: This flowchart is used to determine if distributions from a Roth IRA. are taxable.
+
+Start Here
+
+This is the starting of the flowchart.
+
+Decision (1)
+
+Has it been at least 5 years from the beginning of the year for which you first opened and contributed to a Roth IRA?
+
+IF Yes Continue To Decision (2)
+IF No Continue To Process (b)
+
+Decision (2)
+
+Were you at least 59 1/2 years old at the time of the distribution?
+
+IF No Continue To Decision (3)
+IF Yes Continue To Process (a)
+
+Decision (3)
+
+Is the distribution being used to buy or rebuild a first home as Explained in First Home under when Can I Withdraw or Use Assets in chapter 1?
+
+IF No Continue To Decision (4)
+IF Yes Continue To Process (a)
+
+Decision (4)
+
+Is the distribution due to your being disabled (defined under Early Distributions in chapter 1)?
+
+IF No Continue To Decision (5)
+IF Yes Continue To Process (a)
+
+Decision (5)
+
+Was the distribution made to the owner's beneficiary or estate?
+
+IF Yes Continue To Process (a)
+IF No Continue To Process (b)
+
+Process (a)
+
+The distribution from the Roth IRA. is a qualified distribution. It isn't subject to tax or penalty.
+
+Continue To End
+
+Process (b)
+
+The distribution from the Roth IRA. isn't a qualified distribution. The portion of the distribution allocable to earnings may be subject to tax and it may be subject to the 10% additional tax.
+
+Continue To End
+
+End
+
+This is the ending of the flowchart.
+
+Please click here for the text description of the image.
+
+Tip:
+
+If you were affected by a qualified disaster, see chapter 3 .
+
+Additional Tax on Early Distributions
+
+If you receive a distribution that isn't a qualified distribution, you may have to pay the 10% additional tax on early distributions as explained in the following paragraphs.
+
+Distributions of conversion and certain rollover contributions within 5-year period.
+
+If, within the 5-year period starting with the first day of your tax year in which you convert an amount from a traditional IRA or roll over an amount from a qualified retirement plan to a Roth IRA, you take a distribution from a Roth IRA, you may have to pay the 10% additional tax on early distributions. You must generally pay the 10% additional tax on any amount attributable to the part of the amount converted or rolled over (the conversion or rollover contribution) that you had to include in income (recapture amount). A separate 5-year period applies to each conversion and rollover. See Ordering Rules for Distributions , later, to determine the recapture amount, if any.
+
+The 5-year period used for determining whether the 10% additional tax on early distributions applies to a distribution from a conversion or rollover contribution, is separately determined for each conversion and rollover, and isn't necessarily the same as the 5-year period used for determining whether a distribution is a qualified distribution. See What Are Qualified Distributions , earlier.
+
+For example, if a calendar-year taxpayer makes a conversion contribution on February 25, 2025, and makes a regular contribution for 2024 on the same date, the 5-year period for the conversion begins January 1, 2025, while the 5-year period for the regular contribution begins on January 1, 2024.
+
+Unless one of the exceptions listed later applies, you must pay the 10% additional tax on the portion of the distribution attributable to the part of the conversion or rollover contribution that you had to include in income because of the conversion or rollover.
+
+You must pay the 10% additional tax in the year of the distribution, even if you had included the conversion or rollover contribution in an earlier year. You must also pay the 10% additional tax on any portion of the distribution attributable to earnings on contributions.
+
+Other early distributions.
+
+Unless one of the exceptions listed below applies, you must pay the 10% additional tax on the taxable part of any distributions that aren't qualified distributions.
+
+Exceptions.
+
+You may not have to pay the 10% additional tax in the following situations.
+
+-
+
+You have reached age 59½.
+
+-
+
+You are totally and permanently disabled.
+
+-
+
+You have been certified as having a terminal illness.
+
+-
+
+You are the beneficiary of a deceased IRA owner.
+
+-
+
+You use the distribution to buy, build, or rebuild a first home.
+
+-
+
+The distributions are part of a series of substantially equal payments.
+
+-
+
+You have unreimbursed medical expenses that are more than 7.5% of your AGI (defined earlier) for the year.
+
+-
+
+You are paying medical insurance premiums during a period of unemployment.
+
+-
+
+The distribution is a corrective distribution.
+
+-
+
+The distributions are for your qualified higher education expenses.
+
+-
+
+The distribution is due to an IRS levy of the IRA.
+
+-
+
+The distribution is a qualified reservist distribution.
+
+-
+
+The distribution is a qualified birth or adoption distribution.
+
+-
+
+The distribution is a qualified disaster recovery distribution.
+
+-
+
+The distribution is to a domestic abuse victim.
+
+-
+
+The distribution is for certain emergency personal expenses.
+
+Most of these exceptions are discussed earlier in chapter 1 under Early Distributions .
+
+Tip:
+
+If you were affected by a qualified disaster, see chapter 3 .
+
+Ordering Rules for Distributions
+
+If you receive a distribution from your Roth IRA that isn't a qualified distribution, part of it may be taxable. There is a set order in which contributions (including conversion contributions and rollover contributions from qualified retirement plans) and earnings are considered to be distributed from your Roth IRA. For these purposes, disregard the withdrawal of excess contributions and the earnings on them (discussed under What if You Contribute Too Much? in chapter 2 of Pub. 590-A). Order the distributions as follows.
+
+-
+
+Regular contributions.
+
+-
+
+Conversion and rollover contributions, on a first-in, first-out basis (generally, total conversions and rollovers from the earliest year first). See Aggregation (grouping and adding) rules , later. Take these conversion and rollover contributions into account as follows.
+
+-
+
+Taxable portion (the amount required to be included in gross income because of the conversion or rollover) first.
+
+-
+
+Nontaxable portion.
+
+-
+
+Earnings on contributions.
+
+Disregard rollover contributions from other Roth IRAs for this purpose.
+
+Aggregation (grouping and adding) rules.
+
+Determine the taxable amounts distributed (withdrawn) by grouping and adding together distributions and contributions as follows.
+
+-
+
+Add together all distributions from all your Roth IRAs during the year.
+
+-
+
+Add together all regular contributions made for the year (including contributions made after the close of the year, but before the due date of your return). Add this total to the total undistributed regular contributions made in prior years.
+
+-
+
+Add together all conversion and rollover contributions made during the year. For purposes of the ordering rules, in the case of any conversion or rollover in which the conversion or rollover distribution is made in 2025 and the conversion or rollover contribution is made in 2026, treat the conversion or rollover contribution as contributed before any other conversion or rollover contributions made in 2026.
+
+Add any recharacterized contributions that end up in a Roth IRA to the appropriate contribution group for the year that the original contribution would have been taken into account if it had been made directly to the Roth IRA.
+
+Disregard any recharacterized contribution that ends up in an IRA other than a Roth IRA for the purpose of grouping (aggregating) both contributions and distributions. Also, disregard any amount withdrawn to correct an excess contribution (including the earnings withdrawn) for this purpose.
+
+Example.
+
+On October 15, 2021, Amelia converted all $80,000 in her traditional IRA to her Roth IRA. Her Forms 8606 from prior years show that $20,000 of the amount converted is her basis.
+
+Amelia included $60,000 ($80,000 − $20,000) in her gross income.
+
+On February 23, 2025, Amelia made a regular contribution of $5,000 to a Roth IRA. On November 8, 2025, at age 60, Amelia took a $7,000 distribution from her Roth IRA.
+
+The first $5,000 of the distribution is a return of Amelia's regular contribution and isn't includible in her income.
+
+The next $2,000 of the distribution isn't includible in income because it was included previously.
+
+Figuring your recapture amount.
+
+If you had an early distribution from your Roth IRAs in 2025, you must allocate the early distribution by using the Recapture Amount—Allocation Chart located in Appendix C.
+
+Amount to include on Form 5329, line 1.
+
+Include on line 1 of your 2025 Form 5329 the following four amounts from the Recapture Amount—Allocation Chart that you filled out.
+
+-
+
+The amount you allocated to line 20 of your 2025 Form 8606.
+
+-
+
+The amount(s) allocated to your 2015 through 2025 Forms 8606, line 18.
+
+-
+
+The amount(s) allocated to your 2020 through 2025 Forms 1040, 1040-SR or 1040-NR, line 5b; 2019 Form 1040 or 1040-SR, line 4d; 2018 Form 1040, line 4b; your 2016 and 2017 Forms 1040, line 16b; Forms 1040A, line 12b; or 2015 through 2019 Forms 1040-NR, line 17b.
+
+-
+
+The amount from your 2025 Form 8606, line 25c.
+
+Also, include any amount you allocated to line 20 of your 2025 Form 8606 on your 2025 Form 5329, line 2, and enter exception number 09.
+
+Illustrated Recapture Amount—Allocation Chart
+
+Enter the amount from your 2025 Form 8606, line 19 | $85,500
+Before you begin: You will need your prior year Form(s) 8606 and income tax return(s) if you entered an amount on any line(s) as indicated below. You will now allocate the amount you entered above (2025 Form 8606, line 19) in the order shown, to the amounts on the lines listed below (to the extent a prior year distribution wasn't allocable to the amount). The maximum amount you can enter on each line below is the amount entered on the referenced lines of the form for that year. Note. Once you have allocated the full amount from your 2025 Form 8606, line 19, STOP . See Ishmael’s Example above.
+Tax Year | Your Form
+2025 | Form 8606, line 20 | $10,000 | Form 8606, line 22 | $55,500
+2005 | Form 8606, line 18 | $10,000 | Form 8606, line 17 | $-0-
+2016 | Form 8606, line 18; and Form 1040, line 16b; Form 1040A, line 12b; or Form 1040NR, line 17b* | $20,000 | Form 8606, line 17; and Form 1040, line 16a; Form 1040A, line 12a; or Form 1040NR, line 17a** | $20,000
+2025 | Form 8606, line 25c | _____
+* Only include those amounts rolled over to a Roth IRA. ** Only include any contributions (usually box 5 of Form 1099-R) that were taxable to you when made and rolled over to a Roth IRA.
+
+Example.
+
+Ishmael opened a Roth IRA in 2000 at age 32. He made the following transactions into his Roth IRA.
+
+-
+
+In 2005, he converted $10,000 from his traditional IRA into his Roth IRA. He filled out a 2005 Form 8606 and attached it to his 2005 Form 1040. He entered $0 on line 17 of Form 8606 because he took a deduction for all the contributions to the traditional IRA; therefore, he has no basis. He entered $10,000 on line 18 of Form 8606. He also entered zero on Form 1040, line 15a, and $10,000 on line 15b.
+
+-
+
+In 2016, he rolled over the balance of his qualified retirement plan, $20,000, into a Roth IRA when he changed jobs. He used a 2016 Form 1040 to file his taxes. He entered $20,000 on line 16a of Form 1040 because that was the amount reported in box 1 of his 2016 Form 1099-R. Box 5 of his 2016 Form 1099-R reported $0 because he didn't make any after-tax contributions to the qualified retirement plan. He entered $20,000 on line 16b of Form 1040 because that is the taxable amount that was rolled over in 2016.
+
+The total balance in his Roth IRA as of January 1, 2025, was $105,000 ($50,000 in contributions from 2000 through 2024 + $10,000 from the 2005 conversion + $20,000 from the 2016 rollover + $25,000 from earnings). He hasn't taken any early distribution from his Roth IRA before 2025. In 2025, he made a contribution of $5,500 to his Roth IRA.
+
+In August 2025 he took a $85,500 early distribution from his Roth IRA to use as a down payment on the purchase of his first home. See his filled out Illustrated Recapture Amount Allocation Chart to see how he allocated the amounts from the above transactions. Based on his allocation, he would enter $20,000 on his 2025 Form 5329, line 1 (see Amount to include on Form 5329, line 1 , earlier). He should also report $10,000 on his 2025 Form 5329, line 2, and enter exception 09 because that amount isn't subject to the 10% additional tax on early distributions.
+
+How Do You Figure the Taxable Part?
+
+To figure the taxable part of a distribution that isn't a qualified distribution, complete Form 8606, Part III.
+
+Must You Withdraw or Use Assets?
+
+You aren't required to take distributions from your Roth IRA at any age. The minimum distribution rules that apply to traditional IRAs don't apply to Roth IRAs while the owner is alive. However, after the death of a Roth IRA owner, certain minimum distribution rules that apply to traditional IRAs also apply to Roth IRAs, as explained later under Distributions After Owner's Death .
+
+Minimum distributions.
+
+You can't use your Roth IRA to satisfy minimum distribution requirements for your traditional IRA. Nor can you use distributions from traditional IRAs for required distributions from Roth IRAs. See Distributions to beneficiaries , later.
+
+Distributions After Owner's Death
+
+If a Roth IRA owner dies, the minimum distribution rules that apply to traditional IRAs apply to Roth IRAs as though the Roth IRA owner died before their required beginning date. See When Can You Withdraw or Use Assets? in chapter 1.
+
+Distributions to beneficiaries.
+
+Generally, the entire interest in the Roth IRA must be distributed by the end of the 5th or 10th calendar year, as applicable, after the year of the owner's death unless the interest is payable to an eligible designated beneficiary over the life or life expectancy of the eligible designated beneficiary. See When Must You Withdraw Assets? (Required Minimum Distributions) in chapter 1.
+
+If paid as an annuity, the entire interest must be payable over a period not greater than the designated beneficiary's life expectancy and distributions must begin before the end of the calendar year following the year of death. Distributions from another Roth IRA can't be substituted for these distributions unless the other Roth IRA was inherited from the same decedent.
+
+If the sole beneficiary is the spouse, they can either delay distributions until the decedent would have reached age 73 or treat the Roth IRA as their own.
+
+Combining with other Roth IRAs.
+
+A beneficiary can combine an inherited Roth IRA with another Roth IRA maintained by the beneficiary only if the beneficiary either:
+
+-
+
+Inherited the other Roth IRA from the same decedent, or
+
+-
+
+Was the spouse of the decedent and the sole beneficiary of the Roth IRA and elects to treat it as their own IRA.
+
+Distributions that aren't qualified distributions.
+
+If a distribution to a beneficiary isn't a qualified distribution, it is generally includible in the beneficiary's gross income in the same manner as it would have been included in the owner's income had it been distributed to the IRA owner when they were alive.
+
+If the owner of a Roth IRA dies before the end of:
+
+-
+
+The 5-year period beginning with the first tax year for which a contribution was made to a Roth IRA set up for the owner's benefit, or
+
+-
+
+The 5-year period starting with the year of a conversion contribution from a traditional IRA or a rollover from a qualified retirement plan to a Roth IRA,
+
+then each type of contribution is divided among multiple beneficiaries according to the pro-rata share of each. See Ordering Rules for Distributions , earlier.
+
+Example.
+
+When Ms. Hibbard died in 2025, her Roth IRA contained regular contributions of $4,000, a conversion contribution of $10,000 that was made in 2021, and earnings of $2,000. No distributions had been made from her IRA. She had no basis in the conversion contribution in 2021.
+
+When she established this Roth IRA (her first) in 2021, she named each of her four children as equal beneficiaries. Each child will receive one-fourth of each type of contribution and one-fourth of the earnings. An immediate distribution of $4,000 to each child will be treated as $1,000 from regular contributions, $2,500 from conversion contributions, and $500 from earnings.
+
+In this case, because the distributions are made before the end of the applicable 5-year period for a qualified distribution, each beneficiary includes $500 in income for 2025. The 10% additional tax on early distributions doesn't apply because the distribution was made to the beneficiaries as a result of the death of the IRA owner.
+
+Caution:
+
+If distributions from an inherited Roth IRA are less than the required minimum distribution for the year, discussed in chapter 1 under When Must You Withdraw Assets? (Required Minimum Distributions), you may have to pay a 25% excise tax for that year on the amount not distributed as required. For the tax on excess accumulations (insufficient distributions), see Excess Accumulations (Insufficient Distributions) under What Acts Result in Penalties or Additional Taxes? in chapter 1. If this applies to you, substitute “Roth IRA” for “traditional IRA” in that discussion.

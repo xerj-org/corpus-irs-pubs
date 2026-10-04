@@ -1,0 +1,157 @@
+IRS Pub 970 (2025) | 5. Student Loan Cancellations and Repayment Assistance
+
+5. Student Loan Cancellations and Repayment Assistance
+
+Reminder
+
+Student loan forgiveness. The American Rescue Plan Act of 2021 modified the treatment of student loan forgiveness for discharges in 2021 through 2025.
+
+Introduction
+
+Generally, if you are responsible for making loan payments and the loan is canceled or repaid by someone else, you must include the amount that was canceled or paid on your behalf in your gross income for tax purposes. However, in certain circumstances, you may be able to exclude this amount from gross income if the loan was one of the following.
+
+-
+
+A loan for postsecondary educational expenses.
+
+-
+
+A private education loan.
+
+-
+
+A loan from an educational organization described in section 170(b)(1)(A)(ii).
+
+-
+
+A loan from an organization exempt from tax under section 501(a) to refinance a student loan.
+
+Loan for Postsecondary Educational Expenses
+
+This is any loan provided expressly for postsecondary education, regardless of whether provided through the educational institution or directly to the borrower, if such loan was made, insured, or guaranteed by one of the following.
+
+-
+
+The United States or an instrumentality or agency thereof.
+
+-
+
+A state or territory of the United States or the District of Columbia or any political subdivision thereof.
+
+-
+
+An eligible educational institution.
+
+Eligible educational institution.
+
+An eligible educational institution is any college, university, vocational school, or other postsecondary educational institution eligible to participate in a student aid program administered by the U.S. Department of Education. Virtually all accredited public, nonprofit, and proprietary (privately owned profit-making) postsecondary institutions meet this definition.
+
+An eligible educational institution also includes certain educational institutions located outside the United States that are eligible to participate in a student aid program administered by the U.S. Department of Education.
+
+. The educational institution should be able to tell you if it is an eligible educational institution. .
+
+Private Education Loan
+
+A private education loan is a loan provided by a private educational lender that:
+
+-
+
+Is not made, insured, or guaranteed under Title IV of the Higher Education Act of 1965; and
+
+-
+
+Is issued expressly for postsecondary educational expenses to a borrower, regardless of whether the loan is provided through the educational institution that the student attends or directly to the borrower from the private educational lender. A private education loan does not include an extension of credit under an open-end consumer credit plan, a reverse mortgage transaction, a residential mortgage transaction, or any other loan that is secured by real property or a dwelling.
+
+Private educational lender.
+
+A private educational lender is one of the following.
+
+-
+
+A financial institution that solicits, makes, or extends private education loans.
+
+-
+
+A federal credit union that solicits, makes, or extends private education loans.
+
+-
+
+Any other person engaged in the business of soliciting, making, or extending private education loans.
+
+. The cancellation of your loan won't qualify for tax-free treatment if it is canceled because of services you performed for the private educational lender that made the loan or other organization that provided the funds. .
+
+Loan From an Educational Organization Described in Section 170(b)(1)(A)(ii)
+
+This is any loan made by the organization if the loan is made:
+
+-
+
+As part of an agreement with an entity described earlier under which the funds to make the loan were provided to the educational organization, or
+
+-
+
+Under a program of the educational organization that is designed to encourage its students to serve in occupations with unmet needs or in areas with unmet needs where the services provided by the students (or former students) are for or under the direction of a governmental unit or a tax-exempt section 501(c)(3) organization.
+
+Educational organization described in section 170(b)(1)(A)(ii).
+
+This is an educational institution that maintains a regular faculty and curriculum and normally has a regularly enrolled body of students in attendance at the place where it carries on its educational activities.
+
+Section 501(c)(3) organization.
+
+This is any corporation, community chest, fund, or foundation organized and operated exclusively for one or more of the following purposes.
+
+-
+
+Charitable.
+
+-
+
+Religious.
+
+-
+
+Educational.
+
+-
+
+Scientific.
+
+-
+
+Literary.
+
+-
+
+Testing for public safety.
+
+-
+
+Fostering national or international amateur sports competition (but only if none of its activities involve providing athletic facilities or equipment).
+
+-
+
+The prevention of cruelty to children or animals.
+
+. The cancellation of your loan won't qualify for tax-free treatment if it is canceled because of services you performed for the educational organization that made the loan or other organization that provided the funds. .
+
+Refinanced Loan
+
+If you refinanced a student loan with another loan from an educational organization or a tax-exempt organization, the cancellation of that loan may also be treated as discussed above. This applies if the new loan is made under a program of the refinancing organization that is designed to encourage students to serve in occupations with unmet needs or in areas with unmet needs where the services required of the students are for or under the direction of a governmental unit or a tax-exempt section 501(c)(3) organization (defined earlier).
+
+Student Loan Repayment Assistance
+
+Student loan repayments made to you are tax free if you received them for any of the following.
+
+-
+
+The National Health Service Corps Loan Repayment Program (NHSC Loan Repayment Program).
+
+-
+
+A state education loan repayment program eligible for funds under the Public Health Service Act.
+
+-
+
+Any other state loan repayment or loan forgiveness program that is intended to provide for the increased availability of health services in underserved or health professional shortage areas (as determined by such state).
+
+. You can't deduct the interest you paid on a student loan to the extent payments were made through your participation in the above programs. .

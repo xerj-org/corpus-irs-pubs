@@ -1,0 +1,249 @@
+IRS Pub 525 (2025) | Special Rules for Certain Employees
+
+Special Rules for Certain Employees
+
+This part of the publication deals with special rules for people in certain types of employment: members of the clergy, members of religious orders, people working for foreign employers, military personnel, and volunteers.
+
+Clergy
+
+If you’re a member of the clergy, you must include in your income offerings and fees you receive for marriages, baptisms, funerals, masses, etc., in addition to your salary. If the offering is made to the religious institution, it isn’t taxable to you.
+
+If you’re a member of a religious organization and you give your outside earnings to the organization, you must still include the earnings in your income. However, you may be entitled to a charitable contribution deduction for the amount paid to the organization. See Pub. 526. Also, see Members of Religious Orders , later.
+
+Pension.
+
+A pension or retirement pay for a member of the clergy is usually treated as any other pension or annuity. It must be reported on lines 5a and 5b of Form 1040 or 1040-SR.
+
+Housing
+
+Special rules for housing apply to members of the clergy. Under these rules, you don’t include in your income the fair rental value of a home (including utilities) or a designated housing allowance provided to you as part of your pay. However, the exclusion can’t be more than the reasonable pay for your service. If you pay for the utilities, you can exclude any allowance designated for utility cost, up to your actual cost. The home or allowance must be provided as compensation for your services as an ordained, licensed, or commissioned minister. However, you must include the fair rental value of the home or the housing allowance as earnings from self-employment on Schedule SE (Form 1040) if you’re subject to self-employment tax. For more information, see Pub. 517.
+
+Members of Religious Orders
+
+If you’re a member of a religious order who has taken a vow of poverty, how you treat earnings that you renounce and turn over to the order depends on whether your services are performed for the order.
+
+Services performed for the order.
+
+If you’re performing the services as an agent of the order in the exercise of duties required by the order, don’t include in your income the amounts turned over to the order.
+
+If your order directs you to perform services for another agency of the supervising church or an associated institution, you’re considered to be performing the services as an agent of the order. Any wages you earn as an agent of an order that you turn over to the order aren’t included in your income.
+
+Example 15.
+
+You’re a member of a church order and have taken a vow of poverty. You renounce any claims to your earnings and turn over to the order any salaries or wages you earn. You’re a registered nurse, so your order assigns you to work in a hospital that is an associated institution of the church. However, you remain under the general direction and control of the order. You’re considered to be an agent of the order and any wages you earn at the hospital that you turn over to your order aren’t included in your income.
+
+Services performed outside the order.
+
+If you’re directed to work outside the order, your services aren’t an exercise of duties required by the order unless they meet both of the following requirements.
+
+-
+
+They’re the kind of services that are ordinarily the duties of members of the order.
+
+-
+
+They’re part of the duties that you must exercise for, or on behalf of, the religious order as its agent.
+
+If you’re an employee of a third party, the services you perform for the third party won’t be considered directed or required of you by the order. Amounts you receive for these services are included in your income, even if you have taken a vow of poverty.
+
+Example 16.
+
+You’re a member of a religious order and have taken a vow of poverty. You renounce all claims to your earnings and turn over your earnings to the order.
+
+You’re a schoolteacher. You were instructed by the superiors of the order to get a job with a private tax-exempt school. You became an employee of the school, and, at your request, the school made the salary payments directly to the order.
+
+Because you’re an employee of the school, you’re performing services for the school rather than as an agent of the order. The wages you earn working for the school are included in your income.
+
+Example 17.
+
+You’re a member of a religious order who, as a condition of membership, has taken vows of poverty and obedience. All claims to your earnings are renounced. You received permission from the order to establish a private practice as a psychologist and counsel members of religious orders as well as nonmembers. Although the order reviews your budget annually, you control not only the details of your practice but also the means by which your work as a psychologist is accomplished.
+
+Your private practice as a psychologist doesn’t make you an agent of the religious order. The psychological services you provide aren’t the type of services that are provided by the order. The income you earn as a psychologist is earned in your individual capacity. You must include in your income the earnings from your private practice.
+
+Foreign Employer
+
+Special rules apply if you work for a foreign employer.
+
+U.S. citizen.
+
+If you’re a U.S. citizen who works in the United States for a foreign government, an international organization, a foreign embassy, or any foreign employer, you must include your salary in your income.
+
+Social security and Medicare taxes.
+
+You’re exempt from social security and Medicare employee taxes if you’re employed in the United States by an international organization or a foreign government. However, you must pay self-employment tax on your earnings from services performed in the United States, even though you aren’t self-employed. This rule also applies if you’re an employee of a qualifying wholly owned instrumentality of a foreign government.
+
+Employees of international organizations or foreign governments.
+
+Your compensation for official services to an international organization is exempt from federal income tax if you aren’t a citizen of the United States or you’re a citizen of the Philippines (whether or not you’re a citizen of the United States).
+
+Your compensation for official services to a foreign government is exempt from federal income tax if all of the following are true.
+
+-
+
+You aren’t a citizen of the United States or you’re a citizen of the Philippines (whether or not you’re a citizen of the United States).
+
+-
+
+Your work is like the work done by employees of the United States in foreign countries.
+
+-
+
+The foreign government gives an equal exemption to employees of the United States in its country.
+
+Waiver of alien status.
+
+If you’re an alien who works for a foreign government or international organization and you file a waiver under section 247(b) of the Immigration and Nationality Act to keep your immigrant status, any salary you receive after the date you file the waiver isn’t exempt under this rule. However, it may be exempt under a treaty or agreement. See Pub. 519, U.S. Tax Guide for Aliens, for more information about treaties.
+
+Nonwage income.
+
+This exemption applies only to employees’ wages, salaries, and fees. Pensions and other income, such as investment income, don’t qualify for this exemption.
+
+Employment abroad.
+
+For information on the tax treatment of income earned abroad, see Pub. 54.
+
+Military
+
+Payments you receive as a member of a military service are generally taxed as wages except for retirement pay, which is taxed as a pension. Allowances generally aren’t taxed. For more information on the tax treatment of military allowances and benefits, see Pub. 3.
+
+Differential wage payments.
+
+Any payments made to you by an employer during the time you’re performing service in the uniformed services are treated as compensation. These wages are subject to income tax withholding and are reported on Form W-2. See the discussion under Miscellaneous Compensation , earlier.
+
+Military retirement pay.
+
+If your retirement pay is based on age or length of service, it’s taxable and must be included in your income as a pension on lines 5a and 5b of Form 1040 or 1040-SR. Don’t include in your income the amount of any reduction in retirement or retainer pay to provide a survivor annuity for your spouse or children under the Retired Serviceman’s Family Protection Plan or the Survivor Benefit Plan.
+
+For a more detailed discussion of survivor annuities, see Pub. 575.
+
+Disability.
+
+If you’re retired on disability, see Military and Government Disability Pensions under Sickness and Injury Benefits , later.
+
+Qualified reservist distribution (QRD).
+
+If you received a QRD of all or part of the balance in your health FSA because you’re a reservist and you have been ordered or called to active duty for a period of 180 days or more, the QRD is treated as wages and is reportable on Form W-2.
+
+Veterans’ benefits.
+
+Don’t include in your income any veterans’ benefits paid under any law, regulation, or administrative practice administered by the Department of Veterans Affairs (VA). The following amounts paid to veterans or their families aren’t taxable.
+
+-
+
+Education, training, and subsistence allowances.
+
+-
+
+Disability compensation and pension payments for disabilities paid either to veterans or their families.
+
+-
+
+Grants for homes designed for wheelchair living.
+
+-
+
+Grants for motor vehicles for veterans who lost their sight or the use of their limbs.
+
+-
+
+Veterans’ insurance proceeds and dividends paid either to veterans or their beneficiaries, including the proceeds of a veteran’s endowment policy paid before death.
+
+-
+
+Interest on insurance dividends left on deposit with the VA.
+
+-
+
+Benefits under a dependent-care assistance program.
+
+-
+
+The death gratuity paid to a survivor of a member of the U.S. Armed Forces who died after September 10, 2001.
+
+-
+
+Payments made under the compensated work therapy program.
+
+-
+
+Any bonus payment by a state or political subdivision because of service in a combat zone.
+
+Note:
+
+If, in a previous year, you received a bonus payment by a state or political subdivision because of service in a combat zone that you included in your income, you can file a claim for refund of the taxes on that income. Use Form 1040-X to file the claim. File a separate form for each tax year involved. In most cases, you must file your claim within 3 years after the date you filed your original return or within 2 years after the date you paid the tax, whichever is later. See the Instructions for Form 1040-X for information on filing that form.
+
+Volunteers
+
+The tax treatment of amounts you receive as a volunteer is covered in the following discussions.
+
+Peace Corps.
+
+Living allowances you receive as a Peace Corps volunteer or volunteer leader for housing, utilities, household supplies, food, and clothing are exempt from tax.
+
+Taxable allowances.
+
+The following allowances must be included in your income and reported as wages.
+
+-
+
+Allowances paid to your spouse and minor children while you’re a volunteer leader training in the United States.
+
+-
+
+Living allowances designated by the Director of the Peace Corps as basic compensation. These are allowances for personal items such as domestic help, laundry and clothing maintenance, entertainment and recreation, transportation, and other miscellaneous expenses.
+
+-
+
+Leave allowances.
+
+-
+
+Readjustment allowances or termination payments. These are considered received by you when credited to your account.
+
+Example 18.
+
+You’re a Peace Corps volunteer and get $175 a month as a readjustment allowance during your period of service, to be paid to you in a lump sum at the end of your tour of duty. Although the allowance isn’t available to you until the end of your service, you must include it in your income on a monthly basis as it’s credited to your account.
+
+Volunteers in Service to America (VISTA).
+
+If you’re a VISTA volunteer, you must include meal and lodging allowances paid to you in your income as wages.
+
+National Senior Service Corps programs.
+
+Don’t include in your income amounts you receive for supportive services or reimbursements for out-of-pocket expenses from the following programs.
+
+-
+
+Retired Senior Volunteer Program (RSVP).
+
+-
+
+Foster Grandparent Program.
+
+-
+
+Senior Companion Program.
+
+Service Corps of Retired Executives (SCORE).
+
+If you receive amounts for supportive services or reimbursements for out-of-pocket expenses from SCORE, don’t include these amounts in gross income.
+
+Volunteer tax counseling.
+
+Don’t include in your income any reimbursements you receive for transportation, meals, and other expenses you have in training for, or actually providing, volunteer federal income tax counseling for the elderly (TCE).
+
+You can deduct as a charitable contribution your unreimbursed out-of-pocket expenses in taking part in the volunteer income tax assistance (VITA) program.
+
+Volunteer firefighters and emergency medical responders.
+
+If you’re a volunteer firefighter or emergency medical responder, do not include in your income the following benefits you receive from a state or local government.
+
+-
+
+Rebates or reductions of property or income taxes you receive because of services you performed as a volunteer firefighter or emergency medical responder.
+
+-
+
+Payments you receive because of services you performed as a volunteer firefighter or emergency medical responder, up to $50 for each month you provided services.
+
+The excluded income reduces any related tax or contribution deduction.

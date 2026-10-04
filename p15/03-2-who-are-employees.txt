@@ -1,0 +1,183 @@
+IRS Pub 15 (2026) | 2. Who Are Employees?
+
+2. Who Are Employees?
+
+Generally, employees are defined either under common law or under statutes for certain situations. See Pub. 15-A for details on statutory employees and nonemployees.
+
+Employee status under common law.
+
+Generally, a worker who performs services for you is your employee if you have the right to control what will be done and how it will be done. This is so even when you give the employee freedom of action. What matters is that you have the right to control the details of how the services are performed. See Pub. 15-A for more information on how to determine whether an individual providing services is an independent contractor or an employee.
+
+Generally, people in business for themselves aren’t employees. For example, doctors, lawyers, veterinarians, and others in an independent trade in which they offer their services to the public are usually not employees. If the business is incorporated, corporate officers who work in the business are employees of the corporation.
+
+If an employer-employee relationship exists, it doesn’t matter what it is called. The employee may be called an agent or independent contractor. It also doesn’t matter how payments are measured or paid, what they’re called, or if the employee works full or part time.
+
+Statutory employees.
+
+If someone who works for you isn’t an employee under the common-law rules discussed earlier, don’t withhold federal income tax from their pay, unless backup withholding applies. Although the following persons may not be common-law employees, they’re considered employees by statute for social security and Medicare tax purposes if the conditions under Tests , later, are met.
+
+a.
+
+An agent or commission driver who delivers meat, vegetable, fruit, or bakery products; beverages (other than milk); laundry; or dry cleaning for someone else.
+
+b.
+
+A full-time life insurance salesperson who sells primarily for one company.
+
+c.
+
+A homeworker who works at home or off premises by the guidelines of the person for whom the work is done, with materials or goods furnished by and returned to that person or to someone that person designates.
+
+d.
+
+A traveling or city salesperson (other than an agent or commission driver) who works full time (except for sideline sales activities) for one firm or person getting orders from customers. The orders must be for merchandise for resale or supplies for use in the customer’s business. The customers must be retailers, wholesalers, contractors, or operators of hotels, restaurants, or other businesses dealing with food or lodging.
+
+Tests.
+
+Withhold social security and Medicare taxes from statutory employees’ wages if all three of the following tests apply.
+
+-
+
+The service contract states or implies that almost all of the services are to be performed personally by them.
+
+-
+
+They have little or no investment in the equipment and property used to perform the services (other than an investment in transportation facilities).
+
+-
+
+The services are performed on a continuing basis for the same payer.
+
+Persons in a or d , earlier, are also employees for FUTA tax purposes if tests 1 through 3 are met.
+
+Pub. 15-A gives examples of the employer-employee relationship.
+
+Statutory nonemployees.
+
+Direct sellers, qualified real estate agents, and certain companion sitters are, by law, considered nonemployees. They’re generally treated as self-employed for all federal tax purposes, including income and employment taxes. See Pub. 15-A for more information.
+
+Farmworkers.
+
+In general, you’re an employer of farmworkers if your employees:
+
+-
+
+Raise or harvest agricultural or horticultural products on your farm (including the raising and feeding of livestock);
+
+-
+
+Work in connection with the operation, management, conservation, improvement, or maintenance of your farm and its tools and equipment, if the major part of such service is performed on a farm;
+
+-
+
+Provide services relating to salvaging timber, or clearing land of brush and other debris, left by a hurricane (also known as hurricane labor), if the major part of such service is performed on a farm;
+
+-
+
+Handle, process, or package any agricultural or horticultural commodity in its unmanufactured state if you produced over half of the commodity (for a group of up to 20 unincorporated operators, all of the commodity); or
+
+-
+
+Do work for you related to cotton ginning, turpentine, gum resin products, or the operation and maintenance of irrigation facilities.
+
+For this purpose, the term “farm” includes stock, dairy, poultry, fruit, fur-bearing animal, and truck farms, as well as plantations, ranches, nurseries, ranges, greenhouses or other similar structures used primarily for the raising of agricultural or horticultural commodities, and orchards.
+
+Farmwork doesn’t include reselling activities that don’t involve any substantial activity of raising agricultural or horticultural commodities, such as a retail store or a greenhouse used primarily for display or storage. It also doesn’t include processing services that change a commodity from its raw or natural state, or services performed after a commodity has been changed from its raw or natural state.
+
+Crew leaders.
+
+If you’re a crew leader, you’re an employer of farmworkers. A crew leader is a person who furnishes and pays (either on their own behalf or on behalf of the farm operator) workers to do farmwork for the farm operator. If there is no written agreement between you and the farm operator stating that you’re their employee and if you pay the workers (either for yourself or for the farm operator), then you’re a crew leader. For FUTA tax rules, see section 14 .
+
+If you’re a crew leader, you’re not considered the employee of the farm operator for services you perform in furnishing farmworkers and as a member of the crew.
+
+H-2A agricultural workers.
+
+On Form W-2, don’t check box 13 (Statutory employee), as H-2A workers aren’t statutory employees.
+
+Treating employees as nonemployees.
+
+You’ll generally be liable for social security and Medicare taxes and withheld income tax if you don’t deduct and withhold these taxes because you treated an employee as a nonemployee. You may be able to figure your liability using special section 3509 rates for the employee share of social security and Medicare taxes and federal income tax withholding. The applicable rates depend on whether you filed required Forms 1099. You can’t recover the employee share of social security tax, Medicare tax, or income tax withholding from the employee if the tax is paid under section 3509. You’re liable for the income tax withholding regardless of whether the employee paid income tax on the wages. You continue to owe the full employer share of social security and Medicare taxes. The employee remains liable for the employee share of social security and Medicare taxes. See section 3509 for details. Also see the Instructions for Form 941-X, the Instructions for Form 943-X, or the Instructions for Form 944-X.
+
+Section 3509 rates aren’t available if you intentionally disregard the requirement to withhold taxes from the employee or if you withheld income taxes but not social security or Medicare tax. Section 3509 isn’t available for reclassifying statutory employees. See Statutory employees , earlier in this section.
+
+If the employer issued required information returns, the section 3509 rates are the following.
+
+-
+
+For social security taxes: employer rate of 6.2% plus 20% of the employee rate of 6.2%, for a total rate of 7.44% of wages.
+
+-
+
+For Medicare taxes: employer rate of 1.45% plus 20% of the employee rate of 1.45%, for a total rate of 1.74% of wages.
+
+-
+
+For Additional Medicare Tax: 0.18% (20% of the employee rate of 0.9%) of wages subject to Additional Medicare Tax.
+
+-
+
+For federal income tax withholding, the rate is 1.5% of wages.
+
+If the employer didn’t issue required information returns, the section 3509 rates are the following.
+
+-
+
+For social security taxes: employer rate of 6.2% plus 40% of the employee rate of 6.2%, for a total rate of 8.68% of wages.
+
+-
+
+For Medicare taxes: employer rate of 1.45% plus 40% of the employee rate of 1.45%, for a total rate of 2.03% of wages.
+
+-
+
+For Additional Medicare Tax: 0.36% (40% of the employee rate of 0.9%) of wages subject to Additional Medicare Tax.
+
+-
+
+For federal income tax withholding, the rate is 3.0% of wages.
+
+Relief provisions.
+
+If you have a reasonable basis for not treating a worker as an employee, you may be relieved from having to pay employment taxes for that worker. To get this relief, you must file all required federal tax returns, including information returns, on a basis consistent with your treatment of the worker. You (or your predecessor) must not have treated any worker holding a substantially similar position as an employee for any periods beginning after 1977. See Pub. 1976, Do You Qualify for Relief Under Section 530.
+
+IRS help.
+
+If you want the IRS to determine whether a worker is an employee, file Form SS-8.
+
+Voluntary Classification Settlement Program (VCSP).
+
+Employers who are currently treating their workers (or a class or group of workers) as independent contractors or other nonemployees and want to voluntarily reclassify their workers as employees for future tax periods may be eligible to participate in the VCSP if certain requirements are met. File Form 8952 to apply for the VCSP. For more information, go to IRS.gov/VCSP .
+
+Business Owned and Operated by Spouses
+
+If you and your spouse jointly own and operate a business and share in the profits and losses, you may be partners in a partnership, whether or not you have a formal partnership agreement. See Pub. 541 for more details. The partnership is considered the employer of any employees, and is liable for any employment taxes due on wages paid to its employees.
+
+Exception—qualified joint venture.
+
+For tax years beginning after 2006, the Small Business and Work Opportunity Tax Act of 2007 (P.L. 110-28) provides that a “qualified joint venture,” whose only members are spouses filing a joint income tax return, can elect not to be treated as a partnership for federal tax purposes. A qualified joint venture conducts a trade or business where:
+
+-
+
+The only members of the joint venture are spouses who file a joint income tax return,
+
+-
+
+Both spouses materially participate (see Material participation in the instructions for Schedule C (Form 1040), line G) in the trade or business (mere joint ownership of property isn’t enough),
+
+-
+
+Both spouses elect to not be treated as a partnership, and
+
+-
+
+The business is co-owned by both spouses and isn’t held in the name of a state law entity such as a partnership or limited liability company (LLC).
+
+To make the election, all items of income, gain, loss, deduction, and credit must be divided between the spouses, in accordance with each spouse’s interest in the venture, and reported as sole proprietors on a separate Schedule C (Form 1040) or Schedule F (Form 1040). Each spouse must also file a separate Schedule SE (Form 1040) to pay self-employment taxes, as applicable. See the Instructions for Form 1040-SS for American Samoa, Guam, the CNMI, the USVI, and Puerto Rico.
+
+Spouses using the qualified joint venture rules are treated as sole proprietors for federal tax purposes and generally don’t need an EIN. If employment taxes are owed by the qualified joint venture, either spouse may report and pay the employment taxes due on the wages paid to the employees using the EIN of that spouse’s sole proprietorship. Generally, filing as a qualified joint venture won’t increase the spouses’ total tax owed on the joint income tax return. However, it gives each spouse credit for social security earnings on which retirement benefits are based and for Medicare coverage without filing a partnership return.
+
+If your spouse is your employee, not your partner, see One spouse employed by another in section 3. For more information on qualified joint ventures, go to IRS.gov/QJV .
+
+Exception—community income.
+
+If you and your spouse wholly own an unincorporated business as community property under the community property laws of a state, foreign country, or U.S. territory, you can treat the business either as a sole proprietorship (of the spouse who carried on the business) or a partnership. You may still make an election to be taxed as a qualified joint venture instead of a partnership. See Exception—qualified joint venture , earlier, in this section.

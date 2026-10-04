@@ -1,0 +1,183 @@
+IRS Pub 501 (2025) | Who Must File
+
+Who Must File
+
+If you are a U.S. citizen or resident alien, whether you must file a federal income tax return depends on your gross income, your filing status, your age, and whether you are a dependent. For details, see Table 1 and Table 2 . You must also file if one of the situations described in Table 3 applies. The filing requirements apply even if you owe no tax.
+
+Table 1. 2025 Filing Requirements Chart for Most Taxpayers
+
+IF your filing status is... | AND at the end of 2025 you were... * | THEN file a return if your gross income was at least... **
+single | under 65 | $15,750
+65 or older | $17,750
+head of household | under 65 | $23,625
+65 or older | $25,625
+married filing jointly *** | under 65 (both spouses) | $31,500
+65 or older (one spouse) | $33,100
+65 or older (both spouses) | $34,700
+married filing separately | any age | $5
+qualifying surviving spouse | under 65 | $31,500
+65 or older | $33,100
+* If you were born before January 2, 1961, you’re considered to be 65 or older at the end of 2025. (If your spouse died in 2025, see Death of spouse , later. If you’re preparing a return for someone who died in 2025, see Death of taxpayer , later.)
+** Gross income means all income you receive in the form of money, goods, property, and services that isn’t exempt from tax, including any income from sources outside the United States or from the sale of your main home (even if you can exclude part or all of it). Don’t include any social security benefits unless (a) you’re married filing a separate return and you lived with your spouse at any time during 2025, or (b) one-half of your social security benefits plus your other gross income and any tax-exempt interest is more than $25,000 ($32,000 if married filing jointly). If (a) or (b) applies, see the Instructions for Form 1040 to figure the taxable part of social security benefits you must include in gross income. Gross income includes gains, but not losses, reported on Form 8949 or Schedule D. Gross income from a business means, for example, the amount on Schedule C, line 7; or Schedule F, line 9. But in figuring gross income, don’t reduce your income by any losses, including any loss on Schedule C, line 7; or Schedule F, line 9.
+*** If you didn’t live with your spouse at the end of 2025 (or on the date your spouse died) and your gross income was at least $5, you must file a return regardless of your age.
+
+You may have to pay a penalty if you are required to file a return but fail to do so. If you willfully fail to file a return, you may be subject to criminal prosecution.
+
+Gross income.
+
+Gross income is all income you receive in the form of money, goods, property, and services that isn’t exempt from tax. If you are married and live with your spouse in a community property state, half of any income defined by state law as community income may be considered yours. For a list of community property states, see Community property states under Married Filing Separately , later.
+
+Self-employed persons.
+
+If you are self-employed in a business that provides services (where products aren’t a factor), your gross income from that business is the gross receipts. If you are self-employed in a business involving manufacturing, merchandising, or mining, your gross income from that business is the total sales minus the cost of goods sold. In either case, you must add any income from investments and from incidental or outside operations or sources.
+
+Filing status.
+
+Your filing status generally depends on whether you are single or married. Whether you are single or married is determined at the end of your tax year, which is December 31 for most taxpayers. Filing status is discussed in detail later in this publication.
+
+Age.
+
+Age is a factor in determining if you must file a return only if you are 65 or older at the end of your tax year. For 2025, you are 65 or older if you were born before January 2, 1961.
+
+Filing Requirements for Most Taxpayers
+
+You must file a return if your gross income for the year was at least the amount shown on the appropriate line in Table 1 . Dependents should see Table 2 instead.
+
+Deceased Persons
+
+You must file an income tax return for a decedent (a person who died) if both of the following are true.
+
+-
+
+Your spouse died, or you are the executor, administrator, or legal representative.
+
+-
+
+The decedent met the filing requirements described in this publication at the time of the decedent’s death.
+
+For more information, see Final Income Tax Return for Decedent—Form 1040 or 1040-SR in Pub. 559.
+
+Death of spouse.
+
+If your spouse died in 2025, read this before using Table 1 or Table 2 to find whether you must file a 2025 return. Consider your spouse to be 65 or older at the end of 2025 only if your spouse was 65 or older at the time of death. Even if your spouse was born before January 2, 1961, your spouse isn’t considered 65 or older at the end of 2025 unless your spouse was 65 or older at the time of death.
+
+A person is considered to reach age 65 on the day before the person’s 65th birthday.
+
+Example.
+
+Your spouse was born on February 14, 1960, and died on February 13, 2025. Your spouse is considered age 65 at the time of death. However, if your spouse died on February 12, 2025, your spouse isn’t considered age 65 at the time of death and is not 65 or older at the end of 2025.
+
+Death of taxpayer.
+
+If you are preparing a return for someone who died in 2025, read this before using Table 1 or Table 2. Consider the taxpayer to be 65 or older at the end of 2025 only if the taxpayer was 65 or older at the time of death. Even if the taxpayer was born before January 2, 1961, the taxpayer isn’t considered 65 or older at the end of 2025 unless the taxpayer was 65 or older at the time of death.
+
+A person is considered to reach age 65 on the day before the person’s 65th birthday.
+
+Table 2. 2025 Filing Requirements for Dependents
+
+See Dependents to find out if you are a dependent.
+
+If your parent (or someone else) can claim you as a dependent, use this table to see if you must file a return.
+In this table, unearned income includes taxable interest, ordinary dividends, and capital gain distributions. It also includes unemployment compensation, taxable social security benefits, pensions, annuities, and distributions of unearned income from a trust. Earned income includes salaries, wages, tips, professional fees, and taxable scholarship and fellowship grants. Gross income is the total of your unearned and earned income.
+Caution | If your gross income was $5,200 or more, you usually can’t be claimed as a dependent unless you are a qualifying child. For details, see Dependents .
+Single dependents— Were you either age 65 or older or blind?
+□ | No. You must file a return if any of the following apply. Your unearned income was more than $1,350. Your earned income was more than $15,750. Your gross income was more than the larger of: $1,350, or Your earned income (up to $15,300) plus $450.
+□ | Yes. You must file a return if any of the following apply. Your unearned income was more than $3,350 ($5,350 if 65 or older and blind). Your earned income was more than $17,750 ($19,750 if 65 or older and blind). Your gross income was more than the larger of: $3,350 ($5,350 if 65 or older and blind), or Your earned income (up to $15,300) plus $2,450 ($4,450 if 65 or older and blind).
+Married dependents— Were you either age 65 or older or blind?
+□ | No. You must file a return if any of the following apply. Your gross income was at least $5 and your spouse files a separate return and itemizes deductions. Your unearned income was more than $1,350. Your earned income was more than $15,750. Your gross income was more than the larger of: $1,350, or Your earned income (up to $15,300) plus $450.
+□ | Yes. You must file a return if any of the following apply. Your gross income was at least $5 and your spouse files a separate return and itemizes deductions. Your unearned income was more than $2,950 ($4,550 if 65 or older and blind). Your earned income was more than $17,350 ($18,950 if 65 or older and blind). Your gross income was more than the larger of: $2,950 ($4,550 if 65 or older and blind), or Your earned income (up to $15,300) plus $2,050 ($3,650 if 65 or older and blind).
+
+U.S. Citizens or Resident Aliens Living Abroad
+
+To determine whether you must file a return, include in your gross income any income you earned or received abroad, including any income you can exclude under the foreign earned income exclusion. For more information on special tax rules that may apply to you, see Pub. 54.
+
+Residents of Puerto Rico
+
+If you are a U.S. citizen and also a bona fide resident of Puerto Rico, you must generally file a U.S. income tax return for any year in which you meet the income requirements. This is in addition to any legal requirement you may have to file an income tax return with Puerto Rico.
+
+If you are a bona fide resident of Puerto Rico for the whole year, your U.S. gross income doesn’t include income from sources within Puerto Rico. It does, however, include any income you received for your services as an employee of the United States or any U.S. agency. If you receive income from Puerto Rican sources that isn’t subject to U.S. tax, you must reduce your standard deduction, which reduces the amount of income you can have before you must file a U.S. income tax return.
+
+For more information, see Pub. 570.
+
+Individuals With Income From U.S. Territories
+
+If you had income from Guam, the Commonwealth of the Northern Mariana Islands, American Samoa, or the U.S. Virgin Islands, special rules may apply when determining whether you must file a U.S. federal income tax return. In addition, you may have to file a return with the individual territory government. See Pub. 570 for more information.
+
+Dependents
+
+A person who is a dependent may still have to file a return. It depends on the person’s earned income, unearned income, and gross income. For details, see Table 2 . A dependent must also file if one of the situations described in Table 3 applies.
+
+Responsibility of parent.
+
+If a dependent child must file an income tax return but can’t file due to age or any other reason, a parent, guardian, or other legally responsible person must file it for the child. If the child can’t sign the return, the parent or guardian must sign the child’s name followed by the words “By (your signature), parent for minor child.”
+
+Earned income.
+
+Earned income includes salaries, wages, professional fees, and other amounts received as pay for work you actually perform. Earned income (only for purposes of filing requirements and the standard deduction) also includes any part of a taxable scholarship. See chapter 1 of Pub. 970 for more information on taxable and nontaxable scholarships.
+
+Child’s earnings.
+
+Amounts a child earns by performing services are included in the child’s gross income and not the gross income of the parent. This is true even if under local law the child’s parent has the right to the earnings and may actually have received them. But if the child doesn’t pay the tax due on this income, the parent is liable for the tax.
+
+Unearned income.
+
+Unearned income includes income such as interest, dividends, and capital gains. Trust distributions of interest, dividends, capital gains, and survivor annuities are also considered unearned income.
+
+Election to report child’s unearned income on parent’s return.
+
+You may be able to include your child’s interest and dividend income on your tax return. If you do this, your child won’t have to file a return. To make this election, all of the following conditions must be met.
+
+-
+
+Your child was under age 19 (or under age 24 if a student) at the end of 2025. (A child born on January 1, 2007, is considered to be age 19 at the end of 2025; you can’t make the election for this child unless the child was a student. Similarly, a child born on January 1, 2002, is considered to be age 24 at the end of 2025; you can’t make the election for this child.)
+
+-
+
+Your child had gross income only from interest and dividends (including capital gain distributions and Alaska Permanent Fund dividends).
+
+-
+
+The interest and dividend income was less than $13,500.
+
+-
+
+Your child is required to file a return for 2025 unless you make this election.
+
+-
+
+Your child doesn’t file a joint return for 2025.
+
+-
+
+No estimated tax payment was made for 2025 and no 2024 overpayment was applied to 2025 under your child’s name and SSN.
+
+-
+
+No federal income tax was withheld from your child’s income under the backup withholding rules.
+
+-
+
+You are the parent whose return must be used when making the election to report your child’s unearned income.
+
+For more information, see Form 8814, Parents’ Election To Report Child’s Interest and Dividends, and its instructions.
+
+Other Situations
+
+You may have to file a tax return even if your gross income is less than the amount shown in Table 1 or Table 2 for your filing status. See Table 3 for those other situations when you must file.
+
+Table 3. Other Situations When You Must File a 2025 Return
+
+You must file a return if any of the conditions below apply.
+1. | You owe any special taxes reported on Schedule 2 (Form 1040), including any of the following. (See the instructions for Schedule 2 (Form 1040).)
+a. | Alternative minimum tax.
+b. | Additional tax on a qualified plan, including an individual retirement arrangement (IRA), or other tax-favored account.
+c. | Social security or Medicare tax on tips you didn’t report to your employer or on wages you received from an employer who didn’t withhold these taxes.
+d. | Uncollected social security, Medicare, or railroad retirement tax on tips you reported to your employer or on group-term life insurance and additional taxes on health savings accounts.
+e. | Household employment taxes.
+f. | Recapture taxes.
+2. | You (or your spouse if filing jointly) received Archer MSA, Medicare Advantage MSA, or health savings account distributions.
+3. | You had net earnings from self-employment of at least $400.
+4. | You had wages of $108.28 or more from a church or qualified church-controlled organization that is exempt from employer social security and Medicare taxes.
+5. | Advance payments of the premium tax credit were made for you, your spouse, or a dependent who enrolled in coverage through the Health Insurance Marketplace. You or whoever enrolled you should have received Form(s) 1095-A showing the amount of the advance payments.
+6. | You are required to include amounts in income under section 965 or you have a net tax liability under section 965 that you are paying in installments under section 965(h) or deferred by making an election under section 965(i).
+7. | You purchased a new or used clean vehicle from a registered dealer and reduced the amount you paid at the time of sale by transferring the credit to the dealer. See Form 8936 and Schedule A (Form 8936).

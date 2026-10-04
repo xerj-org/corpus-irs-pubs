@@ -1,0 +1,1902 @@
+IRS Pub 17 (2025) | 1. Filing Information
+
+Part One -
+
+The Income Tax Return
+
+The four chapters in this part provide basic information on the tax system. They take you through the first steps of filling out a tax return. They also provide information about dependents, and discuss recordkeeping requirements, IRS e-file (electronic filing), certain penalties, and the two methods used to pay tax during the year: withholding and estimated tax.
+
+The Form 1040 and 1040-SR schedules that are discussed in these chapters are:
+
+-
+
+Schedule 1, Additional Income and Adjustments to Income; and
+
+-
+
+Schedule 3, Part II, Other Payments and Refundable Credits.
+
+1. Filing Information
+
+What’s New
+
+Due date of return. File Form 1040 or 1040-SR by April 15, 2026.
+
+Who must file. Generally, the amount of income you can receive before you must file a return has been increased. See Table 1-1 , Table 1-2 , and Table 1-3 for the specific amounts.
+
+Trump accounts and new Form 4547. Recent legislation allows parents, guardians, and other authorized individuals to elect to establish a new type of individual retirement account, called a Trump account, for the exclusive benefit of certain children. If the child was born after 2024 and before 2029, is a U.S. citizen, and meets certain other requirements, the authorized individual may also elect to receive a $1,000 pilot program contribution to the child’s Trump account. Both elections can be made on Form 4547, which can be filed at the same time as the authorized individual’s 2025 income tax return. For more information on Trump accounts, and to learn how to make these elections, see Form 4547 and its instructions.
+
+Reminders
+
+File online. E-filing is safe and secure and you may be able to e-file for free. For more information, see File Electronically , later.
+
+Access your online account (individual taxpayers only). Go to IRS.gov/Account to securely access information about your federal tax account.
+
+-
+
+View the amount you owe and a breakdown by tax year.
+
+-
+
+See payment plan details or apply for a new payment plan.
+
+-
+
+Make a payment, view 5 years of payment history and any pending or scheduled payments.
+
+-
+
+Access your tax records, including key data from your most recent tax return, your economic impact payment amounts, and transcripts.
+
+-
+
+View digital copies of select notices from the IRS.
+
+-
+
+Approve or reject authorization requests from tax professionals.
+
+-
+
+View your address on file or manage your communication preferences.
+
+-
+
+Go to IRS.gov/SecureAccess to view the required identity authentication process.
+
+Change of address. If you change your address, you should notify the IRS. You can use Form 8822 to notify the IRS of the change. See Change of Address , later, under What Happens After I File .
+
+Enter your social security number. You must enter your social security number (SSN) in the spaces provided on your tax return. If you file a joint return, enter the SSNs in the same order as the names.
+
+Direct deposit of refund. Have your refund deposited directly into your account at a bank or other financial institution. See Direct Deposit under Refunds , later. If you choose direct deposit of your refund, you may be able to split the refund among two or three accounts.
+
+Pay online or by phone. If you owe additional tax, you may be able to pay online or by phone. See How To Pay , later.
+
+Installment agreement. If you can’t pay the full amount due with your return, you may ask to make monthly installment payments. See Installment Agreement , later, under Amount You Owe . You may be able to apply online for a payment agreement if you owe federal tax, interest, and penalties.
+
+Automatic 6-month extension. You can get an automatic 6-month extension to file your tax return if, no later than the date your return is due, you request an extension. See Automatic Extension , later.
+
+Service in combat zone. You are allowed extra time to take care of your tax matters if you are a member of the Armed Forces who served in a combat zone, or if you served in a combat zone in support of the Armed Forces. See Individuals Serving in Combat Zone , later, under When Do I Have To File .
+
+Adoption taxpayer identification number. If a child has been placed in your home for purposes of legal adoption and you won’t be able to get a social security number for the child in time to file your return, you may be able to get an adoption taxpayer identification number (ATIN). For more information, see Social Security Number (SSN) , later.
+
+Taxpayer identification number for aliens. If you or your dependent is a nonresident or resident alien who doesn’t have and isn’t eligible to get a social security number, file Form W-7, Application for IRS Individual Taxpayer Identification Number, with the IRS. For more information, see Social Security Number (SSN) , later.
+
+Individual taxpayer identification number (ITIN) renewal. Some ITINs must be renewed. If you haven’t used your ITIN on a U.S. tax return at least once for tax years 2022, 2023, or 2024, it has expired and must be renewed if you need to file a U.S. federal tax return. You don’t need to renew your ITIN if you don’t need to file a federal tax return. You can find more information at IRS.gov/ITIN .
+
+Frivolous tax submissions. The IRS has published a list of positions that are identified as frivolous. The penalty for filing a frivolous tax return is $5,000. Also, the $5,000 penalty will apply to other specified frivolous submissions. For more information, see Civil Penalties , later.
+
+Introduction
+
+This chapter discusses the following topics.
+
+-
+
+Whether you have to file a return.
+
+-
+
+How to file electronically.
+
+-
+
+How to file for free.
+
+-
+
+When, how, and where to file your return.
+
+-
+
+What happens if you pay too little or too much tax.
+
+-
+
+What records you should keep and how long you should keep them.
+
+-
+
+How you can change a return you have already filed.
+
+Do I Have To File a Return?
+
+You must file a federal income tax return if you are a citizen or resident of the United States or a resident of Puerto Rico and you meet the filing requirements for any of the following categories that apply to you.
+
+-
+
+Individuals in general. (There are special rules for individuals whose spouse has died, executors, administrators, legal representatives, U.S. citizens and residents living outside the United States, residents of Puerto Rico, and individuals with income from U.S. territories.)
+
+-
+
+Dependents.
+
+-
+
+Certain children under age 19 or full-time students.
+
+-
+
+Self-employed persons.
+
+-
+
+Aliens.
+
+The filing requirements for each category are explained in this chapter.
+
+The filing requirements apply even if you don’t owe tax.
+
+. Even if you don’t have to file a return, it may be to your advantage to do so. See Who Should File , later. .
+
+. File only one federal income tax return for the year regardless of how many jobs you had, how many Forms W-2 you received, or how many states you lived in during the year. Don’t file more than one original return for the same year, even if you haven’t received your refund or haven’t heard from the IRS since you filed. .
+
+Individuals—In General
+
+If you are a U.S. citizen or resident, whether you must file a return depends on three factors.
+
+-
+
+Your gross income.
+
+-
+
+Your filing status.
+
+-
+
+Your age.
+
+To find out whether you must file, see Table 1-1 , Table 1-2 , and Table 1-3 . Even if no table shows that you must file, you may need to file to get money back. See Who Should File , later.
+
+Gross income.
+
+This includes all income you receive in the form of money, goods, property, and services that isn’t exempt from tax. It also includes income from sources outside the United States or from the sale of your main home (even if you can exclude all or part of it). Include part of your social security benefits if:
+
+-
+
+You were married, filing a separate return, and you lived with your spouse at any time during 2025; or
+
+-
+
+Half of your social security benefits plus your other gross income and any tax-exempt interest is more than $25,000 ($32,000 if married filing jointly).
+
+If either (1) or (2) applies, see the Instructions for Form 1040 or Pub. 915 to figure the social security benefits you must include in gross income.
+
+Common types of income are discussed in Part Two of this publication.
+
+Community property states.
+
+Community property states include Arizona, California, Idaho, Louisiana, Nevada, New Mexico, Texas, Washington, and Wisconsin. If you and your spouse lived in a community property state, you must usually follow state law to determine what is community property and what is separate income. For details, see Form 8958 and Pub. 555.
+
+Nevada, Washington, and California domestic partners.
+
+A registered domestic partner in Nevada, Washington, or California must generally report half the combined community income of the individual and their domestic partner. See Pub. 555.
+
+Self-employed individuals.
+
+If you are self-employed, your gross income includes the amount on line 7 of Schedule C (Form 1040), Profit or Loss From Business; and line 9 of Schedule F (Form 1040), Profit or Loss From Farming. See Self-Employed Persons , later, for more information about your filing requirements.
+
+. If you don’t report all of your self-employment income, your social security benefits may be lower when you retire. .
+
+Filing status.
+
+Your filing status depends on whether you are single or married and on your family situation. Your filing status is determined on the last day of your tax year, which is December 31 for most taxpayers. See chapter 2 for an explanation of each filing status.
+
+Age.
+
+If you are 65 or older at the end of the year, you can generally have a higher amount of gross income than other taxpayers before you must file. See Table 1-1 . You are considered 65 on the day before your 65th birthday. For example, if your 65th birthday is on January 1, 2026, you are considered 65 for 2025.
+
+Table 1-1. 2025 Filing Requirements for Most Taxpayers
+
+IF your filing status is... | AND at the end of 2025 you were...* | THEN file a return if your gross income was at least...**
+Single | under 65 | $15,750
+65 or older | $17,750
+Married filing jointly *** | under 65 (both spouses) | $31,500
+65 or older (one spouse) | $33,100
+65 or older (both spouses) | $34,700
+Married filing separately | any age | $5
+Head of household | under 65 | $23,625
+65 or older | $25,625
+Qualifying surviving spouse | under 65 | $31,500
+65 or older | $33,100
+
+* | If you were born on January 1, 1961, you are considered to be age 65 at the end of 2025. (If your spouse died in 2025 or if you are preparing a return for someone who died in 2025, see Pub. 501.)
+** | Gross income means all income you received in the form of money, goods, property, and services that isn’t exempt from tax, including any income from sources outside the United States or from the sale of your main home (even if you can exclude part or all of it). Don’t include any social security benefits unless (a) you are married filing a separate return and you lived with your spouse at any time during 2025, or (b) one-half of your social security benefits plus your other gross income and any tax-exempt interest is more than $25,000 ($32,000 if married filing jointly). If (a) or (b) applies, see the Instructions for Form 1040 or Pub. 915 to figure the taxable part of social security benefits you must include in gross income. Gross income includes gains, but not losses, reported on Form 8949 or Schedule D. Gross income from a business means, for example, the amount on Schedule C, line 7, or Schedule F, line 9. But, in figuring gross income, don’t reduce your income by any losses, including any loss on Schedule C, line 7, or Schedule F, line 9.
+*** | If you didn’t live with your spouse at the end of 2025 (or on the date your spouse died) and your gross income was at least $5, you must file a return regardless of your age.
+
+Surviving Spouses, Executors, Administrators, and Legal Representatives
+
+You must file a final return for a decedent (a person who died) if both of the following are true.
+
+-
+
+Your spouse died in 2025 or you are the executor, administrator, or legal representative.
+
+-
+
+The decedent met the filing requirements at the date of death.
+
+For more information on rules for filing a decedent’s final return, see Pub. 559.
+
+U.S. Citizens and Resident Aliens Living Abroad
+
+To determine whether you must file a return, include in your gross income any income you received abroad, including any income you can exclude under the foreign earned income exclusion. For information on special tax rules that may apply to you, see Pub. 54. It is available online and at most U.S. embassies and consulates. See How To Get Tax Help in the back of this publication.
+
+Residents of Puerto Rico
+
+If you are a U.S. citizen and also a bona fide resident of Puerto Rico, you must generally file a U.S. income tax return for any year in which you meet the income requirements. This is in addition to any legal requirement you may have to file an income tax return with Puerto Rico.
+
+If you are a bona fide resident of Puerto Rico for the entire year, your U.S. gross income doesn’t include income from sources within
+
+Puerto Rico. It does, however, include any income you received for your services as an employee of the United States or a U.S. agency. If you receive income from Puerto Rican sources that isn’t subject to U.S. tax, you must reduce your standard deduction. As a result, the amount of income you must have before you are required to file a U.S. income tax return is lower than the applicable amount in Table 1-1 or Table 1-2 . For more information, see Pub. 570.
+
+Individuals With Income From U.S. Territories
+
+If you had income from Guam, the Commonwealth of the Northern Mariana Islands, American Samoa, or the U.S. Virgin Islands, special rules may apply when determining whether you must file a U.S. federal income tax return. In addition, you may have to file a return with the individual island government. See Pub. 570 for more information.
+
+Dependents
+
+If you are a dependent (one who meets the dependency tests in chapter 3 ), see Table 1-2 to find out whether you must file a return. You must also file if your situation is described in Table 1-3 .
+
+Responsibility of parent.
+
+Generally, a child is responsible for filing their own tax return and for paying any tax on the return. If a dependent child must file an income tax return but can’t file due to age or any other reason, then a parent, guardian, or other legally responsible person must file it for the child. If the child can’t sign the return, the parent or guardian must sign the child’s name followed by the words “By (your signature), parent for minor child.”
+
+Child’s earnings.
+
+Amounts a child earns by performing services are included in the child’s gross income and not the gross income of the parent. This is true even if under local law the child’s parent has the right to the earnings and may actually have received them. But if the child doesn’t pay the tax due on this income, the parent is liable for the tax.
+
+Certain Children Under Age 19 or Full-Time Students
+
+If a child’s only income is interest and dividends (including capital gain distributions and Alaska Permanent Fund dividends), the child was under age 19 at the end of 2025 or was a full-time student under age 24 at the end of 2025, and certain other conditions are met, a parent can elect to include the child’s income on the parent’s return. If this election is made, the child doesn’t have to file a return. See Instructions for Form 8814, Parents’ Election To Report Child’s Interest and Dividends.
+
+Self-Employed Persons
+
+You are self-employed if you:
+
+-
+
+Carry on a trade or business as a sole proprietor,
+
+-
+
+Are an independent contractor,
+
+-
+
+Are a member of a partnership, or
+
+-
+
+Are in business for yourself in any other way.
+
+Self-employment can include work in addition to your regular full-time business activities, such as certain part-time work you do at home or in addition to your regular job.
+
+You must file a return if your gross income is at least as much as the filing requirement amount for your filing status and age (shown in Table 1-1 ). Also, you must file Form 1040 or 1040-SR and Schedule SE (Form 1040), Self-Employment Tax, if:
+
+-
+
+Your net earnings from self-employment (excluding church employee income) were $400 or more, or
+
+-
+
+You had church employee income of $108.28 or more. (See Table 1-3 .)
+
+Use Schedule SE (Form 1040) to figure your self-employment tax. Self-employment tax is comparable to the social security and Medicare tax withheld from an employee’s wages. For more information about this tax, see Pub. 334.
+
+Employees of foreign governments or international organizations.
+
+If you are a U.S. citizen who works in the United States for an international organization, a foreign government, or a wholly owned instrumentality of a foreign government, and your employer isn’t required to withhold social security and Medicare taxes from your wages, you must include your earnings from services performed in the United States when figuring your net earnings from self-employment.
+
+Ministers.
+
+You must include income from services you performed as a minister when figuring your net earnings from self-employment, unless you have an exemption from self-employment tax. This also applies to Christian Science practitioners and members of a religious order who have not taken a vow of poverty. For more information, see Pub. 517.
+
+Table 1-2. 2025 Filing Requirements for Dependents
+
+See chapter 3 to find out if someone can claim you as a dependent .
+
+If your parents (or someone else) can claim you as a dependent, use this table to see if you must file a return. (See Table 1-3 for other situations when you must file.)
+In this table, unearned income includes taxable interest, ordinary dividends, and capital gain distributions. It also includes unemployment compensation, taxable social security benefits, pensions, annuities, and distributions of unearned income from a trust. Earned income includes salaries, wages, tips, professional fees, and taxable scholarship and fellowship grants. (See Scholarships and fellowships in chapter 8.) Gross income is the total of your earned and unearned income.
+Single dependents —Were you either age 65 or older or blind?
+□ | No. | You must file a return if any of the following apply.
+• | Your unearned income was more than $1,350.
+• | Your earned income was more than $15,750.
+• | Your gross income was more than the larger of:
+• | $1,350, or
+• | Your earned income (up to $15,300) plus $450.
+□ | Yes. | You must file a return if any of the following apply.
+• | Your unearned income was more than $3,350 ($5,350 if 65 or older and blind).
+• | Your earned income was more than $17,750 ($19,750 if 65 or older and blind).
+• | Your gross income was more than the larger of:
+• | $3,350 ($5,350 if 65 or older and blind), or
+• | Your earned income (up to $15,300) plus $2,450 ($4,450 if 65 or older and blind).
+Married dependents —Were you either age 65 or older or blind?
+□ | No. | You must file a return if any of the following apply.
+• | Your unearned income was more than $1,350.
+• | Your earned income was more than $15,750.
+• | Your gross income was at least $5 and your spouse files a separate return and itemizes deductions.
+• | Your gross income was more than the larger of:
+• | $1,350, or
+• | Your earned income (up to $15,300) plus $450.
+□ | Yes. | You must file a return if any of the following apply.
+• | Your unearned income was more than $2,950 ($4,550 if 65 or older and blind).
+• | Your earned income was more than $17,350 ($18,950 if 65 or older and blind).
+• | Your gross income was at least $5 and your spouse files a separate return and itemizes deductions.
+• | Your gross income was more than the larger of:
+• | $2,950 ($4,550 if 65 or older and blind), or
+• | Your earned income (up to $15,300) plus $2,050 ($3,650 if 65 or older and blind).
+
+Aliens
+
+Your status as an alien (resident, nonresident, or dual-status) determines whether and how you must file an income tax return.
+
+The rules used to determine your alien status are discussed in Pub. 519.
+
+Resident alien.
+
+If you are a resident alien for the entire year, you must file a tax return following the same rules that apply to U.S. citizens. Use the forms discussed in this publication.
+
+Nonresident alien.
+
+If you are a nonresident alien, the rules and tax forms that apply to you are different from those that apply to U.S. citizens and resident aliens. See Pub. 519 to find out if U.S. income tax laws apply to you and which forms you should file.
+
+Dual-status taxpayer.
+
+If you are a resident alien for part of the tax year and a nonresident alien for the rest of the year, you are a dual-status taxpayer. Different rules apply for each part of the year. For information on dual-status taxpayers, see Pub. 519.
+
+Table 1-3. Other Situations When You Must File a 2025 Return
+
+You must file a return if any of the following apply for 2025.
+1. |  | You owe any special taxes, including any of the following (see the instructions for Schedule 2 (Form 1040)).
+a. | Alternative minimum tax.
+b. | Additional tax on a qualified plan, including an individual retirement arrangement (IRA), or other tax-favored account.
+c. | Household employment taxes.
+d. | Social security and Medicare tax on tips you didn’t report to your employer or on wages you received from an employer who didn’t withhold these taxes.
+e. | Uncollected social security and Medicare or RRTA tax on tips you reported to your employer or on group-term life insurance and additional taxes on health savings accounts.
+f. | Recapture taxes.
+2. |  | You (or your spouse, if filing jointly) received health savings account, Archer MSA, or Medicare Advantage MSA distributions.
+3. |  | You had net earnings from self-employment of at least $400.
+4. |  | You had wages of $108.28 or more from a church or qualified church-controlled organization that is exempt from employer social security and Medicare taxes.
+5. |  | Advance payments of the premium tax credit were made for you, your spouse, or a dependent who enrolled in coverage through the Marketplace. You or whoever enrolled you should have received Form(s) 1095-A showing the amount of the advance payments.
+6. |  | You are required to include amounts in income under section 965 or you have a net tax liability under section 965 that you are paying in installments under section 965(h) or deferred by making an election under section 965(i).
+7. |  | You purchased a new or used clean vehicle from a registered dealer and reduced the amount you paid at the time of sale by transferring the credit to the dealer. See Form 8936 and Schedule A (Form 8936).
+
+Who Should File
+
+Even if you don’t have to file, you should file a federal income tax return to get money back if any of the following conditions apply.
+
+-
+
+You had federal income tax withheld or made estimated tax payments.
+
+-
+
+You qualify for the earned income credit. See Pub. 596 for more information.
+
+-
+
+You qualify for the additional child tax credit. See chapter 14 for more information.
+
+-
+
+You qualify for the premium tax credit. See Pub. 974 for more information.
+
+-
+
+You qualify for the American opportunity credit. See Pub. 970 for more information.
+
+-
+
+You qualify for the refundable adoption credit. See Form 8839 and its instructions for more information.
+
+See chapter 13 for more information.
+
+Form 1040 or 1040-SR
+
+Use Form 1040 or 1040-SR to file your return. (But also see File Electronically , later.)
+
+You can use Form 1040 or 1040-SR to report all types of income, deductions, and credits.
+
+File Electronically
+
+Electronic Filing
+
+If your adjusted gross income (AGI) is less than a certain amount, you are eligible for Free File , a free tax software service offered by IRS partners, to prepare and e-file your return for free. If your income is over the amount, you are still eligible for Free File Fillable Forms, an electronic version of IRS paper forms. Table 1-4 lists the free ways to electronically file your return.
+
+Free File and Free Fillable Forms provide eligible taxpayers the ability to e-file their taxes for free. See IRS.gov/FreeFile for details and to see if you are eligible.
+
+E-file.
+
+IRS e-file uses automation to replace most of the manual steps needed to process paper returns. As a result, the processing of e-file returns is faster and more accurate than the processing of paper returns. However, as with a paper return, you are responsible for making sure your return contains accurate information and is filed on time. If your return is filed with IRS e-file , you will receive an acknowledgment that your return was received and accepted. If you owe tax, you can e-file and pay electronically. The IRS has processed more than one billion e-filed returns safely and securely. Using e-file doesn’t affect your chances of an IRS examination of your return.
+
+Requirements for an electronic return.
+
+The requirements for signing an electronic return will be different depending on whether you use tax software or a tax practitioner. To file your return electronically, you must sign the return electronically using a personal identification number (PIN) and provide the information described below. If you are filing online using software, you must use a Self-Select PIN. If you are filing electronically using a tax practitioner, you can use a Self-Select PIN or a Practitioner PIN.
+
+If we issued you an identity protection personal identification number (IP PIN) (as described in more detail next), all six digits of your IP PIN must appear in the IP PIN spaces provided next to the space for your occupation for your electronic signature to be complete. Failure to include an issued IP PIN on the electronic return will result in an invalid signature and a rejected return. If you are filing a joint return and both taxpayers were issued IP PINs, enter both IP PINs in the spaces provided.
+
+Self-Select PIN.
+
+The Self-Select PIN method allows you to create your own PIN. If you are married filing jointly, you and your spouse will each need to create a PIN and enter these PINs as your electronic signatures.
+
+A PIN is any combination of five digits you choose except five zeros. If you use a PIN, there is nothing to sign and nothing to mail—not even your Forms W-2.
+
+Your electronic return signed with a Self-Select PIN is considered a validly signed return only when it includes your PIN; last name; date of birth; IP PIN, if applicable; and your adjusted gross income (AGI) from your originally filed 2024 federal income tax return, if applicable. If you’re filing jointly, your electronic return must also include your spouse’s PIN; last name; date of birth; IP PIN, if applicable; and AGI, if applicable, in order to be considered validly signed. (You, and your spouse if filing jointly, may each use your own prior-year pin to verify your identity if you filed electronically last year. If you use your prior-year PIN or enter your IP PIN, you are not required to enter your prior-year AGI. The prior-year PIN is the five-digit PIN you used to electronically sign your 2024 return.)
+
+If you need your AGI from your originally filed 2024 federal income tax return, and you don’t have your 2024 income tax return, you can access your transcript through your online account at IRS.gov/Account . You can also go to IRS.gov/Transcript or call the IRS at 800-908-9946 to get a free transcript of your return. Don’t use your AGI from an amended return (Form 1040-X) or a math error correction made by the IRS. AGI is the amount shown on your 2024 Form 1040 or 1040-SR, line 11.
+
+For more information, go to IRS.gov/Efile .
+
+Table 1-4. Free Ways To e-file
+
+Use Free File for free tax software and free e-file .
+• | IRS partners offer name-brand products for free.
+• | Many taxpayers are eligible for Free File software.
+• | Everyone is eligible for Free File Fillable Forms, an electronic version of IRS paper forms.
+• | Free File software and Free File Fillable Forms are available only at IRS.gov/FreeFile .
+Use VITA/TCE for free tax help from volunteers and free e-file .
+• | Volunteers prepare your return and e-file it for free.
+• | Some sites also offer do-it-yourself software.
+• | You are eligible based either on your income or age.
+• | Sites are located nationwide. Find one near you by visiting IRS.gov/VITA .
+
+. You can’t use the Self-Select PIN method if you are a first-time filer under age 16 at the end of 2025. .
+
+Practitioner PIN.
+
+The Practitioner PIN method allows you to authorize your tax practitioner to enter or generate your PIN. Your electronic return is considered a validly signed return only when it includes your PIN; last name; date of birth; and IP PIN, if applicable. If you’re filing jointly, your electronic return must also include your spouse’s PIN; last name; date of birth; and IP PIN, if applicable, in order to be considered a validly signed return. The practitioner can provide you with details.
+
+Form 8453.
+
+You must send in a paper Form 8453 if you have to attach certain forms or other documents that can’t be electronically filed. See Form 8453.
+
+Identity Protection PIN (IP PIN).
+
+If the IRS gave you an IP PIN, enter it in the spaces provided on your tax form. If the IRS hasn’t given you this type of number, leave these spaces blank. For more information, see the Instructions for Form 1040.
+
+. All taxpayers are now eligible for an IP PIN. For more information, see Pub. 5477. To apply for an IP PIN, go to IRS.gov/IPPIN and use the Get an IP PIN tool. .
+
+Power of attorney.
+
+If an agent is signing your return for you, a power of attorney (POA) must be filed. Attach the POA to Form 8453 and file it using that form’s instructions. See Signatures , later, for more information on POAs.
+
+Refunds.
+
+Starting in October 2025, the IRS will generally stop issuing paper checks for federal disbursements, including tax refunds, unless an exception applies. For more information, go IRS.gov/ModernPayments .
+
+You may not get all of your refund if you owe certain past-due amounts, such as federal tax, state income tax, state unemployment compensation debts, child support, spousal support, or certain other federal nontax debts, such as student loans. See Offset against debts under Refunds , later.
+
+Refund inquiries.
+
+Information about your return will generally be available within 24 hours after the IRS receives your e-filed return. See Refund Information , later.
+
+Amount you owe.
+
+To avoid late-payment penalties and interest, pay your taxes in full by April 15, 2026 (for most people). See How To Pay , later, for information on how to pay the amount you owe.
+
+Using Your Personal Computer
+
+You can file your tax return in a fast, easy, and convenient way using your personal computer. A computer with Internet access and tax preparation software are all you need. Best of all, you can e-file from the comfort of your home 24 hours a day, 7 days a week.
+
+IRS-approved tax preparation software is available online and in retail stores. For information, visit IRS.gov/efile .
+
+Free Help With Your Return
+
+The Volunteer Income Tax Assistance (VITA) program offers free tax help to people who generally have $69,000 or less in adjusted gross income, persons with disabilities, and limited-English-speaking taxpayers who need help preparing their own tax returns. The Tax Counseling for the Elderly (TCE) program offers free tax help for all taxpayers, particularly those who are 60 years of age and older. TCE volunteers specialize in answering questions about pensions and retirement-related issues unique to seniors.
+
+You can go to IRS.gov to see your options for preparing and filing your return, which include the following.
+
+-
+
+Free File. Go to IRS.gov/FreeFile . See if you qualify to use brand-name software to prepare and e-file your federal tax return for free.
+
+-
+
+VITA. Go to IRS.gov/VITA , download the free IRS2Go app, or call 800-906-9887 to find the nearest VITA location for free tax return preparation.
+
+-
+
+TCE. Go to IRS.gov/TCE , download the free IRS2Go app, or call 888-227-7669 to find the nearest TCE location for free tax return preparation.
+
+Using a Tax Professional
+
+Many tax professionals electronically file tax returns for their clients. You may personally enter your PIN or complete Form 8879, IRS e-file Signature Authorization, to authorize the tax professional to enter your PIN on your return.
+
+Note:
+
+Tax professionals may charge a fee for IRS e-file . Fees can vary depending on the professional and the specific services rendered.
+
+When Do I Have To File?
+
+April 15, 2026, is the due date for filing your 2025 income tax return if you use the calendar year. For a quick view of due dates for filing a return with or without an extension of time to file (discussed later), see Table 1-5 .
+
+Table 1-5. When To File Your 2025 Return
+
+For U.S. citizens and residents who file returns on a calendar year basis.
+
+For Most Taxpayers | For Certain Taxpayers Outside the United States
+No extension requested | April 15, 2026 | June 15, 2026
+Automatic extension | October 15, 2026 | October 15, 2026
+
+If you use a fiscal year (a year ending on the last day of any month except December, or a 52-53-week year), your income tax return is due by the 15th day of the 4th month after the close of your fiscal year.
+
+When the due date for doing any act for tax purposes—filing a return, paying taxes, etc.—falls on a Saturday, Sunday, or legal holiday, the due date is delayed until the next business day.
+
+Filing paper returns on time.
+
+Your paper return is filed on time if it is mailed in an envelope that is properly addressed, has enough postage, and is postmarked by the due date. If you send your return by registered mail, the date of the registration is the postmark date. The registration is evidence that the return was delivered. If you send a return by certified mail and have your receipt postmarked by a postal employee, the date on the receipt is the postmark date. The postmarked certified mail receipt is evidence that the return was delivered.
+
+Private delivery services.
+
+If you choose to mail your return, you can use certain private delivery services designated by the IRS to meet the “timely mailing treated as timely filing/paying” rule for tax returns and payments. These private delivery services include only the following.
+
+-
+
+DHL Express 9:00, DHL Express 10:30, DHL Express 12:00, DHL Express Worldwide, DHL Express Envelope, DHL Import Express 10:30, DHL Import Express 12:00, and DHL Import Express Worldwide.
+
+-
+
+UPS Next Day Air Early A.M., UPS Next Day Air, UPS Next Day Air Saver, UPS 2nd Day Air, UPS 2nd Day Air A.M., UPS Worldwide Express Plus, and UPS Worldwide Express.
+
+-
+
+FedEx First Overnight, FedEx Priority Overnight, FedEx Standard Overnight, FedEx 2 Day, FedEx International Next Flight Out, FedEx International Priority, FedEx International First, and FedEx International Economy.
+
+To check for any updates to the list of designated private delivery services, go to IRS.gov/PDS . For the IRS mailing addresses to use if you’re using a private delivery service, go to IRS.gov/PDSStreetAddresses .
+
+The private delivery service can tell you how to get written proof of the mailing date.
+
+. Only the U.S. Postal Service can deliver to P.O. boxes. You can’t use a private delivery service to make tax payments required to be sent to a P.O. box. .
+
+Filing electronic returns on time.
+
+If you use IRS e-file , your return is considered filed on time if the authorized electronic return transmitter postmarks the transmission by the due date. An authorized electronic return transmitter is a participant in the IRS e-file program that transmits electronic tax return information directly to the IRS.
+
+The electronic postmark is a record of when the authorized electronic return transmitter received the transmission of your electronically filed return on its host system. The date and time in your time zone controls whether your electronically filed return is timely.
+
+Filing late.
+
+If you don’t file your return by the due date, you may have to pay a failure-to-file penalty and interest. For more information, see Penalties , later. Also see Interest under Amount You Owe , later.
+
+If you were due a refund but you didn’t file a return, you must generally file within 3 years from the date the return was due (including extensions) to get that refund.
+
+Nonresident alien.
+
+If you are a nonresident alien and earn wages subject to U.S. income tax withholding, your 2025 U.S. income tax return (Form 1040-NR) is due by:
+
+-
+
+April 15, 2026, if you use a calendar year; or
+
+-
+
+The 15th day of the 4th month after the end of your fiscal year, if you use a fiscal year.
+
+If you don’t earn wages subject to U.S. income tax withholding, your return is due by:
+
+-
+
+June 15, 2026, if you use a calendar year; or
+
+-
+
+The 15th day of the 6th month after the end of your fiscal year, if you use a fiscal year.
+
+See Pub. 519 for more filing information.
+
+Filing for a decedent.
+
+If you must file a final income tax return for a taxpayer who died during the year (a decedent), the return is due by the 15th day of the 4th month after the end of the decedent’s normal tax year. See Pub. 559.
+
+Extensions of Time To File
+
+You may be able to get an extension of time to file your return. There are three types of situations where you may qualify for an extension.
+
+-
+
+Automatic extensions.
+
+-
+
+You are outside the United States.
+
+-
+
+You are serving in a combat zone.
+
+Automatic Extension
+
+If you can’t file your 2025 return by the due date, you may be able to get an automatic 6-month extension of time to file.
+
+Example.
+
+If your return is due on April 15, 2026, you will have until October 15, 2026, to file.
+
+. If you don’t pay the tax due by the regular due date (April 15 for most taxpayers), you will owe interest. You may also be charged penalties, discussed later. .
+
+How to get the automatic extension.
+
+You can get the automatic extension by:
+
+-
+
+Using IRS e-file (electronic filing), or
+
+-
+
+Filing a paper form.
+
+E-file options.
+
+There are two ways you can use e-file to get an extension of time to file. Complete Form 4868 to use as a worksheet. If you think you may owe tax when you file your return, use Part II of the form to estimate your balance due. If you e-file Form 4868 to the IRS, don’t send a paper Form 4868.
+
+E-file using your personal computer or a tax professional.
+
+You can use a tax software package with your personal computer or a tax professional to file Form 4868 electronically. Free File and Free File Fillable Forms, both available at IRS.gov, allow you to prepare and e-file Form 4868 for free. You will need to provide certain information from your 2024 tax return. If you wish to make a payment by direct transfer from your bank account, see Pay online under How To Pay , later, in this chapter.
+
+E-file and pay by credit or debit card or by direct transfer from your bank account.
+
+You can get an extension by paying part or all of your estimate of tax due by using a credit or debit card or by direct transfer from your bank account. You can do this by phone or over the Internet. You don’t file Form 4868. See Pay online under How To Pay , later, in this chapter.
+
+Filing a paper Form 4868.
+
+You can get an extension of time to file by filing a paper Form 4868. If you are a fiscal year taxpayer, you must file a paper Form 4868. Mail it to the address shown in the form instructions. For more information, see Form 4868.
+
+When to file.
+
+You must request the automatic extension by the due date for your return. You can file your return any time before the 6-month extension period ends.
+
+When you file your return.
+
+Enter any payment you made related to the extension of time to file on Schedule 3 (Form 1040), line 10.
+
+Individuals Outside the United States
+
+You are allowed an automatic 2-month extension, without filing Form 4868 (until June 15, 2026, if you use the calendar year), to file your 2025 return and pay any federal income tax due if:
+
+-
+
+You are a U.S. citizen or resident; and
+
+-
+
+On the due date of your return:
+
+-
+
+You are living outside the United States and Puerto Rico, and your main place of business or post of duty is outside the United States and Puerto Rico; or
+
+-
+
+You are in military or naval service on duty outside the United States and
+
+Puerto Rico.
+
+However, if you pay the tax due after the regular due date (April 15 for most taxpayers), interest will be charged from that date until the date the tax is paid.
+
+If you served in a combat zone or qualified hazardous duty area, you may be eligible for a longer extension of time to file. See Individuals Serving in Combat Zone , later, for special rules that apply to you.
+
+Married taxpayers.
+
+If you file a joint return, only one spouse has to qualify for this automatic extension. If you and your spouse file separate returns, the automatic extension applies only to the spouse who qualifies.
+
+How to get the extension.
+
+To use this automatic extension, you must attach a statement to your return explaining what situation qualified you for the extension. (See the situations listed under (2), earlier.)
+
+Extensions beyond 2 months.
+
+If you can’t file your return within the automatic 2-month extension period, you may be able to get an additional 4-month extension, for a total of 6 months. File Form 4868 and check the box on line 8.
+
+No further extension.
+
+An extension of more than 6 months will generally not be granted. However, if you are outside the United States and meet certain tests, you may be granted a longer extension. For more information, see Filing and Payment Due Dates in Pub. 54.
+
+Individuals Serving in Combat Zone
+
+The deadline for filing your tax return, paying any tax you may owe, and filing a claim for refund is automatically extended if you serve in a combat zone. This applies to members of the Armed Forces, as well as merchant marines serving aboard vessels under the operational control of the Department of Defense, Red Cross personnel, accredited correspondents, and civilians under the direction of the Armed Forces in support of the Armed Forces.
+
+Combat zone.
+
+A combat zone is any area the President of the United States designates by executive order as an area in which the U.S. Armed Forces are engaging or have engaged in combat. An area usually becomes a combat zone and ceases to be a combat zone on the dates the President designates by executive order. For purposes of the automatic extension, the term “combat zone” includes the following areas.
+
+-
+
+The Arabian peninsula area, effective January 17, 1991.
+
+-
+
+The Kosovo area, effective March 24, 1999.
+
+-
+
+The Afghanistan area, effective September 19, 2001.
+
+See Pub. 3 for more detailed information on the locations comprising each combat zone. Pub. 3 also has information about other tax benefits available to military personnel serving in a combat zone.
+
+Extension period.
+
+The deadline for filing your return, paying any tax due, filing a claim for refund, and taking other actions with the IRS is extended in two steps. First, your deadline is extended for 180 days after the later of:
+
+-
+
+The last day you are in a combat zone or the last day the area qualifies as a combat zone, or
+
+-
+
+The last day of any continuous qualified hospitalization (defined later) for injury from service in the combat zone.
+
+Second, in addition to the 180 days, your deadline is also extended by the number of days you had left to take action with the IRS when you entered the combat zone. For example, you have 3½ months (January 1–April 15) to file your tax return. Any days left in this period when you entered the combat zone (or the entire 3½ months if you entered it before the beginning of the year) are added to the 180 days. See How Much Extra Time Do These Extensions Give Me? in Pub. 3 for more information.
+
+The rules on the extension for filing your return also apply when you are deployed outside the United States (away from your permanent duty station) while participating in a designated contingency operation.
+
+Qualified hospitalization.
+
+The hospitalization must be the result of an injury received while serving in a combat zone or a contingency operation. Qualified hospitalization means:
+
+-
+
+Any hospitalization outside the United States, and
+
+-
+
+Up to 5 years of hospitalization in the United States.
+
+See Pub. 3 for more information on qualified hospitalizations.
+
+How Do I Prepare My Return?
+
+This section explains how to get ready to complete your tax return and when to report your income and expenses. It also explains how to complete certain sections of the form.
+
+Electronic returns.
+
+For information you may find useful in preparing an electronic return, see File Electronically , earlier.
+
+Substitute tax forms.
+
+You can’t use your own version of a tax form unless it meets the requirements explained in Pub. 1167.
+
+Form W-2.
+
+If you were an employee, you should receive Form W-2 from your employer. You will need the information from this form to prepare your return. See Form W-2 under Credit for Withholding and Estimated Tax for 2025 in chapter 4.
+
+Your employer is required to provide or send Form W-2 to you no later than February 2, 2026. If it is mailed, you should allow adequate time to receive it before contacting your employer. If you still don’t get the form by early February, the IRS can help you by requesting the form from your employer. When you request IRS help, be prepared to provide the following information.
+
+-
+
+Your name, address (including ZIP code), and phone number.
+
+-
+
+Your SSN.
+
+-
+
+Your dates of employment.
+
+-
+
+Your employer’s name, address (including ZIP code), and phone number.
+
+Form 1099.
+
+If you received certain types of income, you may receive a Form 1099. For example, if you received taxable interest of $10 or more, the payer is required to provide or send Form 1099 to you no later than February 2, 2026 (or by February 17, 2026, if furnished by a broker). If it is mailed, you should allow adequate time to receive it before contacting the payer. If you still don’t get the form by February 17 (or by March 2, 2026, if furnished by a broker), call the IRS for help.
+
+When Do I Report My Income and Expenses?
+
+You must figure your taxable income on the basis of a tax year. A “tax year” is an annual accounting period used for keeping records and reporting income and expenses. You must account for your income and expenses in a way that clearly shows your taxable income. The way you do this is called an accounting method. This section explains which accounting periods and methods you can use.
+
+Accounting Periods
+
+Most individual tax returns cover a calendar year—the 12 months from January 1 through December 31. If you don’t use a calendar year, your accounting period is a fiscal year. A regular fiscal year is a 12-month period that ends on the last day of any month except December. A 52-53-week fiscal year varies from 52 to 53 weeks and always ends on the same day of the week.
+
+You choose your accounting period (tax year) when you file your first income tax return. It can’t be longer than 12 months.
+
+More information.
+
+For more information on accounting periods, including how to change your accounting period, see Pub. 538.
+
+Accounting Methods
+
+Your accounting method is the way you account for your income and expenses. Most taxpayers use either the cash method or an accrual method. You choose a method when you file your first income tax return. If you want to change your accounting method after that, you must generally get IRS approval. Use Form 3115 to request an accounting method change.
+
+Cash method.
+
+If you use this method, report all items of income in the year in which you actually or constructively receive them. Generally, you deduct all expenses in the year you actually pay them. This is the method most individual taxpayers use.
+
+Constructive receipt.
+
+Generally, you constructively receive income when it is credited to your account or set apart in any way that makes it available to you. You don’t need to have physical possession of it. For example, interest credited to your bank account on December 31, 2025, is taxable income to you in 2025 if you could have withdrawn it in 2025 (even if the amount isn’t entered in your records or withdrawn until 2026).
+
+Garnished wages.
+
+If your employer uses your wages to pay your debts, or if your wages are attached or garnished, the full amount is constructively received by you. You must include these wages in income for the year you would have received them.
+
+Debts paid for you.
+
+If another person cancels or pays your debts (but not as a gift or loan), you have constructively received the amount and must generally include it in your gross income for the year. See Canceled Debts in chapter 8 for more information.
+
+Payment to third party.
+
+If a third party is paid income from property you own, you have constructively received the income. It is the same as if you had actually received the income and paid it to the third party.
+
+Payment to an agent.
+
+Income an agent receives for you is income you constructively received in the year the agent receives it. If you indicate in a contract that your income is to be paid to another person, you must include the amount in your gross income when the other person receives it.
+
+Check received or available.
+
+A valid check that was made available to you before the end of the tax year is constructively received by you in that year. A check that was “made available to you” includes a check you have already received, but not cashed or deposited. It also includes, for example, your last paycheck of the year that your employer made available for you to pick up at the office before the end of the year. It is constructively received by you in that year whether or not you pick it up before the end of the year or wait to receive it by mail after the end of the year.
+
+No constructive receipt.
+
+There may be facts to show that you didn’t constructively receive income.
+
+Example.
+
+Lennon, a teacher, agreed to the school board’s condition that, in Lennon’s absence, Lennon would receive only the difference between Lennon’s regular salary and the salary of a substitute teacher hired by the school board. Therefore, Lennon didn’t constructively receive the amount by which Lennon’s salary was reduced to pay the substitute teacher.
+
+Accrual method.
+
+If you use an accrual method, you generally report income when you earn it, rather than when you receive it. You generally deduct your expenses when you incur them, rather than when you pay them.
+
+Income paid in advance.
+
+An advance payment of income is generally included in gross income in the year you receive it. Your method of accounting doesn’t matter as long as the income is available to you. An advance payment may include rent or interest you receive in advance and pay for services you will perform later.
+
+A limited deferral until the next tax year may be allowed for certain advance payments. See Pub. 538 for specific information.
+
+Additional information.
+
+For more information on accounting methods, including how to change your accounting method, see Pub. 538.
+
+Social Security Number (SSN)
+
+You must enter your SSN on your return. If you are married, enter the SSNs for both you and your spouse, whether you file jointly or separately.
+
+If you are filing a joint return, include the SSNs in the same order as the names. Use this same order in submitting other forms and documents to the IRS.
+
+. If you, or your spouse if filing jointly, don’t have an SSN (or ITIN) issued either on or on or before the due date of your 2025 return (including extensions), you can’t claim certain tax benefits on your original or an amended 2025 return. .
+
+Once you are issued an SSN, use it to file your tax return. Use your SSN to file your tax return even if your SSN does not authorize employment or if you have been issued an SSN that authorizes employment and you lose your employment authorization. An ITIN will not be issued to you once you have been issued an SSN. If you received your SSN after previously using an ITIN, stop using your ITIN. Use your SSN instead.
+
+Check that both the name and SSN on your Form 1040 or 1040-SR, W-2, and 1099 agree with your social security card. If they don’t, certain deductions and credits on your Form 1040 or 1040-SR may be reduced or disallowed and you may not receive credit for your social security earnings. If your Form W-2 shows an incorrect SSN or name, notify your employer or the form-issuing agent as soon as possible to make sure your earnings are credited to your social security record. If the name or SSN on your social security card is incorrect, call the Social Security Administration (SSA) at 800-772-1213.
+
+Name change.
+
+If you changed your name because of marriage, divorce, etc., be sure to report the change to your local SSA office before filing your return. This prevents delays in processing your return and issuing refunds. It also safeguards your future social security benefits.
+
+Dependent’s SSN.
+
+You must provide the SSN of each dependent you claim, regardless of the dependent’s age. This requirement applies to all dependents (not just your children) claimed on your tax return.
+
+. Your child must have an SSN valid for employment issued before the due date of your 2025 return (including extensions) to be considered a qualifying child for certain tax benefits on your original or amended 2025 return. See chapter 14 . .
+
+Exception.
+
+If your child was born and died in 2025 and didn’t have an SSN, enter “DIED” on row (3) of the Dependents section of Form 1040 or 1040-SR and include a copy of the child’s birth certificate, death certificate, or hospital records. The document must show that the child was born alive.
+
+No SSN.
+
+File Form SS-5, Application for a Social Security Card, with your local SSA office to get an SSN for yourself or your dependent. It usually takes about 2 weeks to get an SSN. If you or your dependent isn’t eligible for an SSN, see Individual taxpayer identification number (ITIN) , later.
+
+If you are a U.S. citizen or resident alien, you must show proof of age, identity, and citizenship or alien status with your Form SS-5. If you are 12 or older and have never been assigned an SSN, you must appear in person with this proof at an SSA office.
+
+Form SS-5 is available at any SSA office, on the Internet at SSA.gov/forms/ss-5.pdf , or by calling 800-772-1213. If you have any questions about which documents you can use as proof of age, identity, or citizenship, contact your SSA office.
+
+If your dependent doesn’t have an SSN by the time your return is due, you may want to ask for an extension of time to file, as explained earlier under When Do I Have To File .
+
+If you don’t provide a required SSN or if you provide an incorrect SSN, your tax may be increased and any refund may be reduced.
+
+Adoption taxpayer identification number (ATIN).
+
+If you are in the process of adopting a child who is a U.S. citizen or resident and can’t get an SSN for the child until the adoption is final, you can apply for an ATIN to use instead of an SSN.
+
+File Form W-7A, Application for Taxpayer Identification Number for Pending U.S. Adoptions, with the IRS to get an ATIN if all of the following are true.
+
+-
+
+You have a child living with you who was placed in your home for legal adoption.
+
+-
+
+You can’t get the child’s existing SSN even though you have made a reasonable attempt to get it from the birth parents, the placement agency, and other persons.
+
+-
+
+You can’t get an SSN for the child from the SSA because, for example, the adoption isn’t final.
+
+-
+
+You are eligible to claim the child as a dependent on your tax return.
+
+After the adoption is final, you must apply for an SSN for the child. You can’t continue using the ATIN.
+
+See Form W-7A for more information.
+
+Nonresident alien spouse.
+
+If your spouse is a nonresident alien, your spouse must have either an SSN or an ITIN if:
+
+-
+
+You file a joint return, or
+
+-
+
+Your spouse is filing a separate return.
+
+If your spouse isn’t eligible for an SSN, see the following discussion on ITINs .
+
+Individual taxpayer identification number (ITIN).
+
+The IRS will issue you an ITIN if you are a nonresident or resident alien and you don’t have and aren’t eligible to get an SSN. This also applies to an alien spouse or dependent. To apply for an ITIN, file Form W-7 with the IRS. It usually takes about 7 weeks to get an ITIN. Enter the ITIN on your tax return wherever an SSN is requested.
+
+Make sure your ITIN hasn’t expired. See Individual taxpayer identification number (ITIN) renewal , earlier, for more information on expiration and renewal of ITINs. You can also find more information at IRS.gov/ITIN .
+
+. If you are applying for an ITIN for yourself, your spouse, or a dependent in order to file your tax return, attach your completed tax return to your Form W-7. See the Form W-7 instructions for how and where to file. .
+
+. You can’t e-file a return using an ITIN in the calendar year the ITIN is issued; however, you can e-file returns in the following years. .
+
+ITIN for tax use only.
+
+An ITIN is for federal tax use only. It doesn’t entitle you to social security benefits or change your employment or immigration status under U.S. law.
+
+Penalty for not providing social security number.
+
+If you don’t include your SSN or the SSN of your spouse or dependent as required, you may have to pay a penalty. See the discussion on Penalties , later, for more information.
+
+SSN on correspondence.
+
+If you write to the IRS about your tax account, be sure to include your SSN (and the name and SSN of your spouse, if you filed a joint return) in your correspondence. Because your SSN is used to identify your account, this helps the IRS respond to your correspondence promptly.
+
+Presidential Election Campaign Fund
+
+This fund helps pay for Presidential election campaigns. The fund also helps pay for pediatric medical research. If you want $3 to go to this fund, check the box. If you are filing a joint return, your spouse can also have $3 go to the fund. If you check the box, your tax or refund won’t change.
+
+Computations
+
+The following information may be useful in making the return easier to complete.
+
+Rounding off dollars.
+
+You can round off cents to whole dollars on your return and schedules. If you do round to whole dollars, you must round all amounts. To round, drop amounts under 50 cents and increase amounts from 50 to 99 cents to the next dollar. For example, $1.39 becomes $1 and $2.50 becomes $3.
+
+If you have to add two or more amounts to figure the amount to enter on a line, include cents when adding the amounts and round off only the total.
+
+If you are entering amounts that include cents, make sure to include the decimal point. There is no cents column on Form 1040 or 1040-SR.
+
+Equal amounts.
+
+If you are asked to enter the smaller or larger of two equal amounts, enter that amount.
+
+Negative amounts.
+
+If you file a paper return and you need to enter a negative amount, put the amount in parentheses rather than using a minus sign. To combine positive and negative amounts, add all the positive amounts together and then subtract the negative amounts.
+
+Attachments
+
+Depending on the form you file and the items reported on your return, you may have to complete additional schedules and forms and attach them to your paper return.
+
+. You may be able to file a paperless return using IRS e-file. There’s nothing to attach or mail, not even your Forms W-2. See File Electronically , earlier. .
+
+Form W-2.
+
+Form W-2 is a statement from your employer of wages and other compensation paid to you and taxes withheld from your pay. You should have a Form W-2 from each employer. If you file a paper return, be sure to attach a copy of Form W-2 in the place indicated on your return. For more information, see Form W-2 in chapter 4.
+
+Form 1099-R.
+
+If you received a Form 1099-R showing federal income tax withheld, and you file a paper return, attach a copy of that form in the place indicated on your return.
+
+Form 1040 or 1040-SR.
+
+If you file a paper return, attach any forms and schedules behind Form 1040 or 1040-SR in order of the “Attachment Sequence No.” shown in the upper right corner of the form or schedule. Then, arrange all other statements or attachments in the same order as the forms and schedules they relate to and attach them last. Don’t attach items unless required to do so.
+
+Third Party Designee
+
+If you want to allow your preparer, a friend, a family member, or any other person you choose to discuss your 2025 tax return with the IRS, check the “Yes” box in the “Third Party Designee” area of your return. Also, enter the designee’s name, phone number, and any five digits the designee chooses as their personal identification number (PIN).
+
+If you check the “Yes” box, you, and your spouse if filing a joint return, are authorizing the IRS to call the designee to answer any questions that arise during the processing of your return. You are also authorizing the designee to:
+
+You aren’t authorizing the designee to receive any refund check, bind you to anything (including any additional tax liability), or otherwise represent you before the IRS. If you want to expand the designee’s authorization, see Pub. 947.
+
+The authorization will automatically end no later than the due date (without any extensions) for filing your 2026 tax return. This is April 15, 2027, for most people.
+
+See your form instructions for more information.
+
+Signatures
+
+You must sign and date your return. If you file a joint return, both you and your spouse must sign the return, even if only one of you had income.
+
+. If you file a joint return, both spouses are generally liable for the tax, and the entire tax liability may be assessed against either spouse. See chapter 2 . .
+
+Your return isn’t considered a valid return unless you sign it in accordance with the requirements in the instructions for your return.
+
+You must handwrite your signature on your return if you file it on paper. Digital, electronic, or typed-font signatures are not valid signatures for Forms 1040 or 1040-SR filed on paper.
+
+If you electronically file your return, you can use an electronic signature to sign your return in accordance with the requirements contained in the instructions for your return.
+
+Failure to sign your return in accordance with these requirements may prevent you from obtaining a refund.
+
+Enter your occupation. If you file a joint return, enter both your occupation and your spouse’s occupation.
+
+When someone can sign for you.
+
+You can appoint an agent to sign your return if you are:
+
+-
+
+Unable to sign the return because of disease or injury,
+
+-
+
+Absent from the United States for a continuous period of at least 60 days before the due date for filing your return, or
+
+-
+
+Given permission to do so by the IRS office in your area.
+
+Power of attorney.
+
+A return signed by an agent in any of these cases must have a power of attorney (POA) attached that authorizes the agent to sign for you. You can use a POA that states that the agent is granted authority to sign the return, or you can use Form 2848. Part I of Form 2848 must state that the agent is granted authority to sign the return.
+
+Court-appointed conservator, guardian, or other fiduciary.
+
+If you are a court-appointed conservator, guardian, or other fiduciary for a mentally or physically incompetent individual who has to file a tax return, sign your name for the individual. File Form 56.
+
+Unable to sign.
+
+If the taxpayer is mentally competent but physically unable to sign the return or POA, a valid “signature” is defined under state law. It can be anything that clearly indicates the taxpayer’s intent to sign. For example, the taxpayer’s “X” with the signatures of two witnesses might be considered a valid signature under a state’s law.
+
+Spouse unable to sign.
+
+If your spouse is unable to sign for any reason, see Signing a joint return in chapter 2.
+
+Child’s return.
+
+If a child has to file a tax return but can’t sign the return, the child’s parent, guardian, or another legally responsible person must sign the child’s name, followed by the words “By (your signature), parent for minor child.”
+
+Paid Preparer
+
+Generally, anyone you pay to prepare, assist in preparing, or review your tax return must sign it and fill in the other blanks, including their Preparer Tax Identification Number (PTIN), in the paid preparer’s area of your return.
+
+Many preparers are required to e-file the tax returns they prepare. They sign these e-filed returns using their tax preparation software. However, you can choose to have your return completed on paper if you prefer. In that case, the paid preparer can sign the paper return manually or use a rubber stamp or mechanical device. The preparer is personally responsible for affixing their signature to the return.
+
+If the preparer is self-employed (that is, not employed by any person or business to prepare the return), the preparer should check the self-employed box in the “Paid Preparer Use Only” space on the return.
+
+The preparer must give you a copy of your return in addition to the copy filed with the IRS.
+
+If you prepare your own return, leave this area blank. If another person prepares your return and doesn’t charge you, that person shouldn’t sign your return.
+
+If you have questions about whether a preparer must sign your return, contact any IRS office.
+
+Refunds
+
+When you complete your return, you will determine if you paid more income tax than you owed. If so, you can get a refund of the amount you overpaid or you can choose to apply all or part of the overpayment to your next year’s (2026) estimated tax.
+
+. If you choose to have a 2025 overpayment applied to your 2026 estimated tax, you can’t change your mind and have any of it refunded to you after the due date (without extensions) of your 2025 return. .
+
+Follow the Instructions for Form 1040 to complete the entries to claim your refund and/or to apply your overpayment to your 2026 estimated tax.
+
+. If your refund for 2025 is large, you may want to decrease the amount of income tax withheld from your pay in 2026. See chapter 4 for more information. .
+
+. Have your refund deposited directly into your checking, savings, health savings, brokerage, or other similar account, including an individual retirement arrangement (IRA). Follow the Instructions for Form 1040 to request direct deposit. .
+
+Starting in October 2025, the IRS will generally stop issuing paper checks for federal disbursements, including tax refunds, unless an exception applies. For more information, go to IRS.gov/ModernPayments .
+
+Don’t request a deposit of any part of your refund to an account that isn’t in your name. Don’t allow your tax preparer to deposit any part of your refund into the preparer’s account. The number of direct deposits to a single account or prepaid debit card is limited to three refunds a year. Learn more at IRS.gov/DepositLimit .
+
+IRA.
+
+You can have your refund (or part of it) directly deposited to a traditional IRA or Roth IRA, but not a SIMPLE IRA. You must establish the IRA at a bank or financial institution before you request direct deposit.
+
+Split refunds.
+
+If you choose direct deposit, you may be able to split the refund and have it deposited into more than one account. Complete Form 8888 and attach it to your return.
+
+Overpayment less than one dollar.
+
+If your overpayment is less than $1, you won’t get a refund unless you ask for it in writing.
+
+Refund more or less than expected.
+
+If you receive a refund you aren’t entitled to, or for an overpayment that should have been credited to estimated tax, hold the refund in your account. Check your online account at IRS.gov/Account or contact the IRS.
+
+If you receive more than the refund you claimed, hold the refund in your account until you receive a notice explaining the difference.
+
+If your refund is for less than you claimed, it should be accompanied by a notice explaining the difference.
+
+If you didn’t receive a notice and you have any questions about the amount of your refund, you should wait 2 weeks. If you still haven’t received a notice, check your online account at IRS.gov/Account or contact the IRS.
+
+Offset against debts.
+
+If you are due a refund but haven’t paid certain amounts you owe, all or part of your refund may be used to pay all or part of the past-due amount. This includes past-due federal income tax, other federal debts (such as student loans), state income tax, child and spousal support payments, and state unemployment compensation debt. You will be notified if the refund you claimed has been offset against your debts.
+
+Joint return and injured spouse.
+
+When a joint return is filed and only one spouse owes a past-due amount, the other spouse can be considered an injured spouse. An injured spouse should file Form 8379, Injured Spouse Allocation, if both of the following apply and the spouse wants a refund of their share of the overpayment shown on the joint return.
+
+-
+
+You aren’t legally obligated to pay the past-due amount.
+
+-
+
+You made and reported tax payments (such as federal income tax withheld from your wages or estimated tax payments), or claimed a refundable tax credit (see the credits listed under Who Should File , earlier).
+
+Note:
+
+If the injured spouse’s residence was in a community property state at any time during the tax year, special rules may apply. See the Instructions for Form 8379.
+
+If you haven’t filed your joint return and you know that your joint refund will be offset, file Form 8379 with your return. You should receive your refund within 14 weeks from the date the paper return is filed or within 11 weeks from the date the return is filed electronically.
+
+If you filed your joint return and your joint refund was offset, file Form 8379 by itself. When filed after offset, it can take up to 8 weeks to receive your refund. Don’t attach the previously filed tax return, but do include copies of all Forms W-2 and W-2G for both spouses and any Forms 1099 that show income tax withheld. The processing of Form 8379 may be delayed if these forms aren’t attached, or if the form is incomplete when filed.
+
+A separate Form 8379 must be filed for each tax year to be considered.
+
+. An injured spouse claim is different from an innocent spouse relief request. An injured spouse uses Form 8379 to request the division of the tax overpayment attributed to each spouse. An innocent spouse uses Form 8857, Request for Innocent Spouse Relief, to request relief from joint liability for tax, interest, and penalties on a joint return for items of the other spouse (or former spouse) that were incorrectly reported on the joint return. For information on innocent spouses, see Relief from joint responsibility under Filing a Joint Return in chapter 2. .
+
+Amount You Owe
+
+When you complete your return, you will determine if you have paid the full amount of tax that you owe. If you owe additional tax, you should pay it with your return.
+
+. You don’t have to pay if the amount you owe is under $1. .
+
+If the IRS figures your tax for you, you will receive a bill for any tax that is due. You should pay this bill within 30 days (or by the due date of your return, if later). See Tax Figured by IRS in chapter 13.
+
+. If you don’t pay your tax when due, you may have to pay a failure-to-pay penalty. See Penalties , later. For more information about your balance due, see Pub. 594. .
+
+. If the amount you owe for 2025 is large, you may want to increase the amount of income tax withheld from your pay or make estimated tax payments for 2026. See chapter 4 for more information. .
+
+How To Pay
+
+You can pay online, by phone, by mobile device, in cash, or by check or money order. Don’t include any estimated tax payment for 2026 in this payment. Instead, make the estimated tax payment separately.
+
+Insufficient funds.
+
+The penalty for making a payment to the IRS that was dishonored is $25 or 2% of the dishonored payment amount, whichever is more. However, if the dishonored payment amount is less than $25, the penalty equals the amount paid. This penalty applies to all acceptable forms of payment if the IRS doesn’t receive the funds.
+
+Pay online.
+
+Paying online is convenient and secure and helps make sure we get your payments on time.
+
+You can pay online with a direct transfer from your bank account using IRS Direct Pay or the Electronic Federal Tax Payment System (EFTPS), or by debit or credit card.
+
+To pay your taxes online or for more information, go to IRS.gov/Payments .
+
+Pay by phone.
+
+Paying by phone is another safe and secure method of paying online. Use one of the following methods.
+
+-
+
+EFTPS.
+
+-
+
+Debit or credit card.
+
+To get more information about EFTPS or to enroll in EFTPS, visit EFTPS.gov or call 800-555-4477. To contact EFTPS using Telecommunications Relay Services (TRS) for people who are deaf, hard of hearing, or have a speech disability, dial 711 and then provide the TRS assistant the 800-555-4477 number or 800-733-4829. Additional information about EFTPS is also available in Pub. 966.
+
+To pay using a debit or credit card, you can call one of the following service providers. There is a convenience fee charged by these providers that varies by provider, card type, and payment amount.
+
+Link2Gov Corporation
+
+888-PAY-1040 TM (888-729-1040)
+
+PAY1040.com
+
+ACI Payments, Inc.
+
+888-UPAY-TAX TM (888-872-9829)
+
+fed.acipayonline.com
+
+For the latest details on how to pay by phone, go to IRS.gov/Payments .
+
+Pay by cash.
+
+You can pay your taxes in cash. To find out about the different cash payment methods, go to IRS.gov/PayCash . Don’t send cash payments through the mail.
+
+Pay by check or money order.
+
+Before submitting a payment through the mail, please consider alternative methods. One of our safe, quick, and easy electronic payment options might be right for you. If you choose to mail a tax payment, attach Form 1040-V. For the most up-to-date information on Form 1040-V, go to IRS.gov/Form1040V .
+
+Estimated tax payments.
+
+Don’t include any 2026 estimated tax payment in the payment for your 2025 income tax return. See chapter 4 for information on how to pay estimated tax.
+
+Interest
+
+Interest is charged on tax you don’t pay by the due date of your return. Interest is charged even if you get an extension of time for filing.
+
+. If the IRS figures your tax for you, to avoid interest for late payment, you must pay the bill by the date specified on the bill or by the due date of your return, whichever is later. For information, see Tax Figured by IRS in chapter 13. .
+
+Interest on penalties.
+
+Interest is charged on the failure-to-file penalty, the accuracy-related penalty, and the fraud penalty from the due date of the return (including extensions) to the date of payment. Interest on other penalties starts on the date of notice and demand, but isn’t charged on penalties paid within 21 calendar days from the date of the notice (or within 10 business days if the notice is for $100,000 or more).
+
+Interest due to IRS error or delay.
+
+All or part of any interest you were charged can be forgiven if the interest is due to an unreasonable error or delay by an officer or employee of the IRS in performing a ministerial or managerial act.
+
+A ministerial act is a procedural or mechanical act that occurs during the processing of your case. A managerial act includes personnel transfers and extended personnel training. A decision concerning the proper application of federal tax law isn’t a ministerial or managerial act.
+
+The interest can be forgiven only if you aren’t responsible in any important way for the error or delay and the IRS has notified you in writing of the deficiency or payment. For more information, see Pub. 556.
+
+Interest and certain penalties may also be suspended for a limited period if you filed your return by the due date (including extensions) and the IRS doesn’t provide you with a notice specifically stating your liability and the basis for it before the close of the 36-month period beginning on the later of:
+
+-
+
+The date the return is filed, or
+
+-
+
+The due date of the return without regard to extensions.
+
+For more information, see Pub. 556.
+
+Installment Agreement
+
+If you can’t pay the full amount due with your return, you can ask to make monthly installment payments for the full or a partial amount. However, you will be charged interest and may be charged a late payment penalty on the tax not paid by the date your return is due, even if your request to pay in installments is granted. If your request is granted, you must also pay a fee. To limit the interest and penalty charges, pay as much of the tax as possible with your return. But before requesting an installment agreement, you should consider other less costly alternatives, such as a bank loan or credit card payment.
+
+To apply for an installment agreement online, go to IRS.gov/OPA . You can also use Form 9465.
+
+In addition to paying by check or money order, you can use a credit or debit card or direct payment from your bank account to make installment agreement payments. See How To Pay , earlier.
+
+Gift To Reduce Debt Held by the Public
+
+. You can make a contribution (gift) to reduce debt held by the public. If you wish to do so, go to Pay.gov and make a contribution by credit card, debit card, PayPal, checking account, or savings account. .
+
+Don’t add this gift to any tax you owe.
+
+For information on making this type of gift online, go to TreasururyDirect.gov/Help-Center/Public-Debt-FAQs/#DebtFinance and see the information under “How do you make a contribution to reduce the debt?”
+
+You may be able to deduct this gift as a charitable contribution on next year’s tax return if you itemize your deductions on Schedule A (Form 1040).
+
+Name and Address
+
+Fill in your name and address in the appropriate area of Form 1040 or 1040-SR. If you are married filing a separate return, enter your spouse’s name in the entry space below the filing status checkboxes instead of below your name. If you are currently incarcerated, enter your inmate identifying number near your last name.
+
+. You must include your SSN in the correct place on your tax return. .
+
+P.O. box.
+
+If your post office doesn’t deliver mail to your street address and you have a P.O. box, enter your P.O. box number on the line for your present home address instead of your street address.
+
+Foreign address.
+
+If you have foreign address, enter the city name on the appropriate line. Don’t enter any other information on that line, but do complete the spaces below that line (Foreign country name, Foreign province/state/county, and Foreign postal code).
+
+Don’t abbreviate the country name.
+
+Where Do I File?
+
+After you complete your return, you must send it to the IRS. If you must mail your return, mail it to the address shown in the Instructions for Form 1040. See File Electronically , earlier.
+
+What Happens After I File?
+
+After you send your return to the IRS, you may have some questions. This section discusses concerns you may have about recordkeeping, your refund, and what to do if you move.
+
+What Records Should I Keep?
+
+This part discusses why you should keep records, what kinds of records you should keep, and how long you should keep them.
+
+. You must keep records so that you can prepare a complete and accurate income tax return. The law doesn’t require any special form of records. However, you should keep all receipts, canceled checks or other proof of payment, and any other records to support any deductions or credits you claim. .
+
+If you file a claim for refund, you must be able to prove by your records that you have overpaid your tax.
+
+This part doesn’t discuss the records you should keep when operating a business. For information on business records, see Pub. 583.
+
+Why Keep Records?
+
+Good records help you:
+
+-
+
+Identify sources of income. Your records can identify the sources of your income to help you separate business from nonbusiness income and taxable from nontaxable income.
+
+-
+
+Keep track of expenses. You can use your records to identify expenses for which you can claim a deduction. This helps you determine if you can itemize deductions on your tax return.
+
+-
+
+Keep track of the basis of property. You need to keep records that show the basis of your property. This includes the original cost or other basis of the property and any improvements you made.
+
+-
+
+Prepare tax returns. You need records to prepare your tax return.
+
+-
+
+Support items reported on tax returns. The IRS may question an item on your return. Your records will help you explain any item and arrive at the correct tax. If you can’t produce the correct documents, you may have to pay additional tax and be subject to penalties.
+
+Kinds of Records To Keep
+
+The IRS doesn’t require you to keep your records in a particular way. Keep them in a manner that allows you and the IRS to determine your correct tax.
+
+You can use your checkbook to keep a record of your income and expenses. You also need to keep documents, such as receipts and sales slips, that can help prove a deduction.
+
+In this section, you will find guidance about basic records that everyone should keep. The section also provides guidance about specific records you should keep for certain items.
+
+Electronic records.
+
+All requirements that apply to hard copy books and records also apply to electronic storage systems that maintain tax books and records. When you replace hard copy books and records, you must maintain the electronic storage systems for as long as they are material to the administration of tax law.
+
+For details on electronic storage system requirements, see Revenue Procedure 97-22, which is on page 9 of Internal Revenue Bulletin 1997-13 at IRS.gov/pub/irs-irbs/irb97-13.pdf .
+
+Copies of tax returns.
+
+You should keep copies of your tax returns as part of your tax records. They can help you prepare future tax returns, and you will need them if you file an amended return or are audited. Copies of your returns and other records can be helpful to your survivor or the executor or administrator of your estate.
+
+You can get a transcript, review your most recently filed tax return, and get your adjusted gross income from your online account. To create or access your online account go to IRS.gov/Account .
+
+If necessary, you can request a copy of a return and all attachments (including Form W-2) from the IRS by using Form 4506. There is a charge for a copy of a return. For information on the cost and where to file, see the Instructions for Form 4506.
+
+If you just need information from your return, you can order a transcript in one of the following ways.
+
+-
+
+Access your online account at IRS.gov/Account .
+
+-
+
+Go to IRS.gov/Transcript .
+
+-
+
+Use Form 4506-T or Form 4506T-EZ.
+
+-
+
+Call 800-908-9946.
+
+There is no fee for a transcript. For more information, see Form 4506-T.
+
+Basic Records
+
+Basic records are documents that everybody should keep. These are the records that prove your income and expenses. If you own a home or investments, your basic records should contain documents related to those items.
+
+Income.
+
+Your basic records prove the amounts you report as income on your tax return. Your income may include wages, dividends, interest, and partnership or S corporation distributions. Your records can also prove that certain amounts aren’t taxable, such as tax-exempt interest.
+
+Note:
+
+If you receive a Form W-2, keep Copy C until you begin receiving social security benefits. This will help protect your benefits in case there is a question about your work record or earnings in a particular year.
+
+Expenses.
+
+Your basic records prove the expenses for which you claim a deduction (or credit) on your tax return. Your deductions may include alimony, charitable contributions, mortgage interest, and real estate taxes. You may also have childcare expenses for which you can claim a credit.
+
+Home.
+
+Your basic records should enable you to determine the basis or adjusted basis of your home. You need this information to determine if you have a gain or loss when you sell your home or to figure depreciation if you use part of your home for business purposes or for rent. Your records should show the purchase price, settlement or closing costs, and the cost of any improvements. They may also show any casualty losses deducted and insurance reimbursements for casualty losses.
+
+For detailed information on basis, including which settlement or closing costs are included in the basis of your home, see Pub. 551.
+
+When you sell your home, your records should show the sales price and any selling expenses, such as commissions. For information on selling your home, see Pub. 523.
+
+Investments.
+
+Your basic records should enable you to determine your basis in an investment and whether you have a gain or loss when you sell it. Investments include stocks, bonds, and mutual funds. Your records should show the purchase price, sales price, and commissions. They may also show any reinvested dividends, stock splits and dividends, load charges, and original issue discount (OID).
+
+For information on stocks, bonds, and mutual funds, see Pub. 550 and Pub. 551.
+
+Proof of Payment
+
+One of your basic records is proof of payment. You should keep these records to support certain amounts shown on your tax return. Proof of payment alone isn’t proof that the item claimed on your return is allowable. You should also keep other documents that will help prove that the item is allowable.
+
+Generally, you prove payment with a cash receipt, financial account statement, credit card statement, canceled check, or substitute check. If you make payments in cash, you should get a dated and signed receipt showing the amount and the reason for the payment.
+
+If you make payments using your bank account, you may be able to prove payment with an account statement.
+
+Account statements.
+
+You may be able to prove payment with a legible financial account statement prepared by your bank or other financial institution.
+
+Pay statements.
+
+You may have deductible expenses withheld from your paycheck, such as medical insurance premiums. You should keep your year-end or final pay statements as proof of payment of these expenses.
+
+How Long To Keep Records
+
+You must keep your records as long as they may be needed for the administration of any provision of the Internal Revenue Code. Generally, this means you must keep records that support items shown on your return until the period of limitations for that return runs out.
+
+The period of limitations is the period of time in which you can amend your return to claim a credit or refund or the IRS can assess additional tax. Table 1-6 contains the periods of limitations that apply to income tax returns. Unless otherwise stated, the years refer to the period beginning after the return was filed. Returns filed before the due date are treated as being filed on the due date.
+
+Table 1-6. Period of Limitations
+
+IF you... | THEN the period is...
+1 | File a return and (2), (3), and (4) don’t apply to you, | 3 years.
+2 | Don’t report income that you should and it is more than 25% of the gross income shown on your return, | 6 years.
+3 | File a fraudulent return, | No limit.
+4 | Don’t file a return, | No limit.
+5 | File a claim for credit or refund after you filed your return, | The later of 3 years or 2 years after tax was paid.
+6 | File a claim for a loss from worthless securities or bad debt deduction, | 7 years.
+
+Property.
+
+Keep records relating to property until the period of limitations expires for the year in which you dispose of the property in a taxable disposition. You must keep these records to figure your basis for computing gain or loss when you sell or otherwise dispose of the property.
+
+Generally, if you received property in a nontaxable exchange, your basis in that property is the same as the basis of the property you gave up. You must keep the records on the old property, as well as the new property, until the period of limitations expires for the year in which you dispose of the new property in a taxable disposition.
+
+Refund Information
+
+You can go online to check the status of your 2025 refund 24 hours after the IRS receives your e-filed return, or 4 weeks after you mail a paper return. If you filed Form 8379 with your return, allow 14 weeks (11 weeks if you filed electronically) before checking your refund status. Be sure to have a copy of your 2025 tax return available because you will need to know the filing status, the first SSN shown on the return, and the exact whole-dollar amount of the refund. To check on your refund, do one of the following.
+
+-
+
+Go to IRS.gov/Refunds .
+
+-
+
+Download the free IRS2Go app to your smart phone and use it to check your refund status.
+
+-
+
+Call the automated refund hotline at 800-829-1954.
+
+Interest on Refunds
+
+If you are due a refund, you may get interest on it. The interest rates are adjusted quarterly.
+
+If the refund is made within 45 days after the due date of your return, no interest will be paid. If you file your return after the due date (including extensions), no interest will be paid if the refund is made within 45 days after the date you filed. If the refund isn’t made within this 45-day period, interest will be paid from the due date of the return or from the date you filed, whichever is later.
+
+Accepting a refund doesn’t change your right to claim an additional refund and interest. File your claim within the period of time that applies. See Amended Returns and Claims for Refund , later. If you don’t accept a refund, no more interest will be paid on the overpayment included in the payment amount.
+
+Interest on erroneous refund.
+
+All or part of any interest you were charged on an erroneous refund will generally be forgiven. Any interest charged for the period before demand for repayment was made will be forgiven unless:
+
+-
+
+You, or a person related to you, caused the erroneous refund in any way; or
+
+-
+
+The refund is more than $50,000.
+
+For example, if you claimed a refund of $100 on your return, but the IRS made an error and sent you $1,000, you wouldn’t be charged interest for the time you held the $900 difference. You must, however, repay the $900 when the IRS asks.
+
+Change of Address
+
+If you have moved, file your return using your new address.
+
+If you move after you filed your return, you should give the IRS clear and concise notification of your change of address. The notification may be written, electronic, or oral. Send written notification to the Internal Revenue Service Center serving your old address. You can use Form 8822, Change of Address. If you are expecting a refund, also notify the post office serving your old address. This will help in forwarding your check to your new address (unless you chose direct deposit of your refund). For more information, see Revenue Procedure 2010-16, 2010-19 I.R.B. 664, available at IRS.gov/irb/2010-19_IRB/ar07.html .
+
+Be sure to include your SSN (and the name and SSN of your spouse if you filed a joint return) in any correspondence with the IRS.
+
+What if I Made a Mistake?
+
+Errors may delay your refund or result in notices being sent to you. If you discover an error, you can file an amended return or claim for refund.
+
+Amended Returns and Claims for Refund
+
+You should correct your return if, after you have filed it, you find that:
+
+-
+
+You didn’t report some income,
+
+-
+
+You claimed deductions or credits you shouldn’t have claimed,
+
+-
+
+You didn’t claim deductions or credits you could have claimed, or
+
+-
+
+You should have claimed a different filing status. (Once you file a joint return, you can’t choose to file separate returns for that year after the due date of the return. However, an executor may be able to make this change for a deceased spouse.)
+
+If you need a copy of your return, see Copies of tax returns under Kinds of Records To Keep , earlier, in this chapter.
+
+Form 1040-X.
+
+Use Form 1040-X to correct a return you have already filed.
+
+Completing Form 1040-X.
+
+On Form 1040-X, enter your income, deductions, and credits as you originally reported them on your return; the changes you are making; and the corrected amounts. Then, figure the tax on the corrected amount of taxable income and the amount you owe or your refund.
+
+If you owe tax, the IRS offers several payment options. See How To Pay , earlier. The tax owed won’t be subtracted from any amount you had credited to your estimated tax.
+
+If you can’t pay the full amount due with your return, you can ask to make monthly installment payments. See Installment Agreement , earlier.
+
+If you overpaid tax, you can have all or part of the overpayment refunded to you, or you can apply all or part of it to your estimated tax. If you choose to get a refund, it will be sent separately from any refund shown on your original return.
+
+Filing Form 1040-X.
+
+When completing Form 1040-X, don’t forget to show the year of your original return and explain all changes you made. Be sure to attach any forms or schedules needed to explain your changes.
+
+File a separate form for each tax year involved.
+
+You can file Form 1040-X electronically to amend Form 1040 and 1040-SR for the current year or the two prior tax periods. For more information, see Instructions for Form 1040-X.
+
+If you must mail your Form 1040-X, mail it to the Internal Revenue Service Center serving the area where you now live (as shown in the Instructions for Form 1040-X). However, if you are filing Form 1040-X in response to a notice you received from the IRS, mail it to the address shown on the notice.
+
+Time for filing a claim for refund.
+
+Generally, you must file your claim for a credit or refund within 3 years after the date you filed your original return or within 2 years after the date you paid the tax, whichever is later. Returns filed before the due date (without regard to extensions) are considered filed on the due date (even if the due date was a Saturday, Sunday, or legal holiday). These time periods are suspended while you are financially disabled , discussed later.
+
+If the last day for claiming a credit or refund is a Saturday, Sunday, or legal holiday, you can file the claim on the next business day.
+
+If you don’t file a claim within this period, you may not be entitled to a credit or a refund.
+
+Federally declared disaster.
+
+If you were affected by a federally declared disaster, you may have additional time to file your amended return. See Pub. 556 for details.
+
+Protective claim for refund.
+
+Generally, a protective claim is a formal claim or amended return for credit or refund normally based on current litigation or expected changes in tax law or other legislation. You file a protective claim when your right to a refund is contingent on future events and may not be determinable until after the statute of limitations expires. A valid protective claim doesn’t have to list a particular dollar amount or demand an immediate refund. However, a valid protective claim must:
+
+-
+
+Be in writing and signed;
+
+-
+
+Include your name, address, SSN or ITIN, and other contact information;
+
+-
+
+Identify and describe the contingencies affecting the claim;
+
+-
+
+Clearly alert the IRS to the essential nature of the claim; and
+
+-
+
+Identify the specific year(s) for which a refund is sought.
+
+Mail your protective claim for refund to the address listed in the Instructions for Form 1040-X under Where To File.
+
+Generally, the IRS will delay action on the protective claim until the contingency is resolved.
+
+Limit on amount of refund.
+
+If you file your claim within 3 years after the date you filed your return, the credit or refund can’t be more than the part of the tax paid within the 3-year period (plus any extension of time for filing your return) immediately before you filed the claim. This time period is suspended while you are financially disabled , discussed later.
+
+Tax paid.
+
+Payments, including estimated tax payments, made before the due date (without regard to extensions) of the original return are considered paid on the due date. For example, income tax withheld during the year is considered paid on the due date of the return, which is April 15 for most taxpayers.
+
+Example 1.
+
+You made estimated tax payments of $500 and got an automatic extension of time to October 15, 2022, to file your 2021 income tax return. When you filed your return on that date, you paid an additional $200 tax. On October 15, 2025, you filed an amended return and claimed a refund of $700. Because you filed your claim within 3 years after you filed your original return, you can get a refund of up to $700, the tax paid within the 3 years plus the 6-month extension period immediately before you filed the claim.
+
+Example 2.
+
+The situation is the same as in Example 1 , except you filed your return on October 30, 2022, 2 weeks after the extension period ended. You paid an additional $200 on that date. On October 30, 2025, you filed an amended return and claimed a refund of $700. Although you filed your claim within 3 years from the date you filed your original return, the refund was limited to $200, the tax paid within the 3 years plus the 6-month extension period immediately before you filed the claim. The estimated tax of $500 paid before that period can’t be refunded or credited.
+
+If you file a claim more than 3 years after you file your return, the credit or refund can’t be more than the tax you paid within the 2 years immediately before you file the claim.
+
+Example.
+
+You filed your 2021 tax return on April 15, 2022. You paid taxes of $500. On November 5, 2023, after an examination of your 2021 return, you had to pay an additional tax of $200. On May 12, 2025, you file a claim for a refund of $300. However, because you filed your claim more than 3 years after you filed your return, your refund will be limited to the $200 you paid during the 2 years immediately before you filed your claim.
+
+Financially disabled.
+
+The time periods for claiming a refund are suspended for the period in which you are financially disabled. For a joint income tax return, only one spouse has to be financially disabled for the time period to be suspended. You are financially disabled if you are unable to manage your financial affairs because of a medically determinable physical or mental impairment that can be expected to result in death or that has lasted or can be expected to last for a continuous period of not less than 12 months. However, you aren’t treated as financially disabled during any period your spouse or any other person is authorized to act on your behalf in financial matters.
+
+To claim that you are financially disabled, you must send in the following written statements with your claim for refund.
+
+-
+
+A statement from your qualified physician that includes:
+
+-
+
+The name and a description of your physical or mental impairment;
+
+-
+
+The physician’s medical opinion that the impairment prevented you from managing your financial affairs;
+
+-
+
+The physician’s medical opinion that the impairment was or can be expected to result in death, or that its duration has lasted, or can be expected to last, at least 12 months;
+
+-
+
+The specific time period (to the best of the physician’s knowledge); and
+
+-
+
+The following certification signed by the physician: “I hereby certify that, to the best of my knowledge and belief, the above representations are true, correct, and complete.”
+
+-
+
+A statement made by the person signing the claim for credit or refund that no person, including your spouse, was authorized to act on your behalf in financial matters during the period of disability (or the exact dates that a person was authorized to act for you).
+
+Exceptions for special types of refunds.
+
+If you file a claim for one of the items in the following list, the dates and limits discussed earlier may not apply. These items, and where to get more information, are as follows.
+
+-
+
+Bad debt. See Pub. 550.
+
+-
+
+Worthless security. See Pub. 550.
+
+-
+
+Foreign tax paid or accrued. See Pub. 514.
+
+-
+
+Net operating loss carryback. See Form 172 and the Instructions for Form 172.
+
+-
+
+Carryback of certain business tax credits. See Form 3800.
+
+-
+
+Claim based on an agreement with the IRS extending the period for assessment of tax.
+
+Processing claims for refund.
+
+Claims are usually processed 8–12 weeks after they are filed. Your claim may be accepted as filed, disallowed, or subject to examination. If a claim is examined, the procedures are the same as in the examination of a tax return.
+
+If your claim is disallowed, you will receive an explanation of why it was disallowed.
+
+Taking your claim to court.
+
+You can sue for a refund in court, but you must first file a timely claim with the IRS. If the IRS disallows your claim or doesn’t act on your claim within 6 months after you file it, you can then take your claim to court. For information on the burden of proof in a court proceeding, see Pub. 556.
+
+The IRS provides a direct method to move your claim to court if:
+
+-
+
+You are filing a claim for a credit or refund based solely on contested income tax or on estate tax or gift tax issues considered in your previously examined returns, and
+
+-
+
+You want to take your case to court instead of appealing it within the IRS.
+
+When you file your claim with the IRS, you get the direct method by requesting in writing that your claim be immediately rejected. A notice of claim disallowance will be sent to you.
+
+You have 2 years from the date of mailing of the notice of claim disallowance to file a refund suit in the U.S. District Court having jurisdiction or in the U.S. Court of Federal Claims.
+
+Interest on refund.
+
+If you receive a refund because of your amended return, interest will be paid on it from the due date of your original return or the date you filed your original return, whichever is later, to the date you filed the amended return. However, if the refund isn’t made within 45 days after you file the amended return, interest will be paid up to the date the refund is paid.
+
+Reduced refund.
+
+Your refund may be reduced by an additional tax liability that has been assessed against you.
+
+Also, your refund may be reduced by amounts you owe for past-due federal tax, state income tax, state unemployment compensation debts, child support, spousal support, or certain other federal nontax debts, such as student loans. If your spouse owes these debts, see Offset against debts under Refunds , earlier, for the correct refund procedures to follow.
+
+Effect on state tax liability.
+
+If your return is changed for any reason, it may affect your state income tax liability. This includes changes made as a result of an examination of your return by the IRS. Contact your state tax agency for more information.
+
+Penalties
+
+The law provides penalties for failure to file returns or pay taxes as required.
+
+Civil Penalties
+
+If you don’t file your return and pay your tax by the due date, you may have to pay a penalty. You may also have to pay a penalty if you substantially understate your tax, understate a reportable transaction, file an erroneous claim for refund or credit, file a frivolous tax submission, or fail to supply your SSN or ITIN. If you provide fraudulent information on your return, you may have to pay a civil fraud penalty.
+
+Filing late.
+
+If you don’t file your return by the due date (including extensions), you may have to pay a failure-to-file penalty. The penalty is usually 5% for each month or part of a month that a return is late, but not more than 25%. The penalty is based on the tax not paid by the due date (without regard to extensions).
+
+Fraud.
+
+If your failure to file is due to fraud, the penalty is 15% for each month or part of a month that your return is late, up to a maximum of 75%.
+
+Return over 60 days late.
+
+If you file your return more than 60 days after the due date, or extended due date, the minimum penalty is the smaller of $525 or 100% of the unpaid tax.
+
+Exception.
+
+You won’t have to pay the penalty if you show that you failed to file on time because of reasonable cause and not because of willful neglect.
+
+Paying tax late.
+
+You will have to pay a failure-to-pay penalty of ½ of 1% (0.50%) of your unpaid taxes for each month, or part of a month, after the due date that the tax isn’t paid. This penalty doesn’t apply during the automatic 6-month extension of time to file period if you paid at least 90% of your actual tax liability on or before the due date of your return and pay the balance when you file the return.
+
+The monthly rate of the failure-to-pay penalty is half the usual rate (0.25% instead of 0.50%) if an installment agreement is in effect for that month. You must have filed your return by the due date (including extensions) to qualify for this reduced penalty.
+
+If a notice of intent to levy is issued, the rate will increase to 1% at the start of the first month beginning at least 10 days after the day that the notice is issued. If a notice and demand for immediate payment is issued, the rate will increase to 1% at the start of the first month beginning after the day that the notice and demand is issued.
+
+This penalty can’t be more than 25% of your unpaid tax. You won’t have to pay the penalty if you can show that you had a good reason for not paying your tax on time.
+
+Combined penalties.
+
+If both the failure-to-file penalty and the failure-to-pay penalty (discussed earlier) apply in any month, the 5% (or 15%) failure-to-file penalty is reduced by the failure-to-pay penalty. However, if you file your return more than 60 days after the due date or extended due date, the minimum penalty is the smaller of $525 or 100% of the unpaid tax.
+
+Accuracy-related penalty.
+
+You may have to pay an accuracy-related penalty if you underpay your tax because:
+
+-
+
+You show negligence or disregard of the rules or regulations,
+
+-
+
+You substantially understate your income tax,
+
+-
+
+You claim tax benefits for a transaction that lacks economic substance, or
+
+-
+
+You fail to disclose a foreign financial asset.
+
+The penalty is equal to 20% of the underpayment. The penalty is 40% of any portion of the underpayment that is attributable to an undisclosed noneconomic substance transaction or an undisclosed foreign financial asset transaction. The penalty won’t be figured on any part of an underpayment on which the fraud penalty (discussed later) is charged.
+
+Negligence or disregard.
+
+The term “negligence” includes a failure to make a reasonable attempt to comply with the tax law or to exercise ordinary and reasonable care in preparing a return. Negligence also includes failure to keep adequate books and records. You won’t have to pay a negligence penalty if you have a reasonable basis for a position you took.
+
+The term “disregard” includes any careless, reckless, or intentional disregard.
+
+Adequate disclosure.
+
+You can avoid the penalty for disregard of rules or regulations if you adequately disclose on your return a position that has at least a reasonable basis. See Disclosure statement , later.
+
+This exception won’t apply to an item that is attributable to a tax shelter. In addition, it won’t apply if you fail to keep adequate books and records, or substantiate items properly.
+
+Substantial understatement of income tax.
+
+You understate your tax if the tax shown on your return is less than the correct tax. The understatement is substantial if it is more than the larger of 10% of the correct tax or $5,000. However, the amount of the understatement may be reduced to the extent the understatement is due to:
+
+-
+
+Substantial authority, or
+
+-
+
+Adequate disclosure and a reasonable basis.
+
+If an item on your return is attributable to a tax shelter, there is no reduction for an adequate disclosure. However, there is a reduction for a position with substantial authority, but only if you reasonably believed that your tax treatment was more likely than not the proper treatment.
+
+Substantial authority.
+
+Whether there is or was substantial authority for the tax treatment of an item depends on the facts and circumstances. Some of the items that may be considered are court opinions, Treasury regulations, revenue rulings, revenue procedures, and notices and announcements issued by the IRS and published in the Internal Revenue Bulletin that involve the same or similar circumstances as yours.
+
+Disclosure statement.
+
+To adequately disclose the relevant facts about your tax treatment of an item, use Form 8275. You must also have a reasonable basis for treating the item the way you did.
+
+In cases of substantial understatement only, items that meet the requirements of Revenue Procedure 2024-44 (or later update) are considered adequately disclosed on your return without filing Form 8275.
+
+Use Form 8275-R to disclose items or positions contrary to regulations.
+
+Transaction lacking economic substance.
+
+For more information on economic substance, see section 7701(o).
+
+Foreign financial asset.
+
+For more information on undisclosed foreign financial assets, see section 6662(j).
+
+Reasonable cause.
+
+You won’t have to pay a penalty if you show a good reason (reasonable cause) for the way you treated an item. You must also show that you acted in good faith. This doesn’t apply to a transaction that lacks economic substance.
+
+Filing erroneous claim for refund or credit.
+
+You may have to pay a penalty if you file an erroneous claim for refund or credit. The penalty is equal to 20% of the disallowed amount of the claim, unless you can show a reasonable basis for the way you treated an item. However, any disallowed amount due to a transaction that lacks economic substance won’t be treated as having a reasonable basis. The penalty won’t be figured on any part of the disallowed amount of the claim that relates to the earned income credit or on which the accuracy-related or fraud penalties are charged.
+
+Frivolous tax submission.
+
+You may have to pay a penalty of $5,000 if you file a frivolous tax return or other frivolous submissions. A frivolous tax return is one that doesn’t include enough information to figure the correct tax or that contains information clearly showing that the tax you reported is substantially incorrect. For more information on frivolous returns, frivolous submissions, and a list of positions that are identified as frivolous, see Notice 2010-33, 2010-17 I.R.B. 609, available at IRS.gov/irb/2010-17_IRB/ar13.html .
+
+You will have to pay the penalty if you filed this kind of return or submission based on a frivolous position or a desire to delay or interfere with the administration of federal tax laws. This includes altering or striking out the preprinted language above the space provided for your signature.
+
+This penalty is added to any other penalty provided by law.
+
+Fraud.
+
+If there is any underpayment of tax on your return due to fraud, a penalty of 75% of the underpayment due to fraud will be added to your tax.
+
+Joint return.
+
+The fraud penalty on a joint return doesn’t apply to a spouse unless some part of the underpayment is due to the fraud of that spouse.
+
+Failure to supply SSN.
+
+If you don’t include your SSN or the SSN of another person where required on a return, statement, or other document, you will be subject to a penalty of $50 for each failure. You will also be subject to a penalty of $50 if you don’t give your SSN to another person when it is required on a return, statement, or other document.
+
+For example, if you have a bank account that earns interest, you must give your SSN to the bank. The number must be shown on the Form 1099-INT or other statement the bank sends you. If you don’t give the bank your SSN, you will be subject to the $50 penalty. (You may also be subject to “backup” withholding of income tax. See chapter 4 .)
+
+You won’t have to pay the penalty if you are able to show that the failure was due to reasonable cause and not willful neglect.
+
+Criminal Penalties
+
+You may be subject to criminal prosecution (brought to trial) for actions such as:
+
+-
+
+Tax evasion;
+
+-
+
+Willful failure to file a return, supply information, or pay any tax due;
+
+-
+
+Fraud and false statements;
+
+-
+
+Preparing and filing a fraudulent return; or
+
+-
+
+Identity theft.
+
+Identity Theft
+
+Identity theft occurs when someone uses your personal information such as your name, SSN, or other identifying information, without your permission, to commit fraud or other crimes. An identity thief may use your SSN to get a job or may file a tax return using your SSN to receive a refund.
+
+To reduce your risk:
+
+-
+
+Protect your SSN,
+
+-
+
+Ensure your employer is protecting your SSN, and
+
+-
+
+Be careful when choosing a tax preparer.
+
+If your tax records are affected by identity theft and you receive a notice from the IRS, respond right away to the name and phone number printed on the IRS notice or letter.
+
+If your SSN has been lost or stolen or you suspect you are a victim of tax-related identity theft, visit IRS.gov/IdentityTheft to learn what steps you should take.
+
+For more information, see Pub. 5027.
+
+. All taxpayers are now eligible for an Identity Protection Personal Identification Number (IP PIN). For more information, see Pub. 5477. To apply for an IP PIN, go to IRS.gov/IPPIN and use the Get an IP PIN tool. .
+
+Victims of identity theft who are experiencing economic harm or a systemic problem, or are seeking help in resolving tax problems that have not been resolved through normal channels, may be eligible for Taxpayer Advocate Service (TAS) assistance. You can reach TAS by calling the National Taxpayer Advocate helpline at 877-777-4778 or 800-829-4059 (TTY/TDD). Deaf or hard-of-hearing individuals can also contact the IRS through the Telecommunications Relay Services (TRS) at FCC.gov/TRS .
+
+Protect yourself from suspicious emails or phishing schemes.
+
+Phishing is the creation and use of email and websites designed to mimic legitimate business emails and websites. The most common form is the act of sending an email to a user falsely claiming to be an established legitimate enterprise in an attempt to scam the user into surrendering private information that will be used for identity theft.
+
+The IRS doesn’t initiate contact with taxpayers via emails. Also, the IRS doesn’t request detailed personal information through email or ask taxpayers for the PIN numbers, passwords, or similar secret access information for their credit card, bank, or other financial accounts.
+
+If you receive an unsolicited email claiming to be from the IRS, forward the message to phishing@irs.gov . You may also report misuse of the IRS name, logo, forms, or other IRS property to the Treasury Inspector General for Tax Administration toll free at 800-366-4484. You can forward suspicious emails to the Federal Trade Commission (FTC) at spam@uce.gov or report them at ftc.gov/complaint . You can contact them at ftc.gov/idtheft or 877-IDTHEFT (877-438-4338). If you have been a victim of identity theft, see IdentityTheft.gov or Pub. 5027. People who are deaf, hard of hearing, or have a speech disability and who have access to TTY/TDD equipment can call 866-653-4261.
+
+Go to IRS.gov/IDProtection to learn more about identity theft and how to reduce your risk.

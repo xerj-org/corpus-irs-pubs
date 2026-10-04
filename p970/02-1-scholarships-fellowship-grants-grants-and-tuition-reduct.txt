@@ -1,0 +1,323 @@
+IRS Pub 970 (2025) | 1. Scholarships, Fellowship Grants, Grants, and Tuition Reductions
+
+1. Scholarships, Fellowship Grants, Grants, and Tuition Reductions
+
+Reminders
+
+Individual retirement arrangements (IRAs). You can set up and make contributions to an IRA if you receive taxable compensation. A scholarship or fellowship grant is generally taxable compensation only if it is shown in box 1 of your Form W-2, Wage and Tax Statement. However, for tax years beginning after 2019, certain non-tuition fellowship and stipend payments not reported to you on Form W-2 are treated as taxable compensation for IRA purposes. These include amounts paid to you to aid you in the pursuit of graduate or postdoctoral study and included in your gross income under the rules discussed in this chapter. Taxable amounts not reported to you on Form W-2 are generally included in gross income, as discussed later under Reporting Scholarships and Fellowship Grants . For more information about IRAs, see Pub. 590-A and Pub. 590-B.
+
+Higher education emergency grants. Emergency financial aid grants under the following are not included in your gross income.
+
+-
+
+The CARES Act.
+
+-
+
+The Coronavirus Response and Relief Supplemental Appropriations Act, 2021.
+
+-
+
+The American Rescue Plan Act of 2021.
+
+Also, for purposes of the American opportunity credit (see chapter 2) and lifetime learning credit (see chapter 3), a student does not reduce an amount of qualified tuition and related expenses by the amount of an emergency financial aid grant. For more information, see Higher Education Emergency Grants Frequently Asked Questions on IRS.gov.
+
+Introduction
+
+This chapter discusses the income tax treatment of various types of educational assistance you may receive if you are studying, teaching, or researching in the United States. The educational assistance can be for a primary or secondary school, a college or university, or a vocational school. Included are discussions of:
+
+-
+
+Scholarships;
+
+-
+
+Fellowship grants;
+
+-
+
+Need-based education grants, such as a Pell grant; and
+
+-
+
+Qualified tuition reductions.
+
+Many types of educational assistance are tax free if they meet the requirements discussed here.
+
+Special rules apply to U.S. citizens and resident aliens who have received scholarships or fellowship grants for studying, teaching, or researching abroad. For information about these rules, see Pub. 54, Tax Guide for U.S. Citizens and Resident Aliens Abroad.
+
+Scholarships and Fellowship Grants
+
+A scholarship is generally an amount paid or allowed to, or for the benefit of, a student (whether an undergraduate or a graduate) at an educational institution to aid in the pursuit of their studies.
+
+A fellowship grant is generally an amount paid for the benefit of an individual to aid in the pursuit of study or research.
+
+Amount of scholarship or fellowship grant.
+
+The amount of a scholarship or fellowship grant includes the following.
+
+-
+
+The value of contributed services and accommodations. This includes such services and accommodations as room (lodging), board (meals), laundry service, and similar services or accommodations that are received by an individual as a part of a scholarship or fellowship grant.
+
+-
+
+The amount of tuition, matriculation, and other fees that are paid for or remitted to the student to aid the student in pursuing study or research.
+
+-
+
+Any amount received in the nature of a family allowance as a part of a scholarship or fellowship grant.
+
+Tax-Free Scholarships and Fellowship Grants
+
+A scholarship or fellowship grant is tax free (excludable from gross income) only if you are a candidate for a degree at an eligible educational institution.
+
+. You may be able to increase the combined value of an education credit and certain educational assistance if the student includes some or all of the educational assistance in income in the year it is received. See the examples under Coordination with Pell grants and other scholarships in chapter 2 and chapter 3. .
+
+A scholarship or fellowship grant is tax free only to the extent :
+
+Use Worksheet 1-1 to figure the amount of a scholarship or fellowship grant you can exclude from gross income.
+
+Candidate for a degree.
+
+You are a candidate for a degree if you:
+
+-
+
+Attend a primary or secondary school or are pursuing a degree at a college or university; or
+
+-
+
+Attend an educational institution that:
+
+-
+
+Provides a program that is acceptable for full credit toward a bachelor’s or higher degree, or offers a program of training to prepare students for gainful employment in a recognized occupation; and
+
+-
+
+Is authorized under federal or state law to provide such a program and is accredited by a nationally recognized accreditation agency.
+
+Eligible educational institution.
+
+An eligible educational institution is one whose primary function is the presentation of formal instruction and that normally maintains a regular faculty and curriculum and normally has a regularly enrolled body of students in attendance at the place where it regularly carries on its educational activities.
+
+Qualified education expenses.
+
+For purposes of tax-free scholarships and fellowship grants, these are expenses for:
+
+-
+
+Tuition and fees required to enroll at or attend an eligible educational institution; and
+
+-
+
+Course-related expenses, such as fees, books, supplies, and equipment that are required for the courses at the eligible educational institution. These items must be required of all students in your course of instruction.
+
+Expenses that don’t qualify.
+
+Qualified education expenses don’t include the cost of:
+
+-
+
+Room and board,
+
+-
+
+Travel,
+
+-
+
+Research,
+
+-
+
+Clerical help, or
+
+-
+
+Equipment and other expenses that aren’t required for enrollment in or attendance at an eligible educational institution.
+
+Payment for services.
+
+Generally, you can’t exclude from your gross income the part of any scholarship or fellowship grant that represents payment for teaching, research, or other services required as a condition for receiving the scholarship. This applies even if all candidates for a degree must perform the services to receive the degree. However, see Exceptions next.
+
+Exceptions.
+
+You don’t have to treat as payment for services the part of any scholarship or fellowship grant that represents payment for teaching, research, or other services if you receive the amount under:
+
+-
+
+The National Health Service Corps Scholarship Program,
+
+-
+
+The Armed Forces Health Professions Scholarship and Financial Assistance Program, or
+
+-
+
+A comprehensive student work-learning-service program (as defined in section 448(e) of the Higher Education Act of 1965) operated by a work college (as defined in that section).
+
+Example 1.
+
+You received a scholarship of $2,500. The scholarship wasn’t received under any of the exceptions mentioned above. As a condition for receiving the scholarship, you must serve as a part-time teaching assistant. Of the $2,500 scholarship, $1,000 represents payment for teaching. The provider of your scholarship gives you a Form W-2 showing $1,000 as income. Your qualified education expenses were at least $1,500. Assuming that all other conditions are met, the most you can exclude from your gross income is $1,500. The $1,000 you received for teaching must be included in your gross income.
+
+Example 2.
+
+You are a candidate for a degree at a medical school. You receive a scholarship (not under any of the exceptions mentioned above) for your medical education and training. The terms of your scholarship require you to perform future services. A substantial penalty applies if you don’t comply. The entire amount of your grant is taxable as payment for services in the year it is received.
+
+Athletic Scholarships
+
+An athletic scholarship is tax free only if and to the extent it meets the requirements discussed earlier.
+
+Worksheet 1-1.
+
+You can use Worksheet 1-1 to figure the tax-free and taxable parts of your athletic scholarship.
+
+Figuring tax-free and taxable (Worksheet 1-1) Scholarships and fellowship grantsTaxable scholarship and fellowship grant income (Worksheet 1-1) WorksheetsScholarships and fellowship grants (Worksheet 1-1)Worksheet 1-1. Taxable Scholarship and Fellowship Grant Income
+
+1. | Enter the total amount of any scholarship or fellowship grant for 2025. See Amount of scholarship or fellowship grant , earlier . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 1. | _____
+2. | Enter the amount from line 1 that was for teaching, research, or any other services required as a condition for receiving the scholarship. Don’t include amounts received for these items under the National Health Service Corps Scholarship Program, the Armed Forces Health Professions Scholarship and Financial Assistance Program, or a comprehensive student work-learning-service program (as defined in section 448(e) of the Higher Education Act of 1965) operated by a work college (as defined in that section) | 2. | _____
+3. | Subtract line 2 from line 1 | 3. | _____
+4. | Enter the amount from line 3 that your scholarship or fellowship grant required you to use for other than qualified education expenses | 4. | _____
+5. | Subtract line 4 from line 3 | 5. | _____
+6. | Enter the amount of your qualified education expenses | 6. | _____
+7. | Enter the smaller of line 5 or line 6. This amount is the most you can exclude from your gross income (the tax-free part of the scholarship or fellowship grant) | 7. | _____
+8. | Subtract line 7 from line 5 | 8. | _____
+9. | Taxable part. Add lines 2, 4, and 8. See Reporting Scholarships and Fellowship Grants , earlier, for information on how to report this amount on your tax return | 9. | _____
+
+Taxable Scholarships and Fellowship Grants
+
+If and to the extent your scholarship or fellowship grant doesn’t meet the requirements described earlier, it is taxable and must be included in gross income. You can use Worksheet 1-1 to figure the tax-free and taxable parts of your scholarship or fellowship grant.
+
+Reporting Scholarships and Fellowship Grants
+
+Whether you must report your scholarship or fellowship grant depends on whether you must file a return and whether any part of your scholarship or fellowship grant is taxable.
+
+If your only income is a completely tax-free scholarship or fellowship grant, you don’t have to file a tax return and no reporting is necessary. If all or part of your scholarship or fellowship grant is taxable and you are required to file a tax return, report the taxable amount as explained below. You must report the taxable amount whether or not you received a Form W-2. If you receive an incorrect Form W-2, ask the payer for a corrected one.
+
+For information on whether you must file a return, see Pub. 501, Dependents, Standard Deduction, and Filing Information, or your income tax form instructions.
+
+How To Report
+
+How you report any taxable scholarship or fellowship grant income depends on which return you file.
+
+Form 1040 or 1040-SR.
+
+If you file Form 1040 or 1040-SR, include any taxable amount reported to you in box 1 of Form W-2 in the total on line 1a. Include any taxable amount not reported to you in box 1 of Form W-2 on Schedule 1 (Form 1040), line 8r.
+
+Form 1040-NR.
+
+If you file Form 1040-NR, report any taxable amount on Schedule 1 (Form 1040), line 8r. Generally, you must report the amount reported to you in box 2 of Form(s) 1042-S, Foreign Person’s U.S. Source Income Subject to Withholding. For more information, see the Instructions for Form 1040-NR.
+
+Other Types of Educational Assistance
+
+The following discussions deal with other common types of educational assistance.
+
+Fulbright Grants
+
+A Fulbright grant is generally treated as a scholarship or fellowship grant in figuring how much of the grant is tax free.
+
+Pell Grants and Other Title IV Need-Based Education Grants
+
+These need-based grants are treated as scholarships for purposes of determining their tax treatment. They are tax free to the extent used for qualified education expenses during the period for which a grant is awarded.
+
+Payment to Service Academy Cadets
+
+An appointment to a U.S. military academy isn’t a scholarship or fellowship grant. Payment you receive as a cadet or midshipman at an armed services academy is pay for personal services and will be reported to you in box 1 of Form W-2. Include this pay in your income in the year you receive it.
+
+Veterans’ Benefits
+
+Payments you receive for education, training, or subsistence under any law administered by the Department of Veterans Affairs (VA) are tax free. Don't include these payments as income on your federal tax return.
+
+If you qualify for one or more of the education tax benefits discussed in chapters 2 through 11, you may have to reduce the amount of education expenses qualifying for a specific tax benefit by part or all of your VA payments. This applies only to the part of your VA payments that is required to be used for education expenses.
+
+You may want to visit the Veterans Administration website at www.va.gov/education for specific information about the various VA benefits for education.
+
+Example.
+
+You have returned to college and are receiving two education benefits under the latest GI Bill: (1) a $1,534 monthly basic housing allowance (BHA) that is directly deposited to your checking account, and (2) $3,840 paid directly to your college for tuition. Neither of these benefits is taxable and you don’t report them on your tax return. You also want to claim an American opportunity credit on your return. Your total tuition charges are $5,000. To figure the amount of credit, you must first subtract the $3,840 from your qualified education expenses because this payment under the GI Bill was required to be used for education expenses. You don’t subtract any amount of the BHA because it was paid to you and its use wasn’t restricted.
+
+Qualified Tuition Reduction
+
+If you are allowed to study tuition free or for a reduced rate of tuition, you may not have to pay tax on this benefit. This is called a tuition reduction. You don’t have to include a qualified tuition reduction in your income.
+
+A tuition reduction is qualified only if you receive it from, and use it at, an eligible educational institution. You don’t have to use the tuition reduction at the eligible educational institution from which you received it. In other words, if you work for an eligible educational institution and the institution arranges for you to take courses at another eligible educational institution without paying any tuition, you may not have to include the value of the free courses in your income.
+
+The rules for determining if a tuition reduction is qualified, and therefore tax free, are different if the education provided is below the graduate level or is graduate education.
+
+You must include in your income any tuition reduction you receive that is payment for your services.
+
+Eligible educational institution.
+
+An eligible educational institution is one that maintains a regular faculty and curriculum and normally has a regularly enrolled body of students in attendance at the place where it regularly carries on its educational activities.
+
+Officers, owners, and highly compensated employees.
+
+Qualified tuition reductions apply to officers, owners, or highly compensated employees only if benefits are available to employees on a nondiscriminatory basis. This means that the tuition reduction benefits must be available on substantially the same basis to each member of a group of employees. The group must be defined under a reasonable classification set up by the employer. The classification must not discriminate in favor of owners, officers, or highly compensated employees.
+
+Payment for services.
+
+Generally, you must include in income the part of any qualified tuition reduction that represents payment for teaching, research, or other services by the student required as a condition of receiving the qualified tuition reduction. This applies even if all candidates for a degree must perform the services to receive the degree. However, see Exceptions next.
+
+Exceptions.
+
+You don’t have to include in income the part of any scholarship or fellowship grant that represents payment for teaching, research, or other services if you receive the amount under:
+
+-
+
+The National Health Service Corps Scholarship Program,
+
+-
+
+The Armed Forces Health Professions Scholarship and Financial Assistance Program, or
+
+-
+
+A comprehensive student work-learning-service program (as defined in section 448(e) of the Higher Education Act of 1965) operated by a work college (as defined in that section).
+
+Education Below the Graduate Level
+
+If you receive a tuition reduction for education below the graduate level (including primary and secondary school), it is a qualified tuition reduction, and therefore tax free, only if your relationship to the educational institution providing the benefit is described below.
+
+-
+
+You are an employee of the eligible educational institution.
+
+-
+
+You were an employee of the eligible educational institution, but you retired or left on disability.
+
+-
+
+You are the surviving spouse of an individual who died while an employee of the eligible educational institution or who retired or left on disability.
+
+-
+
+You are the dependent child or spouse of an individual described in (1) through (3) above.
+
+Child of deceased parents.
+
+For purposes of the qualified tuition reduction, a child is a dependent child if the child is under age 25 and both parents have died.
+
+Child of divorced parents.
+
+For purposes of the qualified tuition reduction, a dependent child of divorced parents is treated as the dependent of both parents.
+
+Graduate Education
+
+A tuition reduction you receive for graduate education is qualified, and therefore tax free, if both of the following requirements are met.
+
+-
+
+It is provided by an eligible educational institution.
+
+-
+
+You are a graduate student who performs teaching or research activities for the educational institution.
+
+You must include in income any other tuition reductions for graduate education that you receive.
+
+How To Report
+
+Any tuition reduction that is taxable should be included as wages in box 1 of your Form W-2. Report the amount from box 1 of Form W-2 on Form 1040 or 1040-SR, line 1a.

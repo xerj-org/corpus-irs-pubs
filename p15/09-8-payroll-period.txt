@@ -1,0 +1,25 @@
+IRS Pub 15 (2026) | 8. Payroll Period
+
+8. Payroll Period
+
+Your payroll period is a period of service for which you usually pay wages. When you have a regular payroll period, withhold income tax for that time period even if your employee doesn’t work the full period.
+
+No regular payroll period.
+
+When you don’t have a regular payroll period, withhold the tax as if you paid wages for a daily or miscellaneous payroll period. Figure the number of days (including Sundays and holidays) in the period covered by the wage payment. If the wages are unrelated to a specific length of time (for example, commissions paid on completion of a sale), count back the number of days from the payment period to the latest of:
+
+-
+
+The last wage payment made during the same calendar year;
+
+-
+
+The date employment began, if during the same calendar year; or
+
+-
+
+January 1 of the same year.
+
+Employee paid for period less than 1 week.
+
+When you pay an employee for a period of less than 1 week, and the employee signs a statement under penalties of perjury indicating they aren’t working for any other employer during the same week for wages subject to withholding, figure withholding based on a weekly payroll period. If the employee later begins to work for another employer for wages subject to withholding, the employee must notify you within 10 days. You then figure withholding based on the daily or miscellaneous period.

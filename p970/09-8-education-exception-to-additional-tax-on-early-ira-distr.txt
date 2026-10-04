@@ -1,0 +1,172 @@
+IRS Pub 970 (2025) | 8. Education Exception to Additional Tax on Early IRA Distributions
+
+8. Education Exception to Additional Tax on Early IRA Distributions
+
+Introduction
+
+Generally, if you take a distribution from your IRA before you reach age 59½, you must pay a 10% additional tax on the early distribution. This applies to any IRA you own, whether it is a traditional IRA (including a SEP IRA), a Roth IRA, or a SIMPLE IRA. The additional tax on an early distribution from a SIMPLE IRA may be as high as 25%. See Pub. 560, Retirement Plans for Small Business, for information on SEP IRAs, and Pub. 590-B for information about distributions from all other IRAs.
+
+However, you can take distributions from your IRAs for qualified higher education expenses without having to pay the 10% additional tax. You may owe income tax on at least part of the amount distributed, but you may not have to pay the 10% additional tax.
+
+Generally, if the taxable part of the distribution is less than or equal to the adjusted qualified education expenses (AQEE), none of the distribution is subject to the additional tax. If the taxable part of the distribution is more than the AQEE, only the excess is subject to the additional tax.
+
+Who Is Eligible? Individual retirement arrangements (IRAs)Early distributions from IRAs
+
+You can take a distribution from your IRA before you reach age 59½ and not have to pay the 10% additional tax if, for the year of the distribution, you pay qualified education expenses for:
+
+-
+
+Yourself;
+
+-
+
+Your spouse;
+
+-
+
+Your or your spouse's child, foster child, or adopted child; or
+
+-
+
+Your or your spouse’s grandchild.
+
+Qualified education expenses.
+
+Qualified education expenses, eligible for the exception to the 10% additional tax for early distributions from IRAs, are tuition, fees, books, supplies, and equipment (including computer equipment and related services) required for the enrollment or attendance at an eligible educational institution, including those expenses incurred in connection with a recognized postsecondary credential program.
+
+They also include expenses for special needs services incurred by or for special needs students in connection with their enrollment or attendance at an eligible educational institution.
+
+In addition, if the student is at least a half-time student, room and board are qualified education expenses.
+
+The expense for room and board qualifies only to the extent that it isn't more than the greater of the following two amounts.
+
+-
+
+The allowance for room and board, as determined by the eligible educational institution, that was included in the cost of attendance (for federal financial aid purposes) for a particular academic period and living arrangement of the student.
+
+-
+
+The actual amount charged if the student is residing in housing owned or operated by the eligible educational institution.
+
+You may need to contact the eligible educational institution for qualified room and board costs.
+
+Additional qualified education expenses in connection with elementary and secondary tuition.
+
+Qualified higher education expenses include the following expenses in connection with the enrollment or attendance at an elementary or secondary public, private, or religious school:
+
+-
+
+Tuition.
+
+-
+
+Curriculum and curricular materials.
+
+-
+
+Books or other instructional materials.
+
+-
+
+Online education materials.
+
+-
+
+Tuition for tutoring or educational classes outside of the home, including at a tutoring facility, but only if the tutor or instructor meets certain requirements. (See Requirements for tutors later.)
+
+-
+
+Fees for a nationally standardized norm-referenced achievement test, an advanced placement examination, or any examinations related to college or university admission.
+
+-
+
+Fees for dual enrollment in an institution of higher education.
+
+-
+
+Educational therapies for students with disabilities provided by a licensed or accredited practitioner or provider, including occupational, behavioral, physical, and speech-language therapies.
+
+Requirements for tutors.
+
+Tutors or teachers tutoring or providing educational classes outside of the home must not be related to the student and meet the following requirements.
+
+-
+
+They must be licensed as a teacher in any state, or
+
+-
+
+They must have taught at an eligible educational institution, or
+
+-
+
+They must be a subject matter expert in the relevant subject.
+
+Eligible educational institution.
+
+An eligible educational institution is any college, university, vocational school, or other postsecondary educational institution eligible to participate in a student aid program administered by the U.S. Department of Education. Virtually all accredited public, non-profit, and proprietary (privately owned profit-making) postsecondary institutions meet this definition.
+
+An eligible educational institution also includes certain educational institutions located outside the United States that are eligible to participate in a student aid program administered by the U.S. Department of Education.
+
+. The educational institution should be able to tell you if it is an eligible educational institution. .
+
+Half-time student.
+
+A student is enrolled “at least half-time” if the student is enrolled for at least half the full-time academic workload for the course of study the student is pursuing as determined under the standards of the school where the student is enrolled.
+
+Figuring the Amount Not Subject to the 10% Additional Tax
+
+To determine the amount of your distribution that isn't subject to the 10% additional tax, first figure your AQEE. You do this by reducing your total qualified education expenses by any tax-free educational assistance, which includes:
+
+Don't reduce the qualified education expenses by amounts paid with funds the student receives as:
+
+-
+
+Payment for services, such as wages;
+
+-
+
+A loan;
+
+-
+
+A gift;
+
+-
+
+An inheritance given to either the student or the individual making the withdrawal; or
+
+-
+
+A withdrawal from personal savings (including savings from a qualified tuition program (QTP)).
+
+If your IRA distribution is equal to or less than your AQEE, you aren't subject to the 10% additional tax.
+
+Example 1.
+
+In 2025, a teacher (age 32) took a year off from teaching to attend graduate school full time. They paid $5,800 of qualified education expenses from the following sources.
+
+Employer-provided educational assistance (tax free) | $5,000
+Early distribution from IRA (taxable part is $500) | 3,200
+
+Before the teacher can determine if they must pay the 10% additional tax on their IRA distribution, they must reduce their total qualified education expenses.
+
+Total qualified education expenses | $5,800
+Minus: Tax-free educational assistance | − 5,000
+Equals: AQEE | $ 800
+
+Because the teacher’s AQEE ($800) is more than the taxable part of their IRA distribution ($500), they don't have to pay the 10% additional tax on any part of this distribution. However, they must include the $500 taxable earnings in their gross income subject to income tax.
+
+Example 2.
+
+Assume the same facts as in Example 1 , except that the teacher deducted some of the contributions to their IRA, so the taxable part of their early distribution is $1,000. This must be included in their income subject to income tax.
+
+The taxable part of the teacher’s IRA distribution ($1,000) is larger than their $800 AQEE. Therefore, they must pay the 10% additional tax on $200, the taxable part of their distribution ($1,000) that is more than their AQEE ($800). The teacher doesn’t have to pay the 10% additional tax on the remaining $800 of their taxable distribution.
+
+Reporting Early Distributions
+
+By February 2, 2026 (January 31 falls on a Saturday), the payer of your IRA distribution should send you Form 1099-R, Distributions From Pensions, Annuities, Retirement or Profit-Sharing Plans, IRAs, Insurance Contracts, etc. The information on this form will help you determine how much of your distribution is taxable for income tax purposes and how much is subject to the 10% additional tax.
+
+If you received an early distribution from your IRA, you must report the taxable part of the distribution on Form 1040, 1040-SR, or 1040-NR, line 4b. Then, if you qualify for an exception for qualified higher education expenses, you must file Form 5329 to show how much, if any, of your early distribution is subject to the 10% additional tax. See the instructions for Form 5329, Part I, for help in completing the form and entering the results on Schedule 2 (Form 1040), line 8.
+
+There are many other situations in which Form 5329 is required. If, during 2025, you had other distributions from IRAs or qualified retirement plans, or have made excess contributions to certain tax-favored accounts, see the instructions for Schedule 2 (Form 1040), line 8, to determine if you must file Form 5329.

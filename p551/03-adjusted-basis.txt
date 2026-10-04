@@ -1,0 +1,279 @@
+IRS Pub 551 (12/2025) | Adjusted Basis
+
+Adjusted Basis
+
+Before figuring gain or loss on a sale, exchange, or other disposition of property, or figuring allowable depreciation, depletion, or amortization, you must usually make certain adjustments to the basis of the property. The result of these adjustments to the basis is the adjusted basis.
+
+Increases to Basis
+
+Increase the basis of any property by all items properly added to a capital account. These include the cost of any improvements having a useful life of more than 1 year.
+
+Rehabilitation expenses also increase basis. However, you must subtract any rehabilitation credit allowed for these expenses before you add them to your basis. If you have to recapture any of the credit, increase your basis by the recaptured amount.
+
+If you make additions or improvements to business property, keep separate accounts for them. Also, you must depreciate the basis of each according to the depreciation rules that would apply to the underlying property if you had placed it in service at the same time you placed the addition or improvement in service. For more information, see Pub. 946.
+
+The following items increase the basis of property.
+
+-
+
+The cost of extending utility service lines to the property.
+
+-
+
+Impact fees.
+
+-
+
+Legal fees, such as the cost of defending and perfecting title.
+
+-
+
+Legal fees for obtaining a decrease in an assessment levied against property to pay for local improvements.
+
+-
+
+Zoning costs.
+
+-
+
+The capitalized value of a redeemable ground rent.
+
+Assessments for Local Improvements
+
+Increase the basis of property by assessments for items such as paving roads and building ditches that increase the value of the property assessed. Don't deduct them as taxes. However, you can deduct as taxes charges for maintenance, repairs, or interest charges related to the improvements.
+
+Example.
+
+Your city changes the street in front of your store into an enclosed pedestrian mall and assesses you and other affected landowners for the cost of the conversion. Add the assessment to your property's basis. In this example, the assessment is a depreciable asset.
+
+Deducting vs. Capitalizing Costs
+
+Don't add to your basis costs you can deduct as current expenses. For example, amounts paid for incidental repairs or maintenance that are deductible as business expenses can't be added to basis. However, you can choose either to deduct or to capitalize certain other costs. If you capitalize these costs, include them in your basis. If you deduct them, don't include them in your basis. See Uniform Capitalization Rules , earlier.
+
+The costs you can choose to deduct or to capitalize include the following.
+
+-
+
+Carrying charges, such as interest and taxes, that you pay to own property, except carrying charges that must be capitalized under the uniform capitalization rules.
+
+-
+
+Research and experimental costs.
+
+-
+
+Intangible drilling and development costs for oil, gas, and geothermal wells.
+
+-
+
+Exploration costs for new mineral deposits.
+
+-
+
+Mining development costs for a new mineral deposit.
+
+-
+
+Costs of establishing, maintaining, or increasing the circulation of a newspaper or other periodical.
+
+-
+
+Costs of removing architectural and transportation barriers to people with disabilities and the elderly. If you claim the disabled access credit, you must reduce the amount you deduct or capitalize by the amount of the credit.
+
+Table 1. Examples of Increases and Decreases to Basis
+
+Increases to basis | Decreases to basis
+Capital improvements: Putting an addition on your home Replacing an entire roof Paving your driveway Installing central air conditioning Rewiring your home | Exclusion from income of subsidies for energy conservation measures Casualty or theft loss deductions and insurance reimbursements Certain vehicle credits
+Assessments for local improvements: Water connections Sidewalks Roads | Section 179 deduction
+Casualty losses: Restoring damaged property | Depreciation Nontaxable corporate distributions
+Legal fees: Cost of defending and perfecting a title
+Zoning costs
+
+Decreases to Basis
+
+The following are some items that reduce the basis of property.
+
+-
+
+Section 179 deduction.
+
+-
+
+Deduction under section 179D for certain energy efficient commercial building property.
+
+-
+
+Nontaxable corporate distributions.
+
+-
+
+Deductions previously allowed (or allowable) for amortization, depreciation, and depletion.
+
+-
+
+Exclusion of subsidies for energy conservation measures.
+
+-
+
+Certain vehicle credits.
+
+-
+
+Residential energy credits.
+
+-
+
+Postponed gain from sale of home.
+
+-
+
+Investment credit taken.
+
+-
+
+Casualty and theft losses and insurance reimbursement.
+
+-
+
+Certain canceled debt excluded from income.
+
+-
+
+Rebates treated as adjustments to the sales price.
+
+-
+
+Easements.
+
+-
+
+Gas-guzzler tax.
+
+-
+
+Adoption tax benefits.
+
+-
+
+Credit for employer-provided child care.
+
+-
+
+Partial disposition of MACRS property, whether you elect to recognize the partial disposition or are required to recognize it.
+
+Some of these items are discussed next.
+
+Casualties and Thefts
+
+If you have a casualty or theft loss, decrease the basis in your property by any insurance or other reimbursement and by any deductible loss not covered by insurance.
+
+If you dispose of a portion of MACRS property because of a loss sustained from a casualty event, decrease the basis in the property by any insurance or other reimbursement and by any deductible loss on the disposed portion of the property that isn't covered by insurance. The deductible loss is generally the decrease in the FMV of the property resulting from the casualty event, but is limited to the adjusted basis of the disposed portion of the MACRS property.
+
+You must increase your basis in the property by the amount you spend on repairs that substantially prolong the life of the property, increase its value, or adapt it to a different use. To make this determination, compare the repaired property to the property before the casualty. If the amount you spent didn't otherwise improve the property, then it's deductible as a repair and doesn't affect basis. For more information on casualty and theft losses, see Pub. 547.
+
+Easements
+
+The amount you receive for granting an easement is generally considered to be a sale of an interest in real property. It reduces the basis of the affected part of the property. If the amount received is more than the basis of the part of the property affected by the easement, reduce your basis in that part to zero and treat the excess as a recognized gain.
+
+Vehicle Credits
+
+Unless you elect not to claim the qualified electric vehicle credit, the alternative motor vehicle credit, the new clean vehicle credit, the previously owned clean vehicle credit, or the commercial clean vehicle credit for which you qualify, you may have to reduce the basis of each vehicle for which you claimed a credit, including any credit transferred to the dealer at the time you purchased the vehicle, by certain amounts reported. For more information on available credits, see Form 8834, Qualified Electric Vehicle Credit; Form 8910, Alternative Motor Vehicle Credit; Form 8936, Clean Vehicle Credits; and the related instructions.
+
+Residential Energy Credits
+
+You must reduce the cost basis of your home if a residential energy credit is allowed for any expense for any property. The increase in the basis of the property that would result from the expenses of the improvements to your home will be reduced by the amount of the allowed credit.
+
+Gas-Guzzler Tax
+
+Decrease the basis in your car by the gas-guzzler (fuel economy) tax if you begin using the car within 1 year of the date of its first sale for ultimate use. This rule also applies to someone who later buys the car and begins using it not more than 1 year after the original sale for ultimate use. If the car is imported, the 1-year period begins on the date of entry or withdrawal of the car from the warehouse if that date is later than the date of the first sale for ultimate use.
+
+Section 179 Deduction
+
+If you take the section 179 deduction for all or part of the cost of qualifying business property, decrease the basis of the property by the deduction. For more information about the section 179 deduction, see Pub. 946.
+
+Exclusion of Subsidies for Energy Conservation Measures
+
+You can exclude from gross income any subsidy you received from a public utility company for the purchase or installation of any energy conservation measure for a dwelling unit. Reduce the basis of the property for which you received the subsidy by the excluded amount. For more information on this subsidy, see Pub. 525.
+
+Depreciation
+
+Decrease the basis of property by the depreciation you deducted, or could have deducted, on your tax returns under the method of depreciation you chose. If you took less depreciation than you could have under the method chosen, decrease the basis by the amount you could have taken under that method. If you didn't take a depreciation deduction, reduce the basis by the full amount of the depreciation you could have taken.
+
+Unless a timely election is made not to deduct the special depreciation allowance for property placed in service after September 10, 2001, decrease the property's basis by the special depreciation allowance you deducted or could have deducted.
+
+If you deducted more depreciation than you should have, decrease your basis by the amount equal to the depreciation you should have deducted plus the part of the excess depreciation you deducted that actually reduced your tax liability for the year.
+
+In decreasing your basis for depreciation, take into account the amount deducted on your tax returns as depreciation and any depreciation capitalized under the uniform capitalization rules.
+
+For information on figuring depreciation, see Pub. 946.
+
+If you're claiming depreciation on a business vehicle, see Pub. 463. If the car isn't used more than 50% for business during the tax year, you may have to recapture excess depreciation. Include the excess depreciation in your gross income and add it to your basis in the property. For information on the computation of excess depreciation, see chapter 4 in Pub. 463.
+
+Canceled Debt Excluded From Income
+
+If a debt you owe is canceled or forgiven, other than as a gift or bequest, you must generally include the canceled amount in your gross income for tax purposes. A debt includes any indebtedness for which you're liable or which attaches to property you hold.
+
+You can exclude canceled debt from income in the following situations.
+
+-
+
+Debt canceled in a bankruptcy case or when you're insolvent.
+
+-
+
+Qualified farm debt.
+
+-
+
+Qualified real property business debt (provided you're not a C corporation).
+
+-
+
+Qualified principal residence indebtedness (only if discharged before January 1, 2026, or subject to an arrangement that is entered into and evidenced in writing before January 1, 2026).
+
+If you exclude from income canceled debt under situation (1) or (2), you may have to reduce the basis of your depreciable and nondepreciable property. However, in situation (3), you must reduce the basis of your depreciable property by the excluded amount.
+
+For more information about canceled debt in a bankruptcy case or during insolvency, see Pub. 908, Bankruptcy Tax Guide. For more information about canceled debt that is qualified farm debt, see chapter 3 in Pub. 225. For more information about qualified real property business debt, see chapter 5 in Pub. 334, Tax Guide for Small Business.
+
+Postponed Gain From Sale of Home
+
+If you postponed gain from the sale of your main home before May 7, 1997, you must reduce the basis of your new home by the postponed gain. For more information on the rules for the sale of a home, see Pub. 523.
+
+Adoption Tax Benefits
+
+If you claim an adoption credit for the cost of improvements you added to the basis of your home, decrease the basis of your home by the credit allowed. This also applies to amounts you received under an employer's adoption assistance program and excluded from income. For more information, see Form 8839, Qualified Adoption Expenses.
+
+Employer-Provided Child Care
+
+If you're an employer, you can claim the employer-provided child care credit on amounts you paid or incurred to acquire, construct, rehabilitate, or expand property used as part of your qualified child care facility. You must reduce your basis in that property by the credit determined. For more information, see Form 8882, Credit for Employer-Provided Child Care Facilities and Services.
+
+Disposition of a Portion of MACRS Property
+
+If you sell a portion of MACRS property (a MACRS asset), you must reduce the adjusted basis of the asset by the adjusted basis of the portion sold. Use your records to determine which portion of the asset was sold, the date the asset was placed in service, the unadjusted basis of the portion sold, and its adjusted basis. See the partial disposition rules in Regulations section 1.168(i)-8 for more detail. The adjusted basis of the portion sold is used to determine the gain or loss realized on the sale. Also, see Pub. 544.
+
+If you physically abandon a portion of MACRS property (a MACRS asset) and you elect to recognize the loss on the abandonment by reporting the loss on your tax return, you must reduce the adjusted basis of the MACRS asset by the adjusted basis of the portion abandoned. Use your records to determine which portion of the asset was abandoned, the date the asset was placed in service, the unadjusted basis of the portion abandoned, and its adjusted basis. See the partial disposition rules in Regulations section 1.168(i)-8 for more detail. Also, see Example 2 and Example 3 below.
+
+Adjustments to Basis Examples
+
+Example 1.
+
+In January 2020, you paid $80,000 for real property to be used as a factory. You also paid commissions of $2,000 and title search and legal fees of $600. You allocated the total cost of $82,600 between the land and the building—$10,325 for the land and $72,275 for the building. Immediately, you spent $20,000 in remodeling the building before you placed it in service. You were allowed depreciation of $14,526 for the years 2020 through 2024. In 2023, you had a $5,000 casualty loss from a storm that wasn't covered by insurance on the building. You claimed a deduction for this loss. You spent $5,500 to repair the damages and to otherwise improve the building. The adjusted basis of the building on January 1, 2025, is figured as follows:
+
+Original cost of building including fees and commissions | $72,275
+Adjustments to basis:
+Add:
+Improvements | 20,000
+Repair of damages | 5,500
+$97,775
+Subtract:
+Depreciation | $14,526
+Deducted casualty loss | 5,000 | 19,526
+Adjusted basis on January 1, 2025 | $78,249
+
+Example 2.
+
+You own a building that you purchased in 1990 for $75,000. You use the building in your business. The building is a MACRS asset. You removed and abandoned the roof on the building and replaced it with a new roof. You make the partial disposition election to recognize loss on the abandonment of the old roof by reporting the loss on your timely filed tax return. The loss is the adjusted basis of the roof as of the first day of the tax year of the abandonment. Using your records, you determine that the abandoned roof was placed in service in 1990 with the building, the unadjusted basis of the building attributable to the roof is $5,000, and after you deducted depreciation of $3,500 on the roof, its adjusted basis as of the first day of the tax year of the abandonment is $1,500. Report the $1,500 ordinary loss in Part II of Form 4797. In your depreciation records, you must reduce the unadjusted basis of the building, $75,000, by the unadjusted basis of the roof, $5,000, as well as reduce the accumulated depreciation of the building by the accumulated depreciation on the roof, $3,500. You must also capitalize the cost of the replacement roof and depreciate it as a separate asset from the building.
+
+Example 3.
+
+You own a bulldozer that you purchased 2 years ago for $25,000. You use the bulldozer in your business. The bulldozer is a MACRS asset. You removed and replaced the bucket on the bulldozer with a new bucket. You make the partial disposition election to recognize loss on the abandonment of the old bucket by reporting the loss on your timely filed tax return. The loss is the adjusted basis of the bucket as of the first day of the tax year of the abandonment. Using your records, you determine that the abandoned bucket was placed in service with the bulldozer, the unadjusted basis of the bucket is $5,000, and after you deducted depreciation of $3,800 on the bucket, the adjusted basis of the bucket as of the first day of the tax year of the abandonment is $1,200. Report the $1,200 ordinary loss in Part II of Form 4797. In your depreciation records, you must reduce the unadjusted basis of the bulldozer, $25,000, by the unadjusted basis of the bucket, $5,000, as well as reduce the accumulated depreciation of the bulldozer by the accumulated depreciation on the bucket, $3,800. You must also capitalize the cost of the replacement bucket and begin depreciating it as a separate asset from the bulldozer.

@@ -1,0 +1,506 @@
+IRS Pub 551 (12/2025) | Basis Other Than Cost
+
+Basis Other Than Cost
+
+There are many times when you can't use cost as basis. In these cases, the FMV or the adjusted basis of property may be used. Adjusted basis is discussed earlier.
+
+FMV is the price at which property would change hands between a buyer and a seller, neither having to buy or sell, and both having reasonable knowledge of all necessary facts. Sales of similar property on or about the same date may be helpful in figuring the property's FMV.
+
+Property Received for Services
+
+If you receive property for services, include the property's FMV in income. The amount you include in income becomes your basis. If the services were performed for a price agreed on beforehand, it will be accepted as the FMV of the property if there is no evidence to the contrary.
+
+Bargain Purchases
+
+A bargain purchase is a purchase of an item for less than its FMV. If, as compensation for services, you purchase goods or other property at less than FMV, include the difference between the purchase price and the property's FMV in your income. Your basis in the property is its FMV (your purchase price plus the amount you include in income).
+
+If the difference between your purchase price and the FMV represents a qualified employee discount, don't include the difference in income. However, your basis in the property is still its FMV. See Employee Discounts in Pub. 15-B.
+
+Restricted Property
+
+If you receive property for your services and the property is subject to certain restrictions, your basis in the property is its FMV when it becomes substantially vested unless you make the election discussed later. Property becomes substantially vested when your rights in the property or the rights of any person to whom you transfer the property are transferable or are not subject to a substantial risk of forfeiture.
+
+There is substantial risk of forfeiture when the rights to full enjoyment of the property depend on the future performance of substantial services by any person.
+
+When the property becomes substantially vested, include the FMV, less any amount you paid for the property, in income.
+
+Example.
+
+Your employer gives you stock for services performed under the condition that you'll have to return the stock unless you complete 5 years of service. The stock is under a substantial risk of forfeiture and isn't substantially vested when you receive it. You don't report any income until you have completed the 5 years of service that satisfy the condition.
+
+FMV.
+
+Figure the FMV of property you received without considering any restriction except one that by its terms will never end.
+
+Example.
+
+You received stock from your employer for services you performed. If you want to sell the stock while you're still employed, you must sell the stock to your employer at book value. At your retirement or death, you or your estate must offer to sell the stock to your employer at its book value. This is a restriction that by its terms will never end and you must consider it when you figure the FMV.
+
+Election.
+
+If you receive property that is not substantially vested, you can choose to include in your gross income the FMV of the property at the time of transfer, less any amount you paid for it. Your basis is the amount you paid plus the amount you included in income. If you make this choice, you will not need to include any additional amount in your gross income when the property becomes substantially vested.
+
+See the discussion of Restricted Property in Pub. 525 for more information.
+
+Taxable Exchanges
+
+A taxable exchange is one in which the gain is taxable or the loss is deductible. A taxable gain or deductible loss is also known as a recognized gain or loss. If you receive property in exchange for other property in a taxable exchange, the basis of property you receive is usually its FMV at the time of the exchange. A taxable exchange occurs when you receive cash or property not similar or related in use to the property exchanged.
+
+Example.
+
+You trade a tract of farm land with an adjusted basis of $3,000 for a tractor that has an FMV of $6,000. You must report a taxable gain of $3,000 for the land. The tractor has a basis of $6,000.
+
+Involuntary Conversions
+
+If you receive property as a result of an involuntary conversion, such as a casualty, theft, or condemnation, you can figure the basis of the replacement property you receive using the basis of the converted property.
+
+Similar or related property.
+
+If you receive replacement property similar or related in service or use to the converted property, the replacement property's basis is the old property's basis on the date of the conversion. However, make the following adjustments.
+
+-
+
+Decrease the basis by the following.
+
+-
+
+Any loss you recognize on the conversion.
+
+-
+
+Any money you receive that you don't spend on similar property.
+
+-
+
+Increase the basis by the following.
+
+-
+
+Any gain you recognize on the conversion.
+
+-
+
+Any cost of acquiring the replacement property.
+
+Money or property not similar or related.
+
+If you receive money or property not similar or related in service or use to the converted property, and you buy replacement property similar or related in service or use to the converted property, the basis of the new property is its cost decreased by the gain not recognized on the conversion.
+
+Example.
+
+The state condemned your property. The property had an adjusted basis of $26,000 and the state paid you $31,000 for it. You realized a gain of $5,000 ($31,000 − $26,000). You bought replacement property similar in use to the converted property for $29,000. You recognize a gain of $2,000 ($31,000 − $29,000), the unspent part of the payment from the state. Your gain not recognized is $3,000, the difference between the $5,000 realized gain and the $2,000 recognized gain. The basis of the new property is figured as follows:
+
+Cost of replacement property | $29,000
+Minus: Gain not recognized | 3,000
+Basis of the replacement property | $26,000
+
+Allocating the basis.
+
+If you buy more than one piece of replacement property, allocate your basis among the properties based on their respective costs.
+
+Example.
+
+The state in the previous example condemned your unimproved real property and the replacement property you bought was improved real property with both land and buildings. Allocate the replacement property's $26,000 basis between land and buildings based on their respective costs.
+
+More information.
+
+For more information about condemnations, see Involuntary Conversions in Pub. 544. For more information about casualty and theft losses, see Pub. 547.
+
+Nontaxable Exchanges
+
+A nontaxable exchange is an exchange in which you're not taxed on any gain and you can't deduct any loss. If you receive property in a nontaxable exchange, its basis is usually the same as the basis of the property you transferred. A nontaxable gain or loss is also known as an unrecognized gain or loss.
+
+Like-Kind Exchanges of Real Property
+
+The exchange of real property may qualify as a nontaxable exchange under section 1031 of the Internal Revenue Code.
+
+To qualify as a like-kind exchange, you must hold for business or investment purposes both the real property you transfer and the real property you receive. For more information, see Like-Kind Exchanges in Pub. 544.
+
+The basis of the property you receive is generally the same as the basis of the property you give up.
+
+Example.
+
+You exchange real estate (adjusted basis $50,000, FMV $80,000) held for investment for other real estate (FMV $80,000) held for investment. The transaction qualifies as a like-kind exchange, so no gain is recognized on the transaction. Your basis in the new property is the same as the basis of the old property ($50,000).
+
+Exchange expenses.
+
+Exchange expenses include the closing costs you pay on the property received (replacement property). They include such items as brokerage commissions, attorney fees, deed preparation fees, etc., as described in Settlement Costs , discussed earlier. If incurred as part of the acquisition of the replacement property, and no gain is recognized on the exchange, add these costs to the basis of the like-kind property received.
+
+Exchange expenses also include the closing costs you pay on the disposition of the property given up. For more information, see Like-Kind Exchanges in Pub. 544
+
+Other expenses and receipts.
+
+Other expenses and receipts that may be reflected on the closing statement (for example, property taxes, rent prorations, security deposits, and repairs) are not exchange expenses. Unlike exchange expenses, other expenses are not added to the basis of property received. For more information, see Like-Kind Exchanges in Pub. 544.
+
+Property plus cash.
+
+If you trade property in a like-kind exchange and also pay money, the basis of the property received is the basis of the property you gave up plus the money you paid.
+
+Example.
+
+You exchange a parcel of real property (adjusted basis of $30,000) for another parcel of real property (FMV $75,000) and pay $40,000. Your basis in the newly acquired real property is $70,000 (the $30,000 adjusted basis of the old parcel plus the $40,000 paid).
+
+Special rules for related persons.
+
+If a like-kind exchange takes place directly or indirectly between related persons and either party disposes of the property within 2 years after the exchange, the exchange no longer qualifies for like-kind exchange treatment. Each person must report any gain or loss not recognized on the original exchange. Each person reports it on the tax return filed for the year in which the later disposition occurs. If this rule applies, the basis of the property received in the original exchange will be its FMV (at the time of the exchange) plus associated exchange expenses paid on the property received. Refer to Settlement Costs under Real Property , earlier in this publication.
+
+These rules generally don't apply to the following kinds of property dispositions.
+
+-
+
+Dispositions due to the death of either related person.
+
+-
+
+Involuntary conversions.
+
+-
+
+Dispositions in which neither the original exchange nor the subsequent disposition had as a main purpose the avoidance of federal income tax.
+
+Related persons.
+
+Generally, related persons are ancestors, lineal descendants, brothers and sisters (whole or half), and a spouse.
+
+For a list of other related persons (for example, two corporations that are members of the same controlled group, an individual and a corporation if the individual owns directly or indirectly more than 50% of the value of the outstanding stock, a grantor and fiduciary of any trust, etc.), see Nondeductible Loss in chapter 2 of Pub. 544.
+
+Partially Nontaxable Exchange
+
+A partially nontaxable exchange is an exchange in which you receive non-like-kind property or money in addition to like-kind property. The basis of the like-kind property you receive is the same as the adjusted basis of the like-kind property you gave up, with the following adjustments.
+
+-
+
+Decrease the basis by the following amounts.
+
+-
+
+Any money you receive.
+
+-
+
+Any liabilities assumed by the other party (or paid off in a deferred exchange) on the like-kind property given up.
+
+-
+
+Any loss you recognize on the exchange for non-like-kind property given up.
+
+-
+
+Increase the basis by the following amounts.
+
+-
+
+Any additional costs you incur.
+
+-
+
+Any liabilities you assume (or new debt incurred) on the like-kind property received.
+
+-
+
+Any gain you recognize on the exchange.
+
+Example.
+
+You trade a parcel of real property with an FMV of $62,000 and an adjusted basis of $60,000 for another parcel of real property with an FMV of $52,000 and $10,000 cash. You realize a gain of $2,000 (the FMV of the parcel of real property received plus the cash minus the adjusted basis of real property you traded ($52,000 + $10,000 – $60,000)). You must recognize all $2,000 of the gain in income because the gain realized is less than the cash received. Your basis in the newly acquired parcel of real property is as follows:
+
+Adjusted basis of old property | $60,000
+Minus: Cash received (adjustment 1(a)) | 10,000
+$50,000
+Plus: Gain recognized (adjustment 2(b)) | 2,000
+Basis of new property | $52,000
+
+Allocation of basis.
+
+Allocate the basis first to the non-like-kind property received, other than money, up to its FMV on the date of the exchange. The rest is the basis of the like-kind property.
+
+Example.
+
+You had an adjusted basis of $15,000 in real estate you held for investment. You exchanged it for other real estate to be held for investment with an FMV of $16,000, a truck with an FMV of $3,000, and $1,000 cash. The truck is non-like-kind property. You have a realized gain of $5,000 ($16,000 FMV of real estate + $3,000 FMV of truck + $1,000 cash − $15,000 adjusted basis of real estate given up). You calculate the cash plus the FMV of all non-like-kind property received which totals $4,000 ($3,000 FMV of truck + $1,000 cash). Because this amount is less than the gain realized ($5,000) you recognize gain to the full extent of the $4,000 of cash and non-like-kind property received. The basis in the properties you received is figured as follows:
+
+Adjusted basis of real estate transferred | $15,000
+Minus: Cash received | 1,000
+$14,000
+Plus: Gain recognized | 4,000
+Total basis of properties received | $18,000
+
+Allocate the total basis of $18,000 first to the non-like-kind property received in the exchange at its fair market value. The truck is allocated $3,000 and then the rest ($15,000) is the basis of the real estate.
+
+The basis of the real estate is allocated between its carryover basis and excess basis. The carryover basis is the adjusted basis of the property given up, and the excess basis is the remainder of the basis.
+
+To figure the carryover basis and the excess basis allocated to each like-kind asset, the carryover basis is multiplied by the FMV of the individual asset divided by the total FMV of all assets received.
+
+Example.
+
+You held real estate for investment with an FMV of $16,000 and an adjusted basis of $10,000. You exchanged it, along with $4,000 in cash, for other real estate held for investment made up of land with an FMV of $2,000 and depreciable real property with an FMV of $18,000. The carryover basis to be allocated is $10,000 (the adjusted basis of property given up) and the remaining $4,000 is excess basis for a total basis of $14,000 in the replacement property.
+
+The total carryover and excess basis allocated to each asset are calculated as follows:
+
+Asset | FMV | FMV % | Carryover basis | Excess basis
+Land | $2,000 | 10% | $1,000 ($10,000 x 10%) | $400 ($4,000 x 10%)
+Depreciable Real Estate | $18,000 | 90% | $9,000 ($10,000 x 90%) | $3,600 ($4,000 x 90%)
+Total | $20,000 | 100% | $10,000 | $4,000
+
+See Pub. 946 for additional information regarding the application of the special depreciation rules to allocation of basis in a like-kind exchange.
+
+Non-Like-Kind Property Given up
+
+If, in addition to like-kind property, you give up non-like-kind property, you must recognize gain or loss on the non-like-kind property you give up. The basis is the total adjusted basis of the properties given up increased by the amount of gain or decreased by the amount of loss recognized on the non-like-kind property.
+
+Example.
+
+You exchange stock and real estate you held for investment for real estate you also intend to hold for investment. The stock you transfer has a fair market value of $1,000 and an adjusted basis of $4,000. The real estate you exchange has a fair market value of $19,000 and an adjusted basis of $15,000. The real estate you receive has a fair market value of $20,000. Gain realized on the exchange is $4,000. You do not recognize gain on the exchange of the real estate, however, you must recognize (report on your return) a $3,000 loss on the stock because it is non-like-kind property.
+
+The basis of the replacement property received is computed as follows:
+
+Adjusted basis of property given up | $15,000
+Add: Adjusted basis of non-like-kind property | $4,000
+Total | $19,000
+Minus: Loss Recognized |  | ($3,000)
+Basis of property received |  | $16,000
+
+Sale and Purchase
+
+If you sell property and buy similar property in two mutually dependent transactions, you may have to treat the sale and purchase as a single nontaxable exchange.
+
+Example.
+
+You have real property held for productive use in your trade or business. Its adjusted basis is $500,000 and its FMV is $750,000. You're interested in replacing the property with real estate containing a building worth $900,000. Ordinarily, you would swap properties and pay the $150,000 difference in FMVs. Your basis would then be $650,000 ($500,000 adjusted basis in your old property plus $150,000 cash paid).
+
+You want your new real property to have a larger basis for depreciation, so you arrange to sell your old property to the other party. You then buy the new property from that individual for $900,000. However, if the sale and purchase are reciprocal and mutually dependent, you're treated as having exchanged your old property for the new property. In that case, your basis for depreciation for the new property is $650,000, the same as if you had exchanged the old property for the new property.
+
+Partial Business Use of Property
+
+If you have real property, a portion of which is used for business and a portion of which is used for personal use, and you exchange it in a nontaxable exchange for real property to be used wholly or partly in your business, the basis of the property you receive is figured separately for the business and nonbusiness use parts. The part of the property used for business is an exchange of like-kind property. The personal-use part of the property is property on which gain is recognized.
+
+Figure the adjusted basis of each part of the property by taking into account any adjustments to basis. Deduct the depreciation you took or could have taken from the adjusted basis of the business part. Then figure the amount realized for your property and allocate it to the business and nonbusiness parts of the property.
+
+You're deemed to have received, in exchange for the nonbusiness part, an amount equal to its FMV on the date of the exchange. The basis of the property you acquired is the total basis of the property transferred (adjusted to the date of the exchange), increased by any gain recognized on the nonbusiness part.
+
+Tip:
+
+If the nonbusiness part of the property transferred is your main home, you may qualify to exclude from income all or part of the gain on that part. For more information, see Pub. 523.
+
+Property Transferred From a Spouse
+
+The basis of property transferred to you or transferred in trust for your benefit by your spouse (or former spouse if the transfer is incident to divorce) is the same as your spouse's adjusted basis. However, adjust your basis for any gain recognized by your spouse or former spouse on property transferred in trust. This rule applies only to a transfer of property in trust in which the liabilities assumed, plus the liabilities to which the property is subject, are more than the adjusted basis of the property transferred.
+
+If the property transferred to you is a series E, series EE, or series I U.S. savings bond, the transferor must include in income the interest accrued to the date of transfer. Your basis in the bond immediately after the transfer is equal to the transferor's basis increased by the interest income includible in the transferor's income. For more information on these bonds, see Pub. 550.
+
+At the time of the transfer, the transferor must give you the records necessary to determine the adjusted basis and holding period of the property as of the date of transfer.
+
+For more information, see Pub. 504, Divorced or Separated Individuals.
+
+Property Received as a Gift
+
+To figure the basis of property you receive as a gift, you must know its adjusted basis (defined earlier) to the donor just before it was given to you, its FMV at the time it was given to you, and any gift tax paid on it.
+
+For a distribution of property that was gifted to a trust, see Property Received from a Trust , later.
+
+FMV Less Than Donor's Adjusted Basis
+
+If the FMV of the property at the time of the gift is less than the donor's adjusted basis, your basis depends on whether you have a gain or a loss when you dispose of the property. Your basis for figuring gain is the same as the donor's adjusted basis plus or minus any required adjustment to basis while you held the property. Your basis for figuring loss is its FMV when you received the gift plus or minus any required adjustment to basis while you held the property (see Adjusted Basis , earlier).
+
+If you use the donor's adjusted basis for figuring a gain and get a loss, and then use the FMV for figuring a loss and have a gain, you have neither gain nor loss on the sale or disposition of the property.
+
+Example.
+
+You received an acre of land as a gift. At the time of the gift, the land had an FMV of $8,000. The donor's adjusted basis was $10,000. After you received the land, no events occurred to increase or decrease your basis. If you sell the land for $12,000, you'll have a $2,000 gain because you must use the donor's adjusted basis ($10,000) at the time of the gift as your basis to figure gain. If you sell the land for $7,000, you'll have a $1,000 loss because you must use the FMV ($8,000) at the time of the gift as your basis to figure a loss.
+
+If the sales price is between $8,000 and $10,000, you have neither gain nor loss. For instance, if the sales price was $9,000 and you tried to figure a gain using the donor's adjusted basis ($10,000), you would get a $1,000 loss. If you then tried to figure a loss using the FMV ($8,000), you would get a $1,000 gain.
+
+Business property.
+
+If you hold the gift as business property, your basis for figuring any depreciation, depletion, or amortization deduction is the same as the donor's adjusted basis plus or minus any required adjustments to basis while you hold the property.
+
+FMV Equal to or More Than Donor's Adjusted Basis
+
+If the FMV of the property is equal to or greater than the donor's adjusted basis, your basis is the donor's adjusted basis at the time you received the gift. Increase your basis by all or part of any gift tax paid, depending on the date of the gift.
+
+Also, for figuring gain or loss from a sale or other disposition of the property, or for figuring depreciation, depletion, or amortization deductions on business property, you must increase or decrease your basis by any required adjustments to basis while you held the property. See Adjusted Basis , earlier.
+
+Gift received before 1977.
+
+If you received a gift before 1977, increase your basis in the gift (the donor's adjusted basis) by any gift tax paid on it. However, don't increase your basis above the FMV of the gift at the time it was given to you.
+
+Example 1.
+
+You were given a house in 1976 with an FMV of $21,000. The donor's adjusted basis was $20,000. The donor paid a gift tax of $500. Your basis is $20,500, the donor's adjusted basis plus the gift tax paid.
+
+Example 2.
+
+If, in Example 1 , the gift tax paid had been $1,500, your basis would be $21,000. This is the donor's adjusted basis plus the gift tax paid, limited to the FMV of the house at the time you received the gift.
+
+Gift received after 1976.
+
+If you received a gift after 1976, increase your basis in the gift (the donor's adjusted basis) by the part of the gift tax paid on it that is due to the net increase in value of the gift. Figure the increase by multiplying the gift tax paid by a fraction. The numerator of the fraction is the net increase in value of the gift, and the denominator is the amount of the gift.
+
+The net increase in value of the gift is the FMV of the gift less the donor's adjusted basis. The amount of the gift is its value for gift tax purposes after reduction by any annual exclusion and marital or charitable deduction that applies to the gift. For information on the gift tax, see Pub. 559, Survivors, Executors, and Administrators.
+
+Example.
+
+In 2025, you received a gift of property from your mother that had an FMV of $50,000. Your mother’s adjusted basis was $20,000. The amount of the gift for gift tax purposes was $31,000 ($50,000 minus the $19,000 annual exclusion). Your mother paid a gift tax of $6,220. Your basis, $26,033, is figured as follows:
+
+Fair market value | $50,000
+Minus: Adjusted basis | 20,000
+Net increase in value | $30,000
+Gift tax paid | $6,220
+Multiplied by ($30,000 ÷ $31,000) | 0.97
+Gift tax due to net increase in value | $6,033
+Adjusted basis of property to your mother | 20,000
+Your basis in the property | $26,033
+
+Inherited Property
+
+When an estate is required to file a federal estate tax return (Form 706), the estate beneficiaries generally will receive a Schedule A (Form 8971) from the executor of the estate reporting the estate tax value of property distributed to them. Certain beneficiaries are required to use this value as the initial basis in the property received from the estate. See section 1.1014-10 of the regulations for more information on the application of the consistent basis requirement to inherited property. For information on the circumstances under which an executor is required to furnish a Schedule A to a beneficiary, see the instructions for Form 8971 and the related Schedule A.
+
+Generally, the basis of property inherited from a decedent is one of the following.
+
+-
+
+The FMV of the property at the date of the individual's death.
+
+-
+
+The FMV on the alternate valuation date if the personal representative for the estate chooses to use alternate valuation. For information on the alternate valuation date, see the Instructions for Form 706.
+
+-
+
+The value under the special-use valuation method for real property used in farming or a closely held business if chosen for estate tax purposes. This method is discussed later.
+
+-
+
+The decedent's adjusted basis in land to the extent of the portion of the value excluded from the decedent's taxable estate as a qualified conservation easement. For information on a qualified conservation easement, see the Instructions for Form 706.
+
+If you did not receive a Schedule A reporting the estate tax value of property you inherited, your basis in the property can be determined using the appraised value at the date of death for state inheritance or transmission tax purposes.
+
+For more information, see the Instructions for Form 706.
+
+For a distribution of inherited property received by a trust, see Property Received from a Trust , later.
+
+Appreciated property.
+
+The above rule doesn't apply to appreciated property you receive from a decedent if you or your spouse originally gave the property to the decedent within 1 year before the decedent's death. Your basis in this property is the same as the decedent's adjusted basis in the property immediately before their death, rather than its FMV. Appreciated property is any property whose FMV on the day it was given to the decedent is more than its adjusted basis.
+
+Community Property
+
+In community property states (Arizona, California, Idaho, Louisiana, Nevada, New Mexico, Texas, Washington, and Wisconsin), married individuals are each usually considered to own half the community property. When either spouse dies, the total value of the community property, even the part belonging to the surviving spouse, generally becomes the basis of the entire property. For this rule to apply, at least half the value of the community property interest must be includible in the decedent's gross estate, whether or not the estate must file a return.
+
+For example, you and your spouse owned community property that had a basis of $80,000. When your spouse died, half the FMV of the community interest was includible in your spouse's estate. The FMV of the community interest was $100,000. The basis of your half of the property after the death of your spouse is $50,000 (half of the $100,000 FMV). The basis of the other half to your spouse's heirs is also $50,000.
+
+For more information on community property, see Pub. 555, Community Property.
+
+Property Held by Surviving Tenant
+
+The following example explains the rule for the basis of property held by a surviving tenant in joint tenancy or tenancy by the entirety.
+
+Example.
+
+John and Jim owned, as joint tenants with right of survivorship, business property purchased for $30,000. John furnished two-thirds of the purchase price and Jim furnished one-third. Depreciation deductions allowed before John's death were $12,000. Under local law, each had a half interest in the income from the property. At the date of John's death, the property had an FMV of $60,000, two-thirds of which is includible in John's estate. Jim’s basis in the property at the date of John's death is figured as follows:
+
+Interest Jim bought with his own funds— 1 / 3 of $30,000 cost | $10,000
+Interest Jim received on John's death— 2 / 3 of $60,000 FMV | 40,000 | $50,000
+Minus: ½ of $12,000 depreciation before John's death | 6,000
+Jim's basis at the date of John's death | $44,000
+
+If Jim hadn't contributed any part of the purchase price, Jim’s basis at the date of John's death would be $54,000. This is figured by subtracting from the $60,000 FMV the $6,000 depreciation allocated to Jim's half interest before the date of death.
+
+If under local law Jim had no interest in the income from the property and contributed no part of the purchase price, Jim’s basis at John's death would be $60,000, the FMV of the property.
+
+Qualified Joint Interest
+
+Include one-half of the value of a qualified joint interest in the decedent's gross estate. It doesn't matter how much each spouse contributed to the purchase price. Also, it doesn't matter which spouse dies first.
+
+A qualified joint interest is any interest in property held by married individuals as either of the following.
+
+-
+
+Tenants by the entirety.
+
+-
+
+Joint tenants with right of survivorship if the married couple are the only joint tenants.
+
+Basis.
+
+As the surviving spouse, your basis in property you owned with your spouse as a qualified joint interest is the cost of your half of the property with certain adjustments. Decrease the cost by any deductions allowed to you for depreciation and depletion. Increase the cost by your basis in the half you inherited.
+
+Farm or Closely Held Business
+
+Under certain conditions, when a person dies, the executor or personal representative of the decedent's estate can choose to value the qualified real property based on its use as a farm or in a closely held business instead of its FMV. If the executor or personal representative chooses this method of valuation for estate tax purposes, that value is the basis of the property for the heirs. Qualified heirs should be able to get the necessary value from the executor or personal representative of the estate.
+
+Special-use valuation.
+
+If you're a qualified heir who received special-use valuation property, your basis in the property is the estate's or trust's basis in that property immediately before the distribution. Increase your basis by any gain recognized by the estate or trust because of post-death appreciation. Post-death appreciation is the property's FMV on the date of distribution minus the property's FMV either on the date of the individual's death or the alternate valuation date. Figure all FMVs without regard to the special-use valuation.
+
+You can elect to increase your basis in special-use valuation property if it becomes subject to the additional estate tax. This tax is assessed if, within 10 years after the death of the decedent, you transfer the property to a person who isn't a member of your family or the property stops being used as a farm or in a closely held business.
+
+To increase your basis in the property, you must make an irrevocable election and pay interest on the additional estate tax figured from the date 9 months after the decedent's death until the date of the payment of the additional estate tax. If you meet these requirements, increase your basis in the property to its FMV on the date of the decedent's death or the alternate valuation date. The increase in your basis is considered to have occurred immediately before the event that results in the additional estate tax.
+
+You make the election by filing with Form 706-A a statement that does all of the following.
+
+-
+
+Contains your name, address, and taxpayer identification number and those of the estate.
+
+-
+
+Identifies the election as an election under section 1016(c) of the Internal Revenue Code.
+
+-
+
+Specifies the property for which the election is made.
+
+-
+
+Provides any additional information required by the Instructions for Form 706-A.
+
+For more information, see the Instructions for Form 706 and the Instructions for Form 706-A.
+
+Property Received from a Trust
+
+A grantor type trust is a legal trust under applicable state law that isn't recognized as a separate taxable entity for income tax purposes because the grantor or other substantial owners have not relinquished complete dominion and control over the trust. See the instructions to Form 1041, U.S. Income Tax Return for Estates and Trusts, for more information. If property is distributed to you from a grantor trust, the distribution is considered to be a transfer from the grantor or other owner of the trust. If you are the grantor or other owner of the grantor trust, then the distribution generally has no effect on the basis of the property. If you are not the grantor or other owner of the grantor trust (for example, if you are a beneficiary), then the distribution from the trust is generally treated as a gift to you from the grantor or other owner. See Property Received as a Gift , earlier.
+
+If property is distributed to you from a non-grantor trust you will generally take a carryover basis in the property under IRC section 643. Your basis in the distributed property will generally be the same as the trust's adjusted basis immediately before the distribution, as further adjusted for any gain or loss recognized by the trust on the distribution. For a trust's basis in property gifted to the trust, see Property Received as a Gift , earlier. For a trust's basis in inherited property included in the trust settlor's gross estate, see Inherited Property , earlier.
+
+Property Changed to Business or Rental Use
+
+If you hold property for personal use and then change it to business use or use it to produce rent, you must figure its basis for depreciation. An example of changing property held for personal use to business use would be renting out your former main home.
+
+Basis for depreciation.
+
+The basis for depreciation is the lesser of the following amounts.
+
+-
+
+The FMV of the property on the date of the change, or
+
+-
+
+Your adjusted basis on the date of the change.
+
+Example.
+
+Several years ago, you paid $160,000 to have your home built on a lot that cost $25,000. You paid $20,000 for permanent improvements to the house and claimed a $2,000 casualty loss deduction for damage to the house before changing the property to rental use last year. Because land isn't depreciable, you include only the cost of the house when figuring the basis for depreciation.
+
+Your adjusted basis in the house when you changed its use was $178,000 ($160,000 + $20,000 − $2,000). On the same date, your property had an FMV of $180,000, of which $15,000 was for the land and $165,000 was for the house. The basis for figuring depreciation on the house is its FMV on the date of change ($165,000) because it's less than your adjusted basis ($178,000).
+
+Sale of property.
+
+If you later sell or dispose of property changed to business or rental use, the basis of the property you use will depend on whether you're figuring gain or loss.
+
+Gain.
+
+The basis for figuring a gain is your adjusted basis when you sell the property.
+
+Example.
+
+Assume the same facts as in the previous example except that you sell the property at a gain after being allowed depreciation deductions of $37,500. Your adjusted basis for figuring gain is $165,500 ($178,000 + $25,000 (land) − $37,500).
+
+Loss.
+
+Figure the basis for a loss starting with the smaller of your adjusted basis or the FMV of the property at the time of the change to business or rental use. Then adjust this amount for the period after the change in the property's use, as discussed earlier under Adjusted Basis , to arrive at a basis for loss.
+
+Example.
+
+Assume the same facts as in the previous example, except that you sell the property at a loss after being allowed depreciation deductions of $37,500. In this case, you would start with the FMV on the date of the change to rental use ($180,000) because it's less than the adjusted basis of $203,000 ($178,000 + $25,000) on that date. Reduce that amount ($180,000) by the depreciation deductions to arrive at a basis for loss of $142,500 ($180,000 − $37,500).

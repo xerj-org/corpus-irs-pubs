@@ -1,0 +1,361 @@
+IRS Pub 551 (12/2025) | Publication 551 (12/2025), Basis of Assets
+
+- Publication 551 - Introductory Material
+
+- Future Developments
+
+- What’s New
+
+- Reminder
+
+- Introduction
+
+- Comments and suggestions.
+
+- Getting answers to your tax questions.
+
+- Getting tax forms, instructions, and publications.
+
+- Ordering tax forms, instructions, and publications.
+
+- Useful Items - You may want to see:
+
+- Publication 551 - Main Contents
+
+- Cost Basis
+
+- Loans with low or no interest.
+
+- Purchase of a business.
+
+- Stocks and Bonds
+
+- Identifying stock or bonds sold.
+
+- Mutual fund shares.
+
+- Real Property
+
+- Business Assets
+
+- Uniform Capitalization Rules
+
+- Activities subject to the rules.
+
+- More information.
+
+- Exceptions.
+
+- Intangible Assets
+
+- Allocating the Basis
+
+- Group of Assets Acquired
+
+- Trade or Business Acquired
+
+- Agreement.
+
+- Reporting requirement.
+
+- More information.
+
+- Land and Buildings
+
+- Adjusted Basis
+
+- Increases to Basis
+
+- Assessments for Local Improvements
+
+- Deducting vs. Capitalizing Costs
+
+- Table 1. Examples of Increases and Decreases to Basis
+
+- Decreases to Basis
+
+- Adjustments to Basis Examples
+
+- Basis Other Than Cost
+
+- Property Received for Services
+
+- Bargain Purchases
+
+- Restricted Property
+
+- FMV.
+
+- Election.
+
+- Taxable Exchanges
+
+- Involuntary Conversions
+
+- Similar or related property.
+
+- Money or property not similar or related.
+
+- Allocating the basis.
+
+- More information.
+
+- Nontaxable Exchanges
+
+- Like-Kind Exchanges of Real Property
+
+- Exchange expenses.
+
+- Other expenses and receipts.
+
+- Property plus cash.
+
+- Special rules for related persons.
+
+- Related persons.
+
+- Partially Nontaxable Exchange
+
+- Non-Like-Kind Property Given up
+
+- Sale and Purchase
+
+- Partial Business Use of Property
+
+- Property Transferred From a Spouse
+
+- Property Received as a Gift
+
+- FMV Less Than Donor's Adjusted Basis
+
+- Business property.
+
+- FMV Equal to or More Than Donor's Adjusted Basis
+
+- Inherited Property
+
+- Appreciated property.
+
+- Community Property
+
+- Property Held by Surviving Tenant
+
+- Qualified Joint Interest
+
+- Basis.
+
+- Farm or Closely Held Business
+
+- Property Received from a Trust
+
+- Property Changed to Business or Rental Use
+
+- How To Get Tax Help
+
+- Tax reform.
+
+- Preparing and filing your tax return.
+
+- Free options for tax preparation.
+
+- Using online tools to help prepare your return.
+
+- Need someone to prepare your tax return?
+
+- Employers can register to use Business Services Online.
+
+- Business tax account.
+
+- IRS social media.
+
+- Online tax information in other languages.
+
+- Over-the-Phone Interpreter (OPI) Service.
+
+- Accessibility Helpline available for taxpayers with disabilities.
+
+- Alternative media preference.
+
+- Disasters.
+
+- Getting tax forms and publications.
+
+- Mobile-friendly forms.
+
+- Getting tax publications and instructions in eBook format.
+
+- Access your online account (individual taxpayers only).
+
+- Get a transcript of your return.
+
+- Tax Pro Account.
+
+- Using direct deposit.
+
+- Reporting and resolving your tax-related identity theft issues.
+
+- Ways to check on the status of your refund.
+
+- Making a tax payment.
+
+- What if I can’t pay now?
+
+- Filing an amended return.
+
+- Checking the status of your amended return.
+
+- Understanding an IRS notice or letter you’ve received.
+
+- IRS Document Upload Tool.
+
+- Schedule LEP.
+
+- Contacting your local TAC.
+
+- The Taxpayer Advocate Service (TAS) Is Here To Help You
+
+- What Is the Taxpayer Advocate Service?
+
+- How Can TAS Help Me?
+
+- How Do I Contact TAS?
+
+- What Are My Rights as a Taxpayer?
+
+- Publication 551 - Additional Material
+
+Publication 551 (12/2025), Basis of Assets
+
+Revised: December 2025
+
+Publication 551 - Introductory Material
+
+Future Developments
+
+For the latest information about developments related to Pub. 551, such as legislation enacted after this publication was published, go to IRS.gov/Pub551 .
+
+What’s New
+
+Uniform capitalization rules. For tax years beginning in 2025, small businesses are not subject to the uniform capitalization rules if the average annual gross receipts are $31 million or less for the 3 preceding tax years and the business isn't a tax shelter. See Uniform Capitalization Rules , later.
+
+New guidance regarding the basis of certain inherited property. Section 1014(f) requires that basis of certain property acquired from a decedent be consistent with the value of the property as finally determined for estate tax purposes. For the final regulations under section 1014, Basis Of Property Acquired From A Decedent, see T.D. 9991, 2024-40 I.R.B. 646, at IRS.gov/irb/2024-40_IRB#TD-9991 .
+
+Reminder
+
+Photographs of missing children. The Internal Revenue Service is a proud partner with the National Center for Missing & Exploited Children® (NCMEC) . Photographs of missing children selected by the Center may appear in this publication on pages that would otherwise be blank. You can help bring these children home by looking at the photographs and calling 1-800-THE-LOST (1-800-843-5678) if you recognize a child.
+
+Introduction
+
+Basis is the amount of your investment in property for tax purposes. Use the basis of property to figure depreciation, amortization, depletion, and casualty losses. Also, use it to figure gain or loss on the sale or other disposition of property. You must keep accurate records of all items that affect the basis of property so you can make these computations.
+
+This publication is divided into the following sections.
+
+-
+
+Cost Basis
+
+-
+
+Adjusted Basis
+
+-
+
+Basis Other Than Cost
+
+The basis of property you buy is usually its cost. You may also have to capitalize (add to basis) certain other costs related to buying or producing the property.
+
+Your original basis in property is adjusted (increased or decreased) by certain events. If you make improvements to the property, increase your basis. If you take deductions for depreciation or casualty losses, reduce your basis.
+
+You can't determine your basis in some assets by cost. This includes property you receive as a gift or inheritance. It also applies to property received in an involuntary conversion and certain other circumstances.
+
+Comments and suggestions.
+
+We welcome your comments about this publication and suggestions for future editions.
+
+You can send us comments through IRS.gov/FormComments . Or, you can write to the Internal Revenue Service, Tax Forms and Publications, 1111 Constitution Ave. NW, IR-6526, Washington, DC 20224.
+
+Although we can’t respond individually to each comment received, we do appreciate your feedback and will consider your comments and suggestions as we revise our tax forms, instructions, and publications. Don’t send tax questions, tax returns, or payments to the above address.
+
+Getting answers to your tax questions.
+
+If you have a tax question not answered by this publication or the How To Get Tax Help section at the end of this publication, go to the IRS Interactive Tax Assistant page at IRS.gov/Help/ITA where you can find topics by using the search feature or viewing the categories listed.
+
+Getting tax forms, instructions, and publications.
+
+Go to IRS.gov/Forms to download current and prior-year forms, instructions, and publications.
+
+Ordering tax forms, instructions, and publications.
+
+Go to IRS.gov/OrderForms to order current forms, instructions, and publications; call 800-829-3676 to order prior-year forms and instructions. The IRS will process your order for forms and publications as soon as possible. Don’t resubmit requests you’ve already sent us. You can get forms and publications faster online.
+
+Useful Items
+
+You may want to see:
+
+Publication
+
+-
+
+463 Travel, Gift, and Car Expenses
+
+-
+
+523 Selling Your Home
+
+-
+
+525 Taxable and Nontaxable Income
+
+-
+
+527 Residential Rental Property
+
+-
+
+530 Tax Information for Homeowners
+
+-
+
+537 Installment Sales
+
+-
+
+544 Sales and Other Dispositions of Assets
+
+-
+
+547 Casualties, Disasters, and Thefts
+
+-
+
+550 Investment Income and Expenses
+
+-
+
+559 Survivors, Executors, and Administrators
+
+-
+
+587 Business Use of Your Home
+
+-
+
+946 How To Depreciate Property
+
+Form (and Instructions)
+
+-
+
+706 United States Estate (and Generation-Skipping Transfer) Tax Return
+
+-
+
+706-A United States Additional Estate Tax Return
+
+-
+
+8594 Asset Acquisition Statement
+
+See How To Get Tax Help near the end of this publication for information about getting publications and forms.
+
+Publication 551 - Main Contents

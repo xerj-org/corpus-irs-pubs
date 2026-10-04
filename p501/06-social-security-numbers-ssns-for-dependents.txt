@@ -1,0 +1,29 @@
+IRS Pub 501 (2025) | Social Security Numbers (SSNs) for Dependents
+
+Social Security Numbers (SSNs) for Dependents
+
+You must show the SSN of any dependent you list in the Dependents section of your Form 1040 or 1040-SR.
+
+. If you don’t show the dependent’s SSN when required or if you show an incorrect SSN, certain tax benefits may be disallowed. .
+
+No SSN.
+
+If a person whom you expect to claim as a dependent on your return doesn’t have an SSN, either you or that person should apply for an SSN as soon as possible by filing Form SS-5, Application for a Social Security Card, with the Social Security Administration (SSA). You can get Form SS-5 online at SSA.gov/forms/ss-5.pdf or at your local SSA office.
+
+It usually takes about 2 weeks to get an SSN once the SSA has all the information it needs. If you don’t have a required SSN by the filing due date, you can file Form 4868, Application for Automatic Extension of Time To File U.S. Individual Income Tax Return, for an extension of time to file.
+
+Born and died in 2025.
+
+If your child was born and died in 2025, and you don’t have an SSN for the child, you may attach a copy of the child’s birth certificate, death certificate, or hospital records instead. The document must show the child was born alive. If you do this, enter “DIED” in row (3) of the Dependents section of your Form 1040 or 1040-SR.
+
+Alien or adoptee with no SSN.
+
+If your dependent doesn’t have and can’t get an SSN, you must show the ITIN or adoption taxpayer identification number (ATIN) instead of an SSN.
+
+Taxpayer identification numbers for aliens.
+
+If your dependent is a resident or nonresident alien who doesn’t have and isn’t eligible to get an SSN, your dependent must apply for an ITIN. For details on how to apply, see Form W-7, Application for IRS Individual Taxpayer Identification Number.
+
+Taxpayer identification numbers for adoptees.
+
+If you have a child who was placed with you by an authorized placement agency, you may be able to claim the child as a dependent. However, if you can’t get an SSN or an ITIN for the child, you must get an ATIN for the child from the IRS. See Form W-7A, Application for Taxpayer Identification Number for Pending U.S. Adoptions, for details.

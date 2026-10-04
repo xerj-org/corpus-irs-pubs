@@ -1,0 +1,738 @@
+IRS Pub 503 (2025) | Can You Claim the Credit?
+
+Can You Claim the Credit?
+
+To be able to claim the credit for child and dependent care expenses, you must file Form 1040, 1040-SR, or 1040-NR, and meet all the tests in Tests you must meet to claim a credit for child and dependent care expenses next.
+
+Tests you must meet to claim a credit for child and dependent care expenses.
+
+To be able to claim the credit for child and dependent care expenses, you must meet all the following tests.
+
+-
+
+Qualifying Person Test. The care must be for one or more qualifying persons who are identified on Form 2441. (See Who Is a Qualifying Person , later.)
+
+-
+
+Earned Income Test. You (and your spouse if filing jointly) must have earned income during the year. (However, see Rule for student-spouse or spouse not able to care for self under You Must Have Earned Income, later.)
+
+-
+
+Work-Related Expense Test. You must pay child and dependent care expenses so you (or your spouse if filing jointly) can work or look for work. (See Are These Work-Related Expenses , later.)
+
+-
+
+You must make payments for child and dependent care to someone you (and your spouse) can't claim as a dependent. If you make payments to your child (including stepchild or foster child), they can't be your dependent and must be age 19 or older by the end of the year. You can't make payments to:
+
+-
+
+Your spouse, or
+
+-
+
+The parent of your qualifying person if your qualifying person is your child and under age 13.
+
+See Payments to Relatives or Dependents under Are These Work-Related Expenses, later.
+
+-
+
+Joint Return Test. Your filing status may be single, head of household, or qualifying surviving spouse. If you are married, you must file a joint return, unless an exception applies to you. See What’s Your Filing Status , later.
+
+-
+
+Provider Identification Test. You must identify the care provider on your tax return. (See Care Provider Identification Test , later.)
+
+-
+
+If you exclude or deduct dependent care benefits provided by a dependent care benefit plan, the total amount you exclude or deduct must be less than the dollar limit for qualifying expenses (generally, $3,000 if you had one qualifying person or $6,000 if you had two or more qualifying persons) in order for you to claim a credit on the remaining amount. (If you had two or more qualifying persons, the amount you exclude or deduct will always be less than the dollar limit because the total amount you can exclude or deduct is limited to $5,000. See Reduced Dollar Limit under How To Figure the Credit, later.)
+
+These tests are presented in Figure A and are also explained in detail in this publication.
+
+Who Is a Qualifying Person?
+
+Your child and dependent care expenses must be for the care of one or more qualifying persons.
+
+A qualifying person is:
+
+-
+
+Your qualifying child who is your dependent and who was under age 13 when the care was provided (but see Child of divorced or separated parents or parents living apart , later);
+
+-
+
+Your spouse who wasn't physically or mentally able to care for themselves and lived with you for more than half the year; or
+
+-
+
+A person who wasn't physically or mentally able to care for themselves, lived with you for more than half the year, and either:
+
+-
+
+Was your dependent, or
+
+-
+
+Would have been your dependent except that:
+
+-
+
+They received gross income of $5,200 or more,
+
+-
+
+They filed a joint return, or
+
+-
+
+You, or your spouse if filing jointly, could be claimed as a dependent on someone else's 2025 return.
+
+Dependent defined.
+
+To be your dependent, a person must be your qualifying child or your qualifying relative. In determining whether you may claim a person as a qualifying relative for 2025, the person's gross income must be less than $5,200.
+
+Qualifying child.
+
+To be your qualifying child, a child must live with you for more than half the year and meet other requirements.
+
+More information.
+
+For more information about who is a dependent or a qualifying child, see Pub. 501.
+
+Physically or mentally not able to care for oneself.
+
+Persons who can't dress, clean, or feed themselves because of physical or mental disabilities are considered not able to care for themselves. Also, persons who must have constant attention to prevent them from injuring themselves or others are considered not able to care for themselves.
+
+Person qualifying for part of year.
+
+You determine a person's qualifying status each day. For example, if your child for whom you pay child and dependent care expenses turns 13 years old and no longer qualifies on September 16, count only those expenses through September 15. Also see Yearly limit under Dollar Limit, later.
+
+Birth or death of otherwise qualifying person.
+
+In determining whether a person is a qualifying person, a person who was born or died in 2025 is treated as having lived with you for more than half of 2025 if your home was the person's home more than half the time they were alive in 2025.
+
+Taxpayer identification number.
+
+You must include on your return the name and taxpayer identification number (generally, the SSN) of the qualifying person(s). If the correct information isn't shown, the credit may be reduced or disallowed.
+
+Individual taxpayer identification number (ITIN) for aliens.
+
+If your qualifying person is a nonresident or resident alien who doesn't have and can't get an SSN, use that person's ITIN. The ITIN is entered wherever an SSN is requested on a tax return. If the alien doesn't have an ITIN, they must apply for one. See Form W-7, Application for IRS Individual Taxpayer Identification Number, for details.
+
+An ITIN is for tax use only. It doesn't entitle the holder to social security benefits or change the holder's employment or immigration status under U.S. law.
+
+Caution:
+
+If your ITIN wasn’t included on at least one U.S. federal tax return for the last 3 consecutive tax years, it expires on December 31 of the third consecutive tax year, and must be renewed before being used again on a U.S. federal tax return. See the Instructions for Form W-7 or go to IRS.gov/ITIN for more information.
+
+Adoption taxpayer identification number (ATIN).
+
+If your qualifying person is a child who was placed in your home for adoption and for whom you don't have an SSN, you must get an ATIN for the child. File Form W-7A, Application for Taxpayer Identification Number for Pending U.S. Adoptions.
+
+Child of divorced or separated parents or parents living apart.
+
+Even if you can't claim your child as a dependent, they are treated as your qualifying person if:
+
+-
+
+The child was under age 13 or wasn't physically or mentally able to care for themselves;
+
+-
+
+The child received over half of their support during the calendar year from one or both parents who are divorced or legally separated under a decree of divorce or separate maintenance, are separated under a written separation agreement, or lived apart at all times during the last 6 months of the calendar year;
+
+-
+
+The child was in the custody of one or both parents for more than half the year; and
+
+-
+
+You were the child's custodial parent.
+
+The custodial parent is the parent with whom the child lived for the greater number of nights in 2025. If the child was with each parent for an equal number of nights, the custodial parent is the parent with the higher adjusted gross income. For details and an exception for a parent who works at night, see Pub. 501.
+
+The noncustodial parent can't treat the child as a qualifying person even if that parent is entitled to claim the child as a dependent under the special rules for a child of divorced or separated parents.
+
+Figure a. Can you claim the credit
+
+Figure A. Can You Claim the Credit?
+
+Figure A. Can You Claim the Credit?
+
+Summary: This is a flowchart used to determine if the taxpayer can claim the child and dependent care credit.
+
+Start
+
+This is the start of the flowchart.
+
+Decision (1)
+
+Was the care for one or more qualifying persons?
+
+IF Yes Continue To Decision (2)
+IF No Continue To Process (a)
+
+Decision (2)
+
+Did you (see Footnote 1) have earned income during the year?
+
+Footnote 1: This also applies to your spouse, unless your spouse was disabled or a full-time student.
+
+IF Yes Continue To Decision (3)
+IF No Continue To Process (a)
+
+Decision (3)
+
+Did you pay the expenses to allow you (see Footnote 1) to work or look for work?
+
+Footnote 1: This also applies to your spouse, unless your spouse was disabled or a full-time student.
+
+IF Yes Continue To Decision (4)
+IF No Continue To Process (a)
+
+Decision (4)
+
+Were your payments made to someone you or your spouse could claim as a dependent?
+
+IF Yes Continue To Process (a)
+IF No Continue To Decision (5)
+
+Decision (5)
+
+Were your payments made to your spouse or to the parent of your qualifying person who is your qualifying child and under age 13?
+
+IF Yes Continue To Process (a)
+IF No Continue To Decision (6)
+
+Decision (6)
+
+Were your payments made to your child who was under the age of 19 at the end of the year?
+
+IF Yes Continue To Process (a)
+IF No Continue To Decision (7)
+
+Decision (7)
+
+Are you single?
+
+IF Yes Continue To Decision (10)
+IF No Continue To Decision (8)
+
+Decision (8)
+
+Are you filing a joint return?
+
+IF Yes Continue To Decision (10)
+IF No Continue To Decision (9)
+
+Decision (9)
+
+Do you meet the requirements to be considered unmarried?
+
+IF Yes Continue To Decision (10)
+IF No Continue To Process (a)
+
+Decision (10)
+
+Do you know the care provider's name, address, and identifying number?
+
+IF Yes Continue To Decision (12)
+IF No Continue To Decision (11)
+
+Decision (11)
+
+Did you make a reasonable effort to get this information? (See Due diligence.)
+
+IF Yes Continue To Decision (12)
+IF No Continue To Process (a)
+
+Decision (12)
+
+Did you pay expenses for more than one qualifying person?
+
+IF Yes Continue To End
+IF No Continue To Decision (13)
+
+Decision (13)
+
+Are you excluding or deducting at least $3,000 of dependent care benefits?
+
+IF Yes Continue to Process (a)
+IF No Continue to Process (b)
+
+Process (a)
+
+You CAN’T claim the child and dependent care credit. (See Footnote 2.)
+
+Footnote 2: If you had expenses that met the requirements for 2019, except that you didn’t pay them until 2019, you may be able to claim those expenses in 2019. See Expenses not paid until the following year under How To Figure the Credit.
+
+Continue To End
+
+Process (b)
+
+You may be able to claim the child and dependent care credit. Fill out Form 2441.
+
+Continue To End
+
+End
+
+This is the end of the flowchart.
+
+Please click here for the text description of the image.
+
+You Must Have Earned Income
+
+To claim the credit, you (and your spouse if filing jointly) must have earned income during the year.
+
+Earned income.
+
+Earned income includes wages, salaries, tips, other taxable employee compensation, and net earnings from self-employment. A net loss from self-employment reduces earned income. Earned income also includes strike benefits and any disability pay you report as wages.
+
+Generally, only taxable compensation is included. For example, foreign earned income you exclude from income isn't included. However, you can elect to include nontaxable combat pay in earned income. If you are filing a joint return and both you and your spouse received nontaxable combat pay, you can each make your own election. (In other words, if one of you makes the election, the other one can also make it but doesn't have to.) Including this income will give you a larger credit only if your (or your spouse's) other earned income is less than the amount entered on line 3 of Form 2441.
+
+Tip:
+
+You can elect to include your nontaxable combat pay in earned income when figuring your credit for child and dependent care expenses, even if you elect not to include it in earned income for the earned income credit or the exclusion or deduction for dependent care benefits.
+
+Members of certain religious faiths opposed to social security.
+
+This section is for persons who are members of certain religious faiths that are opposed to participation in Social Security Act programs and have an IRS-approved form that exempts certain income from social security and Medicare taxes. These forms are:
+
+-
+
+Form 4361, Application for Exemption From Self-Employment Tax for Use by Ministers, Members of Religious Orders and Christian Science Practitioners; and
+
+-
+
+Form 4029, Application for Exemption From Social Security and Medicare Taxes and Waiver of Benefits, for use by members of recognized religious groups.
+
+Each form is discussed here in terms of what is or isn't earned income for purposes of the child and dependent care credit. For information on the use of these forms, see Pub. 517, Social Security and Other Information for Members of the Clergy and Religious Workers.
+
+Form 4361.
+
+Whether or not you have an approved Form 4361, amounts you received for performing ministerial duties as an employee are earned income. This includes wages, salaries, tips, and other taxable employee compensation.
+
+However, amounts you received for ministerial duties, but not as an employee, don't count as earned income. Examples include fees for performing marriages and honoraria for delivering speeches.
+
+Any amount you received for work that isn't related to your ministerial duties is earned income.
+
+Form 4029.
+
+Whether or not you have an approved Form 4029, all wages, salaries, tips, and other taxable employee compensation are earned income.
+
+However, amounts you received as a self-employed individual don't count as earned income.
+
+What isn't earned income?
+
+Earned income doesn't include:
+
+-
+
+Amounts excluded as foreign earned income (including any housing exclusion) on Form 2555, line 43;
+
+-
+
+Pensions and annuities;
+
+-
+
+Social security and railroad retirement benefits;
+
+-
+
+Workers' compensation;
+
+-
+
+Interest and dividends;
+
+-
+
+Unemployment compensation;
+
+-
+
+Scholarships or fellowship grants, except for those reported on Form W-2 and paid to you for teaching or other services;
+
+-
+
+Nontaxable workfare payments;
+
+-
+
+Child support payments received;
+
+-
+
+Income of a nonresident alien that isn't effectively connected with a U.S. trade or business; or
+
+-
+
+Any amount received for work while an inmate in a penal institution.
+
+Rule for student-spouse or spouse not able to care for self.
+
+Your spouse is treated as having earned income for any month that they are:
+
+-
+
+A full-time student, or
+
+-
+
+Physically or mentally not able to care for themselves. (Your spouse must also live with you for more than half the year.)
+
+If you are filing a joint return, this rule also applies to you. You can be treated as having earned income for any month you are a full-time student or not able to care for yourself.
+
+Figure the earned income of the nonworking spouse, described under (1) or (2) above, as shown under Earned Income Limit under How To Figure the Credit, later.
+
+This rule applies to only one spouse for any 1 month. If, in the same month, both you and your spouse didn't work and are either full-time students or not physically or mentally able to care for yourselves, only one of you can be treated as having earned income in that month.
+
+Full-time student.
+
+You are a full-time student if you are enrolled at a school for the number of hours or classes that the school considers full-time. You must have been a full-time student for some part of each of 5 calendar months during the year. (The months need not be consecutive.)
+
+School.
+
+The term “school” includes high schools, colleges, universities, and technical, trade, and mechanical schools. A school doesn't include an on-the-job training course, correspondence school, or school offering courses only through the Internet.
+
+Are These Work-Related Expenses?
+
+Child and dependent care expenses must be work related to qualify for the credit. Expenses are considered work related only if both of the following are true.
+
+-
+
+They allow you (or your spouse if filing jointly) to work or look for work.
+
+-
+
+They are for a qualifying person's care.
+
+Working or Looking for Work
+
+To be work related, your expenses must allow you to work or look for work. If you are married, you or your spouse must work or look for work. Note, however, that employment-related expenses are limited to the lower of the earned income of you or your spouse. If you or your spouse was a full-time student or disabled, see Rule for student-spouse or spouse not able to care for self , earlier.
+
+Your work can be for others or in your own business or partnership. It can be either full-time or part-time and it can be either in or out of your home.
+
+Work also includes actively looking for work. However, if you don't find a job and have no earned income for the year, you can't take this credit. See You Must Have Earned Income , earlier.
+
+An expense isn't considered work related merely because you had it while you were working. The purpose of the expense must be to allow you to work. Whether your expenses allow you to work or look for work depends on the facts.
+
+Example 1.
+
+The cost of a babysitter while you and your spouse go out to eat isn't normally a work-related expense.
+
+Example 2.
+
+You work during the day. Your spouse works at night and sleeps during the day. You pay for care of your 5-year-old child during the hours when you are working and your spouse is sleeping. Your expenses are considered work related.
+
+Volunteer work.
+
+For this purpose, you aren't considered to be working if you do unpaid volunteer work or work for a nominal salary.
+
+Work for part of year.
+
+If you work or actively look for work during only part of the period covered by the expenses, then you must figure your expenses for each day. For example, if you work all year and pay care expenses of $250 a month ($3,000 for the year), all the expenses are work related. However, if you work or look for work for only 2 months and 15 days during the year and pay expenses of $250 a month, your work-related expenses are limited to $625 (2½ months × $250).
+
+Temporary absence from work.
+
+You don't have to figure your expenses for each day during a short, temporary absence from work, such as for vacation or a minor illness, if you have to pay for care anyway. Instead, you can figure your credit including the expenses you paid for the period of absence.
+
+An absence of 2 weeks or less is a short, temporary absence. An absence of more than 2 weeks may be considered a short, temporary absence, depending on the circumstances.
+
+Example 1.
+
+You pay a dependent care center, which complies with all state and local regulations, to care for your 2-year-old daughter so you can work full-time. The center requires payment for days when a child is absent. You take 8 days off from work as vacation days. Because the absence is less than 2 consecutive calendar weeks, your absence is a short, temporary absence. You aren't required to allocate expenses between days worked and days not worked. The entire fee for the period that includes the 8 vacation days may be a work-related expense.
+
+Example 2.
+
+You pay a nanny to care for your 2-year-old son and 4-year-old daughter so you can work. You become ill and miss 4 months of work but receive sick pay. You continue to pay the nanny to care for the children while you are ill. Your absence isn't a short, temporary absence, and your expenses aren't considered work related.
+
+Part-time work.
+
+If you work part-time, you must generally figure your expenses for each day. However, if you are required to pay for care weekly, monthly, or in another way that includes both days worked and days not worked, you can figure your credit including the expenses you paid for days you didn't work. Any day when you work at least 1 hour is a day of work.
+
+Example 1.
+
+You work 3 days a week. While you work, your 6-year-old child attends a dependent care center, which complies with all state and local regulations. You can pay the center $150 for any 3 days a week or $250 for 5 days a week. Your child attends the center 5 days a week. You must allocate your expenses for dependent care between days worked and days not worked; your work-related expenses are limited to $150 a week.
+
+Example 2.
+
+The facts are the same as in Example 1 , except the center doesn't offer a 3-day option. The entire $250 weekly fee may be a work-related expense.
+
+Care of a Qualifying Person
+
+To be work related, your expenses must be to provide care for a qualifying person.
+
+You don't have to choose the least expensive way of providing the care. The cost of a paid care provider may be an expense for the care of a qualifying person even if another care provider is available at no cost.
+
+Expenses are for the care of a qualifying person only if their main purpose is the person's well-being and protection.
+
+Expenses for household services qualify if part of the services is for the care of qualifying persons. See Household Services , later.
+
+Expenses not for care.
+
+Expenses for care don't include amounts you pay for food, lodging, clothing, education, and entertainment. However, you can include small amounts paid for these items if they are incidental to and can't be separated from the cost of caring for the qualifying person. Otherwise, see the discussion under Expenses partly work related , later.
+
+Child support payments aren't for care and don't qualify for the credit.
+
+Education.
+
+Expenses for a child in nursery school, preschool, or similar programs for children below the level of kindergarten are expenses for care.
+
+Expenses to attend kindergarten or a higher grade aren't expenses for care. Don't use these expenses to figure your credit.
+
+However, expenses for before- or after-school care of a child in kindergarten or a higher grade may be expenses for care.
+
+Summer school and tutoring programs aren't for care.
+
+Example 1.
+
+You send your 3-year-old child to a nursery school while you work. The nursery school provides lunch and a few educational activities as part of its preschool childcare service. The lunch and educational activities are incidental to the childcare, and their cost can't be separated from the cost of care. You can count the total cost when you figure the credit.
+
+Example 2.
+
+You are a member of the Armed Forces, and you are ordered to a combat zone. To be able to comply with the order, you place your 10-year-old child in a boarding school. Only the part of the boarding school expense that is for the care of your child is a work-related expense. You can count that part of the expense in figuring your credit if it can be separated from the cost of education. You can't count any part of the amount you pay the school for your child's education.
+
+Care outside your home.
+
+You can count the cost of care provided outside your home if the care is for your dependent under age 13 or any other qualifying person who regularly spends at least 8 hours each day in your home.
+
+Dependent care center.
+
+You can count care provided outside your home by a dependent care center only if the center complies with all state and local regulations that apply to these centers.
+
+A dependent care center is a place that provides care for more than six persons (other than persons who live there) and receives a fee, payment, or grant for providing services for any of those persons, even if the center isn't run for profit.
+
+Camp.
+
+The cost of sending your child to an overnight camp isn't considered a work-related expense.
+
+The cost of sending your child to a day camp may be a work-related expense, even if the camp specializes in a particular activity, such as computers or soccer.
+
+Example 1.
+
+You send your 9-year-old child to a summer day camp while you work. The camp offers computer activities and recreational activities such as swimming and arts and crafts. The full cost of the summer day camp may be for care and the costs may be a work-related expense.
+
+Example 2.
+
+You send your 10-year-old child to a math tutoring program for 2 hours per day during the summer while you work. The cost of the tutoring program isn't for care and the costs are not considered work-related expenses.
+
+Transportation.
+
+If a care provider takes a qualifying person to or from a place where care is provided, that transportation is for the care of the qualifying person. This includes transportation by bus, subway, taxi, or private car. However, transportation not provided by a care provider isn't for the care of a qualifying person. Also, if you pay the transportation cost for the care provider to come to your home, that expense isn't for care of a qualifying person.
+
+Fees and deposits.
+
+Fees you paid to an agency to get the services of a care provider, deposits you paid to an agency or preschool, application fees, and other indirect expenses are work-related expenses if you have to pay them to get care, even though they aren't directly for care. However, a forfeited deposit isn't for the care of a qualifying person if care isn't provided.
+
+Example 1.
+
+You paid a fee to an agency to get the services of the nanny who cares for your 2-year-old daughter while you work. The fee you paid is a work-related expense.
+
+Example 2.
+
+You placed a deposit with a preschool to reserve a place for your 3-year-old child. You later sent your child to a different preschool and forfeited the deposit. The forfeited deposit isn't for care and therefore not a work-related expense.
+
+Household Services
+
+Expenses you pay for household services meet the work-related expense test if they are at least partly for the well-being and protection of a qualifying person.
+
+Definition.
+
+Household services are ordinary and usual services done in and around your home that are necessary to run your home. They include, for example, the services of a cook, maid, babysitter, housekeeper, or cleaning person if the services were partly for the care of the qualifying person. However, they don't include the services of a chauffeur, bartender, or gardener.
+
+Housekeeper.
+
+In this publication, the term “housekeeper” refers to any household employee whose services include the care of a qualifying person.
+
+Expenses partly work related.
+
+If part of an expense is work related (for either household services or the care of a qualifying person) and part is for other purposes, you have to divide the expense. To figure your credit, count only the part that is work related. However, you don't have to divide the expense if only a small part is for other purposes.
+
+Example.
+
+You pay a housekeeper to care for your 9-year-old and 14-year-old children so you can work. The housekeeper spends most of the time doing normal household work and spends 30 minutes a day driving you to and from work. You don't have to divide the expenses. You can treat the entire expense of the housekeeper as work related because the time spent driving is minimal. Nor do you have to divide the expenses between the two children, even though the expenses are partly for the 14-year-old child who isn't a qualifying person, because the expense is also partly for the care of your 9-year-old child, who is a qualifying person. However, the dollar limit (discussed later) is based on one qualifying person, not two.
+
+Meals and lodging provided for housekeeper.
+
+If you have expenses for meals that your housekeeper eats in your home because of their employment, count these as work-related expenses. If you have extra expenses for providing lodging in your home to the housekeeper, count these as work-related expenses also.
+
+Example.
+
+To provide lodging to the housekeeper, you move to an apartment with an extra bedroom. You can count the extra rent and utility expenses for the housekeeper's bedroom as work related. However, if your housekeeper moves into an existing bedroom in your home, you can count only the extra utility expenses as work related.
+
+Taxes paid on wages.
+
+The taxes you pay on wages for qualifying child and dependent care services are work-related expenses. For more information on a household employer's tax responsibilities, see Do You Have Household Employees , later.
+
+Payments to Relatives or Dependents
+
+You can count work-related payments you make to relatives who aren't your dependents, even if they live in your home. However, don't count any amounts you pay to:
+
+-
+
+A person for whom you (or your spouse if filing jointly) can claim as a dependent;
+
+-
+
+Your child (including stepchild or foster child) who was under age 19 at the end of the year, even if they aren’t your dependent;
+
+-
+
+A person who was your spouse any time during the year; or
+
+-
+
+The parent of your qualifying person if your qualifying person is your child and under age 13.
+
+What’s Your Filing Status?
+
+Generally, married couples must file a joint return to take the credit. However, if you are legally separated or living apart from your spouse, you may be able to file a separate return and still take the credit.
+
+Legally separated.
+
+You aren't considered married if you are legally separated from your spouse under a decree of divorce or separate maintenance. You may be eligible to take the credit on your return using head of household filing status.
+
+Married and living apart.
+
+You aren't considered married and are eligible to take the credit if all the following apply.
+
+-
+
+You file a return apart from your spouse.
+
+-
+
+Your home is the home of a qualifying person for more than half the year.
+
+-
+
+You pay more than half the cost of keeping up your home for the year.
+
+-
+
+Your spouse doesn't live in your home for the last 6 months of the year.
+
+Example 1.
+
+Amy separated from her spouse in March. She isn't separated under a decree of divorce or separate maintenance agreement and uses the married filing separate filing status. Amy maintains a home for herself and Sam, her disabled father. Sam is permanently and totally disabled and unable to care for himself.
+
+Because Sam earns $6,600 in interest income, Amy can't claim him as a dependent (his gross income is greater than $5,200). And, because Amy isn't able to claim Sam as a dependent and she is still married as of the end of the year, she can't use the head of household filing status. Amy’s filing status is married filing separately and Sam qualifies as a qualifying person for the child and dependent care credit.
+
+Because of the following facts, Amy is able to claim the credit for child and dependent care expenses even though Amy uses the married filing separately filing status.
+
+-
+
+Amy didn't live with her spouse for the last 6 months of the year.
+
+-
+
+She has maintained a home for herself and Sam (a qualifying person) since she separated from her spouse in March.
+
+-
+
+She maintains her own household and provides more than half of the cost of maintaining that home for her and Sam.
+
+-
+
+Amy pays an adult daycare center to care for Sam to allow her to work.
+
+Example 2.
+
+Dean separated from his spouse in April. He isn't separated under a decree of divorce or separate maintenance agreement. He and his spouse haven't lived together since April, and Dean maintains his own home and provides more than half the cost of maintaining that home for himself and his daughter, Nicole, who is permanently and totally disabled.
+
+Because Nicole is married and files a joint return with her husband, who is away in the military, Dean can't claim Nicole as a dependent and therefore can't use the head of household filing status. Dean’s filing status is married filing separately and Nicole qualifies as a qualifying person for the child and dependent care credit.
+
+Because of the following facts, Dean is able to claim the credit for child and dependent care expenses even though he uses the married filing separately filing status.
+
+-
+
+Dean didn't live with his spouse for the last 6 months of the year.
+
+-
+
+He has maintained a home for himself and Nicole (a qualifying person) since he separated from his spouse in April.
+
+-
+
+He maintains his own household and provides more than half of the cost of maintaining that home for him and Nicole.
+
+-
+
+Dean pays a daycare provider to care for Nicole to allow him to work.
+
+Costs of keeping up a home.
+
+The costs of keeping up a home normally include property taxes, mortgage interest, rent, utility charges, home repairs, insurance on the home, and food eaten at home.
+
+The costs of keeping up a home don't include payments for clothing, education, medical treatment, vacations, life insurance, transportation, or mortgage principal.
+
+They also don't include the purchase, permanent improvement, or replacement of property. For example, you can't include the cost of replacing a water heater. However, you can include the cost of repairing a water heater.
+
+Death of spouse.
+
+If your spouse died during the year and you don't remarry before the end of the year, you must generally file a joint return to take the credit. If you do remarry before the end of the year, the credit can be claimed on your deceased spouse's own return.
+
+Care Provider Identification Test
+
+You must identify all persons or organizations that provide care for your child or dependent. Use Form 2441, Part I, to show the information.
+
+If you don't have any care providers and you are filing Form 2441 only to report taxable income in Part III, enter “none” on line 1, column (a).
+
+Information needed.
+
+To identify the care provider, you must give the provider's:
+
+-
+
+Name,
+
+-
+
+Address, and
+
+-
+
+Taxpayer identification number.
+
+If the care provider is an individual, the taxpayer identification number is their social security number or individual taxpayer identification number. If the care provider is an organization, then it is the employer identification number (EIN).
+
+You don't have to show the taxpayer identification number if the care provider is a tax-exempt organization (such as a church or school). In this case, enter “Tax-Exempt” in the space where Form 2441 asks for the number.
+
+If you can't provide all of the information or the information is incorrect, you must be able to show that you used due diligence (discussed later) in trying to furnish the necessary information.
+
+Getting the information.
+
+You can use Form W-10 to request the required information from the care provider. If you don't use Form W-10, you can get the information from one of the other sources listed in the instructions for Form W-10, including:
+
+-
+
+A copy of the provider's social security card;
+
+-
+
+A copy of the provider's completed Form W-4, Employee's Withholding Certificate, if he or she is your household employee;
+
+-
+
+A copy of the statement furnished by your employer if the provider is your employer's dependent care plan; or
+
+-
+
+A recently printed letterhead or invoice that shows the provider's name, address, and TIN.
+
+. You should keep this information with your tax records. Don't send Form W-10 (or other document containing this information) to the IRS. .
+
+Due diligence.
+
+If the care provider information you give is incorrect or incomplete, your credit may not be allowed. However, if you can show that you used due diligence in trying to supply the information, you can still claim the credit.
+
+You can show due diligence by getting and keeping the provider's completed Form W-10 or one of the other sources of information just listed. Care providers can be penalized if they don't provide this information to you or if they provide incorrect information.
+
+Provider refusal.
+
+If the provider refuses to give you the identifying information, you should report on Form 2441 whatever information you have (such as the name and address). Enter “See Attached Statement” in the columns calling for the information you don't have. Then attach a statement explaining that you requested the information from the care provider, but the provider didn't give you the information. Be sure to write your name and SSN on this statement. The statement will show that you used due diligence in trying to furnish the necessary information.
+
+U.S. citizens and resident aliens living abroad.
+
+If you are living abroad, your care provider may not have, and may not be required to get, a U.S. taxpayer identification number (for example, an SSN or an EIN). If so, enter “LAFCP” (Living Abroad Foreign Care Provider) in the space for the care provider's taxpayer identification number.

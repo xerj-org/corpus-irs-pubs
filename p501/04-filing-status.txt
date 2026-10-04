@@ -1,0 +1,599 @@
+IRS Pub 501 (2025) | Filing Status
+
+Filing Status
+
+You must determine your filing status before you can determine whether you must file a tax return, your standard deduction (discussed later), and your tax. You also use your filing status to determine whether you are eligible to claim certain other deductions and credits.
+
+There are five filing statuses.
+
+-
+
+Single.
+
+-
+
+Married filing jointly.
+
+-
+
+Married filing separately.
+
+-
+
+Head of household.
+
+-
+
+Qualifying surviving spouse.
+
+If more than one filing status applies to you, choose the one that will give you the lowest tax.
+
+Marital Status
+
+In general, your filing status depends on whether you are considered unmarried or married.
+
+Unmarried persons.
+
+You are considered unmarried for the whole year if, on the last day of your tax year, you are either:
+
+-
+
+Unmarried, or
+
+-
+
+Legally separated from your spouse under a divorce or separate maintenance decree.
+
+State law governs whether you are married or legally separated under a divorce or separate maintenance decree.
+
+Definition of marriage.
+
+A marriage of two individuals is recognized for federal tax purposes if the marriage is recognized by the state or territory of the United States in which the marriage is entered into, regardless of legal residence. Two individuals who enter into a relationship that is denominated as marriage under the laws of a foreign jurisdiction or an American Indian tribe are recognized as married for federal tax purposes if the relationship would be recognized as marriage under the laws of at least one state or territory of the United States, regardless of legal residence. Individuals who have entered into a registered domestic partnership, civil union, or other similar relationship that isn’t denominated as a marriage under the law of the state or territory of the United States where such relationship was entered into aren’t lawfully married for federal tax purposes, regardless of legal residence. See Considered married , later.
+
+Divorced persons.
+
+If you are divorced under a final decree by the last day of the year, you are considered unmarried for the whole year.
+
+Divorce and remarriage.
+
+If you obtain a divorce for the sole purpose of filing tax returns as unmarried individuals, and at the time of divorce you intend to and do, in fact, remarry each other in the next tax year, you and your spouse must file as married individuals in both years.
+
+Annulled marriages.
+
+If you obtain a court decree of annulment, which holds that no valid marriage ever existed, you are considered unmarried even if you filed joint returns for earlier years. File amended returns (Form(s) 1040-X) claiming single or head of household status for all tax years that are affected by the annulment and not closed by the statute of limitations for filing a tax return. Generally, for a credit or refund, you must file Form(s) 1040-X within 3 years (including extensions) after the date you filed your original return or within 2 years after the date you paid the tax, whichever is later. If you filed your original tax return early (for example, March 1), your return is considered filed on the due date (generally April 15). However, if you had an extension to file (for example, until October 15) but you filed earlier and we received it on July 1, your return is considered filed on July 1.
+
+Head of household or qualifying surviving spouse.
+
+If you are considered unmarried, you may be able to file as head of household or as a qualifying surviving spouse. See Head of Household and Qualifying Surviving Spouse , later, to see if you qualify.
+
+Married persons.
+
+If you are considered married, you and your spouse can file a joint return or separate returns.
+
+Considered married.
+
+You are considered married for the whole year if, on the last day of your tax year, you and your spouse meet any one of the following tests.
+
+-
+
+You are married and living together.
+
+-
+
+You are living together in a common law marriage recognized in the state where you now live or in the state where the common law marriage began.
+
+-
+
+You are married and living apart but not legally separated under a decree of divorce or separate maintenance.
+
+-
+
+You are separated under an interlocutory (not final) decree of divorce.
+
+Spouse died during the year.
+
+If your spouse died during the year, you are considered married for the whole year for filing status purposes.
+
+If you didn’t remarry before the end of the tax year, you can file a joint return for yourself and your deceased spouse. For the next 2 years, you may be entitled to the special benefits described later under Qualifying Surviving Spouse .
+
+If you remarried before the end of the tax year, you can file a joint return with your new spouse. Your deceased spouse’s filing status is married filing separately for that year.
+
+Married persons living apart.
+
+If you live apart from your spouse and meet certain tests, you may be able to file as head of household even if you aren’t divorced or legally separated. If you qualify to file as head of household instead of as married filing separately, your standard deduction will be higher and your tax may be lower. See Head of Household , later.
+
+Single
+
+Your filing status is single if you are considered unmarried and you don’t qualify for another filing status. To determine your marital status, see Marital Status , earlier.
+
+Spouse died before January 1, 2025.
+
+Your filing status may be single if your spouse died before January 1, 2025, and you didn’t remarry before the end of 2025. You may, however, be able to use another filing status that will give you a lower tax. See Head of Household and Qualifying Surviving Spouse , later, to see if you qualify.
+
+On Form 1040 or 1040-SR, show your filing status as single by checking the “Single” box on the Filing Status line near the top of the form. Use the Single column of the Tax Table, or Section A of the Tax Computation Worksheet, to figure your tax.
+
+Married Filing Jointly
+
+You can choose married filing jointly as your filing status if you are considered married and both you and your spouse agree to file a joint return. On a joint return, you and your spouse report your combined income and deduct your combined allowable expenses. You can file a joint return even if one of you had no income or deductions.
+
+If you and your spouse decide to file a joint return, your tax may be lower than your combined tax for the other filing statuses. Also, your standard deduction (if you don’t itemize deductions) may be higher, and you may qualify for tax benefits that don’t apply to other filing statuses.
+
+On Form 1040 or 1040-SR, show your filing status as married filing jointly by checking the “Married filing jointly” box on the Filing Status line near the top of the form. Use the Married filing jointly column of the Tax Table, or Section B of the Tax Computation Worksheet, to figure your tax.
+
+. If you and your spouse each have income, you may want to figure your tax both on a joint return and on separate returns (using the filing status of married filing separately). You can choose the method that gives the two of you the lower combined tax unless you are required to file separately. .
+
+Spouse died.
+
+If your spouse died during the year, you are considered married for the whole year and can choose married filing jointly as your filing status. See Spouse died during the year under Married persons , earlier.
+
+If your spouse died in 2026 before filing a 2025 return, you can choose married filing jointly as your filing status on your 2025 return.
+
+Divorced persons.
+
+If you are divorced under a final decree by the last day of the year, you are considered unmarried for the whole year and you can’t choose married filing jointly as your filing status.
+
+Filing a Joint Return
+
+Both you and your spouse must include all of your income and deductions on your joint return.
+
+Accounting period.
+
+Both of you must use the same accounting period, but you can use different accounting methods.
+
+Joint responsibility.
+
+Both of you may be held responsible, jointly and individually, for the tax and any interest or penalty due on your joint return. This means that if one spouse doesn’t pay the tax due, the other may have to. Or, if one spouse doesn’t report the correct tax, both spouses may be responsible for any additional taxes assessed by the IRS. One spouse may be held responsible for all the tax due even if all the income was earned by the other spouse.
+
+You may want to file separately if:
+
+-
+
+You believe your spouse isn’t reporting all of their income, or
+
+-
+
+You don’t want to be responsible for any taxes due if your spouse doesn’t have enough tax withheld or doesn’t pay enough estimated tax.
+
+Divorced taxpayer.
+
+You may be held jointly and individually responsible for any tax, interest, and penalties due on a joint return filed before your divorce. This responsibility may apply even if your divorce decree states that your former spouse will be responsible for any amounts due on previously filed joint returns.
+
+Relief from joint responsibility.
+
+In some cases, one spouse may be relieved of joint responsibility for tax, interest, and penalties on a joint return for items of the other spouse that were incorrectly reported on the joint return. You can ask for relief no matter how small the liability.
+
+There are three types of relief available.
+
+-
+
+Innocent spouse relief.
+
+-
+
+Separation of liability (available only to joint filers whose spouse has died, or who are divorced, who are legally separated, or who haven’t lived together for the 12 months ending on the date the election for this relief is filed).
+
+-
+
+Equitable relief.
+
+You must file Form 8857, Request for Innocent Spouse Relief, to request relief from joint responsibility. Pub. 971 explains the kinds of relief and who may qualify for them.
+
+Signing a joint return.
+
+For a return to be considered a joint return, both spouses must generally sign the return.
+
+Spouse died before signing.
+
+If your spouse died before signing the return, the executor or administrator must sign the return for your spouse. If neither you nor anyone else has been appointed as executor or administrator, you can sign the return for your spouse. Check the “Deceased” box at the top of page 1 of Form 1040 or 1040-SR and enter the date your spouse died in the entry spaces after “Spouse.” Enter “Filing as surviving spouse” in the area where you sign the return.
+
+Spouse away from home.
+
+If your spouse is away from home, you should prepare the return, sign it, and send it to your spouse to sign so it can be filed on time.
+
+Injury or disease prevents signing.
+
+If your spouse can’t sign because of injury or disease and tells you to sign for them, you can sign your spouse’s name in the proper space on the return followed by the words “By (your name), Spouse.” Be sure to sign in the space provided for your signature. Attach a dated statement, signed by you, to the return. The statement should include the form number of the return you are filing, the tax year, and the reason your spouse can’t sign, and it should state that your spouse has agreed to your signing for them.
+
+Signing as guardian of spouse.
+
+If you are the guardian of your spouse who is mentally incompetent, you can sign the return for your spouse as guardian.
+
+Spouse in combat zone.
+
+You can sign a joint return for your spouse if your spouse can’t sign because they are serving in a combat zone (such as the Persian Gulf area, Serbia, Montenegro, Albania, or Afghanistan), even if you don’t have a power of attorney or other statement. Attach a signed statement to your return explaining that your spouse is serving in a combat zone. For more information on special tax rules for persons who are serving in a combat zone, or who are in missing status as a result of serving in a combat zone, see Pub. 3.
+
+Power of attorney (POA).
+
+In order for you to sign a return for your spouse in any of these cases, you must attach to the return a POA that authorizes you to sign for your spouse. You can use a POA that states that you have been granted authority to sign the return, or you can use Form 2848. Part I of Form 2848 must state that you are granted authority to sign the return.
+
+Nonresident alien or dual-status alien.
+
+Generally, a married couple can’t file a joint return if either spouse is a nonresident alien at any time during the year. However, you and your spouse can choose to be treated as U.S. residents for the entire year and file a joint return if one spouse was a nonresident alien at the end of the taxable year (the nonresident spouse) and the other was a U.S. citizen or resident at the end of the taxable year. This choice remains in effect in subsequent years until terminated. You and your spouse can also choose to file as U.S. residents for the entire year if both of you are U.S. citizens or residents at the end of the year and either (or both) of you were a nonresident at the beginning of the year (the dual-status spouse(s)). You can only make this choice for 1 year, and it doesn’t apply to any future years.
+
+If you and your spouse are making either of these choices to be treated as U.S. residents for 2025, check the box in the Filing Status section and enter the name of the nonresident spouse or dual-status spouse(s) (whichever applies to you) in the entry space. Also check the box and enter their name if you and your nonresident spouse made the choice to be treated as residents in a prior year and the choice remains in effect. See the Instructions for Form 1040 and Pub. 519 for more information on how to make this choice.
+
+Married Filing Separately
+
+You can choose married filing separately as your filing status if you are married. This filing status may benefit you if you want to be responsible only for your own tax or if it results in less tax than filing a joint return.
+
+If you and your spouse don’t agree to file a joint return, you must use this filing status unless you qualify for head of household status, discussed later.
+
+You may be able to choose head of household filing status if you are considered unmarried because you live apart from your spouse and meet certain tests (explained later under Head of Household ). This can apply to you even if you aren’t divorced or legally separated. If you qualify to file as head of household, instead of as married filing separately, your tax may be lower, you may be able to claim certain tax benefits, and your standard deduction will be higher. The head of household filing status allows you to choose the standard deduction even if your spouse chooses to itemize deductions. See Head of Household , later, for more information.
+
+. You will generally pay more combined tax on separate returns than you would on a joint return for the reasons listed under Special Rules , later. However, unless you are required to file separately, you should figure your tax both ways (on a joint return and on separate returns). This way, you can make sure you are using the filing status that results in the lowest combined tax. When figuring the combined tax of a married couple, you may want to consider state taxes as well as federal taxes. .
+
+How to file.
+
+If you file a separate return, you generally report only your own income, credits, and deductions.
+
+Select this filing status by checking the “Married filing separately” box on the Filing Status line near the top of Form 1040 or 1040-SR. Enter your spouse’s full name in the entry space below the filing status checkbox. Be sure to enter your spouse’s SSN or ITIN in the space for spouse’s SSN on Form 1040 or 1040-SR. If your spouse doesn’t have and isn’t required to have an SSN or ITIN, enter “NRA” in the entry space below the filing status checkboxes. For electronic filing, enter the spouse’s name or “NRA” if the spouse doesn’t have an SSN or ITIN in the entry space below the filing status checkboxes. Use the Married filing separately column of the Tax Table, or Section C of the Tax Computation Worksheet, to figure your tax.
+
+Special Rules
+
+If you choose married filing separately as your filing status, the following special rules apply. Because of these special rules, you usually pay more tax on a separate return than if you use another filing status you qualify for.
+
+-
+
+Your tax rate is generally higher than on a joint return.
+
+-
+
+Your exemption amount for figuring the alternative minimum tax is half that allowed on a joint return.
+
+-
+
+You can’t take the credit for child and dependent care expenses in most cases, and the amount you can exclude from income under an employer’s dependent care assistance program is limited to $2,500 (instead of $5,000 on a joint return). However, if you are legally separated or living apart from your spouse, you may be able to file a separate return and still take the credit. See What’s Your Filing Status? in Pub. 503 for more information.
+
+-
+
+You can’t take the earned income credit unless you have a qualifying child and meet certain other requirements.
+
+-
+
+You can’t take the exclusion or credit for adoption expenses in most cases.
+
+-
+
+You can’t take the education credits (the American opportunity credit and lifetime learning credit), or the deduction for student loan interest.
+
+-
+
+You can’t exclude any interest income from qualified U.S. savings bonds you used for higher education expenses.
+
+-
+
+If you lived with your spouse at any time during the tax year:
+
+-
+
+You can’t claim the credit for the elderly or the disabled, and
+
+-
+
+You must include in income a greater percentage (up to 85%) of any social security or equivalent railroad retirement benefits you received.
+
+-
+
+The following credits and deductions are reduced at income levels half those for a joint return.
+
+-
+
+The child tax credit and the credit for other dependents.
+
+-
+
+The retirement savings contributions credit.
+
+-
+
+Your capital loss deduction limit is $1,500 (instead of $3,000 on a joint return).
+
+-
+
+If your spouse itemizes deductions, you can’t claim the standard deduction. If you can claim the standard deduction, your basic standard deduction is half the amount allowed on a joint return.
+
+. There are special rules that allow a separated spouse to claim the earned income credit under certain circumstances. See line 27a instructions in the Instructions for Form 1040 and Schedule EIC (Form 1040) to see if you meet the qualifications to claim the earned income credit even though you are married and don’t file a joint return. .
+
+Adjusted gross income (AGI) limits.
+
+If your AGI on a separate return is lower than it would have been on a joint return, you may be able to deduct a larger amount for certain deductions that are limited by AGI, such as medical expenses.
+
+Individual retirement arrangements (IRAs).
+
+You may not be able to deduct all or part of your contributions to a traditional IRA if you or your spouse was covered by an employee retirement plan at work during the year. Your deduction is reduced or eliminated if your income is more than a certain amount. This amount is much lower for married individuals who file separately and lived together at any time during the year. For more information, see How Much Can You Deduct? in chapter 1 of Pub. 590-A.
+
+Rental activity losses.
+
+If you actively participated in a passive rental real estate activity that produced a loss, you can generally deduct the loss from your nonpassive income up to $25,000. This is called a special allowance. However, married persons filing separate returns who lived together at any time during the year can’t claim this special allowance. Married persons filing separate returns who lived apart at all times during the year are each allowed a $12,500 maximum special allowance for losses from passive real estate activities. See Rental Activities in Pub. 925.
+
+Community property states.
+
+Community property states include Arizona, California, Idaho, Louisiana, Nevada, New Mexico, Texas, Washington, and Wisconsin. If you live in a community property state and file separately, your income may be considered separate income or community income for income tax purposes. See Pub. 555.
+
+Joint Return After Separate Returns
+
+You can change your filing status from a separate return to a joint return by filing an amended return using Form 1040-X.
+
+You can generally change to a joint return any time within 3 years from the due date of the separate return or returns. This doesn’t include any extensions. A separate return includes a return filed by you or your spouse claiming married filing separately, single, or head of household filing status.
+
+Separate Returns After Joint Return
+
+Once you file a joint return, you can’t choose to file separate returns for that year after the due date of the return.
+
+Exception.
+
+A personal representative for a decedent can change from a joint return elected by the surviving spouse to a separate return for the decedent. The personal representative has 1 year from the due date (including extensions) of the return to make the change. See Pub. 559 for more information on filing income tax returns for a decedent.
+
+Head of Household
+
+You may be able to file as head of household if you meet all the following requirements.
+
+-
+
+You are unmarried or considered unmarried on the last day of the year. See Marital Status , earlier, and Considered Unmarried , later.
+
+-
+
+You paid more than half the cost of keeping up a home for the year.
+
+-
+
+A qualifying person lived with you in the home for more than half the year (except for temporary absences, such as school). However, if the qualifying person is your dependent parent, your dependent parent doesn’t have to live with you. See Special rule for parent , later, under Qualifying Person .
+
+. If you qualify to file as head of household, your tax rate will usually be lower than the rates for single or married filing separately. You will also receive a higher standard deduction than if you file as single or married filing separately. .
+
+How to file.
+
+Select this filing status by checking the “Head of household” box on the Filing Status line near the top of Form 1040 or 1040-SR. If the child who qualifies you for this filing status isn’t claimed as your dependent in the Dependents section of Form 1040 or 1040-SR, enter the child’s name in the entry space below the filing status checkboxes. Use the Head of a household column of the Tax Table, or Section D of the Tax Computation Worksheet, to figure your tax.
+
+Considered Unmarried
+
+To qualify for head of household status, you must be either unmarried or considered unmarried on the last day of the year. You are considered unmarried on the last day of the tax year if you meet all the following tests.
+
+-
+
+You file a separate return. A separate return includes a return claiming married filing separately, single, or head of household filing status.
+
+-
+
+You paid more than half the cost of keeping up your home for the tax year.
+
+-
+
+Your spouse didn’t live in your home during the last 6 months of the tax year. Your spouse is considered to live in your home even if your spouse is temporarily absent due to special circumstances. See Temporary absences , later.
+
+-
+
+Your home was the main home of your child, stepchild, or foster child for more than half the year. (See Home of qualifying person , later, for rules applying to a child’s birth, death, or temporary absence during the year.)
+
+-
+
+You must be able to claim the child as a dependent. However, you meet this test if you can’t claim the child as a dependent only because the noncustodial parent can claim the child using the rules described later in Children of divorced or separated parents (or parents who live apart) under Qualifying Child or in Support Test for Children of Divorced or Separated Parents (or Parents Who Live Apart) under Qualifying Relative . The general rules for claiming a child as a dependent are explained later under Dependents .
+
+You may be considered unmarried for the purpose of using head of household status but not for other purposes, such as claiming the EIC. Different tests apply depending on the tax benefit you claim.
+
+. If you were considered married for part of the year and lived in a community property state (listed earlier under Married Filing Separately), special rules may apply in determining your income and expenses. See Pub. 555 for more information. .
+
+Nonresident alien spouse.
+
+You are considered unmarried for head of household purposes if your spouse was a nonresident alien at any time during the year and you don’t choose to treat your nonresident spouse as a resident alien. However, your spouse isn’t a qualifying person for head of household purposes. You must have another qualifying person and meet the other tests to be eligible to file as head of household.
+
+Choice to treat spouse as resident.
+
+You are considered married if you choose to treat your spouse as a resident alien. See chapter 1 of Pub. 519.
+
+Keeping Up a Home
+
+To qualify for head of household status, you must pay more than half of the cost of keeping up a home for the year. You can determine whether you paid more than half of the cost of keeping up a home by using Worksheet 1 .
+
+Worksheet 1. Cost of Keeping Up a Home
+
+Amount You Paid | Total Cost
+Property taxes | $ | $
+Mortgage interest expense | _____ | _____
+Rent | _____ | _____
+Utility charges | _____ | _____
+Repairs/maintenance | _____ | _____
+Property insurance | _____ | _____
+Food eaten in the home | _____ | _____
+Other household expenses | _____ | _____
+Totals | $ | $
+Minus total amount you paid |  | ()
+Amount others paid |  | $
+Note. TANF and other governmental payments. Under proposed Treasury regulations, if you received Temporary Assistance to Needy Families (TANF) payments or other similar payments and used the payment to support another person, those payments are considered support you provided for that person, rather than support provided by the government or other third party. Amounts paid out of funds received in the child’s or qualifying person’s name, such as Social Security, are considered paid by the child, not you. If the total amount you paid is more than the amount others paid, you meet the requirement of paying more than half the cost of keeping up the home.
+
+Costs you include.
+
+Include in the cost of keeping up a home expenses such as rent, mortgage interest, real estate taxes, insurance on the home, repairs, utilities, and food eaten in the home.
+
+Costs you don’t include.
+
+Don’t include the cost of clothing, education, medical treatment, vacations, life insurance, or transportation. Also don’t include the value of your services or those of a member of your household.
+
+Qualifying Person
+
+See Table 4 to see who is a qualifying person. Any person not described in Table 4 isn’t a qualifying person.
+
+Example 1—child.
+
+Your unmarried child lived with you all year and was 18 years old at the end of the year. Your child didn’t provide more than half of their own support and doesn’t meet the tests to be a qualifying child of anyone else. As a result, this child is your qualifying child (see Qualifying Child , later) and, because this child is single, this is your qualifying person for head of household purposes.
+
+Example 2—child who isn’t qualifying person.
+
+The facts are the same as in Example 1 , except your child was 25 years old at the end of the year and your child’s gross income was $6,000. Because your child doesn’t meet the age test (explained later under Qualifying Child ), your child isn’t your qualifying child. Because the child doesn’t meet the gross income test (explained later under Qualifying Relative ), the child isn’t your qualifying relative. As a result, this child isn’t your qualifying person for head of household purposes.
+
+Example 3—your friend.
+
+Your friend lived with you all year. Even though your friend may be your qualifying relative if the gross income and support tests (explained later) are met, your friend isn’t your qualifying person for head of household purposes because your friend isn’t related to you in one of the ways listed under Relatives who don’t have to live with you , later. See Table 4 .
+
+Example 4—friend’s child.
+
+The facts are the same as in Example 3 , except your friend’s 10-year-old child also lived with you all year. Your friend’s child isn’t your qualifying child and, because the child is your friend’s qualifying child, your friend’s child isn’t your qualifying relative (see Not a Qualifying Child Test , later). As a result, your friend’s child isn’t your qualifying person for head of household purposes.
+
+Home of qualifying person.
+
+Generally, the qualifying person must live with you for more than half of the year.
+
+Special rule for parent.
+
+If your qualifying person is your parent, you may be eligible to file as head of household even if your parent doesn’t live with you. However, you must be able to claim your parent as a dependent. Also, you must pay more than half the cost of keeping up a home that was the main home for the entire year for your parent.
+
+If you pay more than half the cost of keeping your parent in a rest home or home for the elderly, that counts as paying more than half the cost of keeping up your parent’s main home.
+
+Death or birth.
+
+You may be eligible to file as head of household even if the qualifying person who qualifies you for this filing status is born or dies during the year. To qualify you for head of household filing status, the qualifying person (as defined in Table 4 ) must be one of the following.
+
+-
+
+Your qualifying child or qualifying relative who lived with you for more than half the part of the year they were alive.
+
+-
+
+Your parent for whom you paid, for the entire part of the year your parent was alive, more than half the cost of keeping up the home your parent lived in.
+
+Example.
+
+You are unmarried. Your parent, who you claim as a dependent, lived in an apartment alone. Your parent died on September 2. The cost of the upkeep of the apartment for the year until your parent’s death was $6,000. You paid $4,000 and your sibling paid $2,000. Your sibling made no other payments toward your parent’s support. Your parent had no income. Because you paid more than half of the cost of keeping up your parent’s apartment from January 1 until your parent’s death, and you can claim your parent as a dependent, you can file as head of household.
+
+Temporary absences.
+
+You and your qualifying person are considered to live together even if one or both of you are temporarily absent from your home due to special circumstances such as illness, education, business, vacation, military service, or detention in a juvenile facility. It must be reasonable to assume the absent person will return to the home after the temporary absence. You must continue to keep up the home during the absence.
+
+Adopted child or foster child.
+
+You may be eligible to file as head of household if the person who qualifies you for this filing status was an adopted child or foster child and you kept up a home for this person in 2025, the person was lawfully placed with you for legal adoption by you in 2025, or the person was an eligible foster child placed with you during 2025. The person is considered to have lived with you for more than half of 2025 if your main home was this person’s main home for more than half the time since the child was adopted or placed with you in 2025.
+
+Kidnapped child.
+
+You may be eligible to file as head of household even if the child who is your qualifying person has been kidnapped. You can claim head of household filing status if all the following statements are true.
+
+-
+
+The child is presumed by law enforcement authorities to have been kidnapped by someone who isn’t a member of your family or the child’s family.
+
+-
+
+In the year of the kidnapping, the child lived with you for more than half the part of the year before the kidnapping.
+
+-
+
+In the year of the child’s return, the child lived with you for more than half the part of the year following the date of the child’s return.
+
+-
+
+You would have qualified for head of household filing status if the child hadn’t been kidnapped.
+
+This treatment applies for all years until the earlier of:
+
+-
+
+The year there is a determination that the child is dead, or
+
+-
+
+The year the child would have reached age 18.
+
+Qualifying Surviving Spouse
+
+If your spouse died in 2025, you can use married filing jointly as your filing status for 2025 if you otherwise qualify to use that status. The year of death is the last year for which you can file jointly with your deceased spouse. See Married Filing Jointly , earlier.
+
+You may be eligible to use qualifying surviving spouse as your filing status for 2 years following the year your spouse died. For example, if your spouse died in 2024 and you haven’t remarried, you may be able to use this filing status for 2025 and 2026. The rules for using this filing status are explained in detail here.
+
+This filing status entitles you to use joint return tax rates and the highest standard deduction amount (if you don’t itemize deductions). It doesn’t entitle you to file a joint return.
+
+How to file.
+
+Select this filing status by checking the “Qualifying surviving spouse” box on the Filing Status line near the top of Form 1040 or 1040-SR. If the child who qualifies you for this filing status isn’t claimed as your dependent in the Dependents section of Form 1040 or 1040-SR, enter the child’s name in the entry space below the filing status checkboxes. Use the Married filing jointly column of the Tax Table, or Section B of the Tax Computation Worksheet, to figure your tax.
+
+Table 4. Who Is a Qualifying Person Qualifying You To File as Head of Household? 1
+
+Caution | See the text of this publication for the other requirements you must meet to claim head of household filing status.
+IF the person is your . . . |  | AND . . . |  | THEN that person is . . .
+qualifying child (such as a son, daughter, or grandchild who lived with you more than half the year and meets certain other tests) 2 |  | the child is single |  | a qualifying person, whether or not the child meets the citizen or resident test .
+the child is married and you can claim the child as a dependent |  | a qualifying person.
+the child is married and you can’t claim the child as a dependent |  | not a qualifying person. 3
+qualifying relative 4 who is your father or mother |  | you can claim your parent as a dependent 5 |  | a qualifying person. 6
+you can’t claim your parent as a dependent |  | not a qualifying person.
+qualifying relative 4 other than your father or mother (such as a grandparent, brother, or sister who meets certain tests) |  | your relative lived with you more than half the year, and your relative is related to you in one of the ways listed under Relatives who don’t have to live with you , later, and you can claim your relative as a dependent 5 |  | a qualifying person.
+your relative didn’t live with you more than half the year |  | not a qualifying person.
+your relative isn’t related to you in one of the ways listed under Relatives who don’t have to live with you , later, and is your qualifying relative only because your relative lived with you all year as a member of your household |  | not a qualifying person.
+you can’t claim your relative as a dependent |  | not a qualifying person.
+1 A person can’t qualify more than one taxpayer to use the head of household filing status for the year.
+2 The term “ qualifying child ” is defined under Dependents , later. Note: If you are a noncustodial parent, the term “qualifying child” for head of household filing status doesn’t include a child who is your qualifying child only because of the rules described under Children of divorced or separated parents (or parents who live apart) under Qualifying Child , later. If you are the custodial parent and those rules apply, the child is generally your qualifying child for head of household filing status even though the child isn’t a qualifying child you can claim as a dependent.
+3 This person is a qualifying person if the only reason you can’t claim the person as a dependent is that you can be claimed as a dependent on another taxpayer’s return.
+4 The term “ qualifying relative ” is defined under Dependents , later.
+5 If you can claim a person as a dependent only because of a multiple support agreement, that person isn’t a qualifying person. See Multiple Support Agreement , later.
+6 See Special rule for parent , earlier.
+
+Eligibility rules.
+
+You are eligible to file your 2025 return as a qualifying surviving spouse if you meet all the following tests.
+
+-
+
+You were entitled to file a joint return with your spouse for the year your spouse died. It doesn’t matter whether you actually filed a joint return.
+
+-
+
+Your spouse died in 2023 or 2024 and you didn’t remarry before the end of 2025.
+
+-
+
+You have a child or stepchild (not a foster child) whom you can claim as a dependent or could claim as a dependent except that, for 2025:
+
+-
+
+The child had gross income of $5,200 or more,
+
+-
+
+The child filed a joint return, or
+
+-
+
+You could be claimed as a dependent on someone else’s return.
+
+If the child isn’t claimed as your dependent in the Dependents section on Form 1040 or 1040-SR, enter the child’s name in the entry space below the filing status checkboxes. If you don’t enter the name, it will take us longer to process your return.
+
+-
+
+This child lived in your home all year, except for temporary absences. See Temporary absences , earlier, under Head of Household . There are also exceptions, described later, for a child who was born or died during the year and for a kidnapped child.
+
+-
+
+You paid more than half the cost of keeping up a home for the year. See Keeping Up a Home , earlier, under Head of Household .
+
+Example.
+
+Your spouse died in 2023 and you haven’t remarried. During 2024 and 2025, you continued to keep up a home for you and your child who lives with you and whom you can claim as a dependent. For 2023, you were entitled to file a joint return for you and your deceased spouse. For 2024 and 2025, you can file as a qualifying surviving spouse. After 2025, you can file as head of household if you qualify.
+
+Death or birth.
+
+You may be eligible to file as a qualifying surviving spouse if the child who qualifies you for this filing status is born or dies during the year. You must have provided more than half of the cost of keeping up a home that was the child’s main home during the entire part of the year the child was alive.
+
+Adopted child.
+
+You may be eligible to file as a qualifying surviving spouse if the child who qualifies you for this filing status was adopted by you in 2025 or was lawfully placed with you for legal adoption by you in 2025. The child is considered to have lived with you for all of 2025 if your main home was this child’s main home for the entire time since this child was adopted or placed with you in 2025.
+
+Kidnapped child.
+
+You may be eligible to file as a qualifying surviving spouse even if the child who qualifies you for this filing status has been kidnapped. You can claim qualifying surviving spouse filing status if all the following statements are true.
+
+-
+
+The child is presumed by law enforcement authorities to have been kidnapped by someone who isn’t a member of your family or the child’s family.
+
+-
+
+In the year of the kidnapping, the child lived with you for more than half the part of the year before the kidnapping.
+
+-
+
+In the year of the child’s return, the child lived with you for more than half the part of the year following the date of the child’s return.
+
+-
+
+You would have qualified for qualifying surviving spouse filing status if the child had not been kidnapped.
+
+. As mentioned earlier, the filing status qualifying surviving spouse is available for only 2 years following the year your spouse died. .

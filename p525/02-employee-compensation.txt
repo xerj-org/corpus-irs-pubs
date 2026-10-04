@@ -1,0 +1,1427 @@
+IRS Pub 525 (2025) | Employee Compensation
+
+Employee Compensation
+
+In most cases, you must include in gross income everything you receive in payment for personal services. In addition to wages, salaries, commissions, fees, and tips, this includes other forms of compensation such as fringe benefits and stock options.
+
+You should receive a Form W-2 from your employer or former employer showing the pay you received for your services. Include all your pay on Form 1040 or 1040-SR, line 1a, even if you don’t receive Form W-2, or you receive a Form W-2 that doesn’t include all pay that should be included on the Form W-2.
+
+If you performed services, other than as an independent contractor, and your employer didn’t withhold social security and Medicare taxes from your pay, you must file Form 8919, Uncollected Social Security and Medicare Tax on Wages, with your Form 1040 or 1040-SR. These wages must be included on Form 1040 or 1040-SR, line 1g. See Form 8919 for more information.
+
+Fair market value (FMV).
+
+The FMV of an item of property is the price at which the item would change hands between a willing buyer and a willing seller, neither being required to buy or sell and both having reasonable knowledge of the relevant facts.
+
+Childcare providers.
+
+If you provide childcare, either in the child’s home or in your home or other place of business, the pay you receive must be included in your income. If you’re not an employee, you’re probably self-employed and must include payments for your services on Schedule C (Form 1040), Profit or Loss From Business. You generally aren’t an employee unless you’re subject to the will and control of the person who employs you as to what you’re to do and how you’re to do it.
+
+Babysitting.
+
+If you babysit for relatives or neighborhood children, whether on a regular basis or only periodically, the rules for childcare providers apply to you.
+
+Self-employment tax.
+
+Whether you’re an employee or a self-employed person, your income could be subject to self-employment tax. See the Instructions for Schedule C (Form 1040) and the Instructions for Schedule SE (Form 1040) if you’re self-employed. Also, see Pub. 926 for more information.
+
+Bankruptcy.
+
+If you filed for bankruptcy under chapter 11 of the Bankruptcy Code, you must allocate your wages and withheld income tax. Your Form W-2 will show your total wages and withheld income tax for the year. On your tax return, you report the wages and withheld income tax for the period before you filed for bankruptcy. Your bankruptcy estate reports the wages and withheld income tax for the period after you filed for bankruptcy. If you receive other information returns (such as Form 1099-DIV or Form 1099-INT) that report gross income to you, rather than to the bankruptcy estate, you must allocate that income.
+
+The only exception is for purposes of figuring your self-employment tax if you’re self-employed. For that purpose, you must take into account all your self-employment income for the year from services performed both before and after the beginning of the case.
+
+You must file a statement with your income tax return stating you filed a chapter 11 bankruptcy case. The statement must show the allocation and describe the method used to make the allocation. For a sample of this statement and other information, see Notice 2006-83, 2006-40 I.R.B. 596, available at IRS.gov/irb/2006-40_IRB#NOT-2006-83 . For additional information on bankruptcy, see Pub. 908.
+
+Miscellaneous Compensation
+
+This section discusses many types of employee compensation.
+
+Advance commissions and other earnings.
+
+If you receive advance commissions or other amounts for services to be performed in the future and you’re a cash-method taxpayer, you must include these amounts in your income in the year you receive them.
+
+If you repay unearned commissions or other amounts in the same year you receive them, reduce the amount of unearned commissions included in your income by the repayment. If you repay them in a later tax year, you can deduct the repayment as an itemized deduction on your Schedule A (Form 1040), Other Itemized Deductions, or you may be able to take a credit for that year. See Repayments , later.
+
+Allowances and reimbursements.
+
+If you receive travel, transportation, or other business expense allowances or reimbursements from your employer, see Pub. 463.
+
+Back pay awards.
+
+Include in income amounts you’re awarded in a settlement or judgment for back pay. These include payments made to you for damages, unpaid life insurance premiums, and unpaid health insurance premiums. They should be reported to you by your employer on Form W-2.
+
+Bonuses and awards.
+
+Bonuses or awards (cash, goods, services, etc.) you receive for outstanding work are included in your income and should be shown on your Form W-2. These include prizes such as vacation trips for meeting sales goals. If the prize or award you receive is goods or services, you must include the FMV of the goods or services in your income. However, if your employer merely promises to pay you a bonus or award at some future time, it isn’t taxable until you receive it or it’s made available to you.
+
+Employee achievement award.
+
+If you receive tangible personal property (other than cash, a gift certificate, or an equivalent item) as an award for length of service or safety achievement, you must generally exclude its value from your income. However, the amount you can exclude is limited to your employer’s cost and can’t be more than $1,600 ($400 for awards that aren’t qualified plan awards) for all such awards you receive during the year. Your employer can tell you whether your award is a qualified plan award. Your employer must make the award as part of a meaningful presentation, under conditions and circumstances that don’t create a significant likelihood of it being disguised pay.
+
+However, the exclusion doesn’t apply to the following awards.
+
+-
+
+A length-of-service award if you received it for less than 5 years of service or if you received another length-of-service award during the year or the previous 4 years.
+
+-
+
+A safety achievement award if you’re a manager, administrator, clerical employee, or other professional employee or if more than 10% of eligible employees previously received safety achievement awards during the year.
+
+Example 2.
+
+You received three employee achievement awards during the year: a nonqualified plan award of a watch valued at $250, and two qualified plan awards of a stereo valued at $1,000 and a set of golf clubs valued at $500. Assuming that the requirements for qualified plan awards are otherwise satisfied, each award by itself would be excluded from income. However, because the $1,750 total value of the awards is more than $1,600, you must include $150 ($1,750 − $1,600) in your income.
+
+Differential wage payments.
+
+This is any payment made by an employer to an individual for any period during which the individual is, for a period of more than 30 days, an active duty member of the uniformed services and represents all or a portion of the wages the individual would have received from the employer for that period. These payments are treated as wages and are subject to income tax withholding but not Federal Insurance Contribution Act (FICA) or Federal Unemployment Tax Act (FUTA) tax. The payments are reported as wages on Form W-2.
+
+Government cost-of-living allowances.
+
+Most payments received by U.S. Government civilian employees for working abroad are taxable. However, certain cost-of-living allowances are tax free. Pub. 516 explains the tax treatment of allowances, differentials, and other special pay you receive for employment abroad.
+
+Nonqualified deferred compensation plans.
+
+Your employer will report to you the total amount of deferrals for the year under a nonqualified deferred compensation plan. This amount is shown in box 12 of Form W-2, using code Y. This amount isn’t included in your income.
+
+However, if at any time during the tax year, the plan fails to meet certain requirements, or isn’t operated under those requirements, all amounts deferred under the plan for the tax year and all preceding tax years are included in your income for the current year. This amount is included in your wages shown in box 1 of Form W-2. It’s also shown in box 12 of Form W-2, using code Z.
+
+Nonqualified deferred compensation plans of nonqualified entities.
+
+In most cases, any compensation deferred under a nonqualified deferred compensation plan of a nonqualified entity is included in gross income when there is no substantial risk of forfeiture of the rights to such compensation. For this purpose, a nonqualified entity is one of the following.
+
+-
+
+A foreign corporation, unless substantially all of its income is:
+
+-
+
+Effectively connected with the conduct of a trade or business in the United States, or
+
+-
+
+Subject to a comprehensive foreign income tax.
+
+-
+
+A partnership, unless substantially all of its income is allocated to persons other than:
+
+-
+
+Foreign persons for whom the income isn’t subject to a comprehensive foreign income tax, and
+
+-
+
+Tax-exempt organizations.
+
+Note received for services.
+
+If your employer gives you a secured note as payment for your services, you must include the FMV (usually the discount value) of the note in your income for the year you receive it. When you later receive payments on the note, a proportionate part of each payment is the recovery of the FMV that you previously included in your income. Don’t include that part again in your income. Include the rest of the payment in your income in the year of payment.
+
+If your employer gives you a nonnegotiable unsecured note as payment for your services, payments on the note that are credited toward the principal amount of the note are compensation income when you receive them.
+
+Severance pay.
+
+You must include in income amounts you receive as severance pay and any payment for the cancellation of your employment contract.
+
+Severance payments are subject to social security and Medicare taxes, income tax withholding, and FUTA tax.
+
+Severance payments are wages subject to social security and Medicare taxes. As noted under Special Rules for Various Types of Services and Payments in section 15 of Pub. 15, severance payments are also subject to income tax withholding and FUTA tax.
+
+Accrued leave payment.
+
+If you’re a federal employee and receive a lump-sum payment for accrued annual leave when you retire or resign, this amount will be included as wages on your Form W-2.
+
+If you resign from one agency and are reemployed by another agency, you may have to repay part of your lump-sum annual leave payment to the second agency. You can reduce gross wages by the amount you repaid in the same tax year in which you received it. Attach to your tax return a copy of the receipt or statement given to you by the agency you repaid to explain the difference between the wages on your return and the wages on your Forms W-2.
+
+Outplacement services.
+
+If you choose to accept a reduced amount of severance pay so that you can receive outplacement services (such as training in résumé writing and interview techniques), you must include the unreduced amount of the severance pay in income.
+
+Sick pay.
+
+Pay you receive from your employer while you’re sick or injured is part of your salary or wages. In addition, you must include in your income sick pay benefits received from any of the following payers.
+
+-
+
+A welfare fund.
+
+-
+
+A state sickness or disability fund.
+
+-
+
+An association of employers or employees.
+
+-
+
+An insurance company if your employer paid for the plan.
+
+However, if you paid the premiums on an accident or health insurance policy, the benefits you receive under the policy aren’t taxable. For more information, see Other Sickness and Injury Benefits under Sickness and Injury Benefits , later.
+
+Social security and Medicare taxes paid by employer.
+
+If you and your employer have an agreement that your employer pays your social security and Medicare taxes without deducting them from your gross wages, you must report the amount of tax paid for you as taxable wages on your tax return. The payment is also treated as wages for figuring your social security and Medicare taxes and your social security and Medicare benefits. However, these payments aren’t treated as social security and Medicare wages if you’re a household worker or a farm worker.
+
+Stock appreciation rights.
+
+Don’t include a stock appreciation right granted by your employer in income until you exercise (use) the right. When you use the right, you’re entitled to a cash payment equal to the FMV of the corporation’s stock on the date of use minus the FMV on the date the right was granted. You include the cash payment in income in the year you use the right.
+
+Digital assets.
+
+If your employer gives you digital assets (such as Bitcoin) as payment for your services, you must include the FMV of the digital assets as of the date(s) of receipt in your income. The FMV of digital assets paid as wages is subject to federal income tax withholding, FICA tax, and FUTA tax and must be reported on Form W-2. Notice 2014-21, 2014-16 I.R.B. 938, describes how digital assets are treated for federal tax purposes and is available at IRS.gov/irb/2014-16_IRB#NOT-2014-21 . For further information, go to IRS.gov/DigitalAssets .
+
+Fringe Benefits
+
+Fringe benefits received in connection with the performance of your services are included in your income as compensation unless you pay FMV for them or they’re specifically excluded by law. Refraining from the performance of services (for example, under a covenant not to compete) is treated as the performance of services for purposes of these rules.
+
+See Valuation of Fringe Benefits , later in this discussion, for information on how to determine the amount to include in income.
+
+Recipient of fringe benefit.
+
+You’re the recipient of a fringe benefit if you perform the services for which the fringe benefit is provided. You’re considered to be the recipient even if it’s given to another person, such as a member of your family. An example is a car your employer gives to your spouse for services you perform. The car is considered to have been provided to you and not to your spouse.
+
+You don’t have to be an employee of the provider to be a recipient of a fringe benefit. If you’re a partner, a director, or an independent contractor, you can also be the recipient of a fringe benefit.
+
+Provider of benefit.
+
+Your employer or another person for whom you perform services is the provider of a fringe benefit regardless of whether that person actually provides the fringe benefit to you. The provider can be a client or customer of an independent contractor.
+
+Accounting period.
+
+You must use the same accounting period your employer uses to report your taxable noncash fringe benefits. Your employer has the option to report taxable noncash fringe benefits by using either of the following rules.
+
+-
+
+The general rule: Benefits are reported for a full calendar year (January 1–December 31).
+
+-
+
+The special accounting period rule: Benefits provided during the last 2 months of the calendar year (or any shorter period) are treated as paid during the following calendar year.
+
+Your employer doesn’t have to use the same accounting period for each fringe benefit but must use the same period for all employees who receive a particular benefit.
+
+You must use the same accounting period that you use to report the benefit to claim an employee business deduction (for example, use of a car).
+
+Form W-2.
+
+Your employer must include all taxable fringe benefits in box 1 of Form W-2 as wages, tips, and other compensation, and, if applicable, in boxes 3 and 5 as social security and Medicare wages. Although not required, your employer may include the total value of fringe benefits in box 14 (or on a separate statement). However, if your employer provided you with a vehicle and included 100% of its annual lease value in your income, the employer must separately report this value to you in box 14 (or on a separate statement).
+
+Accident or Health Plan
+
+In most cases, the value of accident or health plan coverage provided to you by your employer isn’t included in your income. Benefits you receive from the plan may be taxable, as explained under Sickness and Injury Benefits , later.
+
+For information on the items covered in this section, other than long-term care coverage (defined below), see Pub. 969.
+
+Long-term care coverage.
+
+Contributions by your employer to provide coverage for long-term care services generally aren’t included in your income. However, contributions made through a flexible spending or similar arrangement (such as a cafeteria plan) must be included in your income. This amount will be reported as wages in box 1 of Form W-2.
+
+Archer MSA contributions.
+
+Contributions by your employer to your Archer MSA generally aren’t included in your income. Their total will be reported in box 12 of Form W-2, with code R. You must report this amount on Form 8853, Archer MSAs and Long-Term Care Insurance Contracts. File the form with your return.
+
+Health flexible spending arrangement (health FSA).
+
+If your employer provides a health FSA that qualifies as an accident or health plan, the amount of your salary reduction, and reimbursements of your medical care expenses, in most cases aren’t included in your income.
+
+For 2025, health FSAs are subject to a $3,300 limit on salary reduction contributions.
+
+Health reimbursement arrangement (HRA).
+
+If your employer offers an HRA that qualifies as an accident or health plan, your coverage under the HRA and reimbursements of your medical care expenses from the HRA generally aren’t included in your income.
+
+Health savings account (HSA).
+
+If you’re an eligible individual, you and any other person, including your employer or a family member, can make contributions to your HSA. Contributions, other than employer contributions, are deductible on your return whether or not you itemize deductions. Contributions made by your employer aren’t included in your income. Distributions from your HSA that are used to pay qualified medical expenses aren’t included in your income. Distributions not used for qualified medical expenses are included in your income. See Pub. 969 for the requirements of an HSA.
+
+Contributions by a partnership to a bona fide partner’s HSA aren’t contributions by an employer. The contributions are treated as a distribution of money and aren’t included in the partner’s gross income. Contributions by a partnership to a partner’s HSA for services rendered are treated as guaranteed payments that are includible in the partner’s gross income. In both situations, the partner can deduct the contribution made to the partner’s HSA.
+
+Contributions by an S corporation to a 2%-shareholder-employee’s HSA for services rendered are treated as guaranteed payments and are includible in the shareholder-employee’s gross income. The shareholder-employee can deduct the contribution made to the shareholder-employee’s HSA.
+
+Qualified HSA funding distribution.
+
+You can make a one-time distribution from your individual retirement arrangement (IRA) to an HSA and you generally won’t include any of the distribution in your income. See Pub. 590-B for the requirements for these qualified HSA funding distributions.
+
+Adoption Assistance
+
+You may be able to exclude from your income amounts paid or expenses incurred by your employer for qualified adoption expenses in connection with your adoption of an eligible child. See the Instructions for Form 8839 for more information.
+
+Adoption benefits are reported by your employer in box 12 of Form W-2, with code T. They are also included as social security and Medicare wages in boxes 3 and 5. However, they aren’t included as wages in box 1. To determine the taxable and nontaxable amounts, you must complete Part III of Form 8839. File the form with your return.
+
+Athletic Facilities
+
+If your employer provides you with the free or low-cost use of an employer-operated gym or other athletic club on your employer’s premises, the value isn’t included in your compensation. The gym must be used primarily by employees, their spouses, and their dependent children.
+
+If your employer pays for a fitness program provided to you at an off-site resort hotel or athletic club, the value of the program is included in your compensation.
+
+De Minimis (Minimal) Benefits
+
+If your employer provides you with a product or service and the cost of it is so small that it would be unreasonable for the employer to account for it, the value isn’t included in your income. In most cases, the value of benefits such as discounts at company cafeterias, cab fares home when working overtime, occasional personal use of an employer’s copying machine (where at least 85% of the use of the machine is for business), and company picnics aren’t included in your income. Also, see Employee Discounts , later.
+
+Holiday gifts.
+
+If your employer gives you a turkey, ham, or other item of nominal value at Christmas or other holidays, don’t include the value of the gift in your income. However, if your employer gives you cash, a gift certificate, or a similar item that you can easily exchange for cash, you include the value of that gift as extra salary or wages regardless of the amount involved.
+
+Dependent Care Benefits
+
+If your employer provides dependent care benefits under a dependent care assistance plan, you may be able to exclude these benefits from your income. Dependent care benefits include:
+
+-
+
+Amounts your employer pays directly to either you or your care provider for the care of your qualifying person while you work,
+
+-
+
+The FMV of care in a daycare facility provided or sponsored by your employer, and
+
+-
+
+Pre-tax contributions you made under a dependent care FSA.
+
+The amount you can exclude is limited to the lesser of:
+
+-
+
+The total amount of dependent care benefits you received during the year,
+
+-
+
+The total amount of qualified expenses you incurred during the year,
+
+-
+
+Your earned income,
+
+-
+
+Your spouse’s earned income, or
+
+-
+
+$5,000 ($2,500 if married filing separately).
+
+Your employer must show the total amount of dependent care benefits provided to you during the year under a dependent care assistance plan in box 10 of Form W-2. Any amount over your employer’s plan limit is also included in box 1. See Form 2441.
+
+To claim the exclusion, you must complete Part III of Form 2441. See the Instructions for Form 2441 for more information.
+
+Educational Assistance
+
+You can exclude from your income up to $5,250 of qualified employer-provided educational assistance. For more information, see Pub. 970.
+
+Employee Discounts
+
+If your employer sells you property or services at a discount, you may be able to exclude the amount of the discount from your income. The exclusion applies to discounts on property or services offered to customers in the ordinary course of the line of business in which you work. However, it doesn’t apply to discounts on real property or property commonly held for investment (such as stocks or bonds).
+
+The exclusion is limited to the price charged nonemployee customers multiplied by the following percentage.
+
+-
+
+For a discount on property, your employer’s gross profit percentage (gross profit divided by gross sales) on all property sold during the employer’s previous tax year. (Ask your employer for this percentage.)
+
+-
+
+For a discount on services, 20% (0.20).
+
+Financial Counseling Fees
+
+Financial counseling fees paid for you by your employer are included in your income and must be reported as part of wages.
+
+Qualified retirement planning services paid for you by your employer may be excluded from your income. For more information, see Retirement Planning Services , later.
+
+Employer-Provided Group-Term Life Insurance
+
+In most cases, the cost of up to $50,000 of group-term life insurance coverage provided to you by your employer (or former employer) isn’t included in your income. However, you must include in income the cost of employer-provided insurance that is more than the cost of $50,000 of coverage reduced by any amount you pay toward the purchase of the insurance.
+
+For exceptions to this rule, see Entire cost excluded and Entire cost taxed , later.
+
+If your employer provided more than $50,000 of coverage, the amount included in your income is reported as part of your wages in box 1 of Form W-2. Also, it’s shown separately in box 12 with code C.
+
+Group-term life insurance.
+
+This insurance is term life insurance protection (insurance for a fixed period of time) that:
+
+-
+
+Provides a general death benefit,
+
+-
+
+Is provided to a group of employees,
+
+-
+
+Is provided under a policy carried by the employer, and
+
+-
+
+Provides an amount of insurance to each employee based on a formula that prevents individual selection.
+
+Permanent benefits.
+
+If your group-term life insurance policy includes permanent benefits, such as a paid-up or cash surrender value, you must include in your income, as wages, the cost of the permanent benefits minus the amount you pay for them. Your employer should be able to tell you the amount to include in your income.
+
+Accidental death benefits.
+
+Insurance that provides accidental or other death benefits but doesn’t provide general death benefits (for example, travel insurance) isn’t group-term life insurance.
+
+Former employer.
+
+If your former employer provided more than $50,000 of group-term life insurance coverage during the year, the amount included in your income is reported as wages in box 1 of Form W-2. Also, it’s shown separately in box 12 with code C. Box 12 will also show the amount of uncollected social security and Medicare taxes on the excess coverage, with codes M and N. You must pay these taxes with your income tax return. Include them on Schedule 2 (Form 1040), line 13. For more information, see the Instructions for Form 1040.
+
+Two or more employers.
+
+Your exclusion for employer-provided group-term life insurance coverage can’t exceed the cost of $50,000 of coverage, whether the insurance is provided by a single employer or multiple employers. If two or more employers provide insurance coverage that totals more than $50,000, the amounts reported as wages on your Forms W-2 won’t be correct. You must figure how much to include in your income. Reduce the amount you figure by any amount reported in box 12 of Form W-2, with code C; add the result to the wages reported in box 1; and report the total on your return.
+
+Figuring the taxable cost.
+
+Use the following worksheet to figure the amount to include in your income.
+
+If you pay any part of the cost of the insurance, your entire payment reduces, dollar for dollar, the amount you would otherwise include in your income. However, you can’t reduce the amount to include in your income by:
+
+Worksheet 1. Figuring the Cost of Group-Term Life Insurance To Include in Income (Keep for Your Records)
+
+1. | Enter the total amount of your insurance coverage from your employer(s) | 1. | _____
+2. | Limit on exclusion for employer-provided group-term life insurance coverage | 2. | 50,000
+3. | Subtract line 2 from line 1 | 3. | _____
+4. | Divide line 3 by $1,000. Figure to the nearest tenth | 4. | _____
+5. | Go to Table 1. Using your age on the last day of the tax year, find your age group in the left column, and enter the cost from the column on the right for your age group | 5. | _____
+6. | Multiply line 4 by line 5 | 6. | _____
+7. | Enter the number of full months of coverage at this cost | 7. | _____
+8. | Multiply line 6 by line 7 | 8. | _____
+9. | Enter the premiums you paid per month | 9. | _____
+10. | Enter the number of months you paid the premiums | 10. | _____
+11. | Multiply line 9 by line 10 | 11. | _____
+12. | Subtract line 11 from line 8. Include this amount in your income as wages | 12. | _____
+
+Table 1. Cost of $1,000 of Group-Term Life Insurance for 1 Month
+
+Age | Cost
+Under 25 | $ 0.05
+25 through 29 | 0.06
+30 through 34 | 0.08
+35 through 39 | 0.09
+40 through 44 | 0.10
+45 through 49 | 0.15
+50 through 54 | 0.23
+55 through 59 | 0.43
+60 through 64 | 0.66
+65 through 69 | 1.27
+70 and above | 2.06
+
+Example 3.
+
+You’re 51 years old and work for two employers, Green Company and Maple Company. Both employers provide group-term life insurance coverage for you for the entire year. Your coverage is $35,000 with Green Company and $45,000 with Maple Company. You pay premiums of $4.15 a month under the Maple Company group plan. You figure the amount to include in your income as follows.
+
+Worksheet 1. Figuring the Cost of Group-Term Life Insurance To Include in Income—Illustrated
+
+1. | Enter the total amount of your insurance coverage from your employer(s) | 1. | 80,000
+2. | Limit on exclusion for employer-provided group-term life insurance coverage | 2. | 50,000
+3. | Subtract line 2 from line 1 | 3. | 30,000
+4. | Divide line 3 by $1,000. Figure to the nearest tenth | 4. | 30.0
+5. | Go to Table 1. Using your age on the last day of the tax year, find your age group in the left column, and enter the cost from the column on the right for your age group | 5. | 0.23
+6. | Multiply line 4 by line 5 | 6. | 6.90
+7. | Enter the number of full months of coverage at this cost | 7. | 12
+8. | Multiply line 6 by line 7 | 8. | 82.80
+9. | Enter the premiums you paid per month | 9. | 4.15
+10. | Enter the number of months you paid the premiums | 10. | 12
+11. | Multiply line 9 by line 10 | 11. | 49.80
+12. | Subtract line 11 from line 8. Include this amount in your income as wages | 12. | 33.00
+
+The total amount to include in income for the cost of excess group-term life insurance is $33. Neither employer provided over $50,000 insurance coverage, so the wages shown on your Forms W-2 don’t include any part of that $33. You must add it to the wages shown on your Forms W-2 and include the total on your return.
+
+Entire cost excluded.
+
+You aren’t taxed on the cost of group-term life insurance if any of the following circumstances apply.
+
+-
+
+You’re permanently and totally disabled and have ended your employment.
+
+-
+
+Your employer is the beneficiary of the policy for the entire period the insurance is in force during the tax year.
+
+-
+
+A charitable organization to which contributions are deductible is the only beneficiary of the policy for the entire period the insurance is in force during the tax year. (You aren’t entitled to a deduction for a charitable contribution for naming a charitable organization as the beneficiary of your policy.)
+
+-
+
+The plan existed on January 1, 1984, and:
+
+-
+
+You retired before January 2, 1984, and were covered by the plan when you retired; or
+
+-
+
+You reached age 55 before January 2, 1984, and were employed by the employer or its predecessor in 1983.
+
+Entire cost taxed.
+
+You’re taxed on the entire cost of group-term life insurance if either of the following circumstances applies.
+
+-
+
+The insurance is provided by your employer through a qualified employees’ trust, such as a pension trust or a qualified annuity plan.
+
+-
+
+You’re a key employee and your employer’s plan discriminates in favor of key employees.
+
+Meals and Lodging
+
+You don’t include in your income the value of meals and lodging provided to you and your family by your employer at no charge if the following conditions are met.
+
+-
+
+The meals are:
+
+-
+
+Furnished on the business premises of your employer, and
+
+-
+
+Furnished for the convenience of your employer.
+
+-
+
+The lodging is:
+
+-
+
+Furnished on the business premises of your employer,
+
+-
+
+Furnished for the convenience of your employer, and
+
+-
+
+A condition of your employment. (You must accept it in order to be able to properly perform your duties.)
+
+You also don’t include in your income the value of meals or meal money that qualifies as a minimal fringe benefit. See De Minimis (Minimal) Benefits , earlier.
+
+Faculty lodging.
+
+If you’re an employee of an educational institution or an academic health center and you’re provided with lodging that doesn’t meet the three conditions given earlier, you may still not have to include the value of the lodging in income. However, the lodging must be qualified campus lodging, and you must pay an adequate rent (defined later).
+
+Academic health center.
+
+This is an organization that meets the following conditions.
+
+-
+
+Its principal purpose or function is to provide medical or hospital care or medical education or research.
+
+-
+
+It receives payments for graduate medical education under the Social Security Act.
+
+-
+
+One of its principal purposes or functions is to provide and teach basic and clinical medical science and research using its own faculty.
+
+Qualified campus lodging.
+
+Qualified campus lodging is lodging furnished to you, your spouse, or any of your dependents by, or on behalf of, the institution or center for use as a home. The lodging must be located on or near a campus of the educational institution or academic health center.
+
+Adequate rent.
+
+The amount of rent you pay for the year for qualified campus lodging is considered adequate if it’s at least equal to the lesser of:
+
+-
+
+5% of the appraised value of the lodging, or
+
+-
+
+The average of rentals paid by individuals (other than employees or students) for comparable lodging held for rent by the educational institution.
+
+If the amount you pay is less than the lesser of these amounts, you must include the difference in your income.
+
+The lodging must be appraised by an independent appraiser and the appraisal must be reviewed on an annual basis.
+
+Example 4.
+
+You’re a sociology professor for State University and rent a home from the university that is qualified campus lodging. The house is appraised at $200,000. The average rent paid for comparable university lodging by persons other than employees or students is $14,000 a year. You pay an annual rent of $11,000. You don’t include in your income any rental value because the rent you pay equals at least 5% of the appraised value of the house (5% × $200,000 = $10,000). If you paid annual rent of only $8,000, you would have to include $2,000 in your income ($10,000 − $8,000).
+
+Moving Expense Reimbursements
+
+Reimbursements for certain moving expenses are no longer excluded from the gross income of nonmilitary taxpayers.
+
+No-Additional-Cost Services
+
+The value of services you receive from your employer for free, at cost, or for a reduced price isn’t included in your income if your employer:
+
+-
+
+Offers the same service for sale to customers in the ordinary course of the line of business in which you work, and
+
+-
+
+Doesn’t have a substantial additional cost (including any sales income given up) to provide you with the service (regardless of what you paid for the service).
+
+In most cases, no-additional-cost services are excess capacity services, such as airline, bus, or train tickets; hotel rooms; and telephone services.
+
+Example 5.
+
+You’re employed as a flight attendant for a company that owns both an airline and a hotel chain. Your employer allows you to take personal flights (if there is an unoccupied seat) and stay in any one of their hotels (if there is an unoccupied room) at no cost to you. The value of the personal flight isn’t included in your income. However, the value of the hotel room is included in your income because you don’t work in the hotel business.
+
+Retirement Planning Services
+
+If your employer has a qualified retirement plan, qualified retirement planning services provided to you (and your spouse) by your employer aren’t included in your income. Qualified services include retirement planning advice, information about your employer’s retirement plan, and information about how the plan may fit into your overall individual retirement income plan. You can’t exclude the value of any tax preparation, accounting, legal, or brokerage services provided by your employer. Also, see Financial Counseling Fees , earlier.
+
+Transportation
+
+If your employer provides you with a qualified transportation fringe benefit, it can be excluded from your income, up to certain limits. A qualified transportation fringe benefit is:
+
+-
+
+Transportation in a commuter highway vehicle (such as a van) between your home and work place,
+
+-
+
+A transit pass, or
+
+-
+
+Qualified parking.
+
+Cash reimbursement by your employer for these expenses under a bona fide reimbursement arrangement is also excludable. However, cash reimbursement for a transit pass is excludable only if a voucher or similar item that can be exchanged only for a transit pass isn’t readily available for direct distribution to you.
+
+Exclusion limit.
+
+The exclusion for commuter vehicle transportation and transit pass fringe benefits can’t be more than $325 a month.
+
+The exclusion for the qualified parking fringe benefit can’t be more than $325 a month.
+
+If the benefits have a value that is more than these limits, the excess must be included in your income.
+
+Commuter highway vehicle.
+
+This is a highway vehicle that seats at least six adults (not including the driver). At least 80% of the vehicle’s mileage must reasonably be expected to be:
+
+-
+
+For transporting employees between their homes and workplace, and
+
+-
+
+On trips during which employees occupy at least half of the vehicle’s adult seating capacity (not including the driver).
+
+Transit pass.
+
+This is any pass, token, farecard, voucher, or similar item entitling a person to ride mass transit (whether public or private) free or at a reduced rate or to ride in a commuter highway vehicle operated by a person in the business of transporting persons for compensation.
+
+Qualified parking.
+
+This is parking provided to an employee at or near the employer’s place of business. It also includes parking provided on or near a location from which the employee commutes to work by mass transit, in a commuter highway vehicle, or by car pool. It doesn’t include parking at or near the employee’s home.
+
+Tuition Reduction
+
+You can exclude a qualified tuition reduction from your income. This is the amount of a reduction in tuition:
+
+-
+
+For education (below graduate level) furnished by an educational institution to an employee, former employee who retired or became disabled, or their spouse and dependent children;
+
+-
+
+For education furnished to a graduate student at an educational institution if the graduate student is engaged in teaching or research activities for that institution; or
+
+-
+
+Representing payment for teaching, research, or other services if you receive the amount under the National Health Service Corps Scholarship Program or the Armed Forces Health Professions Scholarship and Financial Assistance program.
+
+For more information, see Pub. 970.
+
+Working Condition Benefits
+
+If your employer provides you with a product or service and the cost of it would have been allowable as a business or depreciation deduction if you paid for it yourself, the cost isn’t included in your income.
+
+Example 6.
+
+You work as an engineer and your employer provides you with a subscription to an engineering trade magazine. The cost of the subscription isn’t included in your income because the cost would have been allowable to you as a business deduction if you had paid for the subscription yourself.
+
+Valuation of Fringe Benefits
+
+If a fringe benefit is included in your income, the amount included is generally its value determined under the general valuation rule or under the special valuation rules. For an exception, see Employer-Provided Group-Term Life Insurance , earlier.
+
+General valuation rule.
+
+You must include in your income the amount by which the FMV of the fringe benefit is more than the sum of:
+
+-
+
+The amount, if any, you paid for the benefit; plus
+
+-
+
+The amount, if any, specifically excluded from your income by law.
+
+If you pay FMV for a fringe benefit, no amount is included in your income.
+
+Fringe benefit FMV.
+
+The FMV of a fringe benefit is determined by all the facts and circumstances. It’s the amount you would have to pay a third party to buy or lease the benefit. This is determined without regard to:
+
+-
+
+Your perceived value of the benefit, or
+
+-
+
+The amount your employer paid for the benefit.
+
+Employer-provided vehicles.
+
+If your employer provides a car (or other highway motor vehicle) to you, your personal use of the car is usually a taxable noncash fringe benefit.
+
+Under the general valuation rule , the value of an employer-provided vehicle is the amount you would have to pay a third party to lease the same or a similar vehicle on the same or comparable terms in the same geographic area where you use the vehicle. An example of a comparable lease term is the amount of time the vehicle is available for your use, such as a 1-year period. The value can’t be determined by multiplying a cents-per-mile rate times the number of miles driven unless you prove the vehicle could have been leased on a cents-per-mile basis. See Notice 2021-7 for more information on temporary relief for employers and employees using the automobile lease valuation rule to determine the value of an employer-provided vehicle in 2020 or 2021. The special valuation rule used for 2021 under the Notice must continue to be used by the employer and the employee for all subsequent years, except to the extent the employer uses the commuting valuation rule. See Special valuation rules below.
+
+Flights on employer-provided aircraft.
+
+Under the general valuation rules, if your flight on an employer-provided piloted aircraft is primarily personal and you control the use of the aircraft for the flight, the value is the amount it would cost to charter the flight from a third party.
+
+If there is more than one employee on the flight, the cost to charter the aircraft must be divided among those employees. The division must be based on all the facts, including which employee or employees control the use of the aircraft.
+
+Special valuation rules.
+
+Generally, you can use a special valuation rule for a fringe benefit only if your employer uses the rule. If your employer uses a special valuation rule, you can’t use a different special rule to value that benefit. You can always use the general valuation rule discussed earlier, based on facts and circumstances, even if your employer uses a special rule.
+
+If you and your employer use a special valuation rule, you must include in your income the amount your employer determines under the special rule minus the sum of:
+
+-
+
+Any amount you repaid your employer, plus
+
+-
+
+Any amount specifically excluded from income by law.
+
+The special valuation rules are the following.
+
+-
+
+The automobile lease rule.
+
+-
+
+The vehicle cents-per-mile rule.
+
+-
+
+The commuting rule.
+
+-
+
+The unsafe conditions commuting rule.
+
+-
+
+The employer-operated eating-facility rule.
+
+For more information on these rules, see Pub. 15-B.
+
+For information on the noncommercial flight and commercial flight valuation rules, see sections 1.61-21(g) and 1.61-21(h) of the regulations.
+
+Retirement Plan Contributions
+
+Except for Roth contributions, your employer’s contributions to a qualified retirement plan for you aren’t included in income at the time contributed. (Your employer can tell you whether your retirement plan is qualified.) However, the cost of life insurance coverage included in the plan may have to be included.
+
+If your employer pays into a nonqualified plan for you, you must generally include the contributions in your income as wages for the tax year in which the contributions are made. However, if your interest in the plan isn’t transferable or is subject to a substantial risk of forfeiture (you have a good chance of losing it) at the time of the contribution, you don’t have to include the value of your interest in your income until it’s transferable or is no longer subject to a substantial risk of forfeiture.
+
+Tip:
+
+For information on distributions from retirement plans, see Pub. 575 (or Pub. 721 if you’re a federal employee or retiree).
+
+Elective Deferrals
+
+If you’re covered by certain kinds of retirement plans, you can choose to have part of your compensation contributed by your employer to a retirement fund, rather than have it paid to you. The amount you set aside (called an elective deferral) is treated as an employer contribution to a qualified plan. An elective deferral, other than a designated Roth contribution (discussed later), isn’t included in wages subject to income tax at the time contributed. However, it’s included in wages subject to social security and Medicare taxes.
+
+Elective deferrals include elective contributions to the following retirement plans.
+
+-
+
+Cash or deferred arrangements (section 401(k) plans).
+
+-
+
+The TSP for federal employees.
+
+-
+
+Salary reduction simplified employee pension plans (SARSEP plans).
+
+-
+
+Savings incentive match plans for employees (SIMPLE plans).
+
+-
+
+Tax-sheltered annuity plans (section 403(b) plans).
+
+-
+
+Section 501(c)(18)(D) plans. (But see Reporting by employer , later.)
+
+-
+
+Section 457 plans.
+
+Qualified automatic contribution arrangements.
+
+Under a qualified automatic contribution arrangement, your employer can treat you as having elected to have a part of your compensation contributed to a section 401(k) plan. You’re to receive written notice of your rights and obligations under the qualified automatic contribution arrangement. The notice must explain:
+
+-
+
+Your rights to elect not to have elective contributions made, or to have contributions made at a different percentage; and
+
+-
+
+How contributions made will be invested in the absence of any investment decision by you.
+
+You must be given a reasonable period of time after receipt of the notice and before the first elective contribution is made to make an election with respect to the contributions.
+
+Overall limit on deferrals.
+
+For 2025, you shouldn’t have deferred more than a total of $23,500 of contributions to the plans listed in (1) through (3), earlier, unless you are age 50 or older. The specific plan limits for the plans listed in (4) through (7), earlier, are discussed later. Amounts deferred under specific plan limits are part of the overall limit on deferrals.
+
+Your employer or plan administrator should apply the proper annual limit when figuring your plan contributions. However, you’re responsible for monitoring the total you defer to ensure that the deferrals aren’t more than the overall limit.
+
+Catch-up contributions.
+
+You may be allowed catch-up contributions (additional elective deferrals) if you’re age 50 or older by the end of your tax year. For 2025, the catch-up limit for section 401(k) and 403(b) plans, the TSP, SARSEP plans, and governmental section 457 plans is $7,500. The catch-up limit is $11,250 if you are age 60, 61, 62, or 63 in 2025. For SIMPLE plans, it’s generally $3,500.
+
+A higher catch-up limit may apply to participants in certain SIMPLE plans. You should contact your plan administrator for more information.
+
+For more information about catch-up contributions to:
+
+Limit for deferrals under SIMPLE plans.
+
+If you’re a participant in a SIMPLE plan, you generally shouldn’t have deferred more than $16,500 in 2025. Amounts you defer under a SIMPLE plan count toward the overall limit ($23,500 for 2025) and may affect the amount you can defer under other elective deferral plans.
+
+A higher limit may apply to participants in certain SIMPLE plans. You should contact your plan administrator for more information.
+
+Limit for tax-sheltered annuities.
+
+If you’re a participant in a tax-sheltered annuity plan (section 403(b) plan), the limit on elective deferrals for 2025 is generally $23,500. However, if you have at least 15 years of service with a public school system, a hospital, a home health service agency, a health and welfare service agency, a church, or a convention or association of churches (or associated organization), the limit on elective deferrals is increased by the least of the following amounts.
+
+-
+
+$3,000.
+
+-
+
+$15,000, reduced by the sum of:
+
+-
+
+The additional pre-tax elective deferrals made in earlier years because of this rule, plus
+
+-
+
+The aggregate amount of designated Roth contributions permitted for prior tax years because of this rule.
+
+-
+
+$5,000 times the number of your years of service for the organization, minus the total elective deferrals made by your employer on your behalf for earlier years.
+
+If you qualify for the 15-year rule, your elective deferrals under this limit can be as high as $26,500 for 2025.
+
+For more information, see Pub. 571.
+
+Limit for deferral under section 501(c)(18) plans.
+
+If you’re a participant in a section 501(c)(18) plan (a trust created before June 25, 1959, funded only by employee contributions), you should have deferred no more than the lesser of $7,000 or 25% of your compensation. Amounts you defer under a section 501(c)(18) plan count toward the overall limit ($23,500 in 2025) and may affect the amount you can defer under other elective deferral plans.
+
+Limit for deferrals under section 457 plans.
+
+If you’re a participant in a section 457 plan (a deferred compensation plan for employees of state or local governments or tax-exempt organizations), you should have deferred no more than the lesser of your includible compensation or $23,500 in 2025. However, if you’re within 3 years of normal retirement age, you may be allowed an increased limit if the plan allows it. See Increased limit , later.
+
+Includible compensation.
+
+Generally, this is your Form W-2 wages plus elective deferrals. In most cases, it includes all the following payments.
+
+-
+
+Wages and salaries.
+
+-
+
+Fees for professional services.
+
+-
+
+The value of any employer-provided qualified transportation fringe benefit (defined under Transportation , earlier) that isn’t included in your income.
+
+-
+
+Other amounts received (cash or noncash) for personal services you performed, including, but not limited to, the following items.
+
+-
+
+Commissions and tips.
+
+-
+
+Fringe benefits.
+
+-
+
+Bonuses.
+
+-
+
+De minimis financial incentives to make elective deferrals to a qualified cash or deferred arrangement.
+
+-
+
+Employer contributions (elective deferrals) to the following.
+
+-
+
+The section 457 plan.
+
+-
+
+Section 401(k) plans that aren’t included in your income.
+
+-
+
+A SARSEP plan.
+
+-
+
+A tax-sheltered annuity (section 403(b) plan).
+
+-
+
+A SIMPLE plan.
+
+-
+
+A section 125 cafeteria plan.
+
+Instead of using the amounts listed earlier to determine your includible compensation, your employer can use any of the following amounts.
+
+-
+
+Your wages as defined for income tax withholding purposes.
+
+-
+
+Your wages as reported in box 1 of Form W-2.
+
+-
+
+Your wages that are subject to social security withholding (including elective deferrals).
+
+Increased limit.
+
+During any, or all, of the last 3 years ending before you reach normal retirement age under the plan, your plan may provide that your limit is the lesser of:
+
+-
+
+Twice the annual limit ($47,000 for 2025), or
+
+-
+
+The basic annual limit plus the amount of the basic limit not used in prior years (only allowed if not using age 50-or-over catch-up contributions).
+
+Catch-up contributions.
+
+You can generally have additional elective deferrals made to your governmental section 457 plan if:
+
+-
+
+You reached age 50 by the end of the year, and
+
+-
+
+No other elective deferrals can be made for you to the plan for the year because of limits or restrictions.
+
+If you qualify, your limit can be the lesser of your includible compensation or $23,500, plus $7,500. However, if you’re within 3 years of retirement age and your plan provides the increased limit, discussed earlier, that limit may be higher.
+
+Designated Roth contributions.
+
+Employers with section 401(k) plans, section 403(b) plans, and governmental section 457 plans can create qualified Roth contribution programs so that you may elect to have part or all of your elective deferrals to the plan designated as after-tax Roth contributions. Designated Roth contributions are treated as elective deferrals, except that they’re included in income. Your retirement plan must maintain separate accounts and recordkeeping for the designated Roth contributions. In addition, your retirement plan may allow you to designate certain nonelective contributions or matching contributions as Roth contributions. These Roth contributions are also included in income.
+
+Qualified distributions from a Roth account aren’t included in income. A distribution made before the end of the 5-tax-year period beginning with the first tax year for which a Roth contribution was made to the account isn’t a qualified distribution.
+
+Reporting by employer.
+
+Your employer generally shouldn’t include elective deferrals in your wages in box 1 of Form W-2. Instead, your employer should mark the “Retirement plan” checkbox in box 13 and show the total amount deferred in box 12.
+
+Section 501(c)(18)(D) contributions.
+
+Wages shown in box 1 of Form W-2 shouldn’t have been reduced for contributions you made to a section 501(c)(18)(D) plan. The amount you contributed should be identified with code H in box 12. You may deduct the amount deferred subject to the limits that apply. Include your deduction in the total on Schedule 1 (Form 1040), line 24f.
+
+Designated Roth contributions.
+
+These contributions are elective deferrals but are included in your wages in box 1 of Form W-2. Designated Roth contributions to a section 401(k) plan are reported using code AA in box 12, or, for section 403(b) plans, code BB in box 12. Designated Roth contributions to a governmental section 457 plan are reported using code EE in box 12.
+
+Designated Roth nonelective contributions and designated Roth matching contributions.
+
+These contributions are reported on Form 1099-R for the year in which the contributions are allocated to your account. The total amount of designated Roth nonelective contributions and designated Roth matching contributions that are allocated to your account in the year is reported in box 1 and in box 2a. These contributions are reported using code G in box 7.
+
+Excess deferrals.
+
+If your deferrals exceed the limit, you must notify your plan by the date required by the plan. If the plan permits, the excess amount will be distributed to you. If you participate in more than one plan, you can have the excess paid out of any of the plans that permit these distributions. You must notify each plan by the date required by that plan of the amount to be paid from that particular plan. The plan must then pay you the amount of the excess, along with any income earned on that amount, by April 15 of the following year.
+
+You must include the excess deferral in your income for the year of the deferral. File Form 1040 or 1040-SR to add the excess deferral amount to earned income on line 1h.
+
+Excess not distributed.
+
+If you don’t take out the excess amount, you can’t include it in the cost of the contract even though you included it in your income. Therefore, you’re taxed twice on the excess deferral left in the plan—once when you contribute it, and again when you receive it as a distribution (unless the excess deferral was a designated Roth contribution).
+
+Excess distributed to you.
+
+If you take out the excess after the year of the deferral and you receive the corrective distribution by April 15 of the following year, don’t include it in income again in the year you receive it. If you receive it later, you must include it in income in both the year of the deferral and the year you receive it (unless the excess deferral was a designated Roth contribution). Any income on the excess deferral taken out is taxable in the tax year in which you take it out. If you take out part of the excess deferral and the income on it, allocate the distribution proportionately between the excess deferral and the income.
+
+You should receive a Form 1099-R for the year in which the excess deferral is distributed to you. Use the following rules to report a corrective distribution shown on Form 1099-R for 2025.
+
+-
+
+If the distribution was for a 2025 excess deferral, your Form 1099-R should have code 8 in box 7. Add the excess deferral amount to your wages on your 2025 tax return.
+
+-
+
+If the distribution was for a 2025 excess deferral to a designated Roth account, your Form 1099-R should have codes B and 8 in box 7. Don’t add this amount to your wages on your 2025 return.
+
+-
+
+If the distribution was for a 2024 excess deferral, your Form 1099-R should have code P in box 7. If you didn’t add the excess deferral amount to your wages on your 2024 tax return, you must file an amended return on Form 1040-X. If you didn’t receive the distribution by April 15, 2025, you must also add it to your wages on your 2025 tax return.
+
+-
+
+If the distribution was for the income earned on an excess deferral, your Form 1099-R should have code 8 in box 7. Add the income amount to your wages on your 2025 income tax return, regardless of when the excess deferral was made.
+
+Report a loss on a corrective distribution of an excess deferral in the year the excess amount (reduced by the loss) is distributed to you. Include the loss as a negative amount on Schedule 1 (Form 1040), line 8z, and identify it as “Loss on Excess Deferral Distribution.”
+
+Tip:
+
+Even though a corrective distribution of excess deferrals is reported on Form 1099-R, it isn’t otherwise treated as a distribution from the plan. It can’t be rolled over into another plan, and it isn’t subject to the additional tax on early distributions.
+
+Excess Contributions
+
+If you’re a highly compensated employee, the total of your elective deferrals made for you for any year under a section 401(k) plan or SARSEP plan may be limited by the average deferrals, as a percentage of pay, made by all eligible non-highly compensated employees.
+
+If you contributed more to the plan than allowed, the excess contributions may be distributed to you. You must include the distribution in your income on Form 1040 or 1040-SR, line 1h.
+
+If you receive a corrective distribution of excess contributions (and allocable income), it’s included in your income in the year of the distribution. The allocable income is the amount of gain or loss through the end of the plan year for which the contribution was made that is allocable to the excess contributions. You should receive a Form 1099-R for the year the excess contributions are distributed to you. Add the distribution to your wages for that year.
+
+Tip:
+
+Even though a corrective distribution of excess contributions is reported on Form 1099-R, it isn’t otherwise treated as a distribution from the plan. It can’t be rolled over into another plan, and it isn’t subject to the additional tax on early distributions.
+
+Excess Annual Additions
+
+The amount contributed in 2025 to a defined contribution plan is generally limited to the lesser of 100% of your compensation or $70,000. Under certain circumstances, contributions that exceed these limits (excess annual additions) may be corrected by a distribution of your elective deferrals or a return of your after-tax contributions and earnings from these contributions.
+
+A corrective payment of excess annual additions consisting of elective deferrals or earnings from your after-tax contributions is fully taxable in the year paid. A corrective payment consisting of your after-tax contributions isn’t taxable.
+
+If you received a corrective payment of excess annual additions, you should receive a separate Form 1099-R for the year of the payment with code E in box 7. Report the total payment shown in box 1 of Form 1099-R on Form 1040 or 1040-SR, line 5a. Report the taxable amount shown in box 2a of Form 1099-R on Form 1040 or 1040-SR, line 5b.
+
+Tip:
+
+Even though a corrective distribution of excess annual additions is reported on Form 1099-R, it isn’t otherwise treated as a distribution from the plan. It can’t be rolled over into another plan, and it isn’t subject to the additional tax on early distributions.
+
+Stock Options
+
+Employee stock options aren’t subject to Railroad Retirement Tax.
+
+In Wisconsin Central Ltd. v. United States , 138 S. Ct. 2067, the U.S. Supreme Court ruled that “money remuneration” is “currency issued by a recognized authority as a medium of exchange,” and that employee stock options aren’t “money remuneration” subject to the Railroad Retirement Tax Act (RRTA). Tier 1 and Tier 2 taxes aren’t withheld when employees covered by the RRTA exercise stock options. Federal income tax must still be withheld on taxable compensation from railroad employees exercising their options. If you receive an option to buy or sell stock or other property as payment for your services, you may have income when you receive the option (the grant), when you exercise the option (use it to buy or sell the stock or other property), or when you sell or otherwise dispose of the option or property acquired through exercise of the option. The timing, type, and amount of income inclusion depend on whether you receive a nonstatutory stock option or a statutory stock option. Your employer can tell you which kind of option you hold.
+
+Nonstatutory Stock Options
+
+Grant of option.
+
+If you’re granted a nonstatutory stock option, you may have income when you receive the option. The amount of income to include and the time to include it depend on whether the FMV of the option can be readily determined. The FMV of an option can be readily determined if it’s actively traded on an established market.
+
+The FMV of an option that isn’t traded on an established market can be readily determined only if all of the following conditions exist.
+
+-
+
+You can transfer the option.
+
+-
+
+You can exercise the option immediately in full.
+
+-
+
+The option or the property subject to the option isn’t subject to any condition or restriction (other than a condition to secure payment of the purchase price) that has a significant effect on the FMV of the option.
+
+-
+
+The FMV of the option privilege can be readily determined.
+
+The option privilege for an option to buy is the opportunity to benefit during the option’s exercise period from any increase in the value of property subject to the option without risking any capital. For example, if during the exercise period, the FMV of stock subject to an option is greater than the option’s exercise price, a profit may be realized by exercising the option and immediately selling the stock at its higher value. The option privilege for an option to sell is the opportunity to benefit during the exercise period from a decrease in the value of the property subject to the option.
+
+Caution:
+
+If you or a member of your family is an officer, director, or more-than-10% owner of an expatriated corporation, you may owe an excise tax on the value of nonstatutory options and other stock-based compensation from that corporation. For more information on the excise tax, see section 4985 of the Internal Revenue Code.
+
+Option with readily determinable value.
+
+If you receive a nonstatutory stock option that has a readily determinable FMV at the time it’s granted to you, the option is treated like other property received as compensation. See Restricted Property , later, for rules on how much income to include and when to include it. However, the rule described in that discussion for choosing to include the value of property in your income for the year of the transfer doesn’t apply to a nonstatutory option.
+
+Option without readily determinable value.
+
+If the FMV of the option isn’t readily determinable at the time it’s granted to you (even if it’s determined later), you don’t have income until you exercise or transfer the option.
+
+Exercise or transfer of option.
+
+When you exercise a nonstatutory stock option, the amount to include in your income depends on whether the option had a readily determinable value.
+
+Option with readily determinable value.
+
+When you exercise a nonstatutory stock option that had a readily determinable value at the time the option was granted, you don’t have to include any amount in income.
+
+Option without readily determinable value.
+
+When you exercise a nonstatutory stock option that didn’t have a readily determinable value at the time the option was granted, the restricted property rules apply to the property received. The amount to include in your income is the difference between the amount you pay for the property and its FMV when it becomes substantially vested. If it isn’t substantially vested at the time you exercise this nonstatutory stock option (so that you may have to give the stock back), you don’t have to include any amount in income. You include the difference in income when the option becomes substantially vested. For more information on restricted property, see Restricted Property , later.
+
+Transfer in arm’s-length transaction.
+
+If you transfer a nonstatutory stock option without a readily determinable value in an arm’s-length transaction to an unrelated person, you must include in your income the money or other property you received for the transfer as if you had exercised the option.
+
+Transfer in non-arm’s-length transaction.
+
+If you transfer a nonstatutory stock option without a readily determinable value in a non-arm’s-length transaction (for example, a gift), the option isn’t treated as exercised or closed at that time. You must include in your income, as compensation, any money or property received. When the transferee exercises the option, you must include in your income, as compensation, the excess of the FMV of the stock acquired by the transferee over the sum of the exercise price paid and any amount you included in income at the time you transferred the option. At the time of the exercise, the transferee recognizes no income and has a basis in the stock acquired equal to the FMV of the stock.
+
+Any transfer of this kind of option to a related person is treated as a non-arm’s-length transaction. See Regulations section 1.83-7 for the definition of a related person.
+
+Recourse note in satisfaction of the exercise price of an option.
+
+If you’re an employee, and you issue a recourse note to your employer in satisfaction of the exercise price of an option to acquire your employer’s stock, and your employer and you subsequently agree to reduce the stated principal amount of the note, you generally recognize compensation income at the time and in the amount of the reduction.
+
+Tax form.
+
+If you have income from the exercise of nonstatutory stock options, your employer should report the amount to you in box 12 of Form W-2, with code V. The employer should show the spread (that is, the FMV of stock over the exercise price of options granted to you for that stock) from your exercise of the nonstatutory stock options. Your employer should include this amount in boxes 1, 3 (up to the social security wage base), and 5. Your employer should include this amount in box 14 if it’s a railroad employer.
+
+If you’re a nonemployee spouse and you exercise nonstatutory stock options you received incident to a divorce, the income is reported to you in box 3 of Form 1099-MISC.
+
+Sale of the stock.
+
+There are no special income rules for the sale of stock acquired through the exercise of a nonstatutory stock option. Report the sale as explained in the Instructions for Schedule D (Form 1040) for the year of the sale. You may receive a Form 1099-B reporting the sales proceeds.
+
+Your basis in the property you acquire under the option is the amount you pay for it plus any amount you included in income upon grant or exercise of the option.
+
+Your holding period begins as of the date you acquired the option, if it had a readily determinable value, or as of the date you exercised or transferred the option if it had no readily determinable value.
+
+For options granted on or after January 1, 2014, the basis information reported to you on Form 1099-B won’t reflect any amount you included in income upon grant or exercise of the option. For options granted before January 1, 2014, any basis information reported to you on Form 1099-B may or may not reflect any amount you included in income upon grant or exercise; therefore, the basis may need to be adjusted.
+
+Caution:
+
+It’s your responsibility to make any appropriate adjustments to the basis information reported on Form 1099-B by completing Form 8949.
+
+Statutory Stock Options
+
+There are two kinds of statutory stock options.
+
+For either kind of option, you must be an employee of the company granting the option, or a related company, at all times during the period beginning on the date the option is granted and ending 3 months before the date you exercise the option (for an ISO, 1 year before if you’re disabled). Also, the option must be nontransferable except at death.
+
+If you don’t meet the employment requirements, or you receive a transferable option, your option is a nonstatutory stock option.
+
+Grant of option.
+
+If you receive a statutory stock option, don’t include any amount in your income when the option is granted.
+
+Exercise of option.
+
+If you exercise a statutory stock option, don’t include any amount in income when you exercise the option.
+
+Alternative minimum tax (AMT).
+
+For the AMT, you must treat stock acquired through the exercise of an ISO as if no special treatment applied. This means that, when your rights in the stock are transferable or no longer subject to a substantial risk of forfeiture, you must include as an adjustment in figuring alternative minimum taxable income the amount by which the FMV of the stock exceeds the option price. Enter this adjustment on Form 6251, line 2i. Increase your AMT basis in any stock you acquire by exercising the ISO by the amount of the adjustment. However, no adjustment is required if you dispose of the stock in the same year you exercise the option.
+
+See Restricted Property , later, for more information.
+
+Your AMT basis in stock acquired through an ISO is likely to differ from your regular tax basis. Therefore, keep adequate records for both the AMT and regular tax so that you can figure your adjusted gain or loss.
+
+Example 7.
+
+Your employer, Elm Company, granted you an ISO on April 8, 2024, to buy 100 shares of Elm Company at $9 a share, its FMV at the time. You exercised the option on January 7, 2025, when the stock was selling on the open market for $14 a share. On January 27, 2025, when the stock was selling on the open market for $16 a share, your rights to the stock first became transferable. You include $700 ($1,600 value when your rights first became transferable minus $900 option price) as an adjustment on Form 6251, line 2i.
+
+Tip:
+
+If you exercise an ISO during 2025, you should receive Form 3921, or a statement, from the corporation for each transfer made during 2025. The corporation must send or provide you with the form by January 31, 2026. Keep this information for your records.
+
+Sale of the stock.
+
+You have taxable income or a deductible loss when you sell the stock that you bought by exercising the option. Your income or loss is the difference between the amount you paid for the stock (the option price) and the amount you receive when you sell it. You generally treat this amount as capital gain or loss and report it as explained in the Instructions for Schedule D (Form 1040) for the year of the sale.
+
+However, you may have ordinary income for the year that you sell or otherwise dispose of the stock in either of the following situations.
+
+Your employer or former employer should report the ordinary income to you as wages in box 1 of Form W-2, and you must report this ordinary income amount on Form 1040 or 1040-SR, line 1a. Enter on Schedule 1 (Form 1040), line 8k, any income from the exercise of stock options not otherwise reported on Form 1040 or 1040-SR, line 1a.
+
+For options granted on or after January 1, 2014, the basis information reported to you on Form 1099-B won’t reflect any amount you included in income upon grant or exercise of the option. For options granted before January 1, 2014, any basis information reported to you on Form 1099-B may or may not reflect any amount you included in income upon grant or exercise; therefore, the basis may need to be adjusted.
+
+Caution:
+
+It’s your responsibility to make any appropriate adjustments to the basis information reported on Form 1099-B by completing Form 8949.
+
+Holding period requirement.
+
+You satisfy the holding period requirement if you don’t sell the stock until the end of the later of the 1-year period after the stock was transferred to you or the 2-year period after the option was granted. However, you’re considered to satisfy the holding period requirement if you sold the stock to comply with conflict-of-interest requirements.
+
+Your holding period for the property you acquire when you exercise an option begins on the day after you exercise the option.
+
+ISOs.
+
+If you sell stock acquired by exercising an ISO, you need to determine if you satisfied the holding period requirement.
+
+Holding period requirement satisfied.
+
+If you sell stock acquired by exercising an ISO and satisfy the holding period requirement, your gain or loss from the sale is capital gain or loss. Report the sale as explained in the Instructions for Schedule D (Form 1040). The basis of your stock is the amount you paid for the stock.
+
+Holding period requirement not satisfied.
+
+If you sell stock acquired by exercising an ISO, don’t satisfy the holding period requirement, and have a gain from the sale, the gain is ordinary income up to the amount by which the stock’s FMV when you exercised the option exceeded the option price. Any excess gain is capital gain. If you have a loss from the sale, it’s a capital loss and you don’t have any ordinary income.
+
+Your employer or former employer should report the ordinary income to you as wages in box 1 of Form W-2, and you must report this ordinary income amount on Form 1040 or 1040-SR, line 1a. If your employer or former employer doesn’t provide you with a Form W-2, or if the Form W-2 doesn’t include the ordinary income in box 1, you must report the ordinary income as wages on Schedule 1 (Form 1040), line 8k, for the year of the sale or other disposition of the stock. Report the capital gain or loss as explained in the Instructions for Schedule D (Form 1040). In determining capital gain or loss, your basis is the amount you paid when you exercised the option plus the amount reported as wages.
+
+Example 8.
+
+Your employer, Oak Corporation, granted you an ISO on March 12, 2023, to buy 100 shares of Oak Corporation stock at $10 a share, its FMV at the time. You exercised the option on January 7, 2024, when the stock was selling on the open market for $12 a share. On January 27, 2025, you sold the stock for $15 a share. Although you held the stock for more than a year, less than 2 years had passed from the time you were granted the option. In 2025, you must report the difference between the option price ($10) and the value of the stock when you exercised the option ($12) as wages. The rest of your gain is capital gain, figured as follows.
+
+Selling price ($15 × 100 shares) | $ 1,500
+Purchase price ($10 × 100 shares) | − 1,000
+Gain | $ 500
+Amount reported as wages
+[($12 × 100 shares) − $1,000] | − 200
+Amount reported as capital gain | $ 300
+
+Employee stock purchase plan.
+
+If you sold stock acquired by exercising an option granted under an employee stock purchase plan, you need to determine if you satisfied the holding period requirement.
+
+Holding period requirement satisfied.
+
+If you sold stock acquired by exercising an option granted under an employee stock purchase plan, and you satisfy the holding period requirement, determine your ordinary income as follows.
+
+Your basis is equal to the option price at the time you exercised your option and acquired the stock. The timing and amount of pay period deductions don’t affect your basis.
+
+Example 9.
+
+Pine Company has an employee stock purchase plan. The option price is the lower of the stock price at the time the option is granted or at the time the option is exercised. The value of the stock when the option was granted was $25. Pine Company deducts $5 from Adrian’s pay every week for 48 weeks (total = $240 ($5 × 48)). The value of the stock when the option is exercised is $20. Adrian receives 12 shares of Pine Company’s stock ($240 ÷ $20). Adrian’s holding period for all 12 shares begins the day after the option is exercised, even though the money used to purchase the shares was deducted from Adrian’s pay on 48 separate days. Adrian’s basis in each share is $20.
+
+Option granted at a discount.
+
+If, at the time the option was granted, the option price per share was less than 100% (but not less than 85%) of the FMV of the share, and you dispose of the share after meeting the holding period requirement, or you die while owning the share, you must include in your income as compensation the lesser of:
+
+-
+
+The excess of the FMV of the share at the time the option was granted over the option price, or
+
+-
+
+The excess of the FMV of the share at the time of the disposition or death over the amount paid for the share under the option.
+
+For this purpose, if the option price wasn’t fixed or determinable at the time the option was granted, the option price is figured as if the option had been exercised at the time it was granted.
+
+Any excess gain is capital gain. If you have a loss from the sale, it’s a capital loss, and you don’t have any ordinary income.
+
+Example 10.
+
+Your employer, Willow Corporation, granted you an option under its employee stock purchase plan to buy 100 shares of stock of Willow Corporation for $20 a share at a time when the stock had a value of $22 a share. Eighteen months later, when the value of the stock was $23 a share, you exercised the option, and 14 months after that you sold your stock for $30 a share. In the year of sale, you must report as wages the difference between the option price ($20) and the value at the time the option was granted ($22). The rest of your gain ($8 per share) is capital gain, figured as follows.
+
+Selling price ($30 × 100 shares) | $ 3,000
+Purchase price (option price)
+($20 × 100 shares) | − 2,000
+Gain | $ 1,000
+Amount reported as wages
+[($22 × 100 shares) − $2,000] | − 200
+Amount reported as capital gain | $ 800
+
+Holding period requirement not satisfied.
+
+If you don’t satisfy the holding period requirement, your ordinary income is the amount by which the stock’s FMV when you exercised the option exceeded the option price. This ordinary income isn’t limited to your gain from the sale of the stock. Increase your basis in the stock by the amount of this ordinary income. The difference between your increased basis and the selling price of the stock is a capital gain or loss.
+
+Example 11.
+
+The facts are the same as in Example 10 , except that you sold the stock only 6 months after you exercised the option. You didn’t satisfy the holding period requirement, so you must report $300 as wages and $700 as capital gain, figured as follows.
+
+Selling price ($30 × 100 shares) | $3,000
+Purchase price (option price)
+($20 × 100 shares) | − 2,000
+Gain | $1,000
+Amount reported as wages
+[($23 × 100 shares) − $2,000] | − 300
+Amount reported as capital gain
+[$3,000 – ($2,000 + $300)] | $700
+
+Tip:
+
+If you sold stock in 2025 that you acquired by exercising an option granted at a discount under an employee stock purchase plan, you should receive Form 3922 from the corporation. The corporation must send or provide you with the form by January 31, 2026. Keep this information for your records.
+
+Qualified Equity Grants
+
+Pub. L. 115-97 made a change in the law that allows a new election for “qualified employees” of private corporations to elect to defer income taxation for up to 5 years from the date of vesting on “qualified stock” granted in connection with broad-based compensatory stock option and restricted stock unit (RSU) programs. This election under section 83(i) is available for stock attributable to options exercised or RSUs settled after 2017. The corporation must have a written plan providing an RSU or option to at least 80% of U.S. employees. The recipients must have the same rights and privileges under an RSU or option plan.
+
+The term “qualified employee” doesn’t include:
+
+-
+
+1% owner of corporation (current or any point during the prior 10 calendar years),
+
+-
+
+Current or former CEO or CFO (current or any point previously),
+
+-
+
+Family of previously mentioned individuals, or
+
+-
+
+One of the four highest compensated officers (current or any point during the prior 10 calendar years).
+
+The term “qualified stock” means any stock in a corporation that is the employer of the employee if:
+
+-
+
+Stock is received relating to the exercise of an option, or
+
+-
+
+Stock is received in settlement of an RSU, and
+
+-
+
+An option or RSU was granted by the corporation.
+
+The term “qualified stock” can’t include stock from stock-settled stock appreciation rights or restricted stock awards (restricted property). It won’t include any stock if the employee may receive cash instead of stock. The section 83(i) election is made in a manner similar to the election under section 83(b) described under Choosing to include in income for year of transfer , later, under Restricted Property , even though the “qualified stock” isn’t restricted property. The election must be made no later than 30 days after the first date the rights of the employee in such stock are transferable or aren’t subject to a substantial risk of forfeiture, whichever occurs earlier. See Restricted Property , later, for how to make the choice.
+
+Caution:
+
+You can’t use Form 15620, Section 83(b) Election, to make an election under section 83(i). For an election under section 83(i), follow instructions detailed in IRS Notice 2018-97 instead.
+
+If an employee elects to defer income inclusion under the provision, the income must be included in the employee’s income for the year that includes the earliest of (1) the first date the qualified stock becomes transferable, (2) the date the employee first becomes an excluded employee (as excluded from “qualified employee”), (3) the first date on which any stock of the employer becomes readily tradable on an established securities market, (4) the date 5 years after the first date the employee’s right to the stock becomes substantially vested, or (5) the date on which the employee revokes their inclusion deferral election.
+
+The employer corporation is required to provide notification of rights to employees covered under a qualified program or face penalties. There will be withholding at the highest marginal rate.
+
+Restricted Property
+
+In most cases, if you receive property for your services, you must include its FMV in your income in the year you receive the property. However, if you receive stock or other property that is nontransferable or subject to a substantial risk of forfeiture, you don’t include the value of the property in your income until it becomes substantially vested. (You can choose to include the value of the property in your income in the year it’s transferred to you, as discussed later, rather than the year it becomes substantially vested.)
+
+Until the property becomes substantially vested, it’s owned by the person who makes the transfer to you, usually your employer. However, any income from the property, or the right to use the property, is included in your income as additional compensation in the year you receive the income or have the right to use the property.
+
+When the property becomes substantially vested, you must include its FMV, minus any amount you paid for it, in your income for that year. Your holding period for this property begins when the property becomes substantially vested.
+
+Example 12.
+
+Your employer, the Holly Corporation, sells you 100 shares of its stock at $10 a share. At the time of the sale, the FMV of the stock is $100 a share. Under the terms of the sale, the stock is under a substantial risk of forfeiture (you may have to return it to your employer) for a 5-year period. Your stock isn’t substantially vested when it’s transferred, so you don’t include any amount in your income in the year you buy it. At the end of the 5-year period, the FMV of the stock is $200 a share. You must include $19,000 in your income [100 shares × ($200 FMV − $10 you paid)]. Dividends paid by the Holly Corporation on your 100 shares of stock are taxable to you as additional compensation during the period the stock can be forfeited.
+
+Substantially vested.
+
+Property is substantially vested when:
+
+-
+
+It’s transferable, or
+
+-
+
+It isn’t subject to a substantial risk of forfeiture (you no longer may be required to return it).
+
+Transferable property.
+
+Property is transferable if you can sell, assign, or pledge your interest in the property to any person (other than the transferor), and if the person receiving your interest in the property isn’t required to give up the property, or its value, if the substantial risk of forfeiture occurs.
+
+Substantial risk of forfeiture.
+
+Generally, a substantial risk of forfeiture exists only if rights in property that are transferred are conditioned, directly or indirectly, on the future performance (or refraining from performance) of substantial services by any person, or on the occurrence of a condition related to a purpose of the transfer if the possibility of forfeiture is substantial.
+
+Example 13.
+
+The Redwood Corporation sells to you as compensation for services 100 shares of its corporate stock for $100 a share. Under the terms of the transfer, you must resell the stock to the corporation at $100 a share if you leave your job for any reason within 3 years from the date of transfer. You must perform substantial services over a period of time, and you must resell the stock to the corporation at $100 a share (regardless of its value) if you don’t perform the services; so, your rights to the stock are subject to a substantial risk of forfeiture.
+
+Choosing to include in income for year of transfer.
+
+You can choose to include the value of restricted property at the time of transfer (minus any amount you paid for the property) in your income for the year it’s transferred. If you make this choice, the substantial vesting rules don’t apply and, generally, any later appreciation in value isn’t included in your compensation when the property becomes substantially vested. Your basis for figuring gain or loss when you sell the property is the amount you paid for it plus the amount you included in income as compensation.
+
+Caution:
+
+If you make this choice, you can’t revoke it without the consent of the IRS. Consent will be given only if you were under a mistake of fact as to the underlying transaction.
+
+If you forfeit the property after you have included its value in income, your loss is the amount you paid for the property minus any amount you realized on the forfeiture.
+
+Caution:
+
+You can’t make this choice for a statutory or nonstatutory stock option.
+
+How to make the choice.
+
+You can make the choice by filing a written statement or Form 15620, with the Internal Revenue Service Center where you file your return. You must file this statement no later than 30 days after the date the property was transferred. Mail your statement to the address listed for your state under “Are requesting a refund or are not enclosing a check or money order...” given in Where Do You File? in the Instructions for Form 1040. You must give a copy of this statement to the person for whom you performed the services and, if someone other than you received the property, to that person.
+
+You must sign the statement and indicate on it that you’re making the choice under section 83(b) of the Internal Revenue Code. The statement must contain all of the following information.
+
+-
+
+Your name, address, and TIN.
+
+-
+
+A description of each property for which you’re making the choice.
+
+-
+
+The date or dates on which the property was transferred and the tax year for which you’re making the choice.
+
+-
+
+The nature of any restrictions on the property.
+
+-
+
+The FMV at the time of transfer (ignoring restrictions except those that will never lapse) of each property for which you’re making the choice.
+
+-
+
+Any amount that you paid for the property.
+
+-
+
+A statement that you have provided copies to the appropriate persons.
+
+Caution:
+
+You can’t make this choice for a nonstatutory stock option.
+
+Dividends received on restricted stock.
+
+Dividends you receive on restricted stock are treated as compensation and not as dividend income. Your employer should include these payments on your Form W-2. If they are also reported on a Form 1099-DIV, you should list them on Schedule B (Form 1040), with a statement that you have included them as wages. Don’t include them in the total dividends received.
+
+Stock you chose to include in your income.
+
+Dividends you receive on restricted stock you chose to include in your income in the year transferred are treated the same as any other dividends. You should receive a Form 1099-DIV showing these dividends. Don’t include the dividends in your wages on your return. Report them as dividends.
+
+Sale of property not substantially vested.
+
+These rules apply to the sale or other disposition of property that you didn’t choose to include in your income in the year transferred and that isn’t substantially vested.
+
+If you sell or otherwise dispose of the property in an arm’s-length transaction, include in your income as compensation for the year of sale the amount realized minus the amount you paid for the property. If you exchange the property in an arm’s-length transaction for other property that isn’t substantially vested, treat the new property as if it were substituted for the exchanged property.
+
+The sale or other disposition of a nonstatutory stock option to a related person isn’t considered an arm’s-length transaction. See Regulations section 1.83-7 for the definition of a “related person.”
+
+If you sell the property in a transaction that isn’t at arm’s length, include in your income as compensation for the year of sale the total of any money you received and the FMV of any substantially vested property you received on the sale. In addition, you’ll have to report income when the original property becomes substantially vested, as if you still held it. Report as compensation its FMV minus the total of the amount you paid for the property and the amount included in your income from the earlier sale.
+
+Example 14.
+
+In 2022, you paid your employer $50 for a share of stock that had an FMV of $100 and was subject to forfeiture until 2025. In 2024, you sold the stock to your spouse for $10 in a transaction not at arm’s length. You had compensation of $10 from this transaction. In 2025, when the stock had an FMV of $120, it became substantially vested. For 2024, you must report additional compensation of $60, figured as follows.
+
+FMV of stock at time of substantial vesting |  | $120
+Minus: Amount paid for stock | $50
+Minus: Compensation previously included in income from sale to spouse | 10 | − 60
+Additional income |  | $60
+
+Inherited property not substantially vested.
+
+If you inherit property not substantially vested at the time of the decedent’s death, any income you receive from the property is considered income in respect of a decedent and is taxed according to the rules for restricted property received for services. For information about income in respect of a decedent, see Pub. 559.

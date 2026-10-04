@@ -1,0 +1,291 @@
+IRS Pub 15 (2026) | 9. Withholding From Employees’ Wages
+
+9. Withholding From Employees’ Wages
+
+Caution:
+
+References to federal income tax withholding don’t apply to employers in American Samoa, Guam, the CNMI, the USVI, and Puerto Rico, unless you have employees who are subject to U.S. income tax withholding. Contact your local tax department for information about income tax withholding.
+
+Federal Income Tax Withholding
+
+Redesigned Form W‐4.
+
+The IRS redesigned Form W‐4 for 2020 and subsequent years. Before 2020, the value of a withholding allowance was tied to the amount of the personal exemption. Due to changes in the law, taxpayers can no longer claim personal exemptions or dependency exemptions; therefore, Form W‐4 no longer asks an employee to report the number of withholding allowances that they are claiming. The revised Form W‐4 is divided into five steps. Step 1 and Step 5 apply to all employees. In Step 1, employees enter personal information like their name and filing status. In Step 5, employees sign the form. Employees who complete only Step 1 and Step 5 will have their withholding figured based on their filing status’s standard deduction and tax rates with no other adjustments. If applicable, in Step 2, employees increase their withholding to account for higher tax rates due to income from other jobs in their household. Under Step 2, employees either enter an additional amount to withhold per payroll period in Step 4(c) or check the box in Step 2(c) for higher withholding rate tables to apply to their wages. In Step 3, employees decrease their withholding by reporting the annual amount of any credits they will claim on their income tax return. In Step 4, employees may increase or decrease their withholding based on the annual amount of other income or deductions they will report on their income tax return and they may also request any additional federal income tax they want withheld each pay period.
+
+An employee who submitted Form W‐4 in any year before 2020 isn’t required to submit a new form merely because of the redesign. Employers will continue to figure withholding based on the information from the employee’s most recently submitted Form W‐4. The withholding tables in Pub. 15‐T allow employers to figure withholding based on a Form W‐4 for 2019 or earlier, as well as the redesigned Form W‐4. While you may ask your employee who was first paid wages before 2020 who hasn’t yet submitted a redesigned Form W‐4 to submit a new Form W‐4 using the redesigned version of the form, you should explain to them that they’re not required to do this and if they don’t submit a new Form W‐4, withholding will continue based on a valid Form W‐4 previously submitted. All newly hired employees must use the redesigned form. Similarly, any other employees who wish to adjust their withholding must use the redesigned form.
+
+Pub. 15‐T provides an optional computational bridge to treat 2019 and earlier Forms W‐4 as if they were 2020 or later Forms W‐4 for purposes of figuring federal income tax withholding. This computational bridge allows you to use computational procedures and data fields for a 2020 and later Form W-4 to arrive at the equivalent withholding for an employee that would have applied using the computational procedures and data fields on a 2019 or earlier Form W-4. See How To Treat 2019 and Earlier Forms W‐4 as if They Were 2020 or Later Forms W‐4 under Introduction in Pub. 15-T.
+
+More information.
+
+For more information about the redesigned Form W‐4 and regulations that provide guidance for employers concerning income tax withholding from employees’ wages, see Treasury Decision 9924, 2020‐44 I.R.B. 943, available at IRS.gov/irb/2020‐44_IRB#TD‐9924 . For information about Form W‐4, go to IRS.gov/FormW4 . Employer instructions on how to figure employee withholding are provided in Pub. 15‐T, available at IRS.gov/Pub15T .
+
+Tip:
+
+Farm operators and crew leaders must withhold federal income tax from the wages of farmworkers if the wages are subject to social security and Medicare taxes.
+
+Using Form W-4 to figure withholding.
+
+To know how much federal income tax to withhold from employees’ wages, you should have a Form W-4 on file for each employee. Encourage your employees to file an updated Form W-4 for 2026, especially if they owed taxes or received a large refund when filing their 2025 tax return.
+
+Ask all new employees to give you a signed Form W-4 when they start work. Make the form effective with the first wage payment. If a new employee doesn’t give you a completed Form W-4 in 2026 (including an employee who previously worked for you and was rehired in 2026, and who fails to furnish a Form W-4), treat the new employee as if they had checked the box for Single or Married filing separately in Step 1(c) and made no entries in Step 2, Step 3, or Step 4 of the 2026 Form W-4. An employee who was paid wages before 2020 and who failed to furnish a Form W-4 should continue to be treated as single and claiming zero allowances on a 2019 Form W-4. If you use the optional computational bridge, described earlier under Redesigned Form W-4 , you may treat this employee as if they had checked the box for Single or Married filing separately in Step 1(c), and made no entries in Step 2 and Step 3, an entry of $8,600 in Step 4(a), and an entry of zero in Step 4(b) of the 2026 Form W-4.
+
+Electronic system to receive Form W-4.
+
+You may establish a system to electronically receive Forms W-4 from your employees. See Regulations section 31.3402(f)(5)-1(c) and Pub. 15-T for more information.
+
+Effective date of Form W-4.
+
+A Form W-4 for 2025 or earlier years remains in effect for 2026 unless the employee gives you a 2026 Form W-4. When you receive a new Form W-4 from an employee, don’t adjust withholding for pay periods before the effective date of the new form. If an employee gives you a Form W-4 that replaces an existing Form W-4, begin withholding no later than the start of the first payroll period ending on or after the 30th day from the date when you received the replacement Form W-4. For exceptions, see Exemption from federal income tax withholding , IRS review of requested Forms W-4 , and Invalid Forms W-4 , later in this section.
+
+Caution:
+
+A Form W-4 that makes a change for the next calendar year won’t take effect in the current calendar year.
+
+Successor employer.
+
+If you’re a successor employer (see Successor employer , later in this section), secure new Forms W-4 from the transferred employees unless the “Alternative Procedure” in section 5 of Revenue Procedure 2004-53 applies. See Revenue Procedure 2004-53, 2004-34 I.R.B. 320, available at IRS.gov/irb/2004-34_IRB#RP-2004-53 .
+
+IRS Tax Withholding Estimator for employees.
+
+You may advise your employees to use the IRS Tax Withholding Estimator available at IRS.gov/W4App for help in determining how to complete their Forms W-4. An employee that makes a mid-year change to their withholding after using the IRS Tax Withholding Estimator may be underwithheld or overwithheld once their Form W-4 is applied to the next full calendar year. Therefore, you should remind employees that made a mid-year change to revisit the IRS Tax Withholding Estimator in early January and submit a new Form W-4 for the year.
+
+Completing Form W-4.
+
+The amount of any federal income tax withholding must be based on filing status, income (including income from other jobs), deductions, and credits. Your employees may not base their withholding amounts on a fixed dollar amount or percentage. However, an employee may specify a dollar amount to be withheld each pay period in addition to the amount of withholding based on filing status and other information reported on Form W-4.
+
+Employees that are married filing jointly and have spouses that also currently work, or employees that hold more than one job at the same time, should account for their higher tax rate by completing Step 2 of their 2026 Form W-4. Employees also have the option to report on their 2026 Form W-4 other income they will receive that isn’t subject to withholding and other deductions they will claim in order to increase the accuracy of their federal income tax withholding.
+
+See Pub. 505 for more information about completing Form W-4. Along with Form W-4, you may wish to order Pub. 505 for use by your employees.
+
+Don’t accept any withholding or estimated tax payments from your employees in addition to withholding based on their Form W-4. If they require additional withholding, they should submit a new Form W-4 and, if necessary, pay estimated tax by filing Form 1040-ES or by making an electronic payment of estimated taxes. Employees who receive tips may provide funds to their employer for withholding on tips; see Collecting taxes on tips in section 6.
+
+Exemption from federal income tax withholding.
+
+Generally, an employee may claim exemption from federal income tax withholding because they had no income tax liability last year and expect none this year. See the Form W-4 instructions for more information. However, the wages are still subject to social security and Medicare taxes. See also Invalid Forms W-4 , later in this section.
+
+A Form W-4 claiming exemption from withholding is effective when it is given to the employer and only for that calendar year. To continue to be exempt from withholding, an employee must give you a new Form W-4 by February 15. If the employee doesn’t give you a new Form W-4 by February 15, begin withholding as if they had checked the box for Single or Married filing separately in Step 1(c) and made no entries in Step 2, Step 3, or Step 4 of the 2026 Form W-4. If the employee provides a new Form W-4 claiming exemption from withholding on February 16 or later, you may apply it to future wages but don’t refund any taxes withheld while the exempt status wasn’t in place.
+
+Withholding federal income taxes on the wages of nonresident alien employees.
+
+In general, you must withhold federal income taxes on the wages of nonresident alien employees. However, see Pub. 515 for exceptions to this general rule. See section 5 for more guidance on H-2A visa workers.
+
+Withholding adjustment for nonresident alien employees.
+
+Nonresident aliens may not claim the standard deduction on their tax returns; therefore, employers must add an amount to the wages of nonresident alien employees performing services within the United States in order to figure the amount of federal income tax to withhold from their wages. The amount is added to their wages solely for calculating federal income tax withholding. The amount isn’t included in any box on the employee’s Form W-2 and doesn’t increase the income tax liability of the employee. The amount also doesn’t increase the social security tax or Medicare tax liability of the employer or the employee, or the FUTA tax liability of the employer. See Withholding Adjustment for Nonresident Alien Employees under Introduction in Pub. 15-T for the amount to add to their wages for the payroll period.
+
+Supplemental wage payment.
+
+The adjustment for determining the amount of income tax withholding for nonresident alien employees doesn’t apply to a supplemental wage payment (see section 7 ) if the 37% mandatory flat rate withholding applies or if the 22% optional flat rate withholding is being used to calculate income tax withholding on the supplemental wage payment.
+
+Nonresident alien employee’s Form W-4.
+
+When completing Forms W-4, nonresident aliens are required to:
+
+-
+
+Not claim exemption from income tax withholding (even if they meet both of the conditions to claim exemption from withholding listed in the Form W-4 instructions);
+
+-
+
+Request withholding as if they’re single, regardless of their actual filing status;
+
+-
+
+Not claim the child tax credit or credit for other dependents in Step 3 of Form W-4 (if the nonresident alien is a resident of Canada, Mexico, or South Korea, or a student from India, or a business apprentice from India, they may claim, under certain circumstances (see Pub. 519, U.S. Tax Guide for Aliens), the child tax credit or credit for other dependents); and
+
+-
+
+Write “Nonresident Alien” or “NRA” in the space below Step 4(c) of Form W-4.
+
+If you maintain an electronic Form W-4 system, you should provide a field for nonresident aliens to enter nonresident alien status instead of writing “Nonresident Alien” or “NRA” in the space below Step 4(c) of Form W-4. You should instruct nonresident aliens to see Notice 1392, Supplemental Form W-4 Instructions for Nonresident Aliens, before completing Form W-4.
+
+Form 8233.
+
+If a nonresident alien employee claims a tax treaty exemption from withholding, the employee must submit Form 8233 with respect to the income exempt under the treaty, instead of Form W-4. For more information, see the Instructions for Form 8233 and Pay for Personal Services Performed under Withholding on Specific Income in Pub. 515.
+
+IRS review of requested Forms W-4.
+
+When requested by the IRS, you must make original Forms W-4 available for inspection by an IRS employee. You may also be directed to send certain Forms W-4 to the IRS. You may receive a notice from the IRS requiring you to submit a copy of Form W-4 for one or more of your named employees. Send the requested copy or copies of Form W-4 to the IRS at the address provided and in the manner directed by the notice. The IRS may also require you to submit copies of Form W-4 to the IRS as directed by a revenue procedure or notice published in the Internal Revenue Bulletin.
+
+After submitting a copy of a requested Form W-4 to the IRS, continue to withhold federal income tax based on that Form W-4 if it is valid (see Invalid Forms W-4 , later in this section). However, if the IRS later notifies you in writing that the employee isn’t entitled to claim exemption from withholding or a claimed amount of deductions or credits, withhold federal income tax based on the effective date, employee’s permitted filing status, and withholding instructions specified in the IRS notice (commonly referred to as a “lock-in letter”).
+
+Initial lock-in letter.
+
+The IRS uses information reported on Form W-2 to identify employees with withholding compliance problems. In some cases, if a serious underwithholding problem is found to exist for a particular employee, the IRS may issue a lock-in letter to the employer specifying the employee’s permitted filing status and providing withholding instructions for the specific employee. You’ll also receive a copy for the employee that identifies the permitted filing status and provides a description of the withholding instructions you’re required to follow and the process by which the employee can provide additional information to the IRS for purposes of determining the appropriate withholding and/or modifying the specified filing status. You must furnish the employee copy to the employee within 10 business days of receipt if the employee is employed by you as of the date of the notice. You may follow any reasonable business practice to furnish the employee copy to the employee. Begin withholding based on the notice on the date specified in the notice.
+
+Implementation of lock-in letter.
+
+When you receive the notice specifying the permitted filing status and providing withholding instructions, you may not withhold immediately on the basis of the notice. You must begin withholding tax on the basis of the notice for any wages paid after the date specified in the notice. The delay between your receipt of the notice and the date to begin the withholding on the basis of the notice permits the employee time to contact the IRS.
+
+Seasonal employees and employees not currently performing services.
+
+If you receive a notice for an employee who isn’t currently performing services for you, you’re still required to furnish the employee copy to the employee and withhold based on the notice if any of the following apply.
+
+-
+
+You’re paying wages for the employee’s prior services and the wages are subject to income tax withholding on or after the date specified in the notice.
+
+-
+
+You reasonably expect the employee to resume services within 12 months of the date of the notice.
+
+-
+
+The employee is on a leave of absence that doesn’t exceed 12 months or the employee has a right to reemployment after the leave of absence.
+
+Termination and rehire of employees.
+
+If you must furnish and withhold based on the notice and the employment relationship is terminated after the date of the notice, you must continue to withhold based on the notice if you continue to pay any wages subject to income tax withholding. You must also withhold based on the notice or modification notice (explained next) if the employee resumes the employment relationship with you within 12 months after the termination of the employment relationship.
+
+Modification notice.
+
+After issuing the notice specifying the permitted filing status and providing withholding instructions, the IRS may issue a subsequent notice (modification notice) that modifies the original notice. The modification notice may change the permitted filing status and withholding instructions. You must withhold federal income tax based on the effective date specified in the modification notice.
+
+New Form W-4 after IRS notice.
+
+After the IRS issues a notice or modification notice, if the employee provides you with a new Form W-4 claiming complete exemption from withholding or a completed Form W-4 that results in less withholding than would result under the IRS notice or modification notice, disregard the new Form W-4. You must withhold based on the notice or modification notice unless the IRS notifies you to withhold based on the new Form W-4. If the employee wants to put a new Form W-4 into effect that results in less withholding than required, the employee must contact the IRS.
+
+If, after you receive an IRS notice or modification notice, your employee gives you a new completed Form W-4 that results in more withholding than would result under the notice or modification notice, you must withhold tax based on the new Form W-4. Otherwise, disregard any subsequent Forms W-4 provided by the employee and withhold based on the IRS notice or modification notice.
+
+Caution:
+
+If, in a year before 2020, you received a lock-in letter for an employee, then for 2026 you should continue to follow the instructions in the lock-in letter. You will use the withholding methods described in Pub. 15-T for an employee with a Form W-4 from 2019 or earlier, or you may use the optional computational bridge to treat 2019 and earlier Forms W-4 as if they were 2020 or later Forms W-4 for purposes of figuring federal income tax withholding. See How To Treat 2019 and Earlier Forms W-4 as if They Were 2020 or Later Forms W-4 under Introduction in Pub. 15-T. You should continue following the instructions in the pre-2020 lock-in letter until you receive a letter releasing your employee from the lock-in procedures, you receive a modification notice, or your employee gives you a new Form W-4 that results in more withholding than would result under the notice.
+
+For additional information about employer withholding compliance, see IRS.gov/WHC .
+
+Substitute Forms W-4.
+
+You’re encouraged to have your employees use the official version of Form W-4. You may use a substitute version of Form W-4 to meet your business needs. However, your substitute Form W-4 must contain language that is identical to the official Form W-4 and your form must meet all current IRS rules for substitute forms. At the time you provide your substitute form to the employee, you must provide them with all tables, instructions, and worksheets from the current Form W-4. For more information, see Pub. 15-T.
+
+You can’t accept substitute Forms W-4 developed by employees. An employee who submits an employee-developed substitute Form W-4 after October 10, 2007, will be treated as failing to furnish a Form W-4. However, continue to honor any valid employee-developed Forms W-4 you accepted before October 11, 2007.
+
+Invalid Forms W-4.
+
+Any unauthorized change or addition to Form W-4 makes it invalid. This includes taking out any language by which the employee certifies the form is correct. A Form W-4 is also invalid if, by the date an employee gives it to you, they clearly indicate it is false. An employee who submits a false Form W-4 may be subject to a $500 penalty. You may treat a Form W-4 as invalid if the employee wrote “exempt” below Step 4(c) and checked the box in Step 2(c) or entered numbers for Steps 3 and 4.
+
+When you get an invalid Form W-4, don’t use it to figure federal income tax withholding. Tell the employee it is invalid and ask for another one. If the employee doesn’t give you a valid one, and you have an earlier Form W-4 for this employee that is valid, withhold as you did before. If you don’t have an earlier Form W-4 that is valid, withhold tax as if the employee had checked the box for Single or Married filing separately in Step 1(c) and made no entries in Step 2, Step 3, or Step 4 of the 2026 Form W-4. However, an employee who was paid wages in 2019 who never submitted a valid Form W-4 and submits an invalid Form W-4 in 2026 should continue to be treated as single and claiming zero allowances on a 2019 Form W-4. If you use the optional computational bridge, described earlier under Redesigned Form W-4 , you may treat this employee as if they had checked the box for Single or Married filing separately in Step 1(c), and made no entries in Step 2 and Step 3, an entry of $8,600 in Step 4(a), and an entry of zero in Step 4(b) of the 2026 Form W-4.
+
+Amounts exempt from levy on wages, salary, and other income.
+
+If you receive a Notice of Levy on Wages, Salary, and Other Income (a notice in the Form 668 series), you must withhold amounts as described in the instructions for these forms. Pub. 1494 has tables to figure the amount exempt from levy. If a levy issued in a prior year is still in effect and the taxpayer submits a new Statement of Exemptions and Filing Status, use the current year Pub. 1494 to figure the exempt amount.
+
+Social Security and Medicare Taxes
+
+The Federal Insurance Contributions Act (FICA) provides for a federal system of old-age, survivors, disability, and hospital insurance. The old-age, survivors, and disability insurance part is financed by the social security tax. The hospital insurance part is financed by the Medicare tax. Each of these taxes is reported separately.
+
+Generally, you’re required to withhold social security and Medicare taxes from your employees’ wages and pay the employer share of these taxes. Certain types of wages and compensation aren’t subject to social security and Medicare taxes. See section 5 and section 15 for details. Generally, employee wages are subject to social security and Medicare taxes regardless of the employee’s age or whether they are receiving social security benefits. If the employee reported tips, see section 6 .
+
+The $150 test or the $2,500 test for farmwork.
+
+All cash wages that you pay to an employee during the year for farmwork are subject to social security and Medicare taxes and federal income tax withholding if either of the two tests below is met.
+
+-
+
+You pay cash wages to an employee of $150 or more in a year for farmwork (count all cash wages paid on a time, piecework, or other basis). The $150 test applies separately to each farmworker that you employ. If you employ a family of workers, each member is treated separately. Don’t count wages paid by other employers.
+
+-
+
+The total that you pay for farmwork (cash and noncash) to all your employees is $2,500 or more during the year.
+
+Exceptions.
+
+Annual cash wages of less than $150 you pay to a seasonal farmworker aren’t subject to social security and Medicare taxes, or federal income tax withholding, even if you pay $2,500 or more to all your farmworkers. However, these wages count toward the $2,500 test for determining whether other farmworkers’ wages are subject to social security and Medicare taxes.
+
+A seasonal farmworker is a worker who:
+
+-
+
+Is employed in agriculture as a hand-harvest laborer,
+
+-
+
+Is paid piece rates in an operation that is usually paid on a piece-rate basis in the region of employment,
+
+-
+
+Commutes daily from their permanent home to the farm, and
+
+-
+
+Had been employed in agriculture less than 13 weeks in the preceding calendar year.
+
+Wages paid to a child under 18 working on a farm that is a sole proprietorship or a partnership in which each partner is a parent of a child aren’t subject to social security and Medicare taxes. However, these wages count toward the $2,500 test for determining whether other farmworkers’ wages are subject to social security and Medicare taxes.
+
+Deducting the tax.
+
+Deduct the employee tax from each wage payment. If you’re not sure that the wages that you pay to a farmworker during the year will be taxable, you may either deduct the tax when you make the payments or wait until the $2,500 test or the $150 test discussed earlier has been met.
+
+Tax rates and the social security wage base limit.
+
+Social security and Medicare taxes have different rates and only the social security tax has a wage base limit. The wage base limit is the maximum wage subject to the tax for the year. Determine the amount of withholding for social security and Medicare taxes by multiplying each payment by the employee tax rate.
+
+For 2026, the social security tax rate is 6.2% (amount withheld) each for the employer and employee (12.4% total). The social security wage base limit is $184,500. The tax rate for Medicare is 1.45% (amount withheld) each for the employee and employer (2.9% total). There is no wage base limit for Medicare tax; all covered wages are subject to Medicare tax.
+
+Additional Medicare Tax withholding.
+
+In addition to withholding Medicare tax at 1.45%, you must withhold a 0.9% Additional Medicare Tax from wages you pay to an employee in excess of $200,000 in a calendar year. You’re required to begin withholding Additional Medicare Tax in the pay period in which you pay wages in excess of $200,000 to an employee and continue to withhold it each pay period until the end of the calendar year. Additional Medicare Tax is only imposed on the employee. There is no employer share of Additional Medicare Tax. All wages that are subject to Medicare tax are subject to Additional Medicare Tax withholding if paid in excess of the $200,000 withholding threshold.
+
+For more information on what wages are subject to Medicare tax, see section 15 . For more information on Additional Medicare Tax, go to IRS.gov/ADMTfaqs .
+
+Successor employer.
+
+When corporate acquisitions meet certain requirements, wages paid by the predecessor are treated as if paid by the successor for purposes of applying the social security wage base limit and for applying the Additional Medicare Tax withholding threshold (that is, $200,000 in a calendar year). You should determine whether or not you should file Schedule D (Form 941), Report of Discrepancies Caused by Acquisitions, Statutory Mergers, or Consolidations, by reviewing the Instructions for Schedule D (Form 941). See Regulations section 31.3121(a)(1)-1(b) for more information. Also see Revenue Procedure 2004-53, 2004-34 I.R.B. 320, available at IRS.gov/irb/2004-34_IRB#RP-2004-53 .
+
+Example.
+
+Early in 2026, you bought all of the assets of a plumbing business from Adam Black. Julian Gold, who had been employed by Adam and received $2,000 in wages before the date of purchase, continued to work for you. The wages you paid to Julian are subject to social security tax on the first $182,500 ($184,500 minus $2,000). Medicare tax is due on all of the wages you pay Julian during the calendar year. You should include the $2,000 Julian received while employed by Adam in determining whether Julian’s wages exceed the $200,000 threshold for Additional Medicare Tax withholding.
+
+Employee’s portion of taxes paid by employer.
+
+If you pay your employee’s social security and Medicare taxes without deducting them from the employee’s pay, you must include the amount of the payments in the employee’s wages for social security and Medicare taxes. This increase in the employee’s wage payment for your payment of the employee’s social security and Medicare taxes is also subject to employee social security and Medicare taxes. This again increases the amount of the additional taxes that you must pay. For more information, see Revenue Ruling 86-14, 1986-1 C.B. 304, and Pub. 15-A.
+
+Household and agricultural employers.
+
+If you would rather pay a household or agricultural employee’s share of the social security and Medicare taxes without withholding them from the employee’s wages, you may do so. If you don’t withhold the taxes, however, you must still pay them on behalf of the employee. Any employee social security and Medicare taxes that you pay are additional income to the employee. Include it in box 1 of the employee’s Form W-2 (box 7 of Form 499R-2/W-2PR), but don’t count it as social security and Medicare wages and don’t include it in boxes 3 and 5 (boxes 20 and 22 of Form 499R-2/W-2PR). Also, don’t count the additional income as wages for FUTA tax purposes. Different rules apply to employer payments of social security and Medicare taxes for non-household and non-agricultural employees. See section 7 of Pub. 15-A.
+
+Example.
+
+Gavrielle operates a small family fruit farm. Gavrielle employs day laborers in the picking season to allow Gavrielle time to get the crops to market. Gavrielle doesn’t deduct the employees’ share of social security and Medicare taxes from their pay; instead, Gavrielle pays it on their behalf. When Gavrielle prepares the employees’ Forms W-2, Gavrielle adds each employee’s share of social security and Medicare taxes that Gavrielle paid to the employee’s wage income (box 1 of Form W-2), but doesn’t include it in box 3 (social security wages) or box 5 (Medicare wages and tips).
+
+For 2026, Gavrielle paid Dan $1,000 during the year. Gavrielle enters $1,076.50 in box 1 of Dan‘s Form W-2 ($1,000 wages plus $76.50 social security and Medicare taxes paid for Dan). Gavrielle enters $1,000.00 in boxes 3 and 5 of Dan’s Form W-2.
+
+Sick pay payments.
+
+Social security and Medicare taxes apply to most payments of sick pay, including payments made by third parties such as insurance companies. For details on third-party payers of sick pay, see Pub. 15-A.
+
+Motion picture project employers.
+
+All wages paid by a motion picture project employer to a motion picture project worker during a calendar year are subject to a single social security tax wage base limit ($184,500 for 2026) and a single FUTA tax wage base limit ($7,000 for 2026) regardless of the worker’s status as a common-law employee of multiple clients of the motion picture project employer. For more information, including the definition of a “motion picture project employer” and a “motion picture project worker,” see section 3512.
+
+Withholding social security and Medicare taxes on nonresident alien employees.
+
+In general, if you pay wages to nonresident alien employees, you must withhold social security and Medicare taxes as you would for a U.S. citizen or resident alien. However, see Pub. 515 for exceptions to this general rule. One such exception is for foreign agricultural workers on H-2A visas, who are exempt from social security and Medicare taxes. See Compensation paid to H-2A visa holders in section 5.
+
+International social security agreements.
+
+The United States has social security agreements, also known as totalization agreements, with many countries that eliminate dual social security coverage and taxation. Compensation subject to social security and Medicare taxes may be exempt under one of these agreements. You can get more information and a list of agreement countries from the SSA at SSA.gov/international . Also see Pub. 519.
+
+Religious exemption.
+
+An exemption from social security and Medicare taxes is available to members of a recognized religious sect opposed to insurance. This exemption is available only if both the employee and the employer are members of the sect. For more information, see Pub. 517, Social Security and Other Information for Members of the Clergy and Religious Workers.
+
+Foreign persons treated as American employers.
+
+Under section 3121(z), a foreign person who meets both of the following conditions is generally treated as an American employer for purposes of paying FICA taxes on wages paid to an employee who is a U.S. citizen or resident.
+
+-
+
+The foreign person is a member of a domestically controlled group of entities.
+
+-
+
+The employee of the foreign person performs services in connection with a contract between the U.S. Government (or an instrumentality of the U.S. Government) and any member of the domestically controlled group of entities. Ownership of more than 50% constitutes control.
+
+Part-Time Workers
+
+Part-time workers and workers hired for short periods of time are treated the same as full-time employees for federal income tax withholding and social security, Medicare, and FUTA tax purposes.
+
+Generally, it doesn’t matter whether the part-time worker or worker hired for a short period of time has another job or has the maximum amount of social security tax withheld by another employer. See Successor employer , earlier in this section, for an exception to this rule.
+
+Income tax withholding may be figured the same way as for full-time workers or it may be figured by the part-year employment method explained in section 6 of Pub. 15-T.

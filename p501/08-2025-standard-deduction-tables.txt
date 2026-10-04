@@ -1,0 +1,56 @@
+IRS Pub 501 (2025) | 2025 Standard Deduction Tables
+
+2025 Standard Deduction Tables
+
+. If you are married filing a separate return and your spouse itemizes deductions, or if you are a dual-status alien, you can’t take the standard deduction even if you were born before January 2, 1961 or are blind. .
+
+Table 6.Standard Deduction Chart for Most People*
+
+IF your filing status is... | YOUR standard deduction is...
+Single or Married filing separately | $15,750
+Married filing jointly or Qualifying surviving spouse | 31,500
+Head of household | 23,625
+* Don’t use this chart if you were born before January 2, 1961, or are blind, or if someone else can claim you (or your spouse if filing jointly) as a dependent. Use Table 7 or Table 8 instead.
+
+Table 7. Standard Deduction Chart for People Born Before January 2, 1961, or Who Are Blind*
+
+Check the correct number of boxes below. Then go to the chart.
+You : | Born before January 2, 1961 □ | Blind □
+Your spouse : | Born before January 2, 1961 □ | Blind □
+Total number of boxes you checked Box
+IF your filing status is... | AND the number in the box above is... | THEN your standard deduction is...
+Single | 1 | $17,750
+2 | 19,750
+Married filing jointly | 1 | $33,100
+2 | 34,700
+3 | 36,300
+4 | 37,900
+Qualifying surviving spouse | 1 | $33,100
+2 | 34,700
+Married filing separately** | 1 | $17,350
+2 | 18,950
+3 | 20,550
+4 | 22,150
+Head of household | 1 | $25,625
+2 | 27,625
+* If someone else can claim you (or your spouse if filing jointly) as a dependent, use Table 8 instead. ** You can check the boxes for “Your spouse” if your filing status is married filing separately and your spouse had no income, isn’t filing a return, and can’t be claimed as a dependent on another person’s tax return.
+
+Table 8.Standard Deduction Worksheet for Dependents
+
+Use this worksheet only if someone else can claim you (or your spouse if filing jointly) as a dependent.
+
+Check the correct number of boxes below. Then go to the worksheet.
+You : |  | Born before January 2, 1961 □ | Blind □
+Your spouse : | Born before January 2, 1961 □ | Blind □
+Total number of boxes you checked Box
+1. | Enter your earned income (defined below). If none, enter -0-. | 1. | _____
+2. | Additional amount. | 2. | $450
+3. | Add lines 1 and 2. | 3. | _____
+4. | Minimum standard deduction. | 4. | $1,350
+5. | Enter the larger of line 3 or line 4. | 5. | _____
+6. | Enter the amount shown below for your filing status. Single or Married filing separately—$15,750 Married filing jointly—$31,500 Head of household—$23,625 | 6. | _____
+7. | Standard deduction.
+a. | Enter the smaller of line 5 or line 6. If born after January 1, 1961, and not blind, stop here. This is your standard deduction. Otherwise, go on to line 7b. | 7a. | _____
+b. | If born before January 2, 1961, or blind, multiply $2,000 ($1,600 if married) by the number in the box above. | 7b. | _____
+c. | Add lines 7a and 7b. This is your standard deduction for 2025. | 7c. | _____
+Earned income includes wages, salaries, tips, professional fees, and other compensation received for personal services you performed. It also includes any taxable scholarship or fellowship grant.

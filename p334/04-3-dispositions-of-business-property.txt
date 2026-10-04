@@ -1,0 +1,173 @@
+IRS Pub 334 (2025) | 3. Dispositions of Business Property
+
+3. Dispositions of Business Property
+
+Introduction
+
+If you dispose of business property, you may have a gain or loss that you report on your tax return. However, in some cases, you may have a gain that is not taxable or a loss that is not deductible. This chapter discusses whether you have a disposition, how to figure the gain or loss, and where to report the gain or loss.
+
+Useful Items
+
+You may want to see:
+
+Publication
+
+-
+
+544 Sales and Other Dispositions of Assets
+
+Form (and Instructions)
+
+-
+
+4797 Sales of Business Property
+
+-
+
+Sch D (Form 1040) Capital Gains and Losses
+
+See chapter 12 for information about getting publications and forms.
+
+What Is a Disposition of Property?
+
+A disposition of property includes the following transactions.
+
+-
+
+You sell property for cash or other property.
+
+-
+
+You exchange property for other property.
+
+-
+
+You receive money as a tenant for the cancellation of a lease.
+
+-
+
+You receive money for granting the exclusive use of a copyright throughout its life in a particular medium.
+
+-
+
+You transfer property to satisfy a debt.
+
+-
+
+You abandon property.
+
+-
+
+Your bank or other financial institution forecloses on your mortgage or repossesses your property.
+
+-
+
+Your property is damaged, destroyed, or stolen, and you receive property or money in payment.
+
+-
+
+Your property is condemned, or disposed of under the threat of condemnation, and you receive property or money in payment.
+
+-
+
+You give property away.
+
+For details about damaged, destroyed, or stolen property, see Pub. 547, Casualties, Disasters, and Thefts. For details about other dispositions, see chapter 1 of Pub. 544.
+
+Nontaxable exchanges.
+
+Certain exchanges of property are not taxable. This means any gain from the exchange is not recognized and you cannot deduct any loss. Your gain or loss will not be recognized until you sell or otherwise dispose of the property you receive.
+
+Like-kind exchanges.
+
+A like-kind exchange is the exchange of property for other like-kind property. It is the most common type of nontaxable exchange. Section 1031 like-kind exchange treatment applies only to exchanges of real property held for use in a trade or business or for investment, other than real property held primarily for sale.
+
+Report the exchange of like-kind property on Form 8824, Like-Kind Exchanges. For more information about like-kind exchanges, see chapter 1 of Pub. 544.
+
+Installment sales.
+
+An installment sale is a sale of property where you receive at least one payment after the tax year of the sale. If you finance the buyer’s purchase of your property, instead of having the buyer get a loan or mortgage from a third party, you probably have an installment sale.
+
+For more information about installment sales, see Pub. 537.
+
+Sale of a business.
+
+The sale of a business is usually not a sale of one asset. Instead, all the assets of the business are sold. Generally, when this occurs, each asset is treated as being sold separately for determining the treatment of gain or loss.
+
+Both the buyer and seller involved in the sale of a business must report to the IRS the allocation of the sales price among the business assets. Use Form 8594, Asset Acquisition Statement Under Section 1060, to provide this information. The buyer and seller should each attach Form 8594 to their federal income tax return for the year in which the sale occurred.
+
+For more information about the sale of a business, see Pub. 544.
+
+How Do I Figure a Gain or Loss?
+
+Table 3-1. How To Figure a Gain or Loss
+
+IF your... | THEN you have a...
+adjusted basis is more than the amount realized | loss.
+amount realized is more than the adjusted basis | gain.
+
+Basis, adjusted basis, amount realized, fair market value, and amount recognized are defined next. You need to know these definitions to figure your gain or loss.
+
+Basis.
+
+The cost or purchase price of property is usually its basis for figuring the gain or loss from its sale or other disposition. However, if you acquired the property by gift, by inheritance, or in some way other than buying it, you must use a basis other than its cost. For more information about basis, see Pub. 551, Basis of Assets.
+
+Adjusted basis.
+
+The adjusted basis of property generally is your original cost or other basis plus certain additions, and minus certain deductions such as depreciation and casualty losses. In determining gain or loss, the costs of transferring property to a new owner, such as selling expenses, are added to the adjusted basis of the property.
+
+Amount realized.
+
+Generally, the amount you realize from a disposition is the total of all money you receive plus the fair market value of all property or services you receive. The amount you realize also includes any of your liabilities that were assumed by the buyer and any liabilities to which the property you transferred is subject, such as real estate taxes or a mortgage.
+
+Fair market value.
+
+Fair market value is the price at which the property would change hands between a buyer and a seller, neither having to buy or sell, and both having reasonable knowledge of all necessary facts.
+
+Amount recognized.
+
+Your gain or loss realized from a disposition of property is usually a recognized gain or loss for tax purposes. Recognized gains must be included in gross income. Recognized losses are deductible from gross income yet may be limited. See Pub. 925. However, a gain or loss realized from certain exchanges of property is not recognized. See Nontaxable exchanges , earlier. Also, you cannot deduct a loss from the disposition of property held for personal use.
+
+Is My Gain or Loss Ordinary or Capital?
+
+You must classify your gains and losses as either ordinary or capital gains or losses. You must do this to figure your net capital gain or loss. Generally, you will have a capital gain or loss if you dispose of a capital asset. For the most part, everything you own and use for personal purposes or investment is a capital asset.
+
+Certain property you use in your business is not a capital asset. A gain or loss from a disposition of this property is an ordinary gain or loss. However, if you held the property longer than 1 year, you may be able to treat the gain or loss as a capital gain or loss. These gains and losses are called section 1231 gains and losses.
+
+For more information about ordinary and capital gains and losses, see chapters 2 and 3 of Pub. 544.
+
+Is My Capital Gain or Loss Short Term or Long Term?
+
+If you have a capital gain or loss, you must determine whether it is long term or short term. Whether a gain or loss is long or short term depends on how long you own the property before you dispose of it. The time you own property before disposing of it is called the holding period.
+
+Table 3-2. Do I Have a Short-Term or Long-Term Gain or Loss?
+
+IF you hold the property... | THEN you have a...
+1 year or less | short-term capital gain or loss.
+more than 1 year | long-term capital gain or loss.
+
+For more information about short-term and long-term capital gains and losses, see chapter 4 of Pub. 544.
+
+Where Do I Report Gains and Losses?
+
+Report gains and losses from the following dispositions on the forms indicated. The instructions for the forms explain how to fill them out.
+
+Dispositions of business property and depreciable property.
+
+Use Form 4797. If you have taxable gain, you may also have to use Schedule D (Form 1040).
+
+Like-kind exchanges.
+
+Use Form 8824. You may also have to use Form 4797 and Schedule D (Form 1040).
+
+Installment sales.
+
+Use Form 6252, Installment Sale Income. You may also have to use Form 4797 and Schedule D (Form 1040).
+
+Casualties and thefts.
+
+Use Form 4684, Casualties and Thefts. You may also have to use Form 4797.
+
+Condemned property.
+
+Use Form 4797. You may also have to use Schedule D (Form 1040).

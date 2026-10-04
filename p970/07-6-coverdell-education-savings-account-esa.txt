@@ -1,0 +1,791 @@
+IRS Pub 970 (2025) | 6. Coverdell Education Savings Account (ESA)
+
+6. Coverdell Education Savings Account (ESA)
+
+Introduction
+
+If your modified adjusted gross income (MAGI) is less than $110,000 ($220,000 if filing a joint return), you may be able to establish a Coverdell ESA to finance the qualified education expenses of a designated beneficiary. For most taxpayers, MAGI is adjusted gross income (AGI) as figured on their federal income tax return.
+
+Total contributions for the beneficiary in any year can’t be more than $2,000, no matter how many separate Coverdell ESAs have been established for the beneficiary. See Contributions , later.
+
+. This benefit applies not only to higher education expenses, but also to elementary and secondary education expenses. .
+
+What is the tax benefit of the Coverdell ESA?
+
+Contributions to a Coverdell ESA aren’t deductible, but amounts deposited in the account grow tax free until distributed.
+
+If, for a year, distributions from an account aren’t more than a designated beneficiary’s adjusted qualified education expenses (AQEE) at an eligible educational institution, the beneficiary won’t owe tax on the distributions. See Tax-Free Distributions , later.
+
+Table 6-1 summarizes the main features of the Coverdell ESA.
+
+Table 6-1. Coverdell ESA at a Glance
+
+Don’t rely on this table alone. It provides only general highlights. See the text for definitions of terms and for more complete explanations.
+
+Question | Answer
+What is a Coverdell ESA? | A savings account that is set up to pay the qualified education expenses of a designated beneficiary.
+Where can it be established? | It can be opened in the United States at any bank or other IRS-approved entity that offers Coverdell ESAs.
+Who can have a Coverdell ESA? | Any beneficiary who is under age 18 or is a special needs beneficiary.
+Who can contribute to a Coverdell ESA? | Generally, any individual (including the beneficiary) whose MAGI for the year is less than $110,000 ($220,000 in the case of a joint return).
+Are distributions tax free? | Yes, if the distributions aren’t more than the beneficiary’s AQEE for the year.
+
+What Is a Coverdell ESA?
+
+A Coverdell ESA is a trust or custodial account created or organized in the United States only for the purpose of paying the qualified education expenses of the Designated beneficiary (defined later) of the account.
+
+When the account is established, the designated beneficiary must be under age 18 or a special needs beneficiary.
+
+To be treated as a Coverdell ESA, the account must be designated as a Coverdell ESA when it is created.
+
+The document creating and governing the account must be in writing and must satisfy the following requirements.
+
+-
+
+The trustee or custodian must be a bank or an entity approved by the IRS.
+
+-
+
+The document must provide that the trustee or custodian can only accept a contribution that meets all of the following conditions.
+
+-
+
+The contribution is in cash.
+
+-
+
+The contribution is made before the beneficiary reaches age 18, unless the beneficiary is a special needs beneficiary.
+
+-
+
+The contribution wouldn’t result in total contributions for the year (not including rollover contributions) being more than $2,000.
+
+-
+
+Money in the account can’t be invested in life insurance contracts.
+
+-
+
+Money in the account can’t be combined with other property except in a common trust fund or common investment fund.
+
+-
+
+The balance in the account must generally be distributed within 30 days after the earlier of the following events.
+
+-
+
+The beneficiary reaches age 30, unless the beneficiary is a special needs beneficiary.
+
+-
+
+The beneficiary’s death.
+
+Qualified Education Expenses
+
+Generally, these are expenses required for the enrollment or attendance of the designated beneficiary at an eligible educational institution. The expenses can be either qualified higher education expenses or qualified elementary and secondary education expenses.
+
+Designated beneficiary.
+
+This is the individual named in the document creating the trust or custodial account to receive the benefit of the funds in the account.
+
+Contributions to a qualified tuition program (QTP).
+
+A contribution to a QTP is a qualified education expense if the contribution is on behalf of the designated beneficiary of the Coverdell ESA. In the case of a change in beneficiary, this is a qualified expense only if the new beneficiary is a family member of that designated beneficiary. See chapter 7 .
+
+Eligible Educational Institution
+
+An eligible educational institution can be either an eligible postsecondary school or an eligible elementary or secondary school.
+
+Eligible postsecondary school.
+
+An eligible postsecondary school is generally any accredited public, nonprofit, or proprietary (privately owned profit-making) college, university, vocational school, or other postsecondary educational institution. Also, the institution must be eligible to participate in a student aid program administered by the U.S. Department of Education. Virtually all accredited postsecondary institutions meet this definition. The educational institution should be able to tell you if it is an eligible educational institution.
+
+An eligible educational institution also includes certain educational institutions located outside the United States that are eligible to participate in a student aid program administered by the U.S. Department of Education.
+
+Eligible elementary or secondary school.
+
+An eligible elementary or secondary school is any public, private, or religious school that provides elementary or secondary education (kindergarten through grade 12), as determined under state law.
+
+Qualified Higher Education Expenses
+
+These are expenses related to enrollment or attendance at an eligible postsecondary school. As shown in the following list, to be qualified, some of the expenses must be required by the school and some must be incurred by students who are enrolled at least half-time.
+
+-
+
+The following expenses must be required for enrollment or attendance of a designated beneficiary at an eligible postsecondary school.
+
+-
+
+Tuition and fees.
+
+-
+
+Books, supplies, and equipment.
+
+-
+
+Expenses for special needs services needed by a special needs beneficiary must be incurred in connection with enrollment or attendance at an eligible postsecondary school.
+
+-
+
+Expenses for room and board must be incurred by students who are enrolled at least half-time (defined below).
+
+The expense for room and board qualifies only to the extent that it isn’t more than the greater of the following two amounts.
+
+-
+
+The allowance for room and board, as determined by the school, that was included in the cost of attendance (for federal financial aid purposes) for a particular academic period and living arrangement of the student.
+
+-
+
+The actual amount charged if the student is residing in housing owned or operated by the school.
+
+You may need to contact the eligible educational institution for qualified room and board costs.
+
+-
+
+The purchase of computer or peripheral equipment, computer software, or Internet access and related services if it is to be used primarily by the beneficiary during any of the years the beneficiary is enrolled at an eligible postsecondary school. (This doesn’t include expenses for computer software for sports, games, or hobbies unless the software is predominantly educational in nature.)
+
+Half-time student.
+
+A student is enrolled “at least half-time” if they are enrolled for at least half the full-time academic workload for the course of study the student is pursuing, as determined under the standards of the school where the student is enrolled.
+
+Qualified Elementary and Secondary Education Expenses
+
+These are expenses related to enrollment or attendance at an eligible elementary or secondary school. As shown in the following list, to be qualified, some of the expenses must be required or provided by the school. There are special rules for computer-related expenses.
+
+-
+
+The following expenses must be incurred by a designated beneficiary in connection with enrollment or attendance at an eligible elementary or secondary school.
+
+-
+
+Tuition and fees.
+
+-
+
+Books, supplies, and equipment.
+
+-
+
+Academic tutoring.
+
+-
+
+Special needs services for a special needs beneficiary.
+
+-
+
+The following expenses must be required or provided by an eligible elementary or secondary school in connection with attendance or enrollment at the school.
+
+-
+
+Room and board.
+
+-
+
+Uniforms.
+
+-
+
+Transportation.
+
+-
+
+Supplementary items and services (including extended day programs).
+
+-
+
+The purchase of computer or peripheral equipment, computer software, fiber optic cables related to computer use, or Internet access and related services is a qualified elementary and secondary education expense if it is to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is in elementary or secondary school. (This doesn’t include expenses for computer software designed for sports, games, or hobbies unless the software is predominantly educational in nature.)
+
+Contributions
+
+Any individual (including the designated beneficiary) can contribute to a Coverdell ESA if the individual’s MAGI (defined later under Contribution Limits ) for the year is less than $110,000. For individuals filing joint returns, that amount is $220,000.
+
+Organizations, such as corporations and trusts, can also contribute to Coverdell ESAs. There is no requirement that an organization’s income be below a certain level.
+
+Contributions must meet all of the following requirements.
+
+-
+
+They must be in cash.
+
+-
+
+They can’t be made after the beneficiary reaches age 18, unless the beneficiary is a special needs beneficiary.
+
+-
+
+They must be made by the due date of the contributor’s tax return (not including extensions).
+
+Contributions can be made to one or several Coverdell ESAs for the same designated beneficiary provided that the total contributions aren’t more than the contribution limits (defined later) for a year.
+
+Contributions can be made, without penalty, to both a Coverdell ESA and a QTP in the same year for the same beneficiary.
+
+Table 6-2 summarizes many of the features of contributing to a Coverdell ESA.
+
+Table 6-2. Coverdell ESA Contributions at a Glance
+
+Don’t rely on this table alone. It provides only general highlights. See the text for more complete explanations.
+
+Question | Answer
+Are contributions deductible? | No.
+What is the annual contribution limit per designated beneficiary? | $2,000 for each designated beneficiary.
+What if more than one Coverdell ESA has been opened for the same designated beneficiary? | The annual contribution limit is $2,000 for each beneficiary, no matter how many Coverdell ESAs are set up for that beneficiary.
+What if more than one individual makes contributions for the same designated beneficiary? | The annual contribution limit is $2,000 per beneficiary, no matter how many individuals contribute.
+Can contributions other than cash be made to a Coverdell ESA? | No.
+When must contributions stop? | No contributions can be made to a beneficiary’s Coverdell ESA after they reach age 18, unless the beneficiary is a special needs beneficiary.
+
+When contributions are considered made.
+
+Contributions made to a Coverdell ESA for the preceding tax year are considered to have been made on the last day of the preceding year. They must be made by the due date (not including extensions) for filing your return for the preceding year.
+
+For example, if you make a contribution to a Coverdell ESA in February 2026, and you designate it as a contribution for 2025, you are considered to have made that contribution on December 31, 2025.
+
+Contribution Limits
+
+There are two yearly limits.
+
+-
+
+One on the total amount that can be contributed for each designated beneficiary in any year.
+
+-
+
+One on the amount that any individual can contribute for any one designated beneficiary for a year.
+
+Limit for each designated beneficiary.
+
+For 2025, the total of all contributions to all Coverdell ESAs set up for the benefit of any one designated beneficiary can’t be more than $2,000. This includes contributions (other than rollovers) to all the beneficiary’s Coverdell ESAs from all sources. Rollovers are discussed under Rollovers and Other Transfers , later.
+
+Example.
+
+When a beneficiary was born in 2024, three separate Coverdell ESAs were set up, one by the parents, one by a grandparent, and one by an aunt. In 2025, the total of all contributions to the three Coverdell ESAs can’t be more than $2,000. For example, if the grandparent contributed $2,000 to one of the Coverdell ESAs, no one else could contribute to any of the three accounts. Or, if the parents contributed $1,000 and the aunt $600, the grandparent or someone else could contribute no more than $400. These contributions could be put into any of the beneficiary’s Coverdell ESA accounts.
+
+Limit for each contributor.
+
+Generally, you can contribute up to $2,000 for each designated beneficiary for 2025. This is the most you can contribute for the benefit of any one beneficiary for the year, regardless of the number of Coverdell ESAs set up for the beneficiary.
+
+Example.
+
+The facts are the same as in the previous example except that the beneficiary’s older sibling also has a Coverdell ESA. If the grandparent contributed $2,000 to the beneficiary’s Coverdell ESA in 2025, the grandparent could also contribute $2,000 to the sibling’s Coverdell ESA.
+
+Reduced limit.
+
+Your contribution limit may be reduced. If your MAGI (defined later) is between $95,000 and $110,000 (between $190,000 and $220,000 if filing a joint return), the $2,000 limit for each designated beneficiary is gradually reduced (see Figuring the limit , later). If your MAGI is $110,000 or more ($220,000 or more if filing a joint return), you can’t contribute to anyone’s Coverdell ESA.
+
+Modified adjusted gross income (MAGI).
+
+For most taxpayers, MAGI is adjusted gross income (AGI) as figured on their federal income tax return.
+
+MAGI when using Form 1040 or 1040-SR.
+
+If you file Form 1040 or 1040-SR, your MAGI is the AGI on line 11a of that form, modified by adding back any:
+
+-
+
+Foreign earned income exclusion,
+
+-
+
+Foreign housing exclusion,
+
+-
+
+Foreign housing deduction,
+
+-
+
+Exclusion of income by bona fide residents of American Samoa, and
+
+-
+
+Exclusion of income by bona fide residents of Puerto Rico.
+
+If you have any of these adjustments, you can use Worksheet 6-1 to figure your MAGI for Form 1040 or 1040-SR.
+
+MAGI when using Form 1040-NR.
+
+If you file Form 1040-NR, your MAGI is the AGI on line 11a of that form.
+
+Coverdell education savings account (ESA)Modified adjusted gross income (MAGI)Worksheet 6-2 Modified adjusted gross income (MAGI)Coverdell ESAWorksheet 6-1 WorksheetsCoverdell ESAMAGI, calculation of (Worksheet 6-1) Coverdell education savings account (ESA)Contribution limitsFiguring the limit (Worksheet 6-1)Worksheet 6-1. MAGI for a Coverdell ESA
+
+1. | Enter your AGI (Form 1040 or 1040-SR, line 11a) |  | 1. | _____
+2. | Enter your foreign earned income exclusion and/or housing exclusion (Form 2555, line 45) |  | 2. | _____
+3. | Enter your foreign housing deduction (Form 2555, line 50) |  | 3. | _____
+4. | Enter the amount of income from Puerto Rico you’re excluding |  | 4. | _____
+5. | Enter the amount of income from American Samoa you’re excluding (Form 4563, line 15) |  | 5. | _____
+6. | Add lines 2, 3, 4, and 5 |  | 6. | _____
+7. | Add lines 1 and 6. This is your MAGI |  | 7.
+
+Figuring the limit.
+
+To figure the limit on the amount you can contribute for each designated beneficiary, multiply $2,000 by a fraction. The numerator (top part) is your MAGI minus $95,000 ($190,000 if filing a joint return). The denominator (bottom part) is $15,000 ($30,000 if filing a joint return). Subtract the result from $2,000. This is the amount you can contribute for each beneficiary. You can use Worksheet 6-2 to figure the limit on contributions.
+
+WorksheetsCoverdell ESAContribution limit (Worksheet 6-2)Worksheet 6-2. Coverdell ESA Contribution Limit
+
+1. | Maximum contribution |  | 1. | $ 2,000
+2. | Enter your MAGI for purposes of figuring the contribution limit to a Coverdell ESA (see definition or Worksheet 6-1 ) |  | 2. | _____
+3. | Enter $190,000 if married filing jointly; $95,000 for all other filers |  | 3. | _____
+4. | Subtract line 3 from line 2. If zero or less, enter -0- on line 4, skip lines 5 through 7, and enter $2,000 on line 8 |  | 4. | _____
+5. | Enter $30,000 if married filing jointly; $15,000 for all other filers |  | 5. | _____
+Note. If the amount on line 4 is greater than or equal to the amount on line 5, stop here . You aren’t allowed to contribute to a Coverdell ESA for 2025 .
+6. | Divide line 4 by line 5 and enter the result as a decimal (rounded to at least 3 places) |  | 6. | .
+7. | Multiply line 1 by line 6 |  | 7. | _____
+8. | Subtract line 7 from line 1 |  | 8.
+Note. The total Coverdell ESA contributions from all sources for the designated beneficiary during the tax year may not exceed $2,000 .
+
+Example.
+
+A taxpayer filing as single had MAGI of $96,500 for 2025. The taxpayer can contribute up to $1,800 in 2025 for each beneficiary, as shown in the illustrated Worksheet 6-2 .
+
+Worksheet 6-2. Coverdell ESA Contribution Limit—Illustrated
+
+1. | Maximum contribution |  | 1. | $ 2,000
+2. | Enter your MAGI for purposes of figuring the contribution limit to a Coverdell ESA (see definition or Worksheet 6-1 ) |  | 2. | 96,500
+3. | Enter $190,000 if married filing jointly; $95,000 for all other filers |  | 3. | 95,000
+4. | Subtract line 3 from line 2. If zero or less, enter -0- on line 4, skip lines 5 through 7, and enter $2,000 on line 8 |  | 4. | 1,500
+5. | Enter $30,000 if married filing jointly; $15,000 for all other filers |  | 5. | 15,000
+Note. If the amount on line 4 is greater than or equal to the amount on line 5, stop here . You aren’t allowed to contribute to a Coverdell ESA for 2025 .
+6. | Divide line 4 by line 5 and enter the result as a decimal (rounded to at least 3 places) |  | 6. | . 100
+7. | Multiply line 1 by line 6 |  | 7. | 200
+8. | Subtract line 7 from line 1 |  | 8. | 1,800
+Note. The total Coverdell ESA contributions from all sources for the designated beneficiary during the tax year may not exceed $2,000 .
+
+Additional Tax on Excess Contributions
+
+The beneficiary may owe a 6% excise tax each year on excess contributions that are in a Coverdell ESA at the end of the year. Excess contributions are the total of the following two amounts.
+
+-
+
+Contributions to any designated beneficiary’s Coverdell ESA for the year that are more than $2,000 (or, if less, the total of each contributor’s limit for the year, as discussed earlier).
+
+-
+
+Excess contributions for the preceding year, reduced by the total of the following two amounts.
+
+-
+
+Distributions (other than those rolled over, as discussed later) during the year.
+
+-
+
+The contribution limit for the current year minus the amount contributed for the current year.
+
+Exceptions.
+
+The excise tax doesn’t apply if excess contributions made during 2025 (and any earnings on them) are distributed before the first day of the sixth month of the following tax year (June 1, 2026, for a calendar year taxpayer).
+
+However, you must include the distributed earnings in gross income for the year in which the excess contribution was made. You should receive Form 1099-Q, Payments From Qualified Education Programs, from each institution from which excess contributions were distributed. Box 2 of that form will show the amount of earnings on your excess contributions. Code “2” or “3” entered in box 7 indicates the year in which the earnings are taxable. See Instructions for Recipient of your Form 1099-Q, on the back of Copy B. Enter the amount of earnings on Schedule 1 (Form 1040), line 8z, for the applicable tax year. For more information, see Taxable Distributions , later.
+
+The excise tax doesn’t apply to any rollover contribution.
+
+Note.
+
+Contributions made in one year for the preceding tax year are considered to have been made on the last day of the preceding year.
+
+Example.
+
+In 2024, your parents and grandparents contributed a total of $2,300 to your Coverdell ESA—an excess contribution of $300. Because you didn’t withdraw the excess before June 1, 2025, you had to pay an additional tax of $18 (6% × $300) when you filed your 2024 tax return.
+
+In 2025, excess contributions of $500 were made to your account; however, you withdrew $250 from that account to use for qualified education expenses. Using the steps shown earlier under Additional Tax on Excess Contributions , you figure the excess contribution in your account at the end of 2025 as follows.
+
+1. |  | $500 excess contributions made in 2025
+2. |  | + | $300 excess contributions made in 2024
+2a. |  | - | $250 distribution made during 2025
+= | $550 excess at the end of 2025
+3. |  | $550 excess at the end of 2025 x 6% = $33
+
+If you limit 2026 contributions to $1,450 ($2,000 maximum allowed − $550 excess contributions from 2025), you won’t owe any additional tax in 2026 for excess contributions.
+
+Figuring and reporting the additional tax.
+
+You figure this excise tax on Form 5329, Part V. Report the additional tax on Schedule 2 (Form 1040), line 8.
+
+Rollovers and Other Transfers
+
+Assets can be rolled over from one Coverdell ESA to another or the designated beneficiary can be changed. The beneficiary’s interest can be transferred to a spouse or former spouse because of divorce.
+
+Rollovers
+
+Any amount distributed from a Coverdell ESA isn’t taxable if it is rolled over to another Coverdell ESA for the benefit of the same beneficiary or a member of the beneficiary’s family (including the beneficiary’s spouse) who is under age 30. This age limitation doesn’t apply if the new beneficiary is a special needs beneficiary.
+
+An amount is rolled over if it is paid to another Coverdell ESA within 60 days after the date of the distribution.
+
+Don’t report qualifying rollovers (those that meet the above criteria) anywhere on Form 1040, 1040-SR, or 1040-NR. These aren’t taxable distributions.
+
+Members of the beneficiary’s family.
+
+For these purposes, the beneficiary’s family includes the beneficiary’s spouse and the following other relatives of the beneficiary.
+
+-
+
+Son, daughter, stepchild, foster child, adopted child, or a descendant of any of them.
+
+-
+
+Brother, sister, half brother, half sister, stepbrother, or stepsister.
+
+-
+
+Father or mother or ancestor of either.
+
+-
+
+Stepfather or stepmother.
+
+-
+
+Son or daughter of a brother, sister, half brother, or half sister.
+
+-
+
+Brother or sister of father or mother.
+
+-
+
+Son-in-law, daughter-in-law, father-in-law, mother-in-law, brother-in-law, or sister-in-law.
+
+-
+
+The spouse of any individual listed above.
+
+-
+
+First cousin.
+
+Example.
+
+When you graduated from college in January last year, you had $5,000 left in your Coverdell ESA. You wanted to give this money to your younger sibling, who was still in high school. In order to avoid paying tax on the distribution of the amount remaining in your account, you contributed the same amount to your sibling’s Coverdell ESA within 60 days of the distribution.
+
+. You can make only one rollover from a Coverdell ESA to another Coverdell ESA in any 12-month period regardless of the number of Coverdell ESAs you own. However, you can make unlimited transfers from one Coverdell ESA trustee directly to another Coverdell ESA trustee because such transfers aren't considered to be distributions or rollovers. The limit of one rollover during any 12-month period doesn't apply to the rollover of a military death gratuity or Servicemembers' Group Life Insurance (SGLI) payment. .
+
+Military death gratuity.
+
+If you received a military death gratuity or a payment from SGLI, you may roll over all or part of the amount received to one or more Coverdell ESAs for the benefit of members of the beneficiary’s family (see Members of the beneficiary’s family , earlier). Such payments are made to an eligible survivor upon the death of a member of the U.S. Armed Forces. The contribution to a Coverdell ESA from survivor benefits received can’t be made later than 1 year after the date on which you receive the gratuity or SGLI payment.
+
+This rollover contribution isn’t subject to (but is in addition to) the contribution limits discussed earlier under Contribution Limits . The amount you roll over can’t exceed the total survivor benefits you received, reduced by contributions from these benefits to a Roth IRA or other Coverdell ESAs.
+
+The amount contributed from the survivor benefits is treated as part of your basis (cost) in the Coverdell ESA, and won’t be taxed when distributed. See Distributions , later.
+
+. The limit of one rollover during any 12-month period doesn't apply to the rollover of a military death gratuity or SGLI payment. .
+
+Changing the Designated Beneficiary
+
+The designated beneficiary can be changed. See Members of the beneficiary’s family , earlier. There aren’t any tax consequences if, at the time of the change, the new beneficiary is under age 30 or is a special needs beneficiary.
+
+Example.
+
+Assume the same situation as in the last example (see Rollovers , earlier). Instead of closing your Coverdell ESA and paying the distribution into your sibling’s Coverdell ESA, you could have instructed the trustee of your account to simply change the name of the beneficiary on your account to that of your sibling.
+
+Transfer Because of Divorce
+
+If a spouse or former spouse receives a Coverdell ESA under a divorce or separation instrument, it isn’t a taxable transfer. After the transfer, the spouse or former spouse treats the Coverdell ESA as their own.
+
+Example.
+
+In their divorce settlement, Taxpayer A received Taxpayer B’s Coverdell ESA. In this process, the account was transferred into Taxpayer A’s name. Taxpayer A now treats the funds in this Coverdell ESA as if they were the original owner.
+
+Distributions
+
+The designated beneficiary of a Coverdell ESA can take a distribution at any time. Whether the distributions are tax free depends, in part, on whether the distributions are equal to or less than the amount of Adjusted qualified education expenses (AQEE) (defined later) the beneficiary has in the same tax year.
+
+See Table 6-3 for highlights.
+
+Table 6-3. Coverdell ESA Distributions at a Glance
+
+Don’t rely on this table alone. It provides only general highlights. See the text for definitions of terms and for more complete explanations.
+
+Question | Answer
+Is a distribution from a Coverdell ESA to pay for a designated beneficiary’s qualified education expenses tax free? | Generally, yes, to the extent the amount of the distribution isn’t more than the designated beneficiary’s AQEE.
+After the designated beneficiary completes the educational requirements at an eligible educational institution, can amounts remaining in the Coverdell ESA be distributed? | Yes. Amounts must be distributed when the designated beneficiary reaches age 30, unless the beneficiary is a special needs beneficiary. Also, certain transfers to members of the beneficiary’s family are permitted.
+Does the designated beneficiary need to be enrolled for a minimum number of courses to claim tax-free distribution? | No.
+
+Adjusted qualified education expenses (AQEE).
+
+To determine if total distributions for the year are more than the amount of qualified education expenses, reduce total qualified education expenses by any tax-free educational assistance. Tax-free educational assistance includes:
+
+The amount you get by subtracting tax-free educational assistance from your total qualified education expenses is your AQEE.
+
+Tax-Free Distributions
+
+Generally, distributions are tax free if they aren’t more than the beneficiary’s AQEE for the year. Don’t report tax-free distributions (including qualifying rollovers) on your tax return.
+
+Taxable Distributions
+
+A portion of the distributions is generally taxable to the beneficiary if the total distributions are more than the beneficiary’s AQEE for the year.
+
+Excess distribution.
+
+This is the part of the total distribution that is more than the beneficiary’s AQEE for the year.
+
+Earnings and basis.
+
+You will receive a Form 1099-Q for each of the Coverdell ESAs from which money was distributed in 2025. The amount of your gross distribution will be shown in box 1. For 2025, instead of dividing the gross distribution between your earnings (box 2) and your basis (amount already taxed) (box 3), the payer or trustee may report the fair market value (account balance) of the Coverdell ESA as of December 31, 2025. This will be shown in box 7.
+
+The amount contributed from survivor benefits (see Military death gratuity , earlier) is treated as part of your basis and won’t be taxed when distributed.
+
+Figuring the Taxable Portion of a Distribution
+
+The taxable portion is the amount of the excess distribution that represents earnings that have accumulated tax free in the account. Figure the taxable portion for 2025 as shown in the following steps.
+
+-
+
+Multiply the total amount distributed by a fraction. The numerator (top part) is the basis (contributions not previously distributed) at the end of 2024, plus total contributions for 2025, and the denominator (bottom part) is the value (balance) of the account at the end of 2025 plus the amount distributed during 2025.
+
+-
+
+Subtract the amount figured in (1) from the total amount distributed during 2025. The result is the amount of earnings included in the distribution(s).
+
+-
+
+Multiply the amount of earnings figured in (2) by a fraction. The numerator (top part) is the AQEE paid during 2025, and the denominator (bottom part) is the total amount distributed during 2025.
+
+-
+
+Subtract the amount figured in (3) from the amount figured in (2). The result is the amount the beneficiary must include in income.
+
+The taxable amount must be reported on Schedule 1 (Form 1040), line 8z.
+
+Example.
+
+You received an $850 distribution from your Coverdell ESA, to which $1,500 had been contributed before 2025. There were no contributions in 2025. This is your first distribution from the account, so your basis in the account on December 31, 2024, was $1,500. The value (balance) of your account on December 31, 2025, was $950. You had $700 of AQEE for the year. Using the steps in Figuring the Taxable Portion of a Distribution , earlier, figure the taxable portion of your distribution as follows.
+
+1. | $850 (distribution) | x |  | $1,500 basis + $0 contributions
+$950 value + $850 distribution
+= $708 (basis portion of distribution)
+2. | $850 (distribution) | - |  | $708 (basis portion of distribution)
+= $142 (earnings included in distribution)
+3. | $142 (earnings) | x |  | $700 AQEE
+$850 distribution
+= $117 (tax-free earnings)
+4. | $142 (earnings) | - |  | $117 (tax-free earnings)
+= $25 (taxable earnings)
+
+You must include $25 in income as distributed earnings not used for qualified education expenses. Report this amount on Schedule 1 (Form 1040), line 8z, listing the type and amount of income.
+
+Worksheet 6-3 , at the end of this chapter, can help you figure your AQEE, how much of your distribution must be included in income, and the remaining basis in your Coverdell ESA(s).
+
+Coordination With American Opportunity and Lifetime Learning Credits
+
+The American opportunity or lifetime learning credit can be claimed in the same year the beneficiary takes a tax-free distribution from a Coverdell ESA, as long as the same expenses aren’t used for both benefits. This means the beneficiary must reduce qualified higher education expenses (QHEE) by tax-free educational assistance, and then further reduce them by any expenses taken into account in determining an American opportunity or lifetime learning credit.
+
+Example.
+
+In 2025, during your first year in college you had $5,800 of QHEE. You paid your college expenses from the following sources.
+
+Partial tuition scholarship (tax free) | $1,500
+Coverdell ESA distribution | 1,000
+Gift from parents | 2,100
+Earnings from part-time job | 1,200
+
+Of the $5,800 of QHEE, $4,000 was tuition and related expenses that also qualified for an American opportunity credit. Your parents claimed a $2,500 American opportunity credit (based on $4,000 expenses) on their tax return.
+
+Before you can determine the taxable portion of your Coverdell ESA distribution, you must reduce your total QHEE.
+
+Total QHEE | $5,800
+Minus: Tax-free educational assistance | − 1,500
+Minus: Expenses taken into account in figuring American opportunity credit | − 4,000
+Equals: Adjusted qualified higher education expenses (AQHEE) | $ 300
+
+Since the AQHEE ($300) are less than the Coverdell ESA distribution ($1,000), part of the distribution will be taxable. The balance in your account was $1,800 on December 31, 2025. Prior to 2025, $2,100 had been contributed to this account. Contributions for 2025 totaled $400. Using the four steps outlined earlier, you figure the taxable portion of your distribution as shown below.
+
+1. |  | $1,000 (distribution) | x |  | $2,100 basis + $400 contributions
+$1,800 value + $1,000 distribution
+= | $893 (basis portion of distribution)
+2. |  | $1,000 (distribution) | - |  | $893 (basis portion of distribution)
+= | $107 (earnings included in distribution)
+3. |  | $107 (earnings) | x |  | $300 AQHEE
+$1,000 distribution
+= | $32 (tax-free earnings)
+4. |  | $107 (earnings) | - |  | $32 (tax-free earnings)
+= | $75 (taxable earnings)
+
+You must include $75 in income (Schedule 1 (Form 1040), line 8z). This is the amount of distributed earnings not used for AQHEE.
+
+Coordination With Qualified Tuition Program (QTP) Distributions
+
+If a designated beneficiary receives distributions from both a Coverdell ESA and a QTP in the same year, and the total distribution is more than the beneficiary’s AQEE, those expenses must be allocated between the distribution from the Coverdell ESA and the distribution from the QTP before figuring how much of each distribution is taxable. The following two examples illustrate possible allocations.
+
+Example 1.
+
+In 2025, you graduated from high school and began your first semester of college. That year, you had $1,000 of qualified elementary and secondary education expenses (QESEE) for high school and $3,000 of QHEE for college. Your QESEE doesn’t include tuition. To pay these expenses, you withdrew $800 from your Coverdell ESA and $4,200 from your QTP. No one claimed you as a dependent, nor were you eligible for an education credit. You didn’t receive any tax-free educational assistance in 2025. You must allocate your total qualified education expenses between the two distributions.
+
+-
+
+You know that tax-free treatment will be available if you apply your $800 Coverdell ESA distribution toward your $1,000 of qualified education expenses for high school. The qualified expenses are greater than the distribution, making the $800 Coverdell ESA distribution tax free.
+
+-
+
+Next, you match your $4,200 QTP distribution to your $3,000 of QHEE, and find you have an excess QTP distribution of $1,200 ($4,200 QTP − $3,000 QHEE). You can’t use the extra $200 of high school expenses (from (1) above) against the QTP distribution because those expenses are not high school tuition expenses and don’t qualify a QTP for tax-free treatment.
+
+-
+
+Finally, you figure the taxable and tax-free portions of your QTP distribution based on your $3,000 of QHEE. (See Figuring the Taxable Portion of a Distribution in chapter 7 for more information.)
+
+Example 2.
+
+Assume the same facts as in Example 1 , except that you withdrew $1,800 from your Coverdell ESA and $3,200 from your QTP. In this case, you allocate your qualified education expenses as follows.
+
+-
+
+Using the same reasoning as in Example 1 , you match $1,000 of your Coverdell ESA distribution to your $1,000 of QESEE—you have $800 of your distribution remaining.
+
+-
+
+Because higher education expenses can also qualify a Coverdell ESA distribution for tax-free treatment, you allocate your $3,000 of QHEE between the remaining $800 Coverdell ESA and the $3,200 QTP distributions ($4,000 total).
+
+$3,000 |  | x |  | $800 ESA distribution
+$4,000 total distribution
+= |  | $600 QHEE (ESA)
+$3,000 |  | x |  | $3,200 QTP distribution
+$4,000 total distribution
+= |  | $2,400 QHEE (QTP)
+
+-
+
+You then figure the taxable part of the following.
+
+-
+
+Coverdell ESA distribution based on qualified education expenses of $1,600 ($1,000 QESEE + $600 QHEE). See Figuring the Taxable Portion of a Distribution , earlier, in this chapter.
+
+-
+
+QTP distribution based on their $2,400 of QHEE (see Figuring the Taxable Portion of a Distribution in chapter 7 ).
+
+. The above examples show two types of allocation between distributions from a Coverdell ESA and a QTP. However, you don't have to allocate your expenses in the same way. You can use any reasonable method. .
+
+Losses on Coverdell ESA Investments
+
+For tax years beginning after 2017 and before 2026, if you have a loss on your investment in a Coverdell ESA, you can’t deduct the loss on your income tax return. You have a loss only when all amounts from that account have been distributed and the total distributions are less than your unrecovered basis. Your basis is the total amount of contributions to that Coverdell ESA.
+
+Additional Tax on Taxable Distributions
+
+Generally, if you receive a taxable distribution, you must also pay a 10% additional tax on the amount included in income.
+
+Exceptions.
+
+The 10% additional tax doesn’t apply to the following distributions.
+
+-
+
+Paid to a beneficiary (or to the estate of the designated beneficiary) on or after the death of the designated beneficiary.
+
+-
+
+Made because the designated beneficiary is disabled. A person is considered to be disabled if proof is provided showing there is a physical or mental impairment that substantially limits any gainful activity. A physician must determine that the person’s condition can be expected to result in death or to be of long-continued and indefinite duration.
+
+-
+
+Included in income because the designated beneficiary received:
+
+-
+
+A tax-free scholarship or fellowship grant (see Tax-Free Scholarships and Fellowship Grants in chapter 1 );
+
+-
+
+Veterans’ educational assistance (see Veterans’ Benefits in chapter 1);
+
+-
+
+Employer-provided educational assistance (see chapter 10 ); or
+
+-
+
+Any other nontaxable (tax-free) payments (other than gifts or inheritances) received as educational assistance.
+
+This exception applies only to the extent the distribution isn’t more than the scholarship, allowance, or payment.
+
+-
+
+Made on account of the attendance of the designated beneficiary at a U.S. military academy (such as the USMA at West Point). This exception applies only to the extent that the amount of the distribution doesn’t exceed the costs of advanced education (as defined in section 2005(d)(3) of title 10 of the U.S. Code) attributable to such attendance.
+
+-
+
+Included in income only because the qualified education expenses were taken into account in determining the American opportunity or lifetime learning credit (see Coordination With American Opportunity and Lifetime Learning Credits , earlier).
+
+-
+
+Made before June 1, 2026, of an excess 2025 contribution (and any earnings on it). The distributed earnings must be included in gross income for the year in which the excess contribution was made.
+
+Figuring the additional tax.
+
+Use Part II of Form 5329 to figure any additional tax. Report the amount on Schedule 2 (Form 1040), line 8.
+
+When Assets Must Be Distributed
+
+Any assets remaining in a Coverdell ESA must be distributed when either one of the following two events occurs.
+
+-
+
+The designated beneficiary reaches age 30. In this case, the remaining assets must be distributed within 30 days after the beneficiary reaches age 30. However, this rule doesn’t apply if the beneficiary is a special needs beneficiary.
+
+-
+
+The designated beneficiary dies. In this case, the remaining assets must generally be distributed within 30 days after the date of death.
+
+Exception for Transfer to Surviving Spouse or Family Member
+
+If a Coverdell ESA is transferred to a surviving spouse or other family member as the result of the death of the designated beneficiary, the Coverdell ESA retains its status. (“Family member” was defined earlier under Rollovers .) This means the spouse or other family member can treat the Coverdell ESA as their own and doesn’t need to withdraw the assets until they reach age 30. This age limitation doesn’t apply if the new beneficiary is a special needs beneficiary. There are no tax consequences as a result of the transfer.
+
+How To Figure the Taxable Earnings
+
+When a total distribution is made because the designated beneficiary either reached age 30 or died, the earnings that accumulated tax free in the account must be included in taxable income. You determine these earnings as shown in the following two steps.
+
+-
+
+Multiply the amount distributed by a fraction. The numerator (top part) is the basis (contributions not previously distributed) at the end of 2024 plus total contributions for 2025, and the denominator (bottom part) is the balance in the account at the end of 2025 plus the amount distributed during 2025.
+
+-
+
+Subtract the amount figured in (1) from the total amount distributed during 2025. The result is the amount of earnings included in the distribution.
+
+For an example, see steps 1 and 2 of the Example under Figuring the Taxable Portion of a Distribution , earlier.
+
+The beneficiary or other person receiving the distribution must report this amount on Schedule 1 (Form 1040), line 8z, listing the type and amount of income.
+
+Worksheet 6-3 Instructions. Coverdell ESA—Taxable Distributions and Basis
+
+Line G. | Enter the total distributions received from all Coverdell ESAs during 2025. Don’t include amounts rolled over to another ESA within 60 days (only one rollover is allowed during any 12-month period). Also, don’t include excess contributions that were distributed with the related earnings (or less any loss) before the first day of the sixth month of the tax year following the year for which the contributions were made.
+Line 2. | Your basis (amount already taxed) in this Coverdell ESA as of December 31, 2024, is the total of:
+• All contributions to this Coverdell ESA before 2025, minus • The tax-free portion of any distributions from this Coverdell ESA before 2025.
+If your last distribution from this Coverdell ESA was before 2025, you must start with the basis in your account as of the end of the last year in which you took a distribution. For years before 2002, you can find that amount on the last line of the worksheet in the Instructions for Form 8606, Nondeductible IRAs, that you completed for that year. For years after 2001, you can find that amount by using the ending basis from the worksheet in Pub. 970 for that year. You can determine your basis in this Coverdell ESA as of December 31, 2024, by adding to the basis as of the end of that year any contributions made to that account after the year of the distribution and before 2025.
+Line 4. | Enter the total distributions received from this Coverdell ESA in 2025. Don’t include amounts rolled over to another Coverdell ESA within 60 days (only one rollover is allowed during any 12-month period).
+Also, don’t include excess contributions that were distributed with the related earnings (or less any loss) before the first day of the sixth month of the tax year following the year of the contributions.
+Line 7. | Enter the total value of this Coverdell ESA as of December 31, 2025, plus any outstanding rollovers contributed to the account after 2024, but before the end of the 60-day rollover period. A statement should be sent to you by February 2, 2026 (January 31 falls on a Saturday), for this Coverdell ESA showing the value on December 31, 2025.
+A rollover is a tax-free withdrawal from one Coverdell ESA that is contributed to another Coverdell ESA. An outstanding rollover is any amount withdrawn within 60 days before the end of 2025 (November 2 through December 31) that was rolled over after December 31, 2025, but within the 60-day rollover period.
+
+Coverdell education savings account (ESA)Figuring taxable portion of distributionWorksheet 6-3 Coverdell education savings account (ESA)Taxable distributionsWorksheet 6-3 to figure WorksheetsCoverdell ESATaxable distributions and basis (Worksheet 6-3)Worksheet 6-3. Coverdell ESA—Taxable Distributions and Basis
+
+How to complete this worksheet.
+• • • | Complete Part I, lines A through H, on only one worksheet. Complete a separate Part II, lines 1 through 15, for each of your Coverdell ESAs. Complete Part III, the Summary (line 16), on only one worksheet.
+Caution. If you had a distribution from a qualified tuition program (QTP), see Coordination With Qualified Tuition Program (QTP) Distributions .
+Part I. Qualified Education Expenses (Complete for total expenses.)
+A. | Enter your total qualified education expenses for 2025 |  | A. | _____
+B. | Enter those qualified education expenses paid for with tax-free educational assistance (for example, tax-free scholarships, veterans’ educational benefits, Pell grants, employer-provided educational assistance) |  | B. | _____
+C. | Enter those qualified higher education expenses deducted on Schedule C (Form 1040), Schedule F (Form 1040), or Schedule 1 (Form 1040), line 12 |  | C. | _____
+D. | Enter those qualified higher education expenses on which an American opportunity or lifetime learning credit was based |  | D. | _____
+E. | Add lines B, C, and D |  | E. | _____
+F. | Subtract line E from line A. This is your AQEE for 2025 |  | F. | _____
+G. | Enter your total distributions from all Coverdell ESAs during 2025. Don’t include rollovers or the return of excess contributions. See instructions |  | G. | _____
+H. | Divide line F by line G. Enter the result as a decimal (rounded to at least 3 places). If the result is 1.000 or more, enter 1.000 |  | H. | .
+Part II. Taxable Distributions and Basis (Complete separately for each account.)
+1. | Enter the amount contributed to this Coverdell ESA for 2025, including contributions made for 2025 from January 1, 2026, through the due date (not including extensions) for filing your 2025 return. Don’t include rollovers or the return of excess contributions |  | 1. | _____
+2. | Enter your basis in this Coverdell ESA as of December 31, 2024. See instructions |  | 2. | _____
+3. | Add lines 1 and 2 |  | 3. | _____
+4. | Enter the total distributions from this Coverdell ESA during 2025. Don’t include rollovers or the return of excess contributions. See instructions |  | 4. | _____
+5. | Multiply line 4 by line H. This is the amount of AQEE attributable to this Coverdell ESA |  | 5. | _____
+6. | Subtract line 5 from line 4 |  | 6. | _____
+7. | Enter the total value of this Coverdell ESA as of December 31, 2025, plus any outstanding rollovers. See instructions |  | 7. | _____
+8. | Add lines 4 and 7 |  | 8. | _____
+9. | Divide line 3 by line 8. Enter the result as a decimal (rounded to at least 3 places). If the result is 1.000 or more, enter 1.000 |  | 9. | .
+10. | Multiply line 4 by line 9. This is the amount of basis allocated to your distributions, and is tax free |  | 10. | _____
+Note. If line 6 is zero, skip lines 11 through 13, enter -0- on line 14, and go to line 15.
+11. | Subtract line 10 from line 4 |  | 11. | _____
+12. | Divide line 5 by line 4. Enter the result as a decimal (rounded to at least 3 places). If the result is 1.000 or more, enter 1.000 |  | 12. | .
+13. | Multiply line 11 by line 12. This is the amount of qualified education expenses allocated to your distributions, and is tax free |  | 13. | _____
+14. | Subtract line 13 from line 11. This is the portion of the distributions from this Coverdell ESA in 2025 that you must include in income |  | 14. | _____
+15. | Subtract line 10 from line 3. This is your basis in this Coverdell ESA as of December 31, 2025 |  | 15. | _____
+Part III. Summary (Complete only once.)
+16. | Taxable amount. Add together all amounts on line 14 for all your Coverdell ESAs. Enter here and include on Schedule 1 (Form 1040), line 8z , listing the type and amount of income |  | 16. | _____

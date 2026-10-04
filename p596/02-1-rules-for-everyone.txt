@@ -1,0 +1,281 @@
+IRS Pub 596 (2025) | 1. Rules for Everyone
+
+1. Rules for Everyone
+
+This chapter discusses Rules 1 through 7. You must meet all seven rules to qualify for the EIC. If you don’t meet all seven rules, you can’t get the credit and you don’t need to read the rest of the publication.
+
+If you meet all seven rules in this chapter, then read either chapter 2 or chapter 3 (whichever applies) for more rules you must meet.
+
+Rule 1—Adjusted Gross Income (AGI) Limits
+
+Your adjusted gross income (AGI) must be less than:
+
+-
+
+$61,555 ($68,675 for married filing jointly) if you have three or more qualifying children who have valid SSNs,
+
+-
+
+$57,310 ($64,430 for married filing jointly) if you have two qualifying children who have valid SSNs,
+
+-
+
+$50,434 ($57,554 for married filing jointly) if you have one qualifying child who has a valid SSN, or
+
+-
+
+$19,104 ($26,214 for married filing jointly) if you don’t have a qualifying child who has a valid SSN.
+
+Adjusted gross income (AGI).
+
+AGI is the amount on Form 1040 or 1040-SR, line 11b.
+
+If your AGI is equal to or more than the applicable limit listed above, you can’t claim the EIC. You don’t need to read the rest of this publication.
+
+Example—AGI is more than limit.
+
+Your AGI is $53,000, you are single, and you have one qualifying child who has a valid SSN. You can’t claim the EIC because your AGI isn’t less than $50,434. However, if your filing status was married filing jointly, you might be able to claim the EIC because your AGI is less than $57,554.
+
+Community property.
+
+If you are married, but qualify to file as head of household or married filing separately under special rules for married taxpayers living apart (see Rule 3 ), and live in a state that has community property laws, your AGI includes that portion of both your and your spouse’s wages that you are required to include in gross income. This is different from the community property rules that apply under Rule 7 .
+
+Rule 2—You Must Have a Valid Social Security Number (SSN)
+
+To claim the EIC, you (and your spouse if filing a joint return) must have a valid SSN issued by the Social Security Administration (SSA) by the due date of your 2025 return (including extensions).
+
+Your qualifying child must have a valid SSN issued on or before the due date of your return (including extensions) for you to claim a higher EIC amount based on that child. If you have at least one child who meets the conditions to be your qualifying child for purposes of claiming the EIC, but that child doesn’t have a valid SSN issued on or before the due date of your 2025 return (including extensions), you may be eligible to claim a self-only EIC if you are otherwise eligible. For information about how to complete Schedule EIC if your qualifying child or children don’t have valid SSNs issued on or before the due date of your return, see Schedule EIC.
+
+An SSN is valid for the EIC unless it was issued after the due date of your 2025 return (including extensions) or it was issued solely to apply for or receive a federally funded benefit and does not authorize you to work. An example of a federally funded benefit is Medicaid.
+
+. If you, your spouse, or your child has a social security card with “Not valid for employment” printed on it and the immigration status of you, your spouse, or your child has changed so that the individual is now a U.S. citizen or permanent resident, ask the SSA for a social security card without the legend. .
+
+U.S. citizen.
+
+If you were a U.S. citizen when you received your SSN, you have a valid SSN.
+
+Valid for work only with INS authorization or DHS authorization.
+
+If your social security card reads “Valid for work only with INS authorization” or “Valid for work only with DHS authorization,” you have a valid SSN, but only if that authorization is still valid.
+
+SSN missing or incorrect.
+
+If an SSN for you or your spouse is missing from your tax return or is incorrect, you may not get the EIC.
+
+If an SSN for you or your spouse is missing from your return because either you or your spouse didn’t have a valid SSN on or before the due date of your 2025 return (including extensions) and you later get a valid SSN, you can’t file an amended return to claim the EIC. However, if you or your spouse were issued an SSN that wasn’t valid for the EIC, but by the due date of your 2025 return (including extensions) you or your spouse became eligible for a social security card without “Not valid for employment” printed on it, you may claim the EIC on an original or amended 2025 return even if the social security card wasn’t updated by the due date of your 2025 return (including extensions).
+
+Other taxpayer identification number.
+
+You can’t get the EIC if, instead of an SSN, you (or your spouse if filing a joint return) have an individual taxpayer identification number (ITIN). ITINs are issued by the IRS to noncitizens who can’t get an SSN.
+
+No SSN.
+
+If you don’t have a valid SSN on or before the due date of your 2025 return (including extensions), check the box on line 27c (Form 1040 or 1040-SR). You can’t claim the EIC on either your original or an amended 2025 return.
+
+Getting an SSN.
+
+If you (or your spouse if filing a joint return) don’t have an SSN, you can apply for one by filing Form SS-5 with the SSA. You can get Form SS-5 online at SSA.gov/forms/ss-5.pdf , from your local SSA office, or by calling the SSA at 800-772-1213.
+
+Filing deadline approaching and still no SSN.
+
+If the filing deadline is approaching and you still don’t have an SSN, you can request an automatic 6-month extension of time to file your return. You can get this extension by filing Form 4868, Application for Automatic Extension of Time To File U.S. Individual Income Tax Return. For more information, see the instructions for Form 4868. Instead of filing Form 4868, you can apply for an automatic extension by making an electronic payment by the due date of your return.
+
+Rule 3—If You Are Separated From Your Spouse and Not Filing a Joint Return, You Must Meet Certain Rules
+
+If you are married, you must usually file a joint return to claim the EIC. However, there is a special rule for separated spouses.
+
+Special rule for separated spouses.
+
+You can claim the EIC if you are married, not filing a joint return, had a qualifying child who lived with you for more than half of 2025, and either of the following apply.
+
+-
+
+You lived apart from your spouse for the last 6 months of 2025, or
+
+-
+
+You are legally separated according to your state law under a written separation agreement or a decree of separate maintenance and you didn’t live in the same household as your spouse at the end of 2025.
+
+If you meet these requirements, check the box in the Dependents section that discusses the special rule for separated spouses on page 1 of Form 1040 or 1040-SR.
+
+. Make sure you complete and attach Schedule EIC to your return to list your qualifying child (or children). Complete and attach Schedule EIC whether or not your qualifying child (or children) has a valid SSN. .
+
+. If the child who meets the conditions to be your qualifying child for purposes of claiming the EIC doesn’t have a valid SSN, you may still qualify to claim a self-only EIC. .
+
+Rule 4—You Must Be a U.S. Citizen or Resident Alien All Year
+
+If you were a nonresident alien for any part of the year, you can’t claim the EIC unless your filing status is married filing jointly. You can use that filing status only if your spouse is a U.S. citizen or resident alien and you choose to be treated as a U.S. resident. If you make this choice, you and your spouse are taxed on your worldwide income. If you need more information on making this choice, get Pub. 519. If you were a nonresident alien for any part of the year and your filing status isn’t married filing jointly, check the box on line 27c (Form 1040 or 1040-SR). See Nonresident aliens and dual-status aliens in the Form 1040 instructions for more information, including information on making the election to treat a nonresident or dual-status alien spouse as a U.S. resident for the entire tax year.
+
+Rule 5—You Cannot File Form 2555
+
+You can’t claim the EIC if you file Form 2555, Foreign Earned Income. You file these forms to exclude income earned in foreign countries from your gross income or to deduct or exclude a foreign housing amount. U.S. territories aren’t foreign countries. See Pub. 54 for more detailed information.
+
+Rule 6—Your Investment Income Must Be $11,950 or Less
+
+You can’t claim the EIC unless your investment income is $11,950 or less. If your investment income is more than $11,950, you can’t claim the credit.
+
+Use Worksheet 1 in this chapter to figure your investment income.
+
+Worksheet 1. Investment Income
+
+Use this worksheet to figure investment income for the EIC when you file Form 1040 or 1040-SR.
+
+Interest and Dividends
+1. | Enter any amount from Form 1040 or 1040-SR, line 2b | 1. | _____
+2. | Enter any amount from Form 1040 or 1040-SR, line 2a, plus any amount on Form 8814, line 1b | 2. | _____
+3. | Enter any amount from Form 1040 or 1040-SR, line 3b | 3. | _____
+4. | Enter the amount from Schedule 1 (Form 1040), line 8z, that is from Form 8814 if you are filing that form to report your child’s interest and dividend income on your return. (If your child received an Alaska Permanent Fund dividend, use Worksheet 2 in this chapter to figure the amount to enter on this line.) | 4. | _____
+Capital Gain Net Income
+5. | Enter the amount from Form 1040 or 1040-SR, line 7a. If the amount on that line is a loss, enter -0- | 5. | _____
+6. | Enter any gain from Form 4797, line 7. If the amount on that line is a loss, enter -0-. (But, if you completed lines 8 and 9 of Form 4797, enter the amount from line 9 instead.) | 6. | _____
+7. | Subtract line 6 of this worksheet from line 5 of this worksheet. (If the result is less than zero, enter -0-.) | 7. | _____
+Royalties and Rental Income From Personal Property
+8. | Enter any royalty income from Schedule E (Form 1040), line 23b, plus any income from the rental of personal property shown on Schedule 1 (Form 1040), line 8l | 8. | _____
+9. | Enter any expenses from Schedule E (Form 1040), line 20, related to royalty income, plus any expenses from the rental of personal property deducted on Schedule 1 (Form 1040), line 24b | 9. | _____
+10. | Subtract the amount on line 9 of this worksheet from the amount on line 8. (If the result is less than zero, enter -0-.) | 10. | _____
+Passive Activities
+11. | Enter the total of any net income from passive activities (such as income included on Schedule E, line 26, 29a (col. (h)), 34a (col. (d)), or 40; or an ordinary gain on Form 4797, line 10). (See instructions below for lines 11 and 12.) | 11. | _____
+12. | Enter the total of any losses from passive activities (such as losses included on Schedule E, line 26, 29b (col. (g)), 34b (col. (c)), or 40; or an ordinary loss on Form 4797, line 10). (See instructions below for lines 11 and 12.) | 12. | _____
+13. | Combine the amounts on lines 11 and 12 of this worksheet. (If the result is less than zero, enter -0-.) | 13. | _____
+14. | Add the amounts on lines 1, 2, 3, 4, 7, 10, and 13. Enter the total. This is your investment income | 14. | _____
+15. | Is the amount on line 14 more than $11,950 ? □ Yes. You can’t take the credit. □ No. Go to Step 3 of the Form 1040 instructions for line 27a to find out if you can take the credit (unless you are using this publication to find out if you can take the credit; in that case, go to Rule 7 next).
+Instructions for lines 11 and 12. In figuring the amount to enter on lines 11 and 12, don’t take into account any royalty income (or loss) included on line 26 of Schedule E or any income (or loss) included in your earned income or on line 1, 2, 3, 4, 7, or 10 of this worksheet. To find out if the income on line 26 or line 40 of Schedule E is from a passive activity, see the Schedule E instructions. If any of the rental real estate income (or loss) included on Schedule E, line 26, isn’t from a passive activity, enter “NPA” and the amount of that income (or loss) on the dotted line next to line 26.
+
+Worksheet 2. Worksheet for Line 4 of Worksheet 1
+
+Complete this worksheet only if Form 8814 includes an Alaska Permanent Fund dividend.
+
+Note: Fill out a separate Worksheet 2 for each Form 8814.
+1. | Enter the amount from Form 8814, line 2a | 1. | _____
+2. | Enter the amount from Form 8814, line 2b | 2. | _____
+3. | Subtract line 2 from line 1 | 3. | _____
+4. | Enter the amount from Form 8814, line 1a | 4. | _____
+5. | Add lines 3 and 4 | 5. | _____
+6. | Enter the amount of the child’s Alaska Permanent Fund dividend | 6. | _____
+7. | Divide line 6 by line 5. Enter the result as a decimal (rounded to at least three places) | 7. | _____
+8. | Enter the amount from Form 8814, line 12 | 8. | _____
+9. | Multiply line 7 by line 8 | 9. | _____
+10. | Subtract line 9 from line 8. Enter the result on line 4 of Worksheet 1 | 10. | _____
+(If filing more than one Form 8814, enter on line 4 of Worksheet 1 the total of the amounts on line 10 of all Worksheets 2.)
+
+Rule 7—You Must Have Earned Income
+
+This credit is called the “earned income” credit because, to qualify, you must work and have earned income. If you are married and file a joint return, you meet this rule if at least one spouse works and has earned income. If you are an employee, earned income includes all the taxable income you get from your employer.
+
+Rule 15 has information that will help you figure the amount of your earned income. If you are self-employed or a statutory employee, you will figure your earned income on EIC Worksheet B in the Form 1040 instructions.
+
+Earned Income
+
+Earned income includes all of the following types of income.
+
+-
+
+Wages, salaries, tips, and other taxable employee pay. Employee pay is earned income only if it is taxable. Nontaxable employee pay, such as certain dependent care benefits and adoption benefits, isn’t earned income. But there is an exception for nontaxable combat pay, which you can choose to include in earned income, as explained later in this chapter.
+
+-
+
+Net earnings from self-employment.
+
+-
+
+Gross income received as a statutory employee.
+
+Wages, salaries, and tips reported in box 1 of Form(s) W-2.
+
+Wages, salaries, and tips you receive for working are reported to you on Form W-2, in box 1. You should report these on Form 1040 or 1040-SR, line 1a.
+
+Other types of earned income.
+
+Other types of earned income not reported on Form W-2, in box 1, include household employee wages, tip income not reported to your employer, certain Medicaid waiver payments if you choose to include nontaxable payments in earned income for purposes of claiming the EIC, taxable dependent care benefits, employer provided adoption benefits from Form 8839, wages from Form 8919, and other earned income. You should report these on Form 1040 or 1040-SR, lines 1b through 1h.
+
+Nontaxable combat pay election.
+
+You can elect to include your nontaxable combat pay in earned income for the EIC. The amount of your nontaxable combat pay should be shown on your Form W-2, in box 12, with code Q. Electing to include nontaxable combat pay in earned income may increase or decrease your EIC. For details, see Nontaxable combat pay in chapter 4.
+
+Net earnings from self-employment.
+
+You may have net earnings from self-employment if:
+
+-
+
+You own your own business, or
+
+-
+
+You are a minister or member of a religious order.
+
+Minister’s housing.
+
+The rental value of a home or a housing allowance provided to a minister as part of the minister’s pay generally isn’t subject to income tax but is included in net earnings from self-employment. For that reason, it is included in earned income for the EIC (except in the cases described in Approved Form 4361 or Form 4029 , later).
+
+Statutory employee.
+
+You are a statutory employee if you receive a Form W-2 on which the “Statutory employee” box (box 13) is checked. You report your income and expenses as a statutory employee on Schedule C (Form 1040).
+
+Strike and lockout benefits.
+
+Benefits paid to you as strike or lockout benefits, including both cash and the fair market value of other property (other than bona fide gifts), are generally taxable to you. If strike and lockout benefits are taxable, the benefits are generally earned income. You should report the amount of your taxable strike and lockout benefits on Form 1040 or 1040-SR, line 1h.
+
+Approved Form 4361 or Form 4029
+
+This section is for persons who have an approved:
+
+-
+
+Form 4361, Application for Exemption From Self-Employment Tax for Use by Ministers, Members of Religious Orders, and Christian Science Practitioners; or
+
+-
+
+Form 4029, Application for Exemption From Social Security and Medicare Taxes and Waiver of Benefits.
+
+Each approved form exempts certain income from social security taxes. Each form is discussed here in terms of what is or isn’t earned income for the EIC.
+
+Form 4361.
+
+Whether or not you have an approved Form 4361, amounts you received for performing ministerial duties as an employee count as earned income. This includes wages, salaries, tips, and other taxable employee compensation.
+
+If you have an approved Form 4361, a nontaxable housing allowance or the nontaxable rental value of a home isn’t earned income. Also, amounts you received for performing ministerial duties, but not as an employee, don’t count as earned income. Examples include fees for performing marriages and honoraria for delivering speeches.
+
+Form 4029.
+
+Whether or not you have an approved Form 4029, all wages, salaries, tips, and other taxable employee compensation count as earned income. However, amounts you received as a self-employed individual don’t count as earned income. Also, in figuring earned income, don’t subtract losses on Schedule C or F from wages reported on lines 1a through 1h of Form 1040 or 1040-SR.
+
+Disability Benefits
+
+If you retired on disability, taxable benefits you receive under your employer’s disability retirement plan are considered earned income until you reach minimum retirement age. Minimum retirement age is generally the earliest age at which you could have received a pension or annuity if you weren’t disabled. You must report your taxable disability payments on line 1h of Form 1040 or 1040-SR until you reach minimum retirement age.
+
+Beginning on the day after you reach minimum retirement age, payments you receive are taxable as a pension and aren’t considered earned income. Report taxable pension payments on Form 1040 or 1040-SR, lines 5a and 5b.
+
+Disability insurance payments.
+
+Payments you received from a disability insurance policy that you paid the premiums for aren’t earned income. It doesn’t matter whether you have reached minimum retirement age. If this policy is through your employer, the amount may be shown in box 12 of your Form W-2 with code J.
+
+Income That Is Not Earned Income
+
+Examples of items that aren’t earned income include interest and dividends, pensions and annuities, social security and railroad retirement benefits (including disability benefits), alimony and child support, welfare benefits, workers’ compensation benefits, unemployment compensation (insurance), nontaxable foster care payments, and veterans’ benefits, including VA rehabilitation payments. Don’t include any of these items in your earned income.
+
+Earnings while an inmate.
+
+Amounts received for services performed while an inmate in a penal institution aren’t earned income when figuring the EIC.
+
+Workfare payments.
+
+Nontaxable workfare payments aren’t earned income for the EIC. These are cash payments certain people receive from a state or local agency that administers public assistance programs funded under the federal TANF program in return for certain work activities such as (1) work experience activities (including remodeling or repairing public housing) if sufficient private sector employment isn’t available, or (2) community service program activities.
+
+Community property.
+
+If you are married, but qualify to file as head of household or married filing separately under special rules for married taxpayers living apart (see Rule 3 ), and live in a state that has community property laws, your earned income for the EIC doesn’t include any amount earned by your spouse that is treated as belonging to you under those laws. That amount isn’t earned income for the EIC, even though you must include it in your gross income on your income tax return. Your earned income includes the entire amount you earned, even if part of it is treated as belonging to your spouse under your state’s community property laws.
+
+Nevada, Washington, and California domestic partners.
+
+If you are a registered domestic partner in Nevada, Washington, or California, the same rules apply. Your earned income for the EIC doesn’t include any amount earned by your partner. Your earned income includes the entire amount you earned. For details, see Pub. 555.
+
+Conservation Reserve Program (CRP) payments.
+
+If you were receiving social security retirement benefits or social security disability benefits at the time you received any CRP payments, your CRP payments aren’t earned income for the EIC.
+
+Nontaxable military pay.
+
+Nontaxable pay for members of the Armed Forces isn’t considered earned income for the EIC. Examples of nontaxable military pay are combat pay, the Basic Allowance for Housing (BAH), and the Basic Allowance for Subsistence (BAS). See Pub. 3 for more information.
+
+. Combat pay. You can elect to include your nontaxable combat pay in earned income for the EIC. See Nontaxable combat pay in chapter 4. .

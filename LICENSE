@@ -1,0 +1,15 @@
+The IRS publication text in this repository was authored by U.S. federal
+government employees as part of their official duties and is not subject to
+copyright in the United States (17 U.S.C. § 105). Per the IRS notice at
+https://www.irs.gov/about-irs/use-of-content-from-irsgov: "Content on this
+website that was created or maintained by federal employees in the course of
+their duties is not subject to copyright and may be freely copied. Credit is
+requested."
+
+Credit: Internal Revenue Service, https://www.irs.gov
+
+The packaging of this repository — directory layout, splitting, and the build
+script in tools/ — is provided under Apache-2.0.
+
+This mirror contains no IRS or Department of the Treasury seal, name, logo, or
+other symbol, and nothing here implies IRS endorsement.

@@ -1,0 +1,77 @@
+IRS Pub 15 (2026) | 6. Tips
+
+6. Tips
+
+Cash tips your employee receives from customers are generally subject to withholding. Your employee must report cash tips to you by the 10th of the month after the month the tips are received. Cash tips include tips paid by cash, check, debit card, and credit card. The report should include tips you paid over to the employee for charge customers, tips the employee received directly from customers, and tips received from other employees under any tip-sharing arrangement. Both directly and indirectly tipped employees must report tips to you. No report is required for months when tips are less than $20. If you don’t give your employees any specific method to report tips (for example, an electronic tip reporting system), your employees must give you a statement reporting their tips. The statement must be signed and dated by the employee and must include:
+
+-
+
+The employee’s name, address, and SSN;
+
+-
+
+Your name and address;
+
+-
+
+The month and year (or the beginning and ending dates, if the statement is for a period of less than 1 calendar month) the report covers; and
+
+-
+
+The total of tips received during the month or period.
+
+You’re permitted to establish a system for electronic tip reporting by employees. See Regulations section 31.6053-1(d). You may also suggest that your employees see Pub. 531, Reporting Tip Income.
+
+Collecting taxes on tips.
+
+You must collect federal income tax (see Federal income tax withholding on tips , later), employee social security tax, and employee Medicare tax on the employee’s tips. The withholding rules for withholding an employee’s share of Medicare tax on tips also apply to withholding the Additional Medicare Tax once wages and tips exceed $200,000 in the calendar year.
+
+You can collect these taxes from the employee’s wages (excluding tips) or from other funds they make available. See Tips are treated as supplemental wages in section 7 for more information. Stop collecting the employee share of social security tax when their wages and tips for tax year 2026 reach $184,500; collect the income and employee Medicare taxes for the whole year on all wages and tips. You’re responsible for the employer social security tax on wages and tips until the wages (including tips) reach the limit. You’re responsible for the employer Medicare tax for the whole year on all wages and tips. Tips are considered to be paid at the time the employee reports them to you. Deposit taxes on tips based on your deposit schedule as described in section 11 . File Form 941 or Form 944 to report withholding and employment taxes on tips.
+
+Ordering rule.
+
+If, by the 10th of the month after the month for which you received an employee’s report on tips, you don’t have enough employee funds available to deduct the employee tax, you no longer have to collect it. If there aren’t enough funds available, withhold taxes in the following order.
+
+-
+
+Withhold on regular wages and other compensation.
+
+-
+
+Withhold social security and Medicare taxes on tips.
+
+-
+
+Withhold income tax on tips.
+
+Federal income tax withholding on tips.
+
+For tax years beginning after 2024 and ending before 2029, P.L. 119-21 allows employees and self-employed individuals to deduct up to $25,000 of qualified tips received in occupations that customarily and regularly received tips on or before December 31, 2024, on their income tax returns. Qualified tips are cash tips, which include voluntary cash or charged tips received from customers or, in the case of employees, through tip-sharing arrangements. Mandatory service charges added to the bill are not qualified tips.
+
+Employers must use an employee’s updated Form W-4, if one is submitted by the employee, and the federal income tax withholding procedures in Pub. 15-T to allow the employee to account for their expected deduction and receive more money in each paycheck instead of waiting until filing their income tax return to receive the full benefit of this deduction.
+
+Reporting tips.
+
+Report tips and any collected and uncollected social security and Medicare taxes on Form W-2 (Form 499R-2/W-2PR for employers in Puerto Rico) and on Form 941, lines 5b, 5c, and, if applicable, 5d (Form 944, lines 4b, 4c, and, if applicable, 4d). Report a negative adjustment on Form 941, line 9 (Form 944, line 6), for the uncollected social security and Medicare taxes. Enter the amount of uncollected social security tax and Medicare tax in box 12 of Form W-2 with codes “A” and “B,” respectively. On Form 499R-2/W-2PR, enter the amount of uncollected social security and Medicare taxes in boxes 25 and 26, respectively. Don’t include any uncollected Additional Medicare Tax in box 12 of Form W-2. For additional information on reporting tips, see section 13 and the General Instructions for Forms W-2 and W-3. Employers in Puerto Rico, see the General Instructions for Forms W-3 (PR) and W-3C (PR).
+
+Revenue Ruling 2012-18 provides guidance for employers regarding social security and Medicare taxes imposed on tips, including information on the reporting of the employer share of social security and Medicare taxes under section 3121(q), the difference between tips and service charges, and the section 45B credit. See Revenue Ruling 2012-18, 2012-26 I.R.B. 1032, available at IRS.gov/irb/2012-26_IRB#RR-2012-18 .
+
+FUTA tax on tips.
+
+If an employee reports to you in writing $20 or more of tips in a month, the tips are also subject to FUTA tax.
+
+Allocated tips.
+
+If you operate a large food or beverage establishment, you must report allocated tips under certain circumstances. However, don’t withhold income, social security, or Medicare tax on allocated tips.
+
+A large food or beverage establishment is one that is located in the 50 states or the District of Columbia, provides food or beverages for consumption on the premises, where tipping is customary, and where there were normally more than 10 employees on a typical business day during the preceding year.
+
+The tips may be allocated by one of three methods—hours worked, gross receipts, or good-faith agreement. For information about these allocation methods, and for information about required electronic filing of Form 8027, see the Instructions for Form 8027. For more information on filing Form 8027 electronically with the IRS, see Pub. 1239.
+
+Tip Rate Determination and Education Program.
+
+Employers may participate in the Tip Rate Determination and Education Program. The program primarily consists of two voluntary agreements developed to improve tip income reporting by helping taxpayers to understand and meet their tip reporting responsibilities. The two agreements are the Tip Rate Determination Agreement (TRDA) and the Tip Reporting Alternative Commitment (TRAC). A tip agreement, the Gaming Industry Tip Compliance Agreement (GITCA), is available for the gaming (casino) industry. For more information, see Pub. 3144.
+
+More information.
+
+Advise your employees to see Pub. 531 or use the IRS Interactive Tax Assistant at IRS.gov/TipIncome for help in determining if their tip income is taxable and for information about how to report tip income.

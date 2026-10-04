@@ -1,0 +1,383 @@
+IRS Pub 334 (2025) | 10. Self-Employment (SE) Tax
+
+10. Self-Employment (SE) Tax
+
+. The SE tax rules apply no matter how old you are and even if you are already receiving social security and Medicare benefits. .
+
+Who Must Pay SE Tax?
+
+Generally, you must pay SE tax and file Schedule SE (Form 1040) if your net earnings from self-employment were $400 or more. Use Schedule SE (Form 1040) to figure net earnings from self-employment.
+
+Sole proprietor or independent contractor.
+
+If you are self-employed as a sole proprietor or independent contractor, you generally use Schedule C (Form 1040) to figure your earnings subject to SE tax.
+
+SE tax rate.
+
+The 2025 SE tax rate on net earnings is 15.3% (12.4% social security tax plus 2.9% Medicare tax).
+
+Maximum earnings subject to SE tax.
+
+Only the first $176,100 of your combined wages, tips, and net earnings in 2025 is subject to any combination of the 12.4% social security part of SE tax, social security tax, or the Tier 1 part of railroad retirement tax.
+
+All of your combined wages, tips, and net earnings in 2025 are subject to any combination of the 2.9% Medicare part of SE tax, Medicare tax, or the Medicare part of railroad retirement tax.
+
+If your wages and tips are subject to either social security tax or the Tier 1 part of railroad retirement tax, or both, and total at least $176,100, don’t pay the 12.4% social security part of the SE tax on any of your net earnings. However, you must pay the 2.9% Medicare part of SE tax on all your net earnings.
+
+Additional Medicare Tax.
+
+A 0.9% Additional Medicare Tax may apply to you if your net earnings from self-employment exceed a threshold amount (based on your filing status). For more information, see Self-Employment (SE) Tax in chapter 1, and Form 8959 and its instructions.
+
+Special Rules and Exceptions
+
+Aliens.
+
+Generally, resident aliens must pay SE tax under the same rules that apply to U.S. citizens. Nonresident aliens are not subject to SE tax unless an international social security agreement (also known as a totalization agreement) in effect determines that they are covered under the U.S. social security system. However, residents of the U.S. Virgin Islands, Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, or American Samoa are subject to SE tax, as they are considered U.S. residents for SE tax purposes. For more information on aliens, see Pub. 519, U.S. Tax Guide for Aliens.
+
+Child employed by parent.
+
+You are not subject to SE tax if you are under age 18 and you are working for your father or mother.
+
+Church employee.
+
+If you work for a church or a qualified church-controlled organization (other than as a minister, member of a religious order, or Christian Science practitioner) that elected an exemption from social security and Medicare taxes, you are subject to SE tax if you receive $108.28 or more in wages from the church or organization. For more information, see Pub. 517, Social Security and Other Information for Members of the Clergy and Religious Workers.
+
+Fishing crew member.
+
+If you are a member of the crew on a boat that catches fish or other aquatic life, your earnings are subject to SE tax if all the following conditions apply.
+
+-
+
+You don’t get any pay for the work except your share of the catch or a share of the proceeds from the sale of the catch, unless the pay meets all the following conditions.
+
+-
+
+The pay is not more than $100 per trip.
+
+-
+
+The pay is received only if there is a minimum catch.
+
+-
+
+The pay is solely for additional duties (such as mate, engineer, or cook) for which additional cash pay is traditional in the fishing industry.
+
+-
+
+You get a share of the catch or a share of the proceeds from the sale of the catch.
+
+-
+
+Your share depends on the amount of the catch.
+
+-
+
+The boat’s operating crew normally numbers fewer than 10 individuals. (An operating crew is considered as normally made up of fewer than 10 if the average size of the crew on trips made during the last 4 calendar quarters is fewer than 10.)
+
+Notary public.
+
+Fees you receive for services you perform as a notary public are reported on Schedule C (Form 1040) but are not subject to SE tax (see the Instructions for Schedule SE (Form 1040)).
+
+State or local government employee.
+
+You are subject to SE tax if you are an employee of a state or local government, are paid solely on a fee basis, and your services are not covered under a federal-state social security agreement.
+
+Foreign government or international organization employee.
+
+You are subject to SE tax if both the following conditions are true.
+
+-
+
+You are a U.S. citizen employed in the United States, Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or the U.S. Virgin Islands by:
+
+-
+
+A foreign government,
+
+-
+
+A wholly owned agency of a foreign government, or
+
+-
+
+An international organization.
+
+-
+
+Your employer is not required to withhold social security and Medicare taxes from your wages.
+
+U.S. citizen or resident alien residing abroad.
+
+If you are a self-employed U.S. citizen or resident alien living outside the United States, in most cases you must pay SE tax. Foreign earnings from self-employment can’t be reduced by your foreign earned income exclusion when computing self-employment tax.
+
+Exception.
+
+The United States has social security agreements with many countries to eliminate double taxation under two social security systems. Under these agreements, you must generally only pay social security and Medicare taxes to the country in which you live. The country to which you must pay the tax will issue a certificate that serves as proof of exemption from social security tax in the other country.
+
+For more information, see the Instructions for Schedule SE (Form 1040).
+
+More Than One Business
+
+If you have earnings subject to SE tax from more than one trade, business, or profession, you must combine the net profit (or loss) from each to determine your total earnings subject to SE tax. A loss from one business generally reduces your profit from another business.
+
+Community Property Income
+
+If any of the income from a trade or business, other than a partnership, is community property income under state law, it is included in the earnings subject to SE tax of the spouse carrying on the trade or business.
+
+Gain or Loss
+
+Don’t include in earnings subject to SE tax a gain or loss from the disposition of property that is neither stock in trade nor held primarily for sale to customers. It doesn’t matter whether the disposition is a sale, an exchange, or an involuntary conversion.
+
+Lost Income Payments
+
+If you are self-employed and reduce or stop your business activities, any payment you receive from insurance or other sources for the lost business income is included in earnings subject to SE tax. If you are not working when you receive the payment, it still relates to your business and is included in earnings subject to SE tax, even though your business is temporarily inactive.
+
+Figuring Earnings Subject to SE Tax
+
+Methods for Figuring Net Earnings
+
+There are three ways to figure net earnings from self-employment.
+
+-
+
+The regular method.
+
+-
+
+The nonfarm optional method.
+
+-
+
+The farm optional method.
+
+You must use the regular method to the extent you don’t use one or both of the optional methods.
+
+Why use an optional method?
+
+You may want to use the optional methods (discussed later) when you have a loss or a small net profit and any one of the following applies.
+
+-
+
+You want to receive credit for social security benefit coverage.
+
+-
+
+You incurred child or dependent care expenses for which you could claim a credit. (An optional method may increase your earned income, which could increase your credit.)
+
+-
+
+You are entitled to the earned income credit. (An optional method may increase your earned income, which could increase your credit.)
+
+-
+
+You are entitled to the additional child tax credit. (An optional method may increase your earned income, which could increase your credit.)
+
+Effects of using an optional method.
+
+Using an optional method could increase your SE tax. Paying more SE tax could result in your getting higher benefits when you retire.
+
+Using the optional methods may also decrease your AGI due to the deduction for one-half of SE tax on Form 1040 or 1040-SR, which may affect your eligibility for credits, deductions, or other items that are subject to an AGI limit. Figure your AGI with and without using the optional methods to see if the optional methods will benefit you.
+
+If you use either or both optional methods, you must figure and pay the SE tax due under these methods even if you would have had a smaller tax or no tax using the regular method.
+
+The optional methods may be used only to figure your SE tax. To figure your income tax, include your actual earnings in gross income, regardless of which method you use to determine SE tax.
+
+Regular Method
+
+To figure net earnings using the regular method, multiply your self-employment earnings by 92.35% (0.9235). For your net earnings figured using the regular method, see line 4a of your Schedule SE (Form 1040).
+
+Net earnings figured using the regular method are also called actual net earnings.
+
+Nonfarm Optional Method
+
+Use the nonfarm optional method only for earnings that don’t come from farming. You may use this method if you meet all the following tests.
+
+-
+
+You are self-employed on a regular basis. This means that your actual net earnings from self-employment were $400 or more in at least 2 of the 3 tax years before the one for which you use this method. For this purpose, the prior-year net earnings can be from either farm or nonfarm earnings or both.
+
+-
+
+You have used this method less than 5 years. (There is a 5-year lifetime limit.) The years don’t have to be one after another.
+
+-
+
+Your net nonfarm profits were:
+
+-
+
+Less than $7,840, and
+
+-
+
+Less than 72.189% of your gross nonfarm income.
+
+Net nonfarm profit.
+
+Net nonfarm profit is generally the total of the amounts from:
+
+-
+
+Line 31 of Schedule C (Form 1040); and
+
+-
+
+Box 14, code A, of Schedule K-1 (Form 1065) (from nonfarm partnerships).
+
+However, you may need to adjust the amount reported on Schedule K-1 (Form 1065) if you are a general partner or if it is a loss.
+
+Gross nonfarm income.
+
+Your gross nonfarm income is generally the total of the amounts from:
+
+-
+
+Line 7 of Schedule C (Form 1040); and
+
+-
+
+Box 14, code C, of Schedule K-1 (Form 1065) (from nonfarm partnerships).
+
+Figuring Nonfarm Net Earnings
+
+If you meet the three tests explained earlier, use the following table to figure your nonfarm net earnings from self-employment under the nonfarm optional method.
+
+Table 10-1. Figuring Nonfarm Net Earnings
+
+IF your gross nonfarm income is... | THEN your net earnings are equal to...
+$10,860 or less | two-thirds of your gross nonfarm income.
+more than $10,860 | $7,840.
+
+Optional net earnings less than actual net earnings.
+
+You can’t use this method to report an amount less than your actual nonfarm net earnings from self-employment. Your actual nonfarm net earnings are your nonfarm net earnings figured using the regular method, explained earlier.
+
+Gross nonfarm income of $10,860 or less.
+
+The following examples illustrate how to figure net earnings when gross nonfarm income is $10,860 or less.
+
+Example 1. Net nonfarm profit less than $7,840 and less than 72.189% of gross nonfarm income.
+
+You run a craft business. Your actual net earnings from self-employment were $800 in 2023 and $900 in 2024. You meet the test for being self-employed on a regular basis. You have used the nonfarm optional method less than 5 years. Your gross income and net profit in 2025 are as follows.
+
+Gross nonfarm income | $5,400
+Net nonfarm profit | $1,200
+
+Your actual net earnings for 2025 are $1,108 ($1,200 × 0.9235). Because your net profit is less than $7,840 and less than 72.189% of your gross income, you can use the nonfarm optional method to figure net earnings of $3,600 ( 2 / 3 × $5,400). Because these net earnings are higher than your actual net earnings, you can report net earnings of $3,600 for 2025.
+
+Example 2. Net nonfarm profit less than $7,840 but not less than 72.189% of gross nonfarm income.
+
+Assume that in Example 1 your gross income is $1,200 and your net profit is $900. You must use the regular method to figure your net earnings. You can’t use the nonfarm optional method because your net profit is not less than 72.189% of your gross income.
+
+Example 3. Net loss from a nonfarm business.
+
+Assume that in Example 1 you have a net loss of $700. You can use the nonfarm optional method and report $3,600 ( 2 / 3 × $5,400) as your net earnings.
+
+Example 4. Nonfarm net earnings less than $400.
+
+Assume that in Example 1 you have gross income of $525 and a net profit of $175. In this situation, you would not pay any SE tax under either the regular method or the nonfarm optional method because your net earnings under both methods are less than $400.
+
+Gross nonfarm income of more than $10,860.
+
+The following examples illustrate how to figure net earnings when gross nonfarm income is more than $10,860.
+
+Example 1. Net nonfarm profit less than $7,840 and less than 72.189% of gross nonfarm income.
+
+You run an appliance repair shop. Your actual net earnings from self-employment were $10,500 in 2023 and $9,500 in 2024. You meet the test for being self-employed on a regular basis. You have used the nonfarm optional method less than 5 years. Your gross income and net profit in 2025 are as follows.
+
+Gross nonfarm income | $12,000
+Net nonfarm profit | $1,200
+
+Your actual net earnings for 2025 are $1,108 ($1,200 × 0.9235). Because your net profit is less than $7,840 and less than 72.189% of your gross income, you can use the nonfarm optional method to figure net earnings of $7,240. Because these net earnings are higher than your actual net earnings, you can report net earnings of $7,240 for 2025.
+
+Example 2. Net nonfarm profit not less than $7,840.
+
+Assume that in Example 1 your net profit is $8,900. You must use the regular method. You can’t use the nonfarm optional method because your net nonfarm profit is not less than $7,840.
+
+Example 3. Net loss from a nonfarm business.
+
+Assume that in Example 1 you have a net loss of $700. You can use the nonfarm optional method and report $7,240 as your net earnings from self-employment.
+
+Farm Optional Method
+
+Use the farm optional method only for earnings from a farming business. See Pub. 225 for information about this method.
+
+Using Both Optional Methods
+
+If you have both farm and nonfarm earnings, you may be able to use both optional methods to determine your net earnings from self-employment.
+
+To figure your net earnings using both optional methods, you must do the following.
+
+-
+
+Figure your farm and nonfarm net earnings separately under each method. Don’t combine farm earnings with nonfarm earnings to figure your net earnings under either method.
+
+-
+
+Add the net earnings figured under each method to arrive at your total net earnings from self-employment.
+
+You can report less than your total actual farm and nonfarm net earnings but not less than actual nonfarm net earnings. If you use both optional methods, you can report no more than $7,240 as your combined net earnings from self-employment.
+
+Example.
+
+You are a self-employed farmer. You also operate a retail grocery store. Your gross income, actual net earnings from self-employment, and optional farm and optional nonfarm net earnings from self-employment are shown in Table 10-2.
+
+Table 10-2. Example—Farm and Nonfarm Earnings
+
+Income and earnings | Farm | Nonfarm
+Gross income | $4,500 | $6,000
+Actual net earnings | $900 | $500
+Optional net earnings ( 2 / 3 of gross income) | $3,000 | $4,000
+
+Table 10-3 shows four methods or combinations of methods you can use to figure net earnings from self-employment using the farm and nonfarm gross income and actual net earnings shown in Table 10-2.
+
+-
+
+Method 1. Using the regular method for both farm and nonfarm income.
+
+-
+
+Method 2. Using the optional method for farm income and the regular method for nonfarm income.
+
+-
+
+Method 3. Using the regular method for farm income and the optional method for nonfarm income.
+
+-
+
+Method 4. Using the optional method for both farm and nonfarm income.
+
+Note: Actual net earnings are the same as net earnings figured using the regular method.
+
+Table 10-3. Example—Net Earnings
+
+Net earnings | 1 | 2 | 3 | 4
+Actual farm | $900 |  | $900
+Optional farm |  | $3,000 |  | $3,000
+Actual nonfarm | $500 | $500
+Optional nonfarm |  |  | $4,000 | $4,000
+Amount you can report: | $1,400 | $3,500 | $4,900 | $7,240*
+
+* Limited to $7,240 because you used both optional methods.
+
+Fiscal-Year Filer
+
+If you use a tax year other than the calendar year, you must use the tax rate and maximum earnings limit in effect at the beginning of your tax year. Even if the tax rate or maximum earnings limit changes during your tax year, continue to use the same rate and limit throughout your tax year.
+
+Reporting SE Tax
+
+Use Schedule SE (Form 1040) to figure and report your SE tax. If you file Form 1040 or 1040-SR, enter the SE tax on line 4 of Schedule 2 and attach Schedule SE (Form 1040) to your form. If you file Form 1040-SS, enter the SE tax on line 3 and attach Schedule SE (Form 1040) to your form.
+
+. If you need to pay SE tax, you must file Form 1040, 1040-SR, or 1040-SS, as applicable (with Schedule SE (Form 1040) attached) even if you don’t otherwise have to file a federal income tax return. .
+
+Joint return.
+
+Even if you file a joint return, you can’t file a joint Schedule SE (Form 1040). This is true whether one spouse or both spouses have earnings subject to SE tax. If both of you have earnings subject to SE tax, each of you must complete a separate Schedule SE (Form 1040). Attach both schedules to the joint return.
+
+More than one business.
+
+If you have more than one trade or business, you must combine the net profit (or loss) from each business to figure your SE tax. A loss from one business will generally reduce your profit from another business. File one Schedule SE (Form 1040) showing the earnings from self-employment, but file a separate Schedule C or F (Form 1040) for each business.
+
+Example.
+
+You are the sole proprietor of two separate businesses. You operate a restaurant that made a net profit of $25,000. You also have a cabinetmaking business that had a net loss of $500. You must file a Schedule C (Form 1040) for the restaurant showing your net profit of $25,000 and another Schedule C (Form 1040) for the cabinetmaking business showing your net loss of $500. You file one Schedule SE (Form 1040) showing total earnings subject to SE tax of $24,500.

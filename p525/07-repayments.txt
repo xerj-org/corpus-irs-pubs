@@ -1,0 +1,107 @@
+IRS Pub 525 (2025) | Repayments
+
+Repayments
+
+If you had to repay an amount that you included in your income in an earlier year, you may be able to deduct the amount repaid from your income for the year in which you repaid it. Or, if the amount you repaid is more than $3,000, you may be able to take a credit against your tax for the year in which you repaid it. In most cases, you can claim a deduction or credit only if the repayment qualifies as an expense or loss incurred in your trade or business or in a for-profit transaction.
+
+Type of deduction.
+
+The type of deduction you’re allowed in the year of repayment depends on the type of income you included in the earlier year. In most cases, you deduct the repayment on the same form or schedule on which you previously reported it as income. For example, if you reported it as self-employment income, deduct it as a business expense on Schedule C (Form 1040) or Schedule F (Form 1040). If you reported it as a capital gain, deduct it as a capital loss as explained in the Instructions for Schedule D (Form 1040). If you reported it as wages, unemployment compensation, or other nonbusiness income, you may be able to deduct it as an other itemized deduction if the amount repaid is over $3,000.
+
+Caution:
+
+For tax years beginning after 2017, you can no longer claim any miscellaneous itemized deductions; so, if the amount repaid was $3,000 or less, you aren’t able to deduct it from your income in the year you repaid it.
+
+Repaid social security benefits.
+
+If you repaid social security or equivalent railroad retirement benefits, see Pub. 915.
+
+Repayment over $3,000.
+
+If the amount you repaid was more than $3,000, you can deduct the repayment as an other itemized deduction on Schedule A (Form 1040), line 16, if you included the income under a claim of right. This means that at the time you included the income, it appeared that you had an unrestricted right to it. However, you can choose to take a credit for the year of repayment. Figure your tax under both methods and compare the results. Use the method (deduction or credit) that results in less tax.
+
+Caution:
+
+When determining whether the amount you repaid was less than $3,000, consider the total amount being repaid on the return. Each instance of repayment isn’t considered separately.
+
+Method 1.
+
+Figure your tax for the year of repayment claiming a deduction for the repaid amount.
+
+Method 2.
+
+Figure your tax for the year of repayment claiming a credit for the repaid amount. Follow these steps.
+
+-
+
+Figure your tax for the year of repayment without deducting the repaid amount.
+
+-
+
+Refigure your tax from the earlier year without including in income the amount you repaid in the year of repayment.
+
+-
+
+Subtract the tax in (2) from the tax shown on your return for the earlier year. This is the credit.
+
+-
+
+Subtract the answer in (3) from the tax for the year of repayment figured without the deduction (step 1).
+
+If method 1 results in less tax, deduct the amount repaid. If method 2 results in less tax, claim the credit figured in (3) above on Form 1040 or 1040-SR. (If the year of repayment is 2024, and you’re taking the credit, enter the credit on Schedule 3 (Form 1040), line 13b, and see the instructions for it.)
+
+Example 40.
+
+For 2024, you filed a return and reported your income on the cash method. In 2025, you repaid $5,000 included in your 2024 income under a claim of right. Your filing status in 2025 and 2024 is single. Your income and tax for both years are as follows.
+
+2024
+With income | Without income
+Taxable income | $15,000 | $10,000
+Tax | $1,571 | $1,003
+2025
+Without deduction | With deduction
+Taxable income | $49,950 | $44,950
+Tax | $5,903 | $5,156
+
+Your tax under method 1 is $5,156. Your tax under method 2 is $5,903, figured as follows.
+
+Tax previously determined for 2024 | $1,571
+Less: Tax as refigured | − 1,003
+Decrease in 2024 tax | $ 568
+Regular tax liability for 2025 | $5,903
+Less: Decrease in 2024 tax | − 568
+Refigured tax for 2025 | $5,335
+
+You pay less tax using method 1, so you should take a deduction for the repayment in 2025.
+
+Repaid wages subject to social security and Medicare taxes.
+
+If you had to repay an amount that you included in your wages or compensation in an earlier year on which social security, Medicare, or tier 1 RRTA tax was paid, ask your employer to refund the excess amount to you. If the employer refuses to refund the taxes, ask for a statement indicating the amount of the overcollection to support your claim. File a claim for refund using Form 843.
+
+Repaid wages subject to Additional Medicare Tax.
+
+Employers can’t make an adjustment or file a claim for refund for Additional Medicare Tax withholding when there is a repayment of wages received by an employee in a prior year because the employee determines liability for Additional Medicare Tax on the employee’s income tax return for the prior year. If you had to repay an amount that you included in your wages or compensation in an earlier year, and on which Additional Medicare Tax was paid, you may be able to recover the Additional Medicare Tax paid on the amount. To recover Additional Medicare Tax on the repaid wages or compensation, you must file Form 1040-X for the prior year in which the wages or compensation was originally received. See the Instructions for Form 1040-X.
+
+Repayment rules don’t apply.
+
+This discussion doesn’t apply to:
+
+-
+
+Deductions for bad debts;
+
+-
+
+Deductions for theft losses due to criminal fraud or embezzlement in a transaction entered into for profit;
+
+-
+
+Deductions from sales to customers, such as returns and allowances, and similar items; or
+
+-
+
+Deductions for legal and other expenses of contesting the repayment.
+
+Year of deduction (or credit).
+
+If you use the cash method, you can take the deduction (or credit, if applicable) for the tax year in which you actually make the repayment. If you use any other accounting method, you can deduct the repayment or claim a credit for it only for the tax year in which it’s a proper deduction under your accounting method. For example, if you use an accrual method, you’re entitled to the deduction or credit in the tax year in which the obligation for the repayment accrues.

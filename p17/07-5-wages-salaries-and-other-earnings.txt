@@ -1,0 +1,1078 @@
+IRS Pub 17 (2025) | 5. Wages, Salaries, and Other Earnings
+
+5. Wages, Salaries, and Other Earnings
+
+What’s New
+
+Deferred compensation contribution limit increased. If you participate in a 401(k) plan, 403(b) plan, or the federal government’s Thrift Savings Plan, the total annual amount you can contribute for 2025 is increased to:
+
+-
+
+$23,500,
+
+-
+
+$31,000 if age 50 or older, or
+
+-
+
+$37,750 if age 60 through 63 at the end of 2025.
+
+This also applies to most section 457 plans.
+
+Health flexible spending arrangements (health FSAs) under cafeteria plans. For tax years beginning in 2025, the dollar limitation under section 125(i) on voluntary employee salary reductions for contributions to health FSAs is $3,300.
+
+Introduction
+
+This chapter discusses compensation received for services as an employee, such as wages, salaries, and fringe benefits. The following topics are included.
+
+-
+
+Bonuses and awards.
+
+-
+
+Special rules for certain employees.
+
+-
+
+Sickness and injury benefits.
+
+The chapter explains what income is included and isn’t included in the employee’s gross income.
+
+Useful Items
+
+You may want to see:
+
+Publication
+
+-
+
+463 Travel, Gift, and Car Expenses
+
+-
+
+502 Medical and Dental Expenses
+
+-
+
+524 Credit for the Elderly or the Disabled
+
+-
+
+525 Taxable and Nontaxable Income
+
+-
+
+526 Charitable Contributions
+
+-
+
+550 Investment Income and Expenses
+
+-
+
+554 Tax Guide for Seniors
+
+-
+
+575 Pension and Annuity Income
+
+-
+
+907 Tax Highlights for Persons With Disabilities
+
+-
+
+926 Household Employer’s Tax Guide
+
+-
+
+3920 Tax Relief for Victims of Terrorist Attacks
+
+For these and other useful items, go to IRS.gov/Forms .
+
+Employee Compensation
+
+This section discusses various types of employee compensation, including fringe benefits, retirement plan contributions, stock options, and restricted property.
+
+Form W-2.
+
+If you’re an employee, you should receive a Form W-2 from your employer showing the pay you received for your services. Include your pay on Form 1040 or 1040-SR, line 1a, even if you don’t receive a Form W-2.
+
+In some instances, your employer isn’t required to give you a Form W-2. Your employer isn’t required to give you a Form W-2 if you perform household work in your employer’s home for less than $2,800 in cash wages during the calendar year and you have no federal income taxes withheld from your wages. Household work is work done in or around an employer’s home. Some examples of workers who do household work are:
+
+-
+
+Babysitters,
+
+-
+
+Butlers,
+
+-
+
+Caretakers,
+
+-
+
+Cooks,
+
+-
+
+Domestic workers,
+
+-
+
+Drivers,
+
+-
+
+Health aides,
+
+-
+
+Housecleaning workers,
+
+-
+
+Housekeepers,
+
+-
+
+Maids,
+
+-
+
+Nannies,
+
+-
+
+Private nurses, and
+
+-
+
+Yard workers.
+
+See Schedule H (Form 1040), Household Employment Taxes, and its instructions, and Pub. 926 for more information.
+
+If you performed services, other than as an independent contractor, and your employer didn’t withhold social security and Medicare taxes from your pay, you must file Form 8919, Uncollected Social Security and Medicare Tax on Wages, with your Form 1040 or 1040-SR. See Form 8919 and its instructions for more information on how to figure unreported wages and taxes and how to include them on your income tax return.
+
+Childcare providers.
+
+If you provide childcare, either in the child’s home or in your home or other place of business, the pay you receive must be included in your income. If you aren’t an employee, you’re probably self-employed and must include payments for your services on Schedule C (Form 1040), Profit or Loss From Business. You generally aren’t an employee unless you’re subject to the will and control of the person who employs you as to what you’re to do and how you’re to do it.
+
+Babysitting.
+
+If you’re paid to babysit, even for relatives or neighborhood children, whether on a regular basis or only periodically, the rules for childcare providers apply to you.
+
+Self-employment tax.
+
+Whether you’re an employee or self-employed person, your income could be subject to self-employment tax. See the instructions for Schedules C and SE (Form 1040) if you’re self-employed. Also, see Pub. 926 for more information.
+
+Miscellaneous Compensation
+
+This section discusses different types of employee compensation.
+
+Advance commissions and other earnings.
+
+If you receive advance commissions or other amounts for services to be performed in the future and you’re a cash-method taxpayer, you must include these amounts in your income in the year you receive them.
+
+If you repay unearned commissions or other amounts in the same year you receive them, reduce the amount included in your income by the repayment. If you repay them in a later tax year, you can deduct the repayment as an itemized deduction on your Schedule A (Form 1040), line 16, or you may be able to take a credit for that year. See Repayments in chapter 8.
+
+Allowances and reimbursements.
+
+If you receive travel, transportation, or other business expense allowances or reimbursements from your employer, see Pub. 463, Travel, Gift, and Car Expenses. If you’re a member of the military and you’re reimbursed for moving expenses, see Pub. 521, Moving Expenses.
+
+Back pay awards.
+
+If you receive an amount in payment of a settlement or judgment for back pay, you must include the amount of the payment in your income. This includes payments made to you for damages, unpaid life insurance premiums, and unpaid health insurance premiums. They should be reported to you by your employer on Form W-2.
+
+Bonuses and awards.
+
+If you receive a bonus or award (cash, goods, services, etc.) from your employer, you must include its value in your income. However, if your employer merely promises to pay you a bonus or award at some future time, it isn’t taxable until you receive it or it’s made available to you.
+
+Employee achievement award.
+
+If you receive tangible personal property (other than cash, a gift certificate, or an equivalent item) as an award for length of service or safety achievement, you can generally exclude its value from your income. The amount you can exclude is limited to your employer’s cost and can’t be more than $1,600 for qualified plan awards or $400 for nonqualified plan awards for all such awards you receive during the year. Your employer can tell you whether your award is a qualified plan award. Your employer must make the award as part of a meaningful presentation, under conditions and circumstances that don’t create a significant likelihood of it being disguised pay.
+
+However, the exclusion doesn’t apply to the following awards.
+
+-
+
+A length-of-service award if you received it for less than 5 years of service or if you received another length-of-service award during the year or the previous 4 years.
+
+-
+
+A safety achievement award if you’re a manager, administrator, clerical employee, or other professional employee or if more than 10% of eligible employees previously received safety achievement awards during the year.
+
+Example.
+
+You received three employee achievement awards during the year: a nonqualified plan award of a watch valued at $250, two qualified plan awards of a stereo valued at $1,000, and a set of golf clubs valued at $500. Assuming that the requirements for qualified plan awards are otherwise satisfied, each award by itself would be excluded from income. However, because the $1,750 total value of the awards is more than $1,600, you must include $150 ($1,750 – $1,600) in your income.
+
+Differential wage payments.
+
+This is any payment made to you by an employer for any period during which you are, for a period of more than 30 days, an active duty member of the uniformed services and represents all or a portion of the wages you would have received from the employer during that period. These payments are treated as wages and are subject to income tax withholding but not FICA or FUTA tax. The payments are reported as wages on Form W-2.
+
+Government cost-of-living allowances.
+
+Most payments received by U.S. Government civilian employees for working abroad are taxable. However, certain cost-of-living allowances are tax free. Pub. 516, U.S. Government Civilian Employees Stationed Abroad, explains the tax treatment of allowances, differentials, and other special pay you receive for employment abroad.
+
+Nonqualified deferred compensation plans.
+
+Your employer may report to you the total amount of deferrals for the year under a nonqualified deferred compensation plan in box 12 of Form W-2, using code Y. This amount isn’t included in your income.
+
+However, if at any time during the tax year, the plan fails to meet certain requirements, or isn’t operated under those requirements, all amounts deferred under the plan for the tax year and all preceding tax years to the extent vested and not previously included in income are included in your income for the current year. This amount is included in your wages shown in box 1 of Form W-2. It’s also shown in box 12 of Form W-2, using code Z.
+
+Note received for services.
+
+If your employer gives you a secured note as payment for your services, you must include the fair market value (usually the discount value) of the note in your income for the year you receive it. When you later receive payments on the note, a proportionate part of each payment is the recovery of the fair market value that you previously included in your income. Don’t include that part again in your income. Include the rest of the payment in your income in the year of payment.
+
+If your employer gives you a nonnegotiable unsecured note as payment for your services, payments on the note that are credited toward the principal amount of the note are compensation income when you receive them.
+
+Severance pay.
+
+If you receive a severance payment when your employment with your employer ends or is terminated, you must include this amount in your income.
+
+Accrued leave payment.
+
+If you’re a federal employee and receive a lump-sum payment for accrued annual leave when you retire or resign, this amount will be included as wages on your Form W-2.
+
+If you resign from one agency and are reemployed by another agency, you may have to repay part of your lump-sum annual leave payment to the second agency. You can reduce gross wages by the amount you repaid in the same tax year in which you received it. Attach to your tax return a copy of the receipt or statement given to you by the agency you repaid to explain the difference between the wages on the return and the wages on your Forms W-2.
+
+Outplacement services.
+
+If you choose to accept a reduced amount of severance pay so that you can receive outplacement services (such as training in résumé writing and interview techniques), you must include the unreduced amount of the severance pay in income.
+
+Sick pay.
+
+Pay you receive from your employer while you’re sick or injured is part of your salary or wages. In addition, you must include in your income sick pay benefits received from any of the following payers.
+
+-
+
+A welfare fund.
+
+-
+
+A state sickness or disability fund.
+
+-
+
+An association of employers or employees.
+
+-
+
+An insurance company if your employer paid for the plan.
+
+However, if you paid the premiums on an accident or health insurance policy yourself, the benefits you receive under the policy aren’t taxable. For more information, see Pub. 525, Taxable and Nontaxable Income.
+
+Social security and Medicare taxes paid by employer.
+
+If you and your employer have an agreement that your employer pays your social security and Medicare taxes without deducting them from your gross wages, you must report the amount of tax paid for you as taxable wages on your tax return. The payment is also treated as wages for figuring your social security and Medicare taxes and your social security and Medicare benefits. However, these payments aren’t treated as social security and Medicare wages if you’re a household worker or a farm worker.
+
+Stock appreciation rights.
+
+Don’t include a stock appreciation right granted by your employer in income until you exercise (use) the right. When you use the right, you’re entitled to a cash payment equal to the fair market value of the corporation’s stock on the date of use minus the fair market value on the date the right was granted. You include the cash payment in your income in the year you use the right.
+
+Fringe Benefits
+
+Fringe benefits received in connection with the performance of your services are included in your income as compensation unless you pay fair market value for them or they’re specifically excluded by law. Refraining from the performance of services (for example, under a covenant not to compete) is treated as the performance of services for purposes of these rules.
+
+Accounting period.
+
+You must use the same accounting period your employer uses to report your taxable noncash fringe benefits. Your employer has the option to report taxable noncash fringe benefits by using either of the following rules.
+
+-
+
+The general rule: benefits are reported for a full calendar year (January 1–December 31).
+
+-
+
+The special accounting period rule: benefits provided during the last 2 months of the calendar year (or any shorter period) are treated as paid during the following calendar year, for example, each year your employer reports the value of benefits provided during the last 2 months of the prior year and the first 10 months of the current year.
+
+Your employer doesn’t have to use the same accounting period for each fringe benefit, but must use the same period for all employees who receive a particular benefit.
+
+You must use the same accounting period that you use to report the benefit to claim an employee business deduction (for use of a car, for example).
+
+Form W-2.
+
+Your employer must include all taxable fringe benefits in box 1 of Form W-2 as wages, tips, and other compensation and, if applicable, in boxes 3 and 5 as social security and Medicare wages. Although not required, your employer may include the total value of fringe benefits in box 14 (or on a separate statement). However, if your employer provided you with a vehicle and included 100% of its annual lease value in your income, the employer must separately report this value to you in box 14 (or on a separate statement).
+
+Accident or Health Plan
+
+In most cases, the value of accident or health plan coverage provided to you by your employer isn’t included in your income. Benefits you receive from the plan may be taxable, as explained later under Sickness and Injury Benefits .
+
+For information on the items covered in this section, other than long-term care coverage, see Pub. 969, Health Savings Accounts and Other Tax-Favored Health Plans.
+
+Long-term care coverage.
+
+Contributions by your employer to provide coverage for long-term care services generally aren’t included in your income. However, contributions made through a flexible spending or similar arrangement offered by your employer must be included in your income. This amount will be reported as wages in box 1 of Form W-2.
+
+Contributions you make to the plan are discussed in Pub. 502, Medical and Dental Expenses.
+
+Archer MSA contributions.
+
+Contributions by your employer to your Archer MSA generally aren’t included in your income. Their total will be reported in box 12 of Form W-2, with code R. You must report this amount on Form 8853, Archer MSAs and Long-Term Care Insurance Contracts. File the form with your return.
+
+Health flexible spending arrangement (health FSA).
+
+If your employer provides a health FSA that qualifies as an accident or health plan, the amount of your salary reduction, and reimbursements of your medical care expenses, in most cases, aren’t included in your income.
+
+Note:
+
+Health FSAs are subject to a limit on salary reduction contributions for plan years beginning after 2012. For tax years beginning in 2025, the dollar limitation (as indexed for inflation) on voluntary employee salary reductions for contributions to health FSAs is $3,300.
+
+Health reimbursement arrangement (HRA).
+
+If your employer provides an HRA that qualifies as an accident or health plan, coverage and reimbursements of your medical care expenses generally aren’t included in your income.
+
+Health savings account (HSA).
+
+If you’re an eligible individual, you and any other person, including your employer or a family member, can make contributions to your HSA. Contributions, other than employer contributions, are deductible on your return whether or not you itemize deductions. Contributions made by your employer aren’t included in your income. Distributions from your HSA that are used to pay qualified medical expenses aren’t included in your income. Distributions not used for qualified medical expenses are included in your income. See Pub. 969 for the requirements of an HSA.
+
+Contributions by a partnership to a bona fide partner’s HSA aren’t contributions by an employer. The contributions are treated as a distribution of money and aren’t included in the partner’s gross income. Contributions by a partnership to a partner’s HSA for services rendered are treated as guaranteed payments that are includible in the partner’s gross income. In both situations, the partner can deduct the contribution made to the partner’s HSA.
+
+Contributions by an S corporation to a 2% shareholder-employee’s HSA for services rendered are treated as guaranteed payments and are includible in the shareholder-employee’s gross income. The shareholder-employee can deduct the contribution made to the shareholder-employee’s HSA.
+
+Qualified HSA funding distribution.
+
+You can make a one-time distribution from your individual retirement account (IRA) to an HSA and you generally won’t include any of the distribution in your income.
+
+Adoption Assistance
+
+You may be able to exclude from your income amounts paid or expenses incurred by your employer for qualified adoption expenses in connection with your adoption of an eligible child. See the Instructions for Form 8839, Qualified Adoption Expenses, for more information.
+
+Adoption benefits are reported by your employer in box 12 of Form W-2, with code T. They are also included as social security and Medicare wages in boxes 3 and 5. However, they aren’t included as wages in box 1. To determine the taxable and nontaxable amounts, you must complete Part III of Form 8839. File the form with your return.
+
+De Minimis (Minimal) Benefits
+
+If your employer provides you with a product or service and the cost of it is so small that it would be unreasonable for the employer to account for it, you generally don’t include its value in your income. In most cases, don’t include in your income the value of discounts at company cafeterias, cab fares home when working overtime, and company picnics.
+
+Holiday gifts.
+
+If your employer gives you a turkey, ham, or other item of nominal value at Christmas or other holidays, don’t include the value of the gift in your income. However, if your employer gives you cash or a cash equivalent, you must include it in your income.
+
+Educational Assistance
+
+You can exclude from your income up to $5,250 of qualified employer-provided educational assistance. For more information, see Pub. 970, Tax Benefits for Education.
+
+Group-Term Life Insurance
+
+In most cases, the cost of up to $50,000 of group-term life insurance coverage provided to you by your employer (or former employer) isn’t included in your income. However, you must include in income the cost of employer-provided insurance that is more than the cost of $50,000 of coverage reduced by any amount you pay toward the purchase of the insurance.
+
+For exceptions, see Entire cost excluded and Entire cost taxed , later.
+
+If your employer provided more than $50,000 of coverage, the amount included in your income is reported as part of your wages in box 1 of Form W-2. Also, it’s shown separately in box 12 with code C.
+
+Group-term life insurance.
+
+This insurance is term life insurance protection (insurance for a fixed period of time) that:
+
+-
+
+Provides a general death benefit,
+
+-
+
+Is provided to a group of employees,
+
+-
+
+Is provided under a policy carried by the employer, and
+
+-
+
+Provides an amount of insurance to each employee based on a formula that prevents individual selection.
+
+Permanent benefits.
+
+If your group-term life insurance policy includes permanent benefits, such as a paid-up or cash surrender value, you must include in your income, as wages, the cost of the permanent benefits minus the amount you pay for them. Your employer should be able to tell you the amount to include in your income.
+
+Accidental death benefits.
+
+Insurance that provides accidental or other death benefits but doesn’t provide general death benefits (travel insurance, for example) isn’t group-term life insurance.
+
+Former employer.
+
+If your former employer provided more than $50,000 of group-term life insurance coverage during the year, the amount included in your income is reported as wages in box 1 of Form W-2. Also, it’s shown separately in box 12 with code C. Box 12 will also show the amount of uncollected social security and Medicare taxes on the excess coverage, with codes M and N. You must pay these taxes with your income tax return. Include them on Schedule 2 (Form 1040), line 13.
+
+Two or more employers.
+
+Your exclusion for employer-provided group-term life insurance coverage can’t exceed the cost of $50,000 of coverage, whether the insurance is provided by a single employer or multiple employers. If two or more employers provide insurance coverage that totals more than $50,000, the amounts reported as wages on your Forms W-2 won’t be correct. You must figure how much to include in your income. Reduce the amount you figure by any amount reported in box 12 of Form W-2, with code C, add the result to the wages reported in box 1, and report the total on your return.
+
+Figuring the taxable cost.
+
+Use Worksheet 5-1 to figure the amount to include in your income.
+
+Worksheet 5-1. Figuring the Cost of Group-Term Life Insurance To Include in Income
+
+1. | Enter the total amount of your insurance coverage from your employer(s) | 1. | _____
+2. | Limit on exclusion for employer-provided group-term life insurance coverage | 2. | 50,000
+3. | Subtract line 2 from line 1 | 3. | _____
+4. | Divide line 3 by $1,000. Figure to the nearest tenth | 4. | _____
+5. | Go to Table 5-1 . Using your age on the last day of the tax year, find your age group in the left column, and enter the cost from the column on the right for your age group | 5. | _____
+6. | Multiply line 4 by line 5 | 6. | _____
+7. | Enter the number of full months of coverage at this cost | 7. | _____
+8. | Multiply line 6 by line 7 | 8. | _____
+9. | Enter the premiums you paid per month | 9. | _____
+10. | Enter the number of months you paid the premiums | 10. | _____
+11. | Multiply line 9 by line 10 | 11. | _____
+12. | Subtract line 11 from line 8. Include this amount in your income as wages | 12. | _____
+
+Table 5-1. Cost of $1,000 of Group-Term Life Insurance for 1 Month
+
+Age | Cost
+Under 25 | $ 0.05
+25 through 29 | 0.06
+30 through 34 | 0.08
+35 through 39 | 0.09
+40 through 44 | 0.10
+45 through 49 | 0.15
+50 through 54 | 0.23
+55 through 59 | 0.43
+60 through 64 | 0.66
+65 through 69 | 1.27
+70 and above | 2.06
+
+Example.
+
+You are 51 years old and work for two employers, Green Company and Maple Company. Both employers provide group-term life insurance coverage for you for the entire year. Your coverage is $35,000 with Green Company and $45,000 with Maple Company. You pay premiums of $4.15 a month under the Maple Company group plan. You figure the amount to include in your income as shown in Worksheet 5-1. Figuring the Cost of Group-Term Life Insurance To Include in Income—Illustrated next.
+
+Worksheet 5-1. Figuring the Cost of Group-Term Life Insurance To Include in Income—Illustrated
+
+1. | Enter the total amount of your insurance coverage from your employer(s) | 1. | 80,000
+2. | Limit on exclusion for employer-provided group-term life insurance coverage | 2. | 50,000
+3. | Subtract line 2 from line 1 | 3. | 30,000
+4. | Divide line 3 by $1,000. Figure to the nearest tenth | 4. | 30.0
+5. | Go to Table 5-1 . Using your age on the last day of the tax year, find your age group in the left column, and enter the cost from the column on the right for your age group | 5. | 0.23
+6. | Multiply line 4 by line 5 | 6. | 6.90
+7. | Enter the number of full months of coverage at this cost | 7. | 12
+8. | Multiply line 6 by line 7 | 8. | 82.80
+9. | Enter the premiums you paid per month | 9. | 4.15
+10. | Enter the number of months you paid the premiums | 10. | 12
+11. | Multiply line 9 by line 10 | 11. | 49.80
+12. | Subtract line 11 from line 8. Include this amount in your income as wages | 12. | 33.00
+
+Entire cost excluded.
+
+You aren’t taxed on the cost of group-term life insurance if any of the following circumstances apply.
+
+-
+
+You’re permanently and totally disabled and have ended your employment.
+
+-
+
+Your employer is the beneficiary of the policy for the entire period the insurance is in force during the tax year.
+
+-
+
+A charitable organization (defined in Pub. 526, Charitable Contributions) to which contributions are deductible is the only beneficiary of the policy for the entire period the insurance is in force during the tax year. (You aren’t entitled to a deduction for a charitable contribution for naming a charitable organization as the beneficiary of your policy.)
+
+-
+
+The plan existed on January 1, 1984, and:
+
+-
+
+You retired before January 2, 1984, and were covered by the plan when you retired, or
+
+-
+
+You reached age 55 before January 2, 1984, and were employed by the employer or its predecessor in 1983.
+
+Entire cost taxed.
+
+You’re taxed on the entire cost of group-term life insurance if either of the following circumstances apply.
+
+-
+
+The insurance is provided by your employer through a qualified employees’ trust, such as a pension trust or a qualified annuity plan.
+
+-
+
+You’re a key employee and your employer’s plan discriminates in favor of key employees.
+
+Retirement Planning Services
+
+Generally, don’t include the value of qualified retirement planning services provided to you and your spouse by your employer’s qualified retirement plan. Qualified services include retirement planning advice, information about your employer’s retirement plan, and information about how the plan may fit into your overall individual retirement income plan. You can’t exclude the value of any tax preparation, accounting, legal, or brokerage services provided by your employer.
+
+Transportation
+
+If your employer provides you with a qualified transportation fringe benefit, it can be excluded from your income, up to certain limits. A qualified transportation fringe benefit is:
+
+-
+
+Transportation in a commuter highway vehicle (such as a van) between your home and work place,
+
+-
+
+A transit pass, or
+
+-
+
+Qualified parking.
+
+Cash reimbursement by your employer for these expenses under a bona fide reimbursement arrangement is also excludable. However, cash reimbursement for a transit pass is excludable only if a voucher or similar item that can be exchanged only for a transit pass isn’t readily available for direct distribution to you.
+
+Exclusion limit.
+
+The exclusion for commuter vehicle transportation and transit pass fringe benefits can’t be more than $325 a month.
+
+The exclusion for the qualified parking fringe benefit can’t be more than $325 a month.
+
+If the benefits have a value that is more than these limits, the excess must be included in your income.
+
+Commuter highway vehicle.
+
+This is a highway vehicle that seats at least six adults (not including the driver). At least 80% of the vehicle’s mileage must reasonably be expected to be:
+
+-
+
+For transporting employees between their homes and workplace, and
+
+-
+
+On trips during which employees occupy at least half of the vehicle’s adult seating capacity (not including the driver).
+
+Transit pass.
+
+This is any pass, token, farecard, voucher, or similar item entitling a person to ride mass transit (whether public or private) free or at a reduced rate or to ride in a commuter highway vehicle operated by a person in the business of transporting persons for compensation.
+
+Qualified parking.
+
+This is parking provided to an employee at or near the employer’s place of business. It also includes parking provided on or near a location from which the employee commutes to work by mass transit, in a commuter highway vehicle, or by carpool. It doesn’t include parking at or near the employee’s home.
+
+Retirement Plan Contributions
+
+Your employer’s contributions to a qualified retirement plan for you aren’t included in income at the time contributed. (Your employer can tell you whether your retirement plan is qualified.) However, the cost of life insurance coverage included in the plan may have to be included. See Group-Term Life Insurance , earlier, under Fringe Benefits .
+
+If your employer pays into a nonqualified plan for you, you must generally include the contributions in your income as wages for the tax year in which the contributions are made. However, if your interest in the plan isn’t transferable or is subject to a substantial risk of forfeiture (you have a good chance of losing it) at the time of the contribution, you don’t have to include the value of your interest in your income until it’s transferable or is no longer subject to a substantial risk of forfeiture.
+
+. For information on distributions from retirement plans, see Pub. 575, Pension and Annuity Income (or Pub. 721, Tax Guide to U.S. Civil Service Retirement Benefits, if you’re a federal employee or retiree). .
+
+Elective deferrals.
+
+If you’re covered by certain kinds of retirement plans, you can choose to have part of your compensation contributed by your employer to a retirement fund, rather than have it paid to you. The amount you set aside (called an elective deferral) is treated as an employer contribution to a qualified plan. An elective deferral, other than a designated Roth contribution (discussed later), isn’t included in wages subject to income tax at the time contributed. Rather, it’s subject to income tax when distributed from the plan. However, it’s included in wages subject to social security and Medicare taxes at the time contributed.
+
+Elective deferrals include elective contributions to the following retirement plans.
+
+-
+
+Cash or deferred arrangements (section 401(k) plans).
+
+-
+
+The Thrift Savings Plan for federal employees.
+
+-
+
+Salary reduction simplified employee pension plans (SARSEP).
+
+-
+
+Savings incentive match plans for employees (SIMPLE plans).
+
+-
+
+Tax-sheltered annuity plans (section 403(b) plans).
+
+-
+
+Section 501(c)(18)(D) plans.
+
+-
+
+Section 457 plans.
+
+Qualified automatic contribution arrangements.
+
+Under a qualified automatic contribution arrangement, your employer can treat you as having elected to have a part of your compensation contributed to a section 401(k) plan. You are to receive written notice of your rights and obligations under the qualified automatic contribution arrangement. The notice must explain:
+
+-
+
+Your rights to elect not to have elective contributions made, or to have contributions made at a different percentage; and
+
+-
+
+How contributions made will be invested in the absence of any investment decision by you.
+
+You must be given a reasonable period of time after receipt of the notice and before the first elective contribution is made to make an election with respect to the contributions.
+
+Overall limit on deferrals.
+
+For 2025, in most cases, you shouldn’t have deferred more than a total of $23,500 of contributions to the plans listed in (1) through (3) and (5) above. The limit for SIMPLE plans is $16,500. The limit for section 501(c)(18)(D) plans is the lesser of $7,000 or 25% of your compensation. The limit for section 457 plans is the lesser of your includible compensation or $23,500. Amounts deferred under specific plan limits are part of the overall limit on deferrals.
+
+Designated Roth contributions.
+
+Employers with section 401(k) plans, section 403(b) plans, and governmental section 457 plans can create qualified Roth contribution programs so that you may elect to have part or all of your elective deferrals to the plan designated as after-tax Roth contributions. Designated Roth contributions are treated as elective deferrals, except that they’re included in income at the time contributed.
+
+Excess deferrals.
+
+Your employer or plan administrator should apply the proper annual limit when figuring your plan contributions. However, you’re responsible for monitoring the total you defer to ensure that the deferrals aren’t more than the overall limit.
+
+If you set aside more than the limit, the excess must generally be included in your income for that year, unless you have an excess deferral of a designated Roth contribution. See Pub. 525 for a discussion of the tax treatment of excess deferrals.
+
+Catch-up contributions.
+
+You may be allowed catch-up contributions (additional elective deferral) if you’re age 50 or older by the end of the tax year. For more information, see Pub. 525.
+
+Stock Options
+
+If you receive a nonstatutory option to buy or sell stock or other property as payment for your services, you will usually have income when you receive the option, when you exercise the option (use it to buy or sell the stock or other property), or when you sell or otherwise dispose of the option. However, if your option is a statutory stock option, you won’t have any income until you sell or exchange your stock. Your employer can tell you which kind of option you hold. For more information, see Pub. 525.
+
+Restricted Property
+
+In most cases, if you receive property for your services, you must include its fair market value in your income in the year you receive the property. However, if you receive stock or other property that is nontransferable or subject to a substantial risk of forfeiture, you don’t include the value of the property in your income until it becomes substantially vested. (Although you can elect to include the value of the property in your income in the year it becomes transferred to you.) For more information, see Restricted Property in Pub. 525.
+
+Dividends received on restricted stock.
+
+Dividends you receive on restricted stock are treated as compensation and not as dividend income. Your employer should include these payments on your Form W-2.
+
+Stock you elected to include in income.
+
+Dividends you receive on restricted stock you elected to include in your income in the year transferred are treated the same as any other dividends. Report them on your return as dividends. For a discussion of dividends, see Pub. 550, Investment Income and Expenses.
+
+For information on how to treat dividends reported on both your Form W-2 and Form 1099-DIV, see Dividends received on restricted stock in Pub. 525.
+
+Special Rules for Certain Employees
+
+This section deals with special rules for people in certain types of employment: members of the clergy, members of religious orders, people working for foreign employers, military personnel, and volunteers.
+
+Clergy
+
+Generally, if you’re a member of the clergy, you must include in your income offerings and fees you receive for marriages, baptisms, funerals, masses, etc., in addition to your salary. If the offering is made to the religious institution, it isn’t taxable to you.
+
+If you’re a member of a religious organization and you give your outside earnings to the religious organization, you must still include the earnings in your income. However, you may be entitled to a charitable contribution deduction for the amount paid to the organization. See Pub. 526.
+
+Pension.
+
+A pension or retirement pay for a member of the clergy is usually treated as any other pension or annuity. It must be reported on lines 5a and 5b of Form 1040 or 1040-SR.
+
+Housing.
+
+Special rules for housing apply to members of the clergy. Under these rules, you don’t include in your income the rental value of a home (including utilities) or a designated housing allowance provided to you as part of your pay. However, the exclusion can’t be more than the reasonable pay for your services. If you pay for the utilities, you can exclude any allowance designated for utility cost, up to your actual cost. The home or allowance must be provided as compensation for your services as an ordained, licensed, or commissioned minister. However, you must include the rental value of the home or the housing allowance as earnings from self-employment on Schedule SE (Form 1040) if you’re subject to self-employment tax. For more information, see Pub. 517, Social Security and Other Information for Members of the Clergy and Religious Workers.
+
+Members of Religious Orders
+
+If you’re a member of a religious order who has taken a vow of poverty, how you treat earnings that you renounce and turn over to the order depends on whether your services are performed for the order.
+
+Services performed for the order.
+
+If you’re performing the services as an agent of the order in the exercise of duties required by the order, don’t include in your income the amounts turned over to the order.
+
+If your order directs you to perform services for another agency of the supervising church or an associated institution, you’re considered to be performing the services as an agent of the order. Any wages you earn as an agent of an order that you turn over to the order aren’t included in your income.
+
+Example.
+
+You’re a member of a church order and have taken a vow of poverty. You renounce any claims to your earnings and turn over to the order any salaries or wages you earn. You’re a registered nurse, so your order assigns you to work in a hospital that is an associated institution of the church. However, you remain under the general direction and control of the order. You’re considered to be an agent of the order and any wages you earn at the hospital that you turn over to your order aren’t included in your income.
+
+Services performed outside the order.
+
+If you’re directed to work outside the order, your services aren’t an exercise of duties required by the order unless they meet both of the following requirements.
+
+-
+
+They’re the kind of services that are ordinarily the duties of members of the order.
+
+-
+
+They’re part of the duties that you must exercise for, or on behalf of, the religious order as its agent.
+
+If you’re an employee of a third party, the services you perform for the third party won’t be considered directed or required of you by the order. Amounts you receive for these services are included in your income, even if you have taken a vow of poverty.
+
+Example.
+
+You are a member of a religious order and have taken a vow of poverty. You renounce all claims to your earnings and turn over your earnings to the order.
+
+You are a schoolteacher. You were instructed by the superiors of the order to get a job with a private tax-exempt school. You became an employee of the school, and, at your request, the school made the salary payments directly to the order.
+
+Because you are an employee of the school, you’re performing services for the school rather than as an agent of the order. The wages you earn working for the school are included in your income.
+
+Foreign Employer
+
+Special rules apply if you work for a foreign employer.
+
+U.S. citizen.
+
+If you’re a U.S. citizen who works in the United States for a foreign government, an international organization, a foreign embassy, or any foreign employer, you must include your salary in your income.
+
+Social security and Medicare taxes.
+
+You’re exempt from social security and Medicare employee taxes if you’re employed in the United States by an international organization or a foreign government. However, you must pay self-employment tax on your earnings from services performed in the United States, even though you aren’t self-employed. This rule also applies if you’re an employee of a qualifying wholly owned instrumentality of a foreign government.
+
+Employees of international organizations or foreign governments.
+
+Your compensation for official services to an international organization is exempt from federal income tax if you aren’t a citizen of the United States or you’re a citizen of the Philippines (whether or not you’re a citizen of the United States).
+
+Your compensation for official services to a foreign government is exempt from federal income tax if all of the following are true.
+
+-
+
+You aren’t a citizen of the United States or you’re a citizen of the Philippines (whether or not you’re a citizen of the United States).
+
+-
+
+Your work is like the work done by employees of the United States in foreign countries.
+
+-
+
+The foreign government gives an equal exemption to employees of the United States in its country.
+
+Waiver of alien status.
+
+If you’re an alien who works for a foreign government or international organization and you file a waiver under section 247(b) of the Immigration and Nationality Act to keep your immigrant status, different rules may apply. See Foreign Employer in Pub. 525.
+
+Employment abroad.
+
+For information on the tax treatment of income earned abroad, see Pub. 54.
+
+Military
+
+Payments you receive as a member of a military service are generally taxed as wages except for retirement pay, which is taxed as a pension. Allowances generally aren’t taxed. For more information on the tax treatment of military allowances and benefits, see Pub. 3, Armed Forces’ Tax Guide.
+
+Differential wage payments.
+
+Any payments made to you by an employer during the time you’re performing service in the uniformed services are treated as compensation. These wages are subject to income tax withholding and are reported on a Form W-2. See the discussion under Miscellaneous Compensation , earlier.
+
+Military retirement pay.
+
+If your retirement pay is based on age or length of service, it’s taxable and must be included in your income as a pension on lines 5a and 5b of Form 1040 or 1040-SR. Don’t include in your income the amount of any reduction in retirement or retainer pay to provide a survivor annuity for your spouse or children under the Retired Serviceman’s Family Protection Plan or the Survivor Benefit Plan.
+
+For more detailed discussion of survivor annuities, see Pub. 575, Pension and Annuity Income.
+
+Disability.
+
+If you’re retired on disability, see Military and Government Disability Pensions under Sickness and Injury Benefits , later.
+
+Veterans’ benefits.
+
+Don’t include in your income any veterans’ benefits paid under any law, regulation, or administrative practice administered by the Department of Veterans Affairs (VA). The following amounts paid to veterans or their families aren’t taxable.
+
+-
+
+Education, training, and subsistence allowances.
+
+-
+
+Disability compensation and pension payments for disabilities paid either to veterans or their families.
+
+-
+
+Grants for homes designed for wheelchair living.
+
+-
+
+Grants for motor vehicles for veterans who lost their sight or the use of their limbs.
+
+-
+
+Veterans’ insurance proceeds and dividends paid either to veterans or their beneficiaries, including the proceeds of a veteran’s endowment policy paid before death.
+
+-
+
+Interest on insurance dividends you leave on deposit with the VA.
+
+-
+
+Benefits under a dependent-care assistance program.
+
+-
+
+The death gratuity paid to a survivor of a member of the Armed Forces who died after September 10, 2001.
+
+-
+
+Payments made under the compensated work therapy program.
+
+-
+
+Any bonus payment by a state or political subdivision because of service in a combat zone.
+
+Volunteers
+
+The tax treatment of amounts you receive as a volunteer worker for the Peace Corps or similar agency is covered in the following discussions.
+
+Peace Corps.
+
+Living allowances you receive as a Peace Corps volunteer or volunteer leader for housing, utilities, household supplies, food, and clothing are generally exempt from tax.
+
+Taxable allowances.
+
+The following allowances, however, must be included in your income and reported as wages.
+
+-
+
+Allowances paid to your spouse and minor children while you’re a volunteer leader training in the United States.
+
+-
+
+Living allowances designated by the Director of the Peace Corps as basic compensation. These are allowances for personal items such as domestic help, laundry and clothing maintenance, entertainment and recreation, transportation, and other miscellaneous expenses.
+
+-
+
+Leave allowances.
+
+-
+
+Readjustment allowances or termination payments. These are considered received by you when credited to your account.
+
+Example.
+
+You are a Peace Corps volunteer and get $175 a month as a readjustment allowance during your period of service, to be paid to you in a lump sum at the end of your tour of duty. Although the allowance isn’t available to you until the end of your service, you must include it in your income on a monthly basis as it’s credited to your account.
+
+Volunteers in Service to America (VISTA).
+
+If you’re a VISTA volunteer, you must include meal and lodging allowances paid to you in your income as wages.
+
+National Senior Services Corps programs.
+
+Don’t include in your income amounts you receive for supportive services or reimbursements for out-of-pocket expenses from the following programs.
+
+-
+
+Retired Senior Volunteer Program (RSVP).
+
+-
+
+Foster Grandparent Program.
+
+-
+
+Senior Companion Program.
+
+Service Corps of Retired Executives (SCORE).
+
+If you receive amounts for supportive services or reimbursements for out-of-pocket expenses from SCORE, don’t include these amounts in gross income.
+
+Volunteer tax counseling.
+
+Don’t include in your income any reimbursements you receive for transportation, meals, and other expenses you have in training for, or actually providing, volunteer federal income tax counseling for the elderly (TCE).
+
+You can deduct as a charitable contribution your unreimbursed out-of-pocket expenses in taking part in the volunteer income tax assistance (VITA) program. See Pub. 526.
+
+Volunteer firefighters and emergency medical responders.
+
+If you are a volunteer firefighter or emergency medical responder, don’t include in your income the following benefits you receive from a state or local government.
+
+-
+
+Rebates or reductions of property or income taxes you receive because of services you performed as a volunteer firefighter or emergency medical responder.
+
+-
+
+Payments you receive because of services you performed as a volunteer firefighter or emergency medical responder, up to $50 for each month you provided services.
+
+The excluded income reduces any related tax or contribution deduction.
+
+Sickness and Injury Benefits
+
+This section discusses sickness and injury benefits, including disability pensions, long-term care insurance contracts, workers’ compensation, and other benefits.
+
+In most cases, you must report as income any amount you receive for personal injury or sickness through an accident or health plan that is paid for by your employer. If both you and your employer pay for the plan, only the amount you receive that is due to your employer’s payments is reported as income. However, certain payments may not be taxable to you. For information on nontaxable payments, see Military and Government Disability Pensions and Other Sickness and Injury Benefits , later in this discussion.
+
+. Don’t report as income any amounts paid to reimburse you for medical expenses you incurred after the plan was established. .
+
+Cost paid by you.
+
+If you pay the entire cost of a health or accident insurance plan, don’t include any amounts you receive from the plan for personal injury or sickness as income on your tax return. If your plan reimbursed you for medical expenses you deducted in an earlier year, you may have to include some, or all, of the reimbursement in your income. See What if You Receive Insurance Reimbursement in a Later Year? in Pub. 502, Medical and Dental Expenses.
+
+Cafeteria plans.
+
+In most cases, if you’re covered by an accident or health insurance plan through a cafeteria plan, and the amount of the insurance premiums wasn’t included in your income, you aren’t considered to have paid the premiums and you must include any benefits you receive in your income. If the amount of the premiums was included in your income, you’re considered to have paid the premiums, and any benefits you receive aren’t taxable.
+
+Disability Pensions
+
+If you retired on disability, you must include in income any disability pension you receive under a plan that is paid for by your employer. You must report your taxable disability payments on line 1h of Form 1040 or 1040-SR until you reach minimum retirement age. Minimum retirement age is generally the age at which you can first receive a pension or annuity if you’re not disabled.
+
+. You may be entitled to a tax credit if you were permanently and totally disabled when you retired. For information on this credit and the definition of permanent and total disability, see Pub. 524, Credit for the Elderly or the Disabled. .
+
+Beginning on the day after you reach minimum retirement age, payments you receive are taxable as a pension or annuity. Report the payments on lines 5a and 5b of Form 1040 or 1040-SR. The rules for reporting pensions are explained in Disability Pensions in Pub. 575.
+
+For information on disability payments from a governmental program provided as a substitute for unemployment compensation, see Unemployment Benefits in chapter 8.
+
+Retirement and profit-sharing plans.
+
+If you receive payments from a retirement or profit-sharing plan that doesn’t provide for disability retirement, don’t treat the payments as a disability pension. The payments must be reported as a pension or annuity. For more information on pensions, see Pub. 575.
+
+Accrued leave payment.
+
+If you retire on disability, any lump-sum payment you receive for accrued annual leave is a salary payment. The payment is not a disability payment. Include it in your income in the tax year you receive it.
+
+Military and Government Disability Pensions
+
+Certain military and government disability pensions aren’t taxable.
+
+Service-connected disability.
+
+You may be able to exclude from income amounts you receive as a pension, an annuity, or similar allowance for personal injury or sickness resulting from active service in one of the following government services.
+
+-
+
+The armed forces of any country.
+
+-
+
+The National Oceanic and Atmospheric Administration.
+
+-
+
+The Public Health Service.
+
+-
+
+The Foreign Service.
+
+Conditions for exclusion.
+
+Don’t include the disability payments in your income if any of the following conditions apply.
+
+-
+
+You were entitled to receive a disability payment before September 25, 1975.
+
+-
+
+You were a member of a listed government service or its reserve component, or were under a binding written commitment to become a member, on September 24, 1975.
+
+-
+
+You receive the disability payments for a combat-related injury. This is a personal injury or sickness that:
+
+-
+
+Results directly from armed conflict;
+
+-
+
+Takes place while you’re engaged in extra-hazardous service;
+
+-
+
+Takes place under conditions simulating war, including training exercises such as maneuvers; or
+
+-
+
+Is caused by an instrumentality of war.
+
+-
+
+You would be entitled to receive disability compensation from the Department of Veterans Affairs (VA) if you filed an application for it. Your exclusion under this condition is equal to the amount you would be entitled to receive from the VA.
+
+Pension based on years of service.
+
+If you receive a disability pension based on years of service, in most cases you must include it in your income. However, if the pension qualifies for the exclusion for a service-connected disability (discussed earlier), don’t include in income the part of your pension that you would have received if the pension had been based on a percentage of disability. You must include the rest of your pension in your income.
+
+Retroactive VA determination.
+
+If you retire from the armed services based on years of service and are later given a retroactive service-connected disability rating by the VA, your retirement pay for the retroactive period is excluded from income up to the amount of VA disability benefits you would have been entitled to receive. You can claim a refund of any tax paid on the excludable amount (subject to the statute of limitations) by filing an amended return on Form 1040-X for each previous year during the retroactive period. You must include with each Form 1040-X a copy of the official VA determination letter granting the retroactive benefit. The letter must show the amount withheld and the effective date of the benefit.
+
+If you receive a lump-sum disability severance payment and are later awarded VA disability benefits, exclude 100% of the severance benefit from your income. However, you must include in your income any lump-sum readjustment or other nondisability severance payment you received on release from active duty, even if you’re later given a retroactive disability rating by the VA.
+
+Special statute of limitations.
+
+In most cases, under the statute of limitations, a claim for credit or refund must be filed within 3 years from the time a return was filed or 2 years from the time the tax was paid. However, if you receive a retroactive service-connected disability rating determination, the statute of limitations is extended by a 1-year period beginning on the date of the determination. This 1-year extended period applies to claims for credit or refund filed after June 17, 2008, and doesn’t apply to any tax year that began more than 5 years before the date of the determination.
+
+Terrorist attack or military action.
+
+Don’t include in your income disability payments you receive for injuries incurred as a direct result of a terrorist attack or military action directed against the United States (or its allies), whether outside or within the United States or from military action. See Pub. 3920 and Pub. 907 for more information.
+
+Long-Term Care Insurance Contracts
+
+Long-term care insurance contracts in most cases are treated as accident and health insurance contracts. Amounts you receive from them (other than policyholder dividends or premium refunds) in most cases are excludable from income as amounts received for personal injury or sickness. To claim an exclusion for payments made on a per diem or other periodic basis under a long-term care insurance contract, you must file Form 8853 with your return.
+
+A long-term care insurance contract is an insurance contract that only provides coverage for qualified long-term care services. The contract must:
+
+-
+
+Be guaranteed renewable;
+
+-
+
+Not provide for a cash surrender value or other money that can be paid, assigned, pledged, or borrowed;
+
+-
+
+Provide that refunds, other than refunds on the death of the insured or complete surrender or cancellation of the contract, and dividends under the contract, may only be used to reduce future premiums or increase future benefits; and
+
+-
+
+In most cases, not pay or reimburse expenses incurred for services or items that would be reimbursed under Medicare, except where Medicare is a secondary payer or the contract makes per diem or other periodic payments without regard to expenses.
+
+Qualified long-term care services.
+
+Qualified long-term care services are:
+
+-
+
+Necessary diagnostic, preventive, therapeutic, curing, treating, mitigating, and rehabilitative services, and maintenance and personal care services; and
+
+-
+
+Required by a chronically ill individual and provided pursuant to a plan of care prescribed by a licensed health care practitioner.
+
+Chronically ill individual.
+
+A chronically ill individual is one who has been certified by a licensed health care practitioner within the previous 12 months as one of the following.
+
+-
+
+An individual who, for at least 90 days, is unable to perform at least two activities of daily living without substantial assistance due to loss of functional capacity. Activities of daily living are eating, toileting, transferring, bathing, dressing, and continence.
+
+-
+
+An individual who requires substantial supervision to be protected from threats to health and safety due to severe cognitive impairment.
+
+Limit on exclusion.
+
+You can generally exclude from gross income up to $420 a day for 2025. See Limit on exclusion , under Long-Term Care Insurance Contracts , under Sickness and Injury Benefits in Pub. 525 for more information.
+
+Workers’ Compensation
+
+Amounts you receive as workers’ compensation for an occupational sickness or injury are fully exempt from tax if they’re paid under a workers’ compensation act or a statute in the nature of a workers’ compensation act. The exemption also applies to your survivors. The exemption, however, doesn’t apply to retirement plan benefits you receive based on your age, length of service, or prior contributions to the plan, even if you retired because of an occupational sickness or injury.
+
+. If part of your workers’ compensation reduces your social security or equivalent railroad retirement benefits received, that part is considered social security (or equivalent railroad retirement) benefits and may be taxable. For more information, see Pub. 915, Social Security and Equivalent Railroad Retirement Benefits. .
+
+Return to work.
+
+If you return to work after qualifying for workers’ compensation, salary payments you receive for performing light duties are taxable as wages.
+
+Other Sickness and Injury Benefits
+
+In addition to disability pensions and annuities, you may receive other payments for sickness or injury.
+
+Railroad sick pay.
+
+Payments you receive as sick pay under the Railroad Unemployment Insurance Act are taxable and you must include them in your income. However, don’t include them in your income if they’re for an on-the-job injury.
+
+If you received income because of a disability, see Disability Pensions , earlier.
+
+Federal Employees’ Compensation Act (FECA).
+
+Payments received under this Act for personal injury or sickness, including payments to beneficiaries in case of death, aren’t taxable. However, you’re taxed on amounts you receive under this Act as continuation of pay for up to 45 days while a claim is being decided. Report this income as wages. Also, pay for sick leave while a claim is being processed is taxable and must be included in your income as wages.
+
+. If part of the payments you receive under FECA reduces your social security or equivalent railroad retirement benefits received, that part is considered social security (or equivalent railroad retirement) benefits and may be taxable. See Pub. 554 for more information. .
+
+Other compensation.
+
+Many other amounts you receive as compensation for sickness or injury aren’t taxable. These include the following amounts.
+
+-
+
+Compensatory damages you receive for physical injury or physical sickness, whether paid in a lump sum or in periodic payments.
+
+-
+
+Benefits you receive under an accident or health insurance policy on which either you paid the premiums or your employer paid the premiums but you had to include them in your income.
+
+-
+
+Disability benefits you receive for loss of income or earning capacity as a result of injuries under a no-fault car insurance policy.
+
+-
+
+Compensation you receive for permanent loss or loss of use of a part or function of your body, or for your permanent disfigurement. This compensation must be based only on the injury and not on the period of your absence from work. These benefits aren’t taxable even if your employer pays for the accident and health plan that provides these benefits.
+
+Reimbursement for medical care.
+
+A reimbursement for medical care is generally not taxable. However, it may reduce your medical expense deduction. For more information, see Pub. 502.

@@ -1,0 +1,371 @@
+IRS Pub 334 (2025) | 2. Accounting Periods and Methods
+
+2. Accounting Periods and Methods
+
+Introduction
+
+You must figure your taxable income and file an income tax return for an annual accounting period called a tax year. Also, you must consistently use an accounting method that clearly shows your income and expenses for the tax year.
+
+Useful Items
+
+You may want to see:
+
+Publication
+
+-
+
+538 Accounting Periods and Methods
+
+See chapter 12 for information about getting publications and forms.
+
+Accounting Periods
+
+When preparing a statement of income and expenses (generally your income tax return), you must use your books and records for a specific interval of time called an accounting period. The annual accounting period for your income tax return is called a tax year . You can use one of the following tax years.
+
+-
+
+A calendar tax year.
+
+-
+
+A fiscal tax year.
+
+Unless you have a required tax year, you adopt a tax year by filing your first income tax return using that tax year. A required tax year is a tax year required under the Internal Revenue Code or the Income Tax Regulations.
+
+Calendar tax year.
+
+A calendar-tax year is 12 consecutive months beginning January 1 and ending December 31.
+
+You must adopt the calendar-tax year if any of the following apply.
+
+-
+
+You do not keep books.
+
+-
+
+You have no annual accounting period.
+
+-
+
+Your present tax year does not qualify as a fiscal year.
+
+-
+
+Your use of the calendar-tax year is required under the Internal Revenue Code or the Income Tax Regulations.
+
+If you filed your first income tax return using the calendar-tax year and you later begin business as a sole proprietor, you must continue to use the calendar-tax year unless you get IRS approval to change it or are otherwise allowed to change it without IRS approval. For more information, see Change in tax year , later.
+
+If you adopt the calendar-tax year, you must maintain your books and records and report your income and expenses for the period from January 1 through December 31 of each year.
+
+Fiscal tax year.
+
+A fiscal-tax year is 12 consecutive months ending on the last day of any month except December. A 52-53-week tax year is a fiscal-tax year that varies from 52 to 53 weeks but does not have to end on the last day of a month.
+
+If you adopt a fiscal-tax year, you must maintain your books and records and report your income and expenses using the same tax year.
+
+For more information on a fiscal-tax year, including a 52-53-week tax year, see Pub. 538.
+
+Change in tax year.
+
+Generally, you must file Form 1128, Application To Adopt, Change, or Retain a Tax Year, to request IRS approval to change your tax year. See the Instructions for Form 1128 for exceptions. If you qualify for an automatic approval request, a user fee is not required. If you do not qualify for automatic approval, a ruling must be requested. See the Instructions for Form 1128 for information about user fees if you are requesting a ruling.
+
+Accounting Methods
+
+An accounting method is a set of rules used to determine when and how income and expenses are reported. Your accounting method includes not only the overall method of accounting you use, but also the accounting treatment you use for any material item.
+
+You choose an accounting method for your business when you file your first income tax return that includes a Schedule C (Form 1040) for the business. After that, if you want to change your accounting method, you must generally get IRS approval. See Change in Accounting Method , later.
+
+Kinds of methods.
+
+Generally, you can use any of the following accounting methods.
+
+-
+
+Cash method.
+
+-
+
+An accrual method.
+
+-
+
+Special methods of accounting for certain items of income and expenses.
+
+-
+
+Combination method using elements of two or more of the above.
+
+You must use the same accounting method to figure your taxable income and to keep your books. Also, you must use an accounting method that clearly shows your income.
+
+Business and personal items.
+
+You can account for business and personal items under different accounting methods. For example, you can figure your business income under an accrual method, even if you use the cash method to figure personal items.
+
+Two or more businesses.
+
+If you have two or more separate and distinct businesses, you can use a different accounting method for each if the method clearly reflects the income of each business. They are separate and distinct only if you maintain complete and separate books and records for each business.
+
+Cash Method
+
+Most individuals and many sole proprietors with no inventory use the cash method because they find it easier to keep cash method records. However, if an inventory is necessary to account for your income, you must generally use an accrual method of accounting for sales and purchases, unless you are a small business taxpayer (defined later in this chapter). For more information, see Inventories , later.
+
+Income
+
+Under the cash method, include in your gross income all items of income you actually or constructively receive during your tax year. If you receive property or services, you must include their fair market value in income.
+
+Example.
+
+On December 30, 2024, a client sent you a check for interior decorating services you provided. You received the check on January 4, 2025. You must include the amount of the check in income for 2025.
+
+Constructive receipt.
+
+You have constructive receipt of income when an amount is credited to your account or made available to you without restriction. You do not need to have possession of it. If you authorize someone to be your agent and receive income for you, you are treated as having received it when your agent received it.
+
+Example.
+
+Interest is credited to your bank account in December 2025. You do not withdraw it or enter it into your passbook until 2026. You must include it in your gross income for 2025.
+
+Delaying receipt of income.
+
+You can’t hold checks or postpone taking possession of similar property from one tax year to another to avoid paying tax on the income. You must report the income in the year the property is received or made available to you without restriction.
+
+Example.
+
+A service contractor was entitled to receive a $10,000 payment on a contract in December 2025. They were told in December that their payment was available. At their request, they were not paid until January 2026. They must include this payment in their 2025 income because it was constructively received in 2025.
+
+Checks.
+
+Receipt of a valid check by the end of the tax year is constructive receipt of income in that year, even if you can’t cash or deposit the check until the following year.
+
+Example.
+
+You received a check for $500 on December 30, 2025, from a client. You couldn’t deposit the check in your business account until January 3, 2026. You must include this payment in income for 2025.
+
+Debts paid by another person or canceled.
+
+If your debts are paid by another person or are canceled by your creditors, you may have to report part or all of this debt relief as income. If you receive income in this way, you constructively receive the income when the debt is canceled or paid. For more information, see Canceled Debt under Kinds of Income in chapter 5.
+
+Repayment of income.
+
+If you include an amount in income and in a later year you have to repay all or part of it, you can usually deduct the repayment in the year in which you make it. If the amount you repay is over $3,000, a special rule applies. For details about the special rule, see Repayments in chapter 8 of Pub. 17.
+
+Expenses
+
+Under the cash method, you generally deduct expenses in the tax year in which you actually pay them. This includes business expenses for which you contest liability. However, you may not be able to deduct an expense paid in advance or you may be required to capitalize certain costs, as explained later under Uniform Capitalization Rules .
+
+Expenses paid in advance.
+
+You can deduct an expense you pay in advance only in the year to which it applies.
+
+Example.
+
+You are a calendar-year taxpayer and you pay $1,000 in 2025 for a business insurance policy effective for 1 year, beginning July 1. You can deduct $500 in 2025 and $500 in 2026.
+
+Accrual Method
+
+Under an accrual method of accounting, you generally report income in the year earned and deduct or capitalize expenses in the year incurred. The purpose of an accrual method of accounting is to match income and expenses in the correct year.
+
+Income—General Rule
+
+Under an accrual method, you generally include an amount in your gross income for the tax year in which all events that fix your right to receive the income have occurred and you can determine the amount with reasonable accuracy. For a taxpayer with an applicable financial statement or other financial statement as the Secretary may specify, the all-events test for an item of gross income is considered met no later than when taken into account in an applicable financial statement or such other financial statement.
+
+Example.
+
+You are a calendar-year accrual method taxpayer. You sold a computer on December 28, 2025. You billed the customer in the first week of January 2026, but you didn’t receive payment until February 2026. You must include the amount received for the computer in your 2025 income.
+
+Income—Special Rules
+
+The following are special rules that apply to advance payments, estimating income, and changing a payment schedule for services.
+
+Estimated income.
+
+If you include a reasonably estimated amount in gross income, and later determine the exact amount is different, take the difference into account in the tax year in which you make the determination.
+
+Change in payment schedule for services.
+
+If you perform services for a basic rate specified in a contract, you must accrue the income at the basic rate, even if you agree to receive payments at a lower rate until you complete the services and then receive the difference.
+
+Advance payments.
+
+Generally, you report an advance payment as income in the year you receive the payment. However, if you receive an advance payment, you can elect to postpone including the advance payment in income until the next tax year. You can’t postpone including any payment beyond that tax year.
+
+For more information, see Pub. 538 and section 451 of the Internal Revenue Code.
+
+Expenses
+
+Under an accrual method of accounting, you generally deduct or capitalize a business expense when both the following apply.
+
+-
+
+The all-events test has been met. The test has been met when:
+
+-
+
+All events have occurred that fix the fact of liability, and
+
+-
+
+The liability can be determined with reasonable accuracy.
+
+-
+
+Economic performance has occurred.
+
+Economic performance.
+
+You generally can’t deduct or capitalize a business expense until economic performance occurs. If your expense is for property or services provided to you, or for your use of property, economic performance occurs as the property or services are provided or as the property is used. If your expense is for property or services you provide to others, economic performance occurs as you provide the property or services. An exception allows certain recurring items to be treated as incurred during a tax year even though economic performance has not occurred. For more information on economic performance, see Economic Performance under Accrual Method in Pub. 538.
+
+Example.
+
+You are a calendar-year taxpayer and use an accrual method of accounting. You buy office supplies in December 2025. You receive the supplies and the bill in December, but you pay the bill in January 2026. You can deduct the expense in 2025 because all events that fix the fact of liability have occurred, the amount of the liability could be reasonably determined, and economic performance occurred in that year.
+
+Your office supplies may qualify as a recurring expense. In that case, you can deduct them in 2025 even if the supplies are not delivered until 2026 (when economic performance occurs).
+
+Keeping inventories.
+
+When the production, purchase, or sale of merchandise is an income-producing factor in your business, you must generally take inventories into account at the beginning and the end of your tax year, unless you are a small business taxpayer. If you must account for an inventory, you must generally use an accrual method of accounting for your purchases and sales. For more information, see Inventories , later.
+
+Special rule for related persons.
+
+You can’t deduct business expenses and interest owed to a related person who uses the cash method of accounting until you make the payment and the corresponding amount is includible in the related person’s gross income. Determine the relationship for this rule as of the end of the tax year for which the expense or interest would otherwise be deductible. If a deduction is not allowed under this rule, the rule will continue to apply even if your relationship with the person ends before the expense or interest is includible in the gross income of that person.
+
+Related persons include members of your immediate family, including your siblings (either whole or half), spouse, ancestors, and lineal descendants. For a list of other related persons, see section 267 of the Internal Revenue Code.
+
+Combination Method
+
+You can generally use any combination of cash, accrual, and special methods of accounting if the combination clearly shows your income and expenses and you use it consistently. However, the following restrictions apply.
+
+Inventories
+
+Generally, if you produce, purchase, or sell merchandise in your business, you must keep an inventory and use an accrual method for purchases and sales of merchandise.
+
+Exception for small business taxpayers.
+
+If you are a small business taxpayer, you can choose not to keep an inventory, but you must still use a method of accounting for inventory that clearly reflects income. If you choose not to keep an inventory, you won’t be treated as failing to clearly reflect income if your method of accounting for inventory treats inventory as non-incidental material or supplies, or conforms to your financial accounting treatment of inventories. If, however, you choose to keep an inventory, you must generally use an accrual method of accounting and value the inventory each year to determine your cost of goods sold in Part III of Schedule C (Form 1040).
+
+Small business taxpayer.
+
+You qualify as a small business taxpayer if you (a) have average annual gross receipts of $31 million or less for the 3 prior tax years (indexed for inflation), and (b) are not a tax shelter (as defined in section 448(d)(3)). If your business has not been in existence for all of the 3-tax-year period used in figuring average gross receipts, base your average on the period it has existed, and if your business has a predecessor entity, include the gross receipts of the predecessor entity from the 3-tax-year period when figuring average gross receipts. If your business (or predecessor entity) had short tax years for any of the 3-tax-year period, annualize your business’ gross receipts for the short tax years that are part of the 3-tax-year period. See Pub. 538 for more information.
+
+Treating inventory as non-incidental material or supplies.
+
+If you account for inventories as materials and supplies that are not incidental, you deduct the amounts paid or incurred to acquire or produce the inventoriable items treated as non-incidental materials and supplies in the year in which they are first used or consumed in your operations. Inventory treated as non-incidental materials and supplies is used or consumed in your business in the year you provide the inventory to your customers.
+
+Financial accounting treatment of inventories.
+
+Your financial accounting treatment of inventories is determined with regard to the method of accounting you use in your applicable financial statement (as defined in section 451(b)(3)) or, if you don’t have an applicable financial statement, with regard to the method of accounting you use in your books and records that have been prepared in accordance with your accounting procedures.
+
+Changing your method of accounting for inventory.
+
+If you want to change your method of accounting for inventory, file Form 3115, Application for Change in Accounting Method. See Change in Accounting Method , later.
+
+Items included in inventory.
+
+If you are required to account for inventories, include the following items when accounting for your inventory.
+
+-
+
+Merchandise or stock in trade.
+
+-
+
+Raw materials.
+
+-
+
+Work in process.
+
+-
+
+Finished products.
+
+-
+
+Supplies that physically become a part of the item intended for sale.
+
+Valuing inventory.
+
+You must value your inventory at the beginning and end of each tax year to determine your cost of goods sold (Schedule C (Form 1040), line 42). To determine the value of your inventory, you need a method for identifying the items in your inventory and a method for valuing these items.
+
+Inventory valuation rules cannot be the same for all kinds of businesses. The method you use to value your inventory must conform to generally accepted accounting principles for similar businesses and must clearly reflect income. Your inventory practices must be consistent from year to year.
+
+More information.
+
+For more information about inventories, see Pub. 538.
+
+Uniform Capitalization Rules
+
+Under the uniform capitalization rules, you must capitalize the direct costs and part of the indirect costs for production or resale activities. Include these costs in the basis of property you produce or acquire for resale, rather than claiming them as a current deduction. You recover the costs through depreciation, amortization, or cost of goods sold when you use, sell, or otherwise dispose of the property.
+
+Activities subject to the uniform capitalization rules.
+
+You may be subject to the uniform capitalization rules if you do any of the following, unless the property is produced for your use other than in a business or an activity carried on for profit.
+
+-
+
+Produce real or tangible personal property. For this purpose, tangible personal property includes a film, sound recording, videotape, book, or similar property.
+
+-
+
+Acquire property for resale.
+
+Exceptions.
+
+These rules don’t apply to the following.
+
+-
+
+Small business taxpayers , defined earlier under Inventories .
+
+-
+
+Property you produce if your indirect costs of producing the property are $200,000 or less.
+
+Special Methods
+
+There are special methods of accounting for certain items of income or expense. These include the following.
+
+-
+
+Amortization, discussed in chapter 7 of Pub. 225.
+
+-
+
+Bad debts, discussed under Topic No. 453, Bad Debt Deduction .
+
+-
+
+Depletion, discussed in chapter 7 of Pub. 225.
+
+-
+
+Depreciation, discussed in Pub. 946, How To Depreciate Property.
+
+-
+
+Installment sales, discussed in Pub. 537, Installment Sales.
+
+-
+
+Long-term contract methods of accounting. See section 460.
+
+Change in Accounting Method
+
+Once you have set up your accounting method, you must generally get IRS approval before you can change to another method. A change in your accounting method includes a change in:
+
+-
+
+Your overall method, such as from cash to an accrual method; and
+
+-
+
+Your treatment of any material item.
+
+To request approval, you must file Form 3115. You can get IRS approval to change an accounting method under either the automatic change procedures or the advance consent request procedures. You may have to pay a user fee. For more information, see the Instructions for Form 3115.
+
+Automatic change procedures.
+
+Certain taxpayers can presume to have IRS approval to change their method of accounting. The approval is granted for the tax year for which the taxpayer requests a change (year of change), if the taxpayer complies with the provisions of the automatic change procedures. No user fee is required for an application filed under an automatic change procedure generally covered in Revenue Procedure 2025-23, available at IRS.gov/irb/2025-24_IRB#REV-PROC-2025-23 (or its successor).
+
+Generally, you must use Form 3115 to request an automatic change. For more information, see the Instructions for Form 3115.

@@ -1,0 +1,371 @@
+IRS Pub 54 (12/2025) | 4. Foreign Earned Income Exclusion, Foreign Housing Exclusion, and Foreign Housing Deduction
+
+4. Foreign Earned Income Exclusion, Foreign Housing Exclusion, and Foreign Housing Deduction
+
+Topics
+
+This chapter discusses:
+
+-
+
+Requirements for the foreign earned income exclusion, the foreign housing exclusion, and the foreign housing deduction,
+
+-
+
+How to determine the amount of the foreign earned income exclusion,
+
+-
+
+How to determine the amount of the foreign housing exclusion and the foreign housing deduction,
+
+-
+
+Effect of making valid exclusions and taking the deduction, and
+
+-
+
+Effect of revocation of exclusions.
+
+Useful Items
+
+You may want to see:
+
+Publication
+
+-
+
+514 Foreign Tax Credit for Individuals
+
+-
+
+516 U.S. Government Civilian Employees Stationed Abroad
+
+-
+
+519 U.S. Tax Guide for Aliens
+
+-
+
+570 Tax Guide for Individuals With Income From U.S. Territories
+
+-
+
+596 Earned Income Credit (EIC)
+
+Form (and Instructions)
+
+-
+
+1040-X Amended U.S. Individual Income Tax Return
+
+-
+
+2555 Foreign Earned Income
+
+See chapter 7 for information about getting these publications and forms.
+
+Who Qualifies for the Exclusions and the Deduction?
+
+If you meet certain requirements, you may qualify for the foreign earned income exclusion, the foreign housing exclusion, and/or the foreign housing deduction.
+
+If you are a U.S. citizen or resident alien living and working abroad, you are taxed on your worldwide income. However, you may qualify to exclude from income a portion of your foreign earnings. In addition, you may qualify to exclude or deduct certain foreign housing amounts. See Foreign Earned Income Exclusion and Foreign Housing Exclusion , later.
+
+You may also be entitled to exclude from income the value of meals and lodging provided to you by your employer. See Exclusion of meals and lodging , later.
+
+Requirements
+
+To claim the foreign earned income exclusion, the foreign housing exclusion, and/or the foreign housing deduction, you must meet the following requirements.
+
+1. Tax home.
+
+You must have a tax home in a foreign country (or countries). Generally, your tax home is your principal place of business, employment, or post of duty, regardless of where you maintain your family home. For more details on the concept of tax home, see IRS.gov/FEIE-TaxHome .
+
+2. Foreign country (or countries).
+
+You must live in or be present in a foreign country (or countries). A foreign country includes any territory under the sovereignty of a government other than that of the United States. However, a foreign country does not include international waters and the airspace above them. For details on the definition of a foreign country, see IRS.gov/FEIE-TaxHome .
+
+3. Foreign earned income.
+
+You must have wages, salaries, self-employment income, etc., received for performing personal services in a foreign country (or countries). For details on the classification of earned income, see IRS.gov/FEIE-FEI .
+
+4. Bona fide residence and physical presence tests.
+
+a. Bona fide residence . You must be a bona fide resident of a foreign country (or countries) for an uninterrupted period that includes an entire tax year. You use the bona fide residence test only if you are either:
+
+-
+
+a U.S. citizen, or
+
+-
+
+a U.S. resident alien who is a citizen or national of a country with which the United States has an income tax treaty in effect.
+
+You do not automatically acquire bona fide resident status merely by living in a foreign country or countries for 1 year. For more details and examples, see IRS.gov/FEIE-BonaFideResidence .
+
+b. Physical presence . Alternatively, U.S. citizens and resident aliens must be physically present in a foreign country (or countries) for 330 full days during a period of 12 consecutive months. The 330 days don’t have to be consecutive. The physical presence test is based only on how long you stay in a foreign country or countries. This test doesn’t depend on the kind of residence you establish, your intentions about returning, or the nature and purpose of your stay abroad. For details and examples, see IRS.gov/FEIE-PhysicalPresence .
+
+c. Exceptions to the bona fide residence and physical presence requirements . The minimum time requirements for bona fide residence and physical presence can be waived if you must leave a foreign country because of war, civil unrest, or similar adverse conditions in that country. For more information, see People who failed to meet eligibility requirements because of adverse conditions in a foreign country , earlier, and also IRS.gov/Individuals/International-Taxpayers/Exceptions-To-The-Bona-Fide-Residence-And-The-Physical-Presence-Tests .
+
+5. Valid election.
+
+You must make, or have in effect, a valid election by attaching Form 2555, Foreign Earned Income, with your income tax return or amended income tax return. For details, see the instructions for Form 2555, available at IRS.gov/Form2555 .
+
+Effect of Choosing the Exclusions and Deduction
+
+Once you choose the foreign earned income exclusion election or foreign housing exclusion election, that choice remains in effect for that year and all later years unless you revoke it. This means you must make the same choice in a subsequent year. Otherwise, it will be considered as a revocation of your foreign earned income exclusion election or foreign housing exclusion election for that year.
+
+Foreign tax credit or deduction.
+
+Once you've made a foreign earned income exclusion election or foreign housing exclusion election, you can't take a foreign tax credit or deduction for foreign taxes on income you choose to exclude. See Pub. 514, Foreign Tax Credit for Individuals, available at IRS.gov/Pub514 , for more information.
+
+Note:
+
+If you're a high wage earner, it is possible to take the foreign earned income exclusion up to the limitation for the year. Then, you can take a foreign tax credit for any foreign taxes paid on the portion of the wage that wasn't excluded under the foreign earned income exclusion.
+
+Additional child tax credit.
+
+Similarly, if you've made a foreign earned income exclusion election, or foreign housing exclusion election, or taken the foreign housing deduction, you can't take the additional child tax credit in the same year. For more information on this credit, see Schedule 8812 (Form 1040), Credits for Qualifying Children and Other Dependents, available at IRS.gov/Schedule8812 .
+
+Earned income credit.
+
+If you elect the foreign earned income exclusion, you don’t qualify for the earned income credit for the year. For more information on this credit, see Pub. 596, Earned Income Credit, available at IRS.gov/Pub596 .
+
+Note:
+
+Should you decide to take a foreign tax credit or deduction, the additional child tax credit, or the earned income credit in a subsequent year, your foreign earned income exclusion election or foreign housing exclusion election would be considered revoked for that year. For more details on other deductions and credits, see Deductions and Credits , later.
+
+Effect of Revoking the Exclusions
+
+You can revoke your choice for any year. You may revoke in several different ways. You may revoke by attaching a statement that you are revoking one or more previously made choices to your return or amended return for the first year that you do not wish to claim the exclusion(s). You must specify which choice(s) you are revoking. You must revoke separately a choice to exclude foreign earned income and a choice to exclude foreign housing amounts. Alternatively, if you decide to take the foreign tax credit, additional child tax credit, or earned income credit in a subsequent year, you will be considered to have revoked your prior choice.
+
+Note: You do not need to revoke a prior choice just because you have no foreign earned income or foreign housing costs for the year.
+
+If you revoked a choice and within 5 years again wish to choose the same exclusion, you must apply for IRS approval. You do this by requesting a ruling from the IRS. Requests can be submitted by fax, encrypted email, or mail. See section 8.05(6).04(1)–(3) of Revenue Procedure 2024-1, 2024-01 I.R.B. 42, available at IRS.gov/irb/2024-01_IRB#REV-PROC-2024-1 . For fax requests, transmissions of full packages with a cover sheet can be faxed to 844-249-6231. For email requests, the IRS encourages use of secure electronic facsimile method, or encrypted email attachment to lbi.irt.info@irs.gov .
+
+. Mail your request for a ruling, in duplicate, to: .
+
+Associate Chief Counsel (International)
+
+Internal Revenue Service
+
+Attn: CC:PA:LPD:DRU
+
+P.O. Box 7604
+
+Ben Franklin Station
+
+Washington, DC 20044
+
+.
+
+In deciding whether to approve your request to re-elect, the IRS will consider any facts and circumstances that may be relevant. These may include a period of residence in the United States, a move from one foreign country to another foreign country with different tax rates, a substantial change in the tax laws of the foreign country of residence or physical presence, and a change of employer. For more information, go to IRS.gov/Individuals/International-Taxpayers/Revoking-Your-Choice-To-Exclude-Foreign-Earned-Income .
+
+. If a private delivery service is used, the address is: .
+
+Associate Chief Counsel (International)
+
+Internal Revenue Service
+
+Attn: CC:PA:LPD:TSS, Room 5336
+
+1111 Constitution Ave. NW
+
+Washington, DC 20224
+
+.
+
+Foreign Earned Income Exclusion
+
+Limit on Excludable Amount
+
+You may be able to exclude up to the maximum amount allowed for the specific tax year of your foreign earned income.
+
+You cannot exclude more than the smaller of:
+
+If both you and your spouse work abroad and have a tax home in a foreign country, and each of you meets either the bona fide residence test or the physical presence test, you can each choose the foreign earned income exclusion. You both don’t need to meet the same test. Each of you can exclude up to the maximum annual exclusion amount allowed for the year, for a total of twice the maximum annual exclusion amount for that year.
+
+Foreign Housing Exclusion and Deduction
+
+In addition to the foreign earned income exclusion, you can also claim an exclusion and/or a deduction from gross income for your housing amount if your tax home is in a foreign country and you qualify for the exclusions and deduction under either the bona fide residence test or the physical presence test.
+
+The housing exclusion applies only to amounts considered paid for with employer-provided amounts. The housing deduction applies only to amounts paid for with self-employment earnings.
+
+If you are married and you and your spouse each qualifies under one of the tests, see Married Couples , later.
+
+Housing Amount
+
+Your housing amount is the total of your housing expenses for the year minus the base housing amount.
+
+Base housing amount.
+
+The computation of the base housing amount is tied to the maximum foreign earned income exclusion. That amount is 16% of the maximum annual exclusion amount allowed for the specific tax year, or the daily amount (maximum annual exclusion amount allowed, divided by 365 days, or 366 days for leap years), multiplied by the number of days in your qualifying period that fall within your tax year.
+
+See the Limit on Housing Expenses Worksheet in Part IV of the Instructions for Form 2555 .
+
+U.S. Government allowance.
+
+You must reduce your housing amount by any U.S. Government allowance or similar nontaxable allowance intended to compensate you or your spouse for the expenses of housing during the period for which you claim a foreign housing exclusion or deduction.
+
+Exclusion of meals and lodging.
+
+You don’t include in your income the value of meals and lodging provided to you and your family by your employer at no charge if the following conditions are met.
+
+-
+
+The meals are furnished:
+
+-
+
+On the business premises of your employer, and
+
+-
+
+For the convenience of your employer.
+
+-
+
+The lodging is furnished:
+
+-
+
+On the business premises of your employer,
+
+-
+
+For the convenience of your employer, and
+
+-
+
+As a condition of your employment.
+
+If these conditions are met, don’t include the value of the meals or lodging in your income, even if a law or your employment contract says that they are provided as compensation.
+
+Amounts you don’t include in income because of these rules aren’t foreign earned income.
+
+If you receive a Form W-2, excludable amounts shouldn’t be included in the total reported in box 1 as wages.
+
+Housing expenses.
+
+Housing expenses include your reasonable expenses paid or incurred for housing in a foreign country for you and (if they live with you) for your spouse and dependents.
+
+Consider only housing expenses for the part of the year that you qualify for the foreign earned income exclusion. For a list of eligible housing expenses, see Part VI of the Instructions for Form 2555.
+
+Caution:
+
+No double benefit. You can’t include in housing expenses the value of meals or lodging that you exclude from gross income (see Exclusion of meals and lodging , earlier).
+
+Limit on housing expenses.
+
+The amount of qualified housing expenses eligible for the housing exclusion and housing deduction is limited. The standard limit is generally 30% of the maximum foreign earned income exclusion (computed on a daily basis), multiplied by the number of days in your qualifying period that fall within your tax year. However, the limit will vary depending upon the location of your foreign tax home.
+
+A qualified individual incurring housing expenses in a high-cost locality during a specific tax year can use housing expenses that total more than the standard limit on housing expenses to determine the housing amount. An individual who does not incur housing expenses in a high-cost locality is limited to the standard limit.
+
+The limits for high-cost localities are listed in the Instructions for Form 2555.
+
+Tip:
+
+You can elect to apply the current year housing cost limits to figure your prior year housing exclusion instead of using the prior year limits. The IRS and the Department of the Treasury anticipate that you will be able to elect to apply the subsequent year limits to figure your current year housing exclusion instead of using the current year limits.
+
+Second foreign household.
+
+Ordinarily, if you maintain two foreign households, your reasonable foreign housing expenses include only costs for the household that bears the closer relationship (not necessarily geographic) to your tax home. However, if you maintain a second, separate household outside the United States for your spouse or dependents because living conditions near your tax home are dangerous, unhealthful, or otherwise adverse, include the expenses for the second household in your reasonable foreign housing expenses. You can’t include expenses for more than one second foreign household at the same time. For details, see the Instructions for Form 2555 .
+
+Foreign Housing Exclusion
+
+If you do not have self-employment income, all of your earnings are employer-provided amounts and your entire housing amount is considered paid for with those employer-provided amounts. This means that you can exclude (up to the limits) your entire housing amount.
+
+Employer-provided amounts.
+
+These include any amounts paid to you or paid or incurred on your behalf by your employer that are taxable foreign earned income (without regard to the foreign earned income exclusion) to you for the year. Employer-provided amounts include:
+
+Choosing the exclusion.
+
+You can choose the foreign housing exclusion by completing the appropriate parts of Form 2555. Rules about choosing the foreign earned income exclusion also apply to the foreign housing exclusion.
+
+Your foreign housing exclusion is the lesser of:
+
+-
+
+That part of your housing amount paid for with employer-provided amounts, or
+
+-
+
+Your foreign earned income.
+
+If you choose the foreign housing exclusion, you must figure it before figuring your foreign earned income exclusion. You cannot claim less than the full amount of the housing exclusion to which you are entitled.
+
+Foreign Housing Deduction
+
+If you don’t have self-employment income, you can’t take a foreign housing deduction.
+
+How you figure your foreign housing deduction depends on whether you have only self-employment income or both self-employment income and employer-provided income. In either case, the amount you can deduct is subject to the limit described later.
+
+Self-employed, no employer-provided amounts.
+
+If none of your housing amount is considered paid for with employer-provided amounts, such as when all of your income is from self-employment, you can deduct your foreign housing amount, subject to the limit described later. Take the deduction by including it on line 24j of Schedule 1 (Form 1040).
+
+Self-employed and employer-provided amounts.
+
+If you are both an employee and a self-employed individual during the year, you can exclude the portion of your foreign housing cost amount related to wage income and deduct the portion of your foreign housing cost related to self-employment income. To find the part that you can exclude, multiply your foreign housing amount by the employer-provided amounts (discussed earlier) and then divide the result by your foreign earned income. This is the amount you can use to figure your foreign housing exclusion. You can deduct the balance of the foreign housing amount, subject to the limitation described later.
+
+Example.
+
+Your foreign housing amount for the year is $18,000. During the year, your total foreign earned income is $100,000, of which half ($50,000) is from self-employment and half is from your services as an employee. Half of your foreign housing amount ($18,000 ÷ 2) is considered provided by your employer. You can exclude $9,000 as a foreign housing exclusion. You can deduct the remaining $9,000 as a foreign housing deduction subject to the following limit below.
+
+Limitation
+
+Your foreign housing deduction cannot be more than your foreign earned income minus the total of:
+
+-
+
+Your foreign earned income exclusion, plus
+
+-
+
+Your foreign housing exclusion.
+
+Carryover.
+
+You can carry over to the next year any part of your foreign housing deduction that is not allowed because of the limitation. You are allowed to carry over your excess foreign housing deduction to the next year only. If you can’t deduct it in the next year, you can’t carry it over to any other year. You deduct the carryover in figuring adjusted gross income. The amount of carryover you can deduct is limited to your foreign earned income for the year of the carryover minus the total of your foreign earned income exclusion, foreign housing exclusion, and foreign housing deduction for that year.
+
+Married Couples
+
+If both you and your spouse qualify for the foreign housing exclusion and/or the foreign housing deduction, how you figure the benefits depends on whether you maintain separate households.
+
+Separate Households
+
+If you and your spouse live apart and maintain separate households, you both may be able to claim the foreign housing exclusion and/or the foreign housing deduction. You both can claim the exclusion and/or the deduction if both of the following conditions are met.
+
+-
+
+You and your spouse have different tax homes that aren’t within reasonable commuting distance of each other.
+
+-
+
+Neither spouse's residence is within reasonable commuting distance of the other spouse's tax home.
+
+Housing exclusion.
+
+Each spouse claiming a housing exclusion must figure separately the part of the housing amount that is attributable to employer-provided amounts, based on the separate foreign earned income.
+
+One Household
+
+If you and your spouse live in the same foreign household and file a joint return, you may figure your housing amounts jointly or separately. However, if you and your spouse live in the same foreign household and you choose to file separate returns, you must figure your housing amounts separately.
+
+In computing the housing amounts jointly, you can combine your housing expenses and figure one base housing amount. Either spouse (but not both) can claim the housing exclusion and/or housing deduction. However, if you and your spouse have different periods of residence or presence and the one with the shorter period of residence or presence claims the exclusion and/or deduction, you can claim as housing expenses only the expenses for that shorter period.
+
+In computing housing amounts separately, spouses must figure the housing amounts separately using the spouse's respective base house amount. Spouses may allocate all housing expenses to one spouse or allocate housing expenses between the spouses so long as there's no duplication of housing expenses being excluded or deducted.
+
+Tip:
+
+Because each spouse must use their full base housing amount in the calculation, it may be advantageous for spouses residing together and filing jointly to allocate all housing expenses to one spouse and compute their housing cost amounts separately.
+
+Example.
+
+Tom and Jane live together and file a joint return. Tom was a bona fide resident of and had his tax home in Ghana from August 17, 2024, through December 31, 2025. Jane was a bona fide resident of and had her tax home in Ghana from September 15, 2024, through December 31, 2025.
+
+During 2024, Tom received $75,000 of foreign earned income and Jane received $50,000 of foreign earned income. Tom paid $10,000 for housing expenses, of which $7,500 was for expenses incurred from September 15 through the end of the year. Jane paid $3,000 for housing expenses in 2024, all of which were incurred during her period of residence in Ghana.
+
+Tom and Jane figure their housing amount jointly. If Tom claims the housing exclusion, their housing expenses would be $13,000 ($10,000 + $3,000) and their base housing amount, using Tom's 2024 period of residence (August 17–December 31, 2024), would be $7,754 ($56.60 × 137 days). Tom's housing amount would be $5,246 ($13,000 – $7,754). If, instead, Jane claims the housing exclusion, their housing expenses would be limited to $10,500 ($7,500 + $3,000) and their base housing amount, using Jane's period of residence (September 15–December 31, 2024), would be $6,113 ($56.60 × 108 days). Jane's housing amount would be $4,387 ($10,500 – $6,113).
+
+For more guidance on foreign earned income exclusion, foreign housing exclusion, and foreign housing deduction, see Form 2555 and its instructions , and International practice units are available for help with questions and issues , earlier.

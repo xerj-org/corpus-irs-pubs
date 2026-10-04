@@ -1,0 +1,203 @@
+IRS Pub 54 (12/2025) | 2. Withholding Tax
+
+2. Withholding Tax
+
+Topics
+
+This chapter discusses:
+
+-
+
+Withholding income tax from the pay of U.S. citizens,
+
+-
+
+Withholding tax at a flat rate, and
+
+-
+
+Social security and Medicare taxes.
+
+Useful Items
+
+You may want to see:
+
+Publication
+
+-
+
+505 Tax Withholding and Estimated Tax
+
+Form (and Instructions)
+
+-
+
+673 Statement for Claiming Exemption From Withholding on Foreign Earned Income Eligible for the Exclusion Provided by Section 911
+
+-
+
+W-4 Employee's Withholding Allowance Certificate
+
+-
+
+W-9 Request for Taxpayer Identification Number and Certification
+
+See chapter 7 for information about getting this publication and these forms.
+
+Income Tax Withholding
+
+U.S. employers must generally withhold U.S. income tax from the pay of U.S. citizens working abroad unless the employer is required by foreign law to withhold foreign income tax.
+
+Foreign earned income exclusion.
+
+Your employer does not have to withhold U.S. income taxes from wages you earn abroad if it is reasonable to believe that you will exclude them under the foreign earned income exclusion or the foreign housing exclusion.
+
+Your employer should withhold taxes from any wages you earn for working in the United States.
+
+Statement.
+
+You can give a statement to your employer indicating that you expect to qualify for the foreign earned income exclusion under either the bona fide residence test or the physical presence test and providing your estimated housing cost exclusion.
+
+Form 673, Statement for Claiming Exemption from Withholding on Foreign Earned Income Eligible for the Exclusion(s) Provided by Section 911, available at IRS.gov/Form673 , is an acceptable statement. You can use Form 673 only if you are a U.S. citizen. You do not have to use the form and can prepare your own statement. For more information, see Form 673 .
+
+Generally, your employer can stop the withholding once you submit the statement that includes a declaration that the statement is made under penalties of perjury. However, if your employer has reason to believe that you will not qualify for either the foreign earned income or the foreign housing exclusion, your employer must continue to withhold.
+
+Your employer must consider any information about pay you received from any other source outside the United States in determining whether your foreign earned income is more than the limit on either the foreign earned income exclusion or the foreign housing exclusion.
+
+Foreign tax credit.
+
+If you plan to take a foreign tax credit, you may be able to adjust your withholding on Form W-4. You can take these additional tax credits only for foreign tax credits attributable to taxable salary or wage income. For more information, see the instructions for Step 3 of Form W-4.
+
+Withholding from pension payments.
+
+U.S. payers of benefits from employer-deferred compensation plans, individual retirement plans, and commercial annuities must generally withhold income tax from payments delivered outside of the United States. You can choose exemption from withholding if you:
+
+-
+
+Provide the payer of the benefits with a residence address in the United States or a U.S. territory, or
+
+-
+
+Certify to the payer that you are not a U.S. citizen or resident alien or someone who left the United States to avoid tax.
+
+Check your withholding.
+
+Before you report U.S. income tax withholding on your tax return, you should carefully review all information documents, such as Form W-2 and the Form 1099 information returns. Compare other records, such as final pay records or bank statements, with Form W-2 or Form 1099 to verify the withholding on these forms. Check your U.S. income tax withholding even if you pay someone else to prepare your tax return. You may be assessed penalties and interest if you claim more than your correct amount of withholding allowances.
+
+30% Flat Rate Withholding
+
+Generally, U.S. source gross income that is not effectively connected to a U.S. trade or business, such as U.S. source dividends and royalties, is subject to withholding tax at a flat 30% (or lower treaty) rate if paid to nonresident aliens. If you are a U.S. citizen or resident alien and this tax is withheld in error from payments to you because you have a foreign address, you should notify the payer of the income to stop the withholding. Use Form W-9 to notify the payer.
+
+You can claim the tax withheld in error as a withholding credit on your tax return if the amount isn’t adjusted by the payer. See the Instructions for Form 1040 and Form 1040-SR for how to claim the credit.
+
+Social security benefits paid to residents.
+
+If you are a lawful permanent resident (green card holder) and a flat 30% tax was withheld in error on your social security benefits, you must file Form 1040 or 1040-SR with the Internal Revenue Service Center at the address listed under How To File and Pay , earlier, to determine if you are entitled to a refund. The following information must be submitted with your Form 1040 or 1040-SR.
+
+-
+
+A copy of Form SSA-1042–S, Social Security Benefit Statement.
+
+-
+
+A copy of your “green card.”
+
+-
+
+A signed declaration that includes the following statements.
+
+“I am a U.S. lawful permanent resident and my green card has been neither revoked nor administratively or judicially determined to have been abandoned. I am filing a U.S. income tax return for the tax year as a resident alien reporting all of my worldwide income. I have not claimed benefits for the tax year under an income tax treaty as a nonresident alien.”
+
+Social Security and Medicare Taxes
+
+Social security and Medicare taxes may apply to wages paid to an employee regardless of where the services are performed.
+
+General Information
+
+In general, U.S. social security and Medicare taxes do not apply to wages for services you perform as an employee outside the United States unless one of the following exceptions applies.
+
+-
+
+You perform the services on or in connection with an American vessel or aircraft (defined later) and either:
+
+-
+
+You entered into your employment contract within the United States, or
+
+-
+
+The vessel or aircraft touches at a U.S. port while you are employed on it.
+
+-
+
+The service is designated as employment for U.S. social security and Medicare tax purposes under Bilateral Social Security (Totalization) Agreements (discussed later).
+
+-
+
+You are working for an American employer (defined later).
+
+-
+
+You are working for a Foreign affiliate (defined later) of an American employer under a voluntary agreement entered into between the American employer and the U.S. Department of the Treasury.
+
+American vessel or aircraft.
+
+An American vessel is any vessel documented or numbered under the laws of the United States and any other vessel whose crew is employed solely by one or more U.S. citizens, residents, or corporations. An American aircraft is an aircraft registered under the laws of the United States.
+
+American employer.
+
+An American employer includes any of the following.
+
+-
+
+The U.S. Government or any of its instrumentalities.
+
+-
+
+An individual who is a resident of the United States.
+
+-
+
+A partnership of which at least two-thirds of the partners are U.S. residents.
+
+-
+
+A trust of which all the trustees are U.S. residents.
+
+-
+
+A corporation organized under the laws of the United States, any U.S. state, or the District of Columbia, Puerto Rico, the USVI, Guam, or American Samoa.
+
+An American employer also includes any foreign person with an employee who is performing services in connection with a contract between the U.S. Government (or any instrumentality thereof) and a member of a domestically controlled group of entities which includes such foreign person.
+
+Foreign affiliate.
+
+A foreign affiliate of an American employer is any foreign entity in which the American employer has at least a 10% interest, directly or through one or more entities. For a corporation, the 10% interest must be in its voting stock. For any other entity, the 10% interest must be in its profits.
+
+Form 2032, Contract Coverage Under Title II of the Social Security Act, available at IRS.gov/Form2032 , is used by American employers to extend social security coverage to U.S. citizens and resident aliens working abroad for foreign affiliates of American employers. Once you enter into an agreement, coverage cannot be terminated.
+
+Excludable meals and lodging.
+
+Social security tax doesn’t apply to the value of meals and lodging provided to you for the convenience of your employer if it is reasonable to believe that you will be able to exclude the value from your income.
+
+Bilateral Social Security (Totalization) Agreements
+
+The United States has entered into agreements with some foreign countries to coordinate social security coverage and taxation of workers who are employed in those countries. These agreements are commonly referred to as “totalization agreements.” Under these agreements, dual coverage and dual contributions (taxes) for the same work are eliminated. The agreements generally make sure that you pay social security taxes to only one country.
+
+Generally, under these agreements, you will only be subject to social security taxes in the country where you are working. However, if you are temporarily sent to work in a foreign country and your pay would otherwise be subject to social security taxes in both the United States and that country, you can generally remain covered only by U.S. social security.
+
+For more information on specific agreements, go to SSA.gov/International/Agreement_Descriptions.html and IRS.gov/TotalizationAgreements .
+
+Covered by United States only.
+
+If your pay in a foreign country is subject only to U.S. social security tax and is exempt from foreign social security tax, your employer should get a certificate of coverage from the SSA’s Office of Earnings and International Operations. Employers can request a certificate of coverage online at SSA.gov/international/CoC_link.html .
+
+Covered by foreign country only.
+
+If you are permanently working in a foreign country with which the United States has a social security agreement and, under the agreement, your pay is exempt from U.S. social security tax, you or your employer should get a statement from the authorized official or agency of the foreign country verifying that your pay is subject to social security coverage in that country.
+
+If the authorities of the foreign country will not issue such a statement, either you or your employer should get a statement from the U.S. SSA’s Office of Earnings and International Operations at the website listed earlier. The statement should indicate that your wages aren’t covered by the U.S. social security system.
+
+This statement should be kept by your employer because it establishes that your pay is exempt from U.S. social security tax.
+
+Only wages paid on or after the effective date of the totalization agreement can be exempt from U.S. social security tax.

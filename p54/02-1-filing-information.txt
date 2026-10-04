@@ -1,0 +1,776 @@
+IRS Pub 54 (12/2025) | 1. Filing Information
+
+1. Filing Information
+
+Topics
+
+This chapter discusses:
+
+-
+
+Whether you have to file a return,
+
+-
+
+When to file your return and pay any tax due,
+
+-
+
+How to treat foreign currency,
+
+-
+
+How to file electronically,
+
+-
+
+Where to file your return,
+
+-
+
+When you can treat your nonresident alien spouse as a resident, and
+
+-
+
+When you may have to make estimated tax payments.
+
+Useful Items
+
+You may want to see:
+
+Publication
+
+-
+
+3 Armed Forces' Tax Guide
+
+-
+
+334 Tax Guide for Small Business (For Individuals Who Use Schedule C)
+
+-
+
+501 Dependents, Standard Deduction, and Filing Information
+
+-
+
+505 Tax Withholding and Estimated Tax
+
+-
+
+519 U.S. Tax Guide for Aliens
+
+-
+
+570 Tax Guide for Individuals With Income from U.S. Territories
+
+-
+
+970 Tax Benefits for Education
+
+Form (and Instructions)
+
+-
+
+1040 U.S. Individual Income Tax Return
+
+-
+
+1040-ES Estimated Tax for Individuals
+
+-
+
+1040-X Amended U.S. Individual Income Tax Return
+
+-
+
+2350 Application for Extension of Time To File U.S. Income Tax Return
+
+-
+
+2555 Foreign Earned Income
+
+-
+
+4868 Application for Automatic Extension of Time To File U.S. Individual Income Tax Return
+
+-
+
+8822 Change of Address
+
+All of these forms, instructions, and publications can be downloaded from IRS.gov . See chapter 7 for information about getting these publications and forms.
+
+Filing Requirements
+
+Caution:
+
+The filing and payment requirements discussed below are for U.S. individual income tax return, Form 1040 and Form 1040-SR, filers. If you have filing and payment requirements for other forms, follow the filing and payment instructions contained in the instructions for the specific form(s) you are required to file. To find the instructions for the specific form(s) you are required to file, go to IRS.gov/FormsPubs and enter the form number in the search box.
+
+If you are a U.S. citizen or resident alien, the rules for filing income, estate, and gift tax returns and for paying estimated tax are generally the same whether you are living in the United States or abroad.
+
+Your income, filing status, and age generally determine whether you must file an income tax return. Generally, you must file an income tax return for any year in which your worldwide gross income is at least the amount shown for your filing status in Charts A through C under Filing Requirements in the Instructions for Form 1040 and 1040-SR .
+
+Note:
+
+If you are married and entitled to file jointly, use the married filing jointly threshold unless your spouse has filed a separate return or another taxpayer claims your spouse as a dependent.
+
+Gross income.
+
+This includes all income you receive in the form of money, goods, property, and services that is not exempt from tax.
+
+For purposes of determining whether you must file a return, gross income includes any income that you can exclude as foreign earned income or as a foreign housing amount.
+
+If you are self-employed, your gross income includes the amount on Part I, line 7, of Schedule C (Form 1040), available at IRS.gov/ScheduleC .
+
+Self-employed individuals.
+
+If your net earnings from self-employment are $400 or more, you must file a return even if your gross income is below the amount listed for your filing status in the Instructions for Form 1040 and Form 1040-SR . For more information on net earnings from self-employment, see Pub. 334, Tax Guide for Small Business (For Individuals Who Use Schedule C), available at IRS.gov/Pub334 .
+
+65 or older.
+
+You are considered to be age 65 on the day before your 65th birthday. For example, if your 65th birthday is on January 1, you are considered 65 for the prior year.
+
+Residents of U.S. territories.
+
+If you are (or were) a bona fide resident of a U.S. territory, you may be required to file Form 8898, Statement for Individuals Who Begin or End Bona Fide Residence in a U.S. Territory. See the Instructions for Form 8898 for more information.
+
+Filing and Payment Due Dates
+
+If you file on a calendar-year basis, the regular due date for filing your income tax return (Form 1040 or Form 1040-SR) is April 15 of the following year. If you file on a fiscal-year basis (a year ending on the last day of any month except December), the due date is 3 months and 15 days after the close of your fiscal year.
+
+In general, the tax shown on your return should be paid by the due date of the return, without regard to any extension of time for filing the return.
+
+When the due date for doing any act for tax purposes—filing a return, paying taxes, etc.—falls on a Saturday, Sunday, or legal holiday, the due date is delayed until the next business day.
+
+For more information on when to file your income tax return, go to IRS.gov/Individuals/International-Taxpayer/US-And-Resident-Aliens-Abroad .
+
+Caution:
+
+A tax return delivered by the U.S. mail or a designated delivery service that is postmarked or dated by the delivery service on or before the due date is considered to have been filed on or before that date. Go to IRS.gov/PDS for the current list of designated services.
+
+Extensions
+
+You can get an extension of time to file your income tax return. In some circumstances, you can also get an extension of time to file and pay any tax due.
+
+However, if you pay the tax due after the regular due date, interest will be charged from the regular due date until the date the tax is paid.
+
+This publication discusses four extensions:
+
+-
+
+an automatic 2-month extension,
+
+-
+
+an automatic 6-month extension,
+
+-
+
+an additional extension for taxpayers out of the country, and
+
+-
+
+an extension of time to meet residency tests.
+
+If you served in a combat zone or qualified hazardous duty area, see Pub. 3, Armed Forces' Tax Guide, available at IRS.gov/Pub3 , for a discussion of extensions of deadlines.
+
+Automatic 2-month extension.
+
+You are allowed an automatic 2-month extension to file your income tax return and pay federal income tax if you are a U.S. citizen or resident alien, and on the regular due date of your return:
+
+-
+
+You are living outside the United States and Puerto Rico and your main place of business or post of duty is outside the United States and Puerto Rico, or
+
+-
+
+You are in military or naval service on duty outside the United States and Puerto Rico.
+
+Even if you are allowed an extension, you will have to pay interest on any tax not paid by the regular due date of your return.
+
+Extension for married taxpayers who reside outside of the U.S.
+
+If you file a joint return, either you or your spouse can qualify for the automatic extension. If you and your spouse file separate returns, this automatic extension applies only to the spouse who qualifies for it.
+
+How to request an automatic 2-month extension.
+
+To use this automatic 2-month extension, you must attach a statement to your income tax return explaining which situation listed earlier qualified you for the extension.
+
+Previous 2-month extension.
+
+If you cannot file your income tax return within the automatic 2-month extension period (June 15 for calendar-year taxpayers), you can generally get an additional 4 months to file your return, for a total of 6 months (to October 15 for calendar-year taxpayers). The 2-month period and the 6-month period start on April 15, the regular due date. You have to request the additional 4 months by the due date allowed by the automatic 2-month extension (June 15 for calendar-year taxpayers).
+
+How to request the additional 4-month extension.
+
+To obtain this 4-month extension, complete and file Form 4868, Application for Automatic Extension of Time to File U.S. Individual Income Tax Return, available at IRS.gov/Form4868 . Ensure the box for line 8 stating you are out of the country and are a U.S. citizen or resident is checked.
+
+The additional 4 months of time to file (unlike the original 2-month extension) is not an extension of time to pay. You must make an accurate estimate of your tax based on the information available to you. If you find you cannot pay the full amount due with Form 4868, you can still get the extension. You will owe interest on the unpaid amount from the original due date of the return (April 15 for calendar-year taxpayers).
+
+You may also be charged a penalty for paying the tax late unless you have reasonable cause for not paying your tax when due. Penalties for paying the tax late are assessed from the original due date of your return, unless you qualify for the automatic 2-month extension. In that situation, penalties for paying late are assessed from the extended due date of the payment (June 15 for calendar-year taxpayers).
+
+Automatic 6-month extension.
+
+If you are not able to file your income tax return by the regular due date (April 15 for calendar-year taxpayers), you can generally get an automatic 6-month extension of time to file (but not of time to pay).
+
+Caution:
+
+Exceptions to eligibility for an automatic 6-month extension. You cannot use the automatic 6-month extension of time to file if:
+
+-
+
+You want the IRS to figure your tax, or
+
+-
+
+You are under a court order to file by the regular due date.
+
+How to request the automatic 6-month extension.
+
+To get this automatic extension, you must file Form 4868 . The form must show your properly estimated tax liability based on the information available to you.
+
+When to file.
+
+Generally, you must request the 6-month extension by the regular due date of your return.
+
+Additional extension of time for taxpayers out of the country.
+
+In addition to the 6-month extension, taxpayers who are out of the country can request a discretionary 2-month additional extension of time to file their income tax return (to December 15 for calendar-year taxpayers).
+
+How to request the additional extension.
+
+To request this extension, you must send the IRS a letter explaining the reasons why you need the additional 2 months. Send the letter by the extended due date (October 15 for calendar-year taxpayers).
+
+You will not receive any notification from the IRS unless your request is denied.
+
+The discretionary 2-month additional extension is not available to taxpayers who have an approved extension of time to file on Form 2350, Application for Extension of Time to File U.S. Income Tax Return, available at IRS.gov/Form2350 , discussed next.
+
+Extension of time to meet residency tests.
+
+Generally, you cannot get an extension of more than 6 months. If you are outside the United States and meet certain requirements, you may be able to get a longer extension.
+
+You can get an extension of more than 6 months to file your income tax return if you need the time to meet either the bona fide residence test or the physical presence test to qualify for the foreign earned income exclusion and the foreign housing exclusion or deduction. The tests, exclusions, and deduction are explained in chapter 4 .
+
+You should request an extension if all three of the following apply.
+
+-
+
+You are a U.S. citizen or resident alien.
+
+-
+
+You expect to meet either the bona fide residence test, or the physical presence test, but not until after your tax return is due.
+
+-
+
+Your tax home is in a foreign country (or countries) throughout your period of bona fide residence or physical presence, whichever applies.
+
+If you are granted an extension, it will generally be for 30 days beyond the date on which you can reasonably expect to qualify for an exclusion or deduction under the bona fide residence test or the physical presence test.
+
+How to request the extension of time to meet residency tests.
+
+To obtain an extension, file Form 2350 by:
+
+-
+
+Giving it to a local IRS representative or other IRS employee,
+
+-
+
+Filing electronically via e-file , or
+
+-
+
+Mailing it.
+
+See the instructions for Form 2350 for the mailing address.
+
+You must file Form 2350 by the due date for filing your return. Generally, if both your tax home and your abode are outside the United States and Puerto Rico on the regular due date of your return and you file on a calendar-year basis, the due date for filing your return is June 15.
+
+What if tests are not met.
+
+If you obtain an extension, and unforeseen events make it impossible for you to meet the bona fide residence test or the physical presence test, file your income tax return as soon as possible to limit interest charged on any tax due after the regular due date of the return.
+
+Caution:
+
+File your extension request early in order to allow for the timely filing of your return if your request is denied. You may be subject to a penalty if you file late and additional tax is due.
+
+Return filed before test is met.
+
+If you file a return before you meet the bona fide residence test or the physical presence test, you must report your worldwide income and pay tax on that income. If you later meet either of the tests, file Form 1040-X, Amended U.S. Individual Income Tax Return, available at IRS.gov/Form1040X , to claim the foreign earned income exclusion, and the foreign housing exclusion or foreign housing deduction.
+
+How To File and Pay
+
+Filing options.
+
+There are two options for filing tax returns and extensions:
+
+-
+
+By mail, or
+
+-
+
+By e-file
+
+Filing by mail.
+
+International tax returns and extensions are mailed to specific addresses. To locate the mailing address for the form you are filing, go to IRS.gov/Filing/International-Where To File Form 1040 Addresses For Taxpayers And Tax Professionals . See How to request the additional extension , earlier, for Form 2350.
+
+Filing by E-file.
+
+IRS e-file is the fastest, easiest, and most convenient way to file your income tax return electronically.
+
+. IRS e-file offers accurate, safe, and fast alternatives to filing on paper. IRS computers quickly and automatically check for errors or other missing information. .
+
+Note: Returns with a foreign address can be e-filed .
+
+Extensions can be filed through IRS Free File with no income limit for extensions. For additional information, go to IRS.gov/Filing/Get-An-Extension-To-File-Your-Tax-Return .
+
+. How to e-file. There are three ways you can e-file . .
+
+-
+
+Use your personal computer.
+
+-
+
+Use a volunteer. Many programs offering free tax help can e-file your return.
+
+-
+
+Use a tax professional. Most tax professionals can e-file your return.
+
+These methods are explained in detail in the instructions for your tax return. .
+
+For additional information on when to file, how to file, and where to file your tax return, go to IRS.gov/Individuals/International-Taxpayers/US-Citizens-And-Resident-Aliens-Abroad .
+
+Payment options.
+
+There are multiple options for payments of tax. For information on payment options, go to IRS.gov/Payments . For information on foreign electronic payments, go to IRS.gov/Individuals/International-Taxpayers/Foreign-Electronic-Payments-Tax-Type-Codes .
+
+Foreign Currency
+
+You must express the amounts you report on your U.S. tax return in U.S. dollars. If you receive all or part of your income, or pay some or all of your expenses, in foreign currency, you must translate the foreign currency into U.S. dollars. How you do this depends on your functional currency. Your functional currency is generally the U.S. dollar unless you are required to use the currency of a foreign country.
+
+You must make all federal income tax determinations in your functional currency. The U.S. dollar is the functional currency for all taxpayers except some qualified business units (QBUs). A QBU is a separate and clearly identified unit of a trade or business that maintains separate books and records.
+
+For additional information on foreign currency, currency exchange rates, qualified business units, and links to currency exchange rates and resources, see IRS.gov/Individuals/International-Taxpayers/Foreign-Currency-And-Currency-Exchange-Rates , and IRS.gov/Individuals/International-Taxpayers/Yearly-Average-Currency-Exchange-Rates .
+
+Blocked Income
+
+You must generally report your foreign income in terms of U.S. dollars and, with one exception (see Fulbright Grant , later), you must pay taxes due on it in U.S. dollars.
+
+If, because of restrictions in a foreign country, your income is not readily convertible into U.S. dollars or into other money or property that is readily convertible into U.S. dollars, your income is “blocked” or “deferrable” income. You can report this income in one of the following two ways.
+
+-
+
+Report the income and pay your federal income tax with U.S. dollars that you have in the United States or in some other country.
+
+-
+
+Postpone the reporting of the income until it becomes unblocked.
+
+If you choose to postpone the reporting of the income, you must file an information return with your tax return. For this information return, you should use another Form 1040 or 1040-SR labeled “Report of Deferrable Foreign Income, pursuant to Rev. Rul. 74-351.” You must declare on the information return that you will include the deferrable income in your taxable income for the year that it becomes unblocked. You must also state that you waive any right to claim that the deferrable income was includible in your income for any earlier year. For detailed information, see Revenue Ruling 74-351, 1974-2 C.B. 144.
+
+You must report your income on your information return using the foreign currency in which you received that income. If you have blocked income from more than one foreign country, include a separate information return for each country.
+
+Income becomes unblocked and reportable for tax purposes when it becomes convertible, or when it is converted, into U.S. dollars or into other money or property that is convertible into U.S. currency. Also, if you use blocked income for your personal expenses or dispose of it by gift, bequest, or devise, you must treat it as unblocked and reportable.
+
+If you have received blocked income on which you have not paid tax, you should check to see whether that income is still blocked. If it is not, you should take immediate steps to pay tax on it, file a declaration or amended declaration of estimated tax, and include the income on your tax return for the year in which the income became unblocked.
+
+If you choose to postpone reporting blocked income and in a later tax year you wish to begin including it in gross income although it is still blocked, you must obtain the permission of the IRS to do so. To apply for permission, file Form 3115, Application for Change in Accounting Method, available at IRS.gov/Form3115 . You must also request permission from the IRS on Form 3115 if you have not chosen to defer the reporting of blocked income in the past, but now wish to begin reporting blocked income under the deferred method. See the Instructions for Form 3115 for information on changing your accounting method.
+
+Fulbright Grant
+
+All income must be reported in U.S. dollars. In most cases, the tax must also be paid in U.S. dollars. If, however, at least 70% of your Fulbright grant has been paid in nonconvertible foreign currency (blocked income), you can use the currency of the host country to pay the part of the U.S. tax that is based on the blocked income.
+
+Paying U.S. tax in foreign currency.
+
+To qualify for this method of payment, you must prepare a statement that shows the following information.
+
+-
+
+You were a Fulbright grantee and were paid in nonconvertible foreign currency.
+
+-
+
+The total grant you received during the year and the amount you received in nonconvertible foreign currency.
+
+-
+
+At least 70% of the grant was paid in nonconvertible foreign currency.
+
+The statement must be certified by the U.S. educational foundation or commission paying the grant or other person having control of grant payments to you.
+
+You should prepare at least two copies of this statement. Attach one copy to your Form 1040 or 1040-SR and keep the other copy for identification purposes when you make a tax deposit of nonconvertible foreign currency.
+
+Figuring actual tax.
+
+When you prepare your income tax return, you may owe tax or the entire liability may have been satisfied with your estimated tax payments. If you owe tax, figure the part due to (and payable in) the nonconvertible foreign currency by using the following formula.
+
+Adjusted gross income that is blocked income | × | Total U.S. tax | = | Tax on blocked income
+Total adjusted gross income
+
+You must attach all of the following to the return.
+
+-
+
+A copy of the certified statement discussed earlier.
+
+-
+
+A detailed statement showing the allocation of tax from amounts received in foreign currency and the rates of exchange used in determining your tax liability in U.S. dollars.
+
+-
+
+The original deposit receipt for any balance of tax due that you paid in nonconvertible foreign currency.
+
+Figuring estimated tax on nonconvertible foreign currency.
+
+If you are liable for Estimated Tax Payments (discussed later), figure the amount you can pay to the IRS in nonconvertible foreign currency using the following formula.
+
+Adjusted gross income that is blocked income | × | Total estimated U.S. tax | = | Estimated tax on blocked income
+Total adjusted gross income
+
+If you must pay your host country income tax on your grant, subtract any estimated foreign tax credit that applies to your grant from the estimated tax on the blocked income.
+
+Deposit of foreign currency with disbursing officer.
+
+Once you have determined the amount of the actual tax or estimated tax that you can pay in nonconvertible foreign currency, deposit that amount with the disbursing officer of the Department of State in the foreign country in which the foundation or commission paying the grant is located.
+
+Estimated tax installments.
+
+You can either deposit the full estimated tax amount before the first installment due date or make four equal payments before the installment due dates. See Estimated Tax Payments , later.
+
+Deposit receipt.
+
+Upon accepting the foreign currency, the disbursing officer will give you a receipt in duplicate. The original of this receipt (showing the amount of foreign currency deposited and its equivalent in U.S. dollars) should be attached to your Form 1040 or 1040-SR or payment voucher from Form 1040-ES, Estimated Tax for Individuals, available at IRS.gov/Form1040ES . Keep the copy for your records.
+
+Where To File—U.S. Territories
+
+Resident of the U.S. Virgin Islands (USVI).
+
+If you are a bona fide resident of the USVI during your entire tax year, you are generally not required to file a U.S. return. However, you must file a return with the USVI.
+
+For more information on how to file your USVI tax return, go to BIR.VI.gov .
+
+. Send your return to: .
+
+U.S. Virgin Islands Bureau
+
+of Internal Revenue
+
+6115 Estate Smith Bay
+
+St. Thomas, Virgin Islands 00802
+
+.
+
+Non-USVI resident with USVI income.
+
+If you are a U.S. citizen or resident alien and you have income from sources in the USVI or income effectively connected with the conduct of a trade or business in the USVI, and you are not a bona fide resident of the USVI during your entire tax year, you must file identical tax returns with the United States and the USVI. File the original return with the United States and file a signed copy of the U.S. return (including all attachments, forms, and schedules) with the Virgin Islands Bureau of Internal Revenue.
+
+You must complete Form 8689, Allocation of Individual Income Tax to the U.S. Virgin Islands, available at IRS.gov/Form8689 , and attach a copy to both your U.S. return and your USVI return. File your U.S. return utilizing the filing options , mentioned earlier.
+
+For Information about filing USVI returns, see Pub. 570, Tax Guide for Individuals With Income from U.S. Territories, available at IRS.gov/Pub570 .
+
+Resident of Guam.
+
+If you are a bona fide resident of Guam during your entire tax year, you should file a return with Guam.
+
+For more information on how to file your Guam tax return, go to Guamtax.com .
+
+. Send your return to: .
+
+Guam Department of Revenue and Taxation
+
+Taxpayer Services Division
+
+P.O. Box 23607
+
+Barrigada, GU 96921
+
+.
+
+However, if you have income from sources within Guam and you are a U.S. citizen or resident alien, but not a bona fide resident of Guam during the entire tax year, you should file a return with the United States. File your U.S. return utilizing the filing options , mentioned earlier.
+
+See Pub. 570 for information about filing Guam returns.
+
+Resident of the Commonwealth of the Northern Mariana Islands (CNMI).
+
+If you are a bona fide resident of the CNMI during your entire tax year, you should file a return with the CNMI.
+
+For more information on how to file your CNMI tax return, go to Finance.gov.MP/Revenue-Taxation.php .
+
+. Send your return to: .
+
+Division of Revenue and Taxation
+
+Commonwealth of the Northern Mariana Islands
+
+P.O. Box 5234, CHRB
+
+Saipan, MP 96950
+
+.
+
+However, if you have income from sources within the CNMI and you are a U.S. citizen or resident alien, but not a bona fide resident of the CNMI during the entire tax year, you should file a return with the United States. File your U.S. return utilizing the filing options , mentioned earlier.
+
+See Pub. 570 for information about filing CNMI returns.
+
+Note:
+
+Puerto Rico and American Samoa have their own separate and independent tax systems. Although their tax laws are modeled on the U.S. Internal Revenue Code, there are certain differences in law and tax rates. See Pub. 570 for information about tax obligations in Puerto Rico and American Samoa.
+
+For more information on how to file your Puerto Rico tax return, go to Hacienda.PR.gov/ .
+
+For more information on how to file your American Samoa tax return, go to the American Samoa Tax Office’s website, available at Americansamoa.gov/Tax-Office .
+
+Nonresident Alien Spouse Treated as a Resident
+
+If, at the end of your tax year, you are married and one spouse is a U.S. citizen or resident alien and the other is a nonresident alien, you can choose to treat the nonresident as a U.S. resident. This election includes the situation in which one of you is a nonresident alien at the beginning of the tax year and a resident alien at the end of the year and the other is a nonresident alien at the end of the year.
+
+If you make this choice, the following two rules apply.
+
+This means that neither of you can claim under any tax treaty not to be a U.S. resident for a tax year for which the choice is in effect.
+
+Example 1.
+
+Pat Smith, a U.S. citizen, is married to Norman, a nonresident alien. Pat and Norman make the choice to treat Norman as a resident alien by attaching a statement to their joint return. Pat and Norman must report their worldwide income for the year they make the choice and for all later years unless the choice is ended or suspended. Although Pat and Norman must file a joint return for the year they make the choice, they can file either joint or separate returns for later years.
+
+Example 2.
+
+When Bob and Sharon Williams got married, both were nonresident aliens. In June of last year, Bob became a resident alien and remained a resident for the rest of the year. Bob and Sharon both choose to be treated as resident aliens by attaching a statement to their joint return for last year. Bob and Sharon must report their worldwide income for last year and all later years unless the choice is ended or suspended. Bob and Sharon must file a joint return for last year, but they can file either joint or separate returns for later years.
+
+Tip:
+
+If you do not choose to treat your nonresident alien spouse as a U.S. resident, you may be able to use head of household filing status. To use this status, you must pay more than half the cost of maintaining a household for certain dependents or relatives other than your nonresident alien spouse. For more information, see Pub. 501, Dependents, Standard Deduction, and Filing Information, available at IRS.gov/Pub501 .
+
+Social Security Number (SSN)
+
+If you choose to treat your nonresident alien spouse as a U.S. resident, your spouse must have either an SSN or an individual taxpayer identification number (ITIN).
+
+To get an SSN for a nonresident alien spouse, apply at an office of the U.S. Social Security Administration (SSA) or U.S. consulate. For more information, go to SSA.gov , or call 800-772-1213.
+
+If the nonresident alien spouse is not eligible to get an SSN, the spouse can file Form W-7, Application for IRS Individual Taxpayer Identification Number, available at IRS.gov/FormW7 , with the IRS to apply for an ITIN when you timely file the joint return on which you choose to treat your nonresident alien spouse as a U.S. resident. Follow the Instructions for Form W-7 to submit your Form W-7 and file your return.
+
+ITIN renewal.
+
+Your spouse may need to renew the ITIN. For more information, go to IRS.gov/ITIN .
+
+How To Make the Choice
+
+Attach a statement, signed by both spouses, to your joint return for the first tax year for which the choice applies. It should contain the following.
+
+-
+
+A declaration that one spouse was a nonresident alien and the other spouse a U.S. citizen or resident alien on the last day of your tax year and that you choose to be treated as U.S. residents for the entire tax year.
+
+-
+
+The name, address, and SSN (or ITIN) of each spouse. (If one spouse died, include the name and address of the person making the choice for the deceased spouse.)
+
+You generally make this choice when you file your joint return. However, you can also make the choice by filing a joint amended return on Form 1040-X. Attach Form 1040 or 1040-SR and enter “Amended” across the top of the amended return. If you make the choice with an amended return, you and your spouse must also amend any returns that you may have filed after the year for which you made the choice.
+
+You must generally file the amended joint return within 3 years from the date you filed your original U.S. income tax return or 2 years from the date you paid your income tax for that year, whichever is later.
+
+Table 1-1. Options for Ending the Choice To Treat Nonresident Alien Spouse as a Resident
+
+Revocation | Either spouse can revoke the choice for any tax year.
+The revocation must be made by the due date for filing the tax return for that tax year.
+The spouse who revokes the choice must attach a signed statement declaring that the choice is being revoked. The statement revoking the choice must include the following.
+The name, address, and SSN (or TIN) of each spouse. The name and address of any person who is revoking the choice for a deceased spouse. A list of any states, foreign countries, and U.S. territories that have community property laws in which either spouse is domiciled or where real property is located from which either spouse receives income.
+If the spouse revoking the choice does not have to file a return and does not file a claim for refund, send the statement to the Internal Revenue Service Center where the last joint return was filed.
+Death | The death of either spouse ends the choice, beginning with the first tax year following the year in which the spouse died.
+If the qualifying surviving spouse is a U.S. citizen or resident alien and is entitled to the joint tax rates as a qualifying surviving spouse, the choice will not end until the close of the last year for which these joint rates may be used.
+If both spouses die in the same tax year, the choice ends on the first day after the close of the tax year in which the spouses died.
+Divorce or legal separation | A divorce or legal separation ends the choice as of the beginning of the tax year in which the legal separation occurs.
+Inadequate records | The IRS can end the choice for any tax year that either spouse has failed to keep adequate books, records, and other information necessary to determine the correct income tax liability, or to provide adequate access to those records.
+
+Suspending the Choice
+
+The choice to be treated as a resident alien does not apply to any later tax year if neither of you is a U.S. citizen or resident alien at any time during the later tax year.
+
+Example.
+
+Dick Brown was a resident alien on December 31, 2020, and married to Judy, a nonresident alien. They chose to treat Judy as a resident alien and filed joint income tax returns for 2020 and 2021. On January 10, 2022, Dick became a nonresident alien. Judy had remained a nonresident alien. Because Dick was a resident alien during part of 2022, Dick and Judy can file joint or separate returns for that year. Neither Dick nor Judy was a resident alien at any time during 2023 and their choice is suspended for that year. For 2023, both are treated as nonresident aliens. If Dick becomes a resident alien again in 2024, their choice is no longer suspended and both are treated as resident aliens.
+
+Ending the Choice
+
+Once made, the choice to be treated as a resident applies to all later years unless suspended (as explained earlier) or ended in one of the ways shown in Table 1-1 .
+
+If the choice is ended for any of the reasons listed in Table 1-1, neither spouse can make a choice in any later tax year.
+
+Estimated Tax Payments
+
+The requirements for determining who must pay estimated tax are the same for a U.S. citizen or resident abroad as for a taxpayer in the United States.
+
+In general, you don’t have to make estimated tax payments if you expect that your current year Form 1040 or 1040-SR will show a tax refund or a tax balance due of less than $1,000. For more information on whether you are required to make estimated tax payments, see Form 1040–ES, Estimated Tax for Individuals, available at IRS.gov/Form1040ES and Pub. 505, Tax Withholding and Estimated Tax, available at IRS.gov/Pub505 .
+
+Foreign earned income exclusion.
+
+When figuring your estimated gross income, subtract amounts you expect to exclude under the foreign earned income exclusion and the foreign housing exclusion. In addition, you can reduce your income by your estimated foreign housing deduction. However, you must estimate tax on your nonexcluded income using the tax rates that will apply had you not excluded the income. See the Instructions for Form 1040 and complete the Foreign Earned Income Tax Worksheet to figure the estimated tax on your nonexcluded income. If the actual amount of the exclusion or deduction is less than you estimate, you may have to pay a penalty for underpayment of estimated tax.
+
+For more information, see the Instructions for Form 2555 .
+
+Other Forms You May Have To File
+
+Forms That Must Be Filed With the Treasury Department (FinCEN)
+
+FinCEN Form 114.
+
+You must file FinCEN Form 114, Report of Foreign Bank and Financial Accounts (FBAR), if you had any financial interest in, or signature or other authority over, a bank, securities, or other financial account in a foreign country. You do not need to file the report if the assets are with a U.S. military banking facility operated by a financial institution, or if the combined assets in the account(s) are $10,000 or less during the entire year.
+
+FinCEN Form 114 is filed electronically with the Financial Crimes Enforcement Network (FinCEN). The due date for FBAR filings is April 15. FinCEN will grant an automatic extension to October 15 if you are unable to meet the FBAR annual due date of April 15. The FBAR due date coincides with the filing due date for the current year Form 1040 or 1040-SR. For more information on foreign bank and financial accounts reporting requirements, go to IRS.gov/Businesses/Small-Businesses-Self-Employed/Report-Of-Foreign-Bank-And-Financial-Accounts-FBAR .
+
+FinCEN Form 105.
+
+You must file FinCEN Form 105, Report of International Transportation of Currency or Monetary Instruments (CMIR), if you physically transport, mail, ship, or cause to be physically transported, mailed, or shipped, into or out of the United States, currency or other monetary instruments totaling more than $10,000 at one time. Certain recipients of currency or monetary instruments must also file FinCEN Form 105.
+
+More information about the filing of FinCEN Form 105 can be found on the U.S. Customs and Border Protection (CBP) website at CBP.gov/Travel/International-Visitors/Kbyg/Money . The form is either completed online on the U.S. Customs and Border Protection's website, available at Fincen105.CBP.DHS.gov , or by requesting a paper copy from a CBP officer.
+
+Forms That Must Be Filed With the IRS With Form 1040
+
+Form 8938.
+
+You must file Form 8938, Statement of Specified Foreign Financial Assets, to report the ownership of specified foreign financial assets if the total value of those assets exceeds an applicable threshold amount (the “reporting threshold”). The reporting threshold varies depending on whether you live in the United States, are married, or file a joint income tax return with your spouse. Specified foreign financial assets include any financial account maintained by a foreign financial institution and, to the extent held for investment, any stock, any securities, or any other interest in a foreign entity and any financial instrument or contract with an issuer or counterparty that is not a U.S. person.
+
+For more information, go to IRS.gov/Form8938 .
+
+Form 5471.
+
+Certain U.S. persons who are officers, directors, or shareholders in certain foreign corporations must file Form 5471, Information Return of U.S. Persons With Respect To Certain Foreign Corporations, and schedules to satisfy the reporting requirements of sections 6038 and 6046, and the related regulations for each applicable foreign corporation. For more information, go to IRS.gov/Form5471 .
+
+Form 926.
+
+U.S. citizens or residents, domestic corporations, or domestic estates or trusts must file Form 926, Return by a U.S. Transferor of Property to a Foreign Corporation, to report any exchanges or transfers of tangible or intangible property that are described in section 6038B(a)(1)(A) of the Internal Revenue Code to a foreign corporation. For more information, go to IRS.gov/Form926 .
+
+Form 8865.
+
+A U.S. person must file Form 8865, Return of U.S. Persons With Respect to Certain Foreign Partnerships, to report the information required under section 6038 (reporting with respect to controlled foreign partnerships), section 6038B (reporting of transfers to foreign partnerships), or section 6046A (reporting of acquisitions, dispositions, and changes in foreign partnership interests). For more information, go to IRS.gov/Form8865 .
+
+Form 8858.
+
+Certain U.S. persons that own a foreign disregarded entity (FDE) or foreign branch (FB) directly or, in certain circumstances, indirectly or constructively must file Form 8858, Information Return of U.S. Persons With Respect to Foreign Disregarded Entities (FDEs) and Foreign Branches (FBs), and schedules to satisfy the reporting requirements of sections 6011, 6012, 6031, and 6038, and related regulations. For more information, go to IRS.gov/Form8858 .
+
+Form 8621.
+
+A U.S. person that is a direct or indirect shareholder of a passive foreign investment company (PFIC) files Form 8621, Passive Foreign Investment Company or Qualified Electing Fund, if they:
+
+-
+
+Receive certain direct or indirect distributions from a PFIC,
+
+-
+
+Recognize a gain on a direct or indirect disposition of PFIC stock,
+
+-
+
+Are reporting information with respect to a QEF or section 1296 mark-to-market election,
+
+-
+
+Are making an election reportable in Part II of the form, or
+
+-
+
+Are required to file an annual report pursuant to section 1298(f).
+
+Note:
+
+If you are an individual taxpayer that owns a mutual fund or ETF that is not domiciled in the United States, you may have a Form 8621 obligation.
+
+For more information, go to IRS.gov/Form8621 .
+
+Forms 8964-ELE and 8964-TRA.
+
+If you own one or more qualified business units (QBUs), you may have a Form 8964-ELE and 8964-TRA filing requirement. These forms implement the reporting requirements in the final Treasury Regulations under section 987.
+
+Form 8964-ELE.
+
+Form 8964-ELE is used to make or revoke elections under the section 987 regulations. The form is used to satisfy the reporting requirements of Regulations sections 1.987-1(g).
+
+For more information, go to IRS.gov/Form8964ELE .
+
+Form 8964-TRA.
+
+Form 8964-TRA is used to report the section 987 transition information required under Regulations section 1.987-10(k).
+
+The following persons have a requirement to file Form 8964-TRA:
+
+-
+
+An owner of the section 987 QBU on the transition date. Form 8964-TRA should be filed for the tax year beginning on the transition date.
+
+-
+
+A deferral QBU owner or the owner of an outbound loss QBU if the deferral event or outbound loss event occurred before the transition date. Form 8964-TRA should be filed for the tax year beginning on the transition date.
+
+-
+
+An owner of a terminating QBU.
+
+For more information, go to IRS.gov/Form8964TRA .
+
+Form 8854.
+
+Section 877A applies to U.S. citizens who have relinquished their citizenship, and long-term residents who have ended their residency (expatriated) on or after June 17, 2008. Form 8854, Initial and Annual Expatriation Statement, is used by expatriates to certify compliance with tax obligations in the 5 years before expatriation and to comply with their initial and annual information reporting obligations under section 6039G.
+
+Note: Individuals who expatriated for immigration purposes after June 3, 2004, and before June 17, 2008, but who have not previously filed a Form 8854, continue to be treated as U.S. citizens or U.S. lawful permanent residents for U.S. income tax purposes until they file a Form 8854. See section 7701(n), as in effect before June 17, 2008. For more information, go to IRS.gov/Form8854 .
+
+Forms That Must Be Filed With the IRS Separately From Form 1040
+
+Form 3520.
+
+U.S. persons (and executors of estates of U.S. decedents) file Form 3520, Annual Return To Report Transactions With Foreign Trusts and Receipt of Certain Foreign Gifts, to report:
+
+-
+
+Certain transactions with foreign trusts,
+
+-
+
+Ownership of foreign trusts under the rules of Internal Revenue Code sections 671 through 679, and
+
+-
+
+Receipt of certain large gifts or bequests from certain foreign persons.
+
+For more information, go to IRS.gov/Form3520 .
+
+Form 3520-A.
+
+A foreign trust with at least one U.S. owner files Form 3520-A, Annual Information Return of Foreign Trust With a U.S. Owner, annually to provide information about:
+
+-
+
+The trust,
+
+-
+
+Its U.S. beneficiaries, and
+
+-
+
+Any U.S. person who is treated as an owner of any portion of the foreign trust.
+
+For more information, go to IRS.gov/Form3520A .
+
+Penalties
+
+In general, penalties are assessed when there is a failure to timely file complete and accurate international information returns, and when there is a failure to timely furnish required information. For information on specific penalties, see the instructions for the forms you are required to file. For more information on penalties, see IRS.gov/Penalties .
+
+Other Issues Related To the Failure To Timely File Complete and Accurate International Information Returns With the IRS by the Due Date
+
+In addition to the penalties, failure to timely file complete and accurate international information returns by the due date can result in:
+
+-
+
+Suspension and/or extension of the assessment statute of limitations date (ASED) for Form 1040, and
+
+-
+
+Reduction in allowed foreign tax credit (Form 1116).
+
+For information on specific returns that are impacted, see the instructions for the forms you are required to file.

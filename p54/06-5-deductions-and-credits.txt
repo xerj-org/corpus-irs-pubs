@@ -1,0 +1,333 @@
+IRS Pub 54 (12/2025) | 5. Deductions and Credits
+
+5. Deductions and Credits
+
+Topics
+
+This chapter discusses:
+
+-
+
+The rules concerning items related to excluded income,
+
+-
+
+Contributions to foreign charitable organizations,
+
+-
+
+Contributions to individual retirement arrangements (IRAs),
+
+-
+
+Taxes of foreign countries and U.S. territories, and
+
+-
+
+How to report deductions.
+
+Useful Items
+
+You may want to see:
+
+Publication
+
+-
+
+501 Dependents, Standard Deduction, and Filing Information
+
+-
+
+514 Foreign Tax Credit for Individuals
+
+-
+
+523 Selling Your Home
+
+-
+
+526 Charitable Contributions
+
+-
+
+590-A Contributions to Individual Retirement Arrangements (IRAs)
+
+-
+
+597 Information on the United States–Canada Income Tax Treaty
+
+Form (and Instructions)
+
+-
+
+1116 Foreign Tax Credit
+
+-
+
+2106 Employee Business Expenses
+
+-
+
+2555 Foreign Earned Income
+
+-
+
+Schedule A (Form 1040) Itemized Deductions
+
+-
+
+Schedule C (Form 1040) Profit or Loss From Business
+
+-
+
+SS-5 Application for a Social Security Card
+
+-
+
+W-7 Application for IRS Individual Taxpayer Identification Number
+
+See chapter 7 for information about getting these publications and forms.
+
+Items Related to Excluded Income
+
+U.S. citizens and resident aliens living outside the United States are generally allowed the same deductions as citizens and residents living in the United States.
+
+If you choose to exclude foreign earned income or housing amounts, you cannot deduct, exclude, or claim a credit for any item that can be allocated to or charged against the excluded amounts. This includes any expenses, losses, and other normally deductible items that are allocable to the excluded income. You can deduct only those expenses connected with earning includible income.
+
+These rules apply only to items definitely related to the excluded earned income and they do not apply to other items that aren’t definitely related to any particular type of gross income. These rules don’t apply to items such as:
+
+-
+
+Qualified retirement contributions,
+
+-
+
+Alimony payments,
+
+-
+
+Charitable contributions,
+
+-
+
+Medical expenses,
+
+-
+
+Mortgage interest, or
+
+-
+
+Real estate taxes on your personal residence.
+
+For purposes of these rules, your housing deduction isn’t treated as allocable to your excluded income, but the deduction for self-employment tax is.
+
+If you receive foreign earned income in a tax year after the year in which you earned it, you may have to file an amended return for the earlier year to properly adjust the amounts of deductions, credits, or exclusions allocable to your foreign earned income and housing exclusions.
+
+Example.
+
+In 2022, you had $95,600 of foreign earned income and $9,500 of deductions allocable to your foreign earned income. You did not have a housing exclusion. Because you excluded all of your foreign earned income, you would not have been able to claim any of the deductions on your 2022 return.
+
+In 2023, you received an $18,000 bonus for work you did abroad in 2022. You can exclude $16,400 of the bonus because the limit on the foreign earned income exclusion for 2022 was $112,000 and you have already excluded $95,600. Because you must include $1,600 of the bonus ($18,000 − $16,400) for work you did in 2022 in income, you can file an amended return for 2021 to claim $133.80 ($9,500 x $1,600/$113,600) of the deductions. These are the deductions allocable to the foreign earned income ($9,500) multiplied by the includible portion of the foreign earned income ($1,600) and divided by the total foreign earned income for 2022 ($113,600).
+
+Contributions to Foreign Charitable Organizations
+
+If you make contributions directly to a foreign church or other foreign charitable organization, you generally cannot deduct them. Exceptions are explained under Canadian, Mexican, and Israeli charities , later.
+
+You can deduct contributions to a U.S. organization that transfers funds to a charitable foreign organization if the U.S. organization controls the use of the funds by the foreign organization or if the foreign organization is just an administrative arm of the U.S. organization.
+
+Canadian, Mexican, and Israeli charities.
+
+Under the income tax treaties with Canada, Mexico, and Israel, you may be able to deduct contributions to certain Canadian, Mexican, and Israeli charitable organizations. Generally, you must have income from sources in Canada, Mexico, or Israel, and the organization must meet certain requirements. See Pub. 597, Information on the United States-Canada Income Tax Treaty, available at IRS.gov/Pub597 , and Pub. 526, Charitable Contributions, available at IRS.gov/Pub526 , for more information.
+
+Contributions to Individual Retirement Arrangements (IRAs)
+
+Contributions to your IRAs that are traditional IRAs or Roth IRAs are generally limited to the lesser of the maximum annual amount for the specific tax year, or your compensation that is includible in your gross income for the tax year. In determining compensation for this purpose, don’t take into account amounts you exclude under either the foreign earned income exclusion or the foreign housing exclusion. Don’t reduce your compensation by the foreign housing deduction.
+
+If you are covered by an employer retirement plan at work, your deduction for your contributions to your traditional IRAs is generally limited based on your MAGI. This is your adjusted gross income figured without taking into account the foreign earned income exclusion, the foreign housing exclusion, or the foreign housing deduction. Other modifications are also required. For more information on contributions to IRAs, see Pub. 590-A, Contributions to Individual Retirement Arrangements (IRAs), available at IRS.gov/Pub590A .
+
+Taxes of Foreign Countries and U.S. Territories
+
+You can take either a credit or a deduction for income taxes paid to a foreign country or a U.S. territory. Taken as a deduction, foreign income taxes reduce your taxable income. Taken as a credit, foreign income taxes reduce your tax liability. You must treat all foreign income taxes the same way. If you take a credit for any foreign income taxes, you cannot deduct any foreign income taxes. However, you may be able to deduct other foreign taxes. See Deduction for Other Foreign Taxes , later.
+
+There is no rule to determine whether it is to your advantage to take a deduction or a credit for foreign income taxes. In most cases, it is to your advantage to take foreign income taxes as a tax credit, which you subtract directly from your U.S. tax liability, rather than as a deduction in figuring taxable income. However, if foreign income taxes were imposed at a high rate and the proportion of foreign income to U.S. income is small, a lower final tax may result from deducting the foreign income taxes. In any event, you should figure your tax liability both ways and then use the one that is better for you.
+
+You can choose to claim a credit or to change from claiming a deduction to claiming a credit at any time during the period within 10 years from the regular due date for filing the return (without regard to any extension of time to file) for the tax year in which the taxes were actually paid or accrued. You can also choose to claim a deduction or to change from claiming a credit to claiming a deduction at any time during the period within 3 years from the time you filed the return or 2 years from when you paid the tax, whichever is later. This 10-year or 3-year (or 2-year) period may be extended by an agreement. You make or change your choice on your tax return (or on an amended return) for the year your choice is to be effective.
+
+Foreign income taxes.
+
+These are generally income taxes you pay to any foreign country or U.S. territory.
+
+Foreign income taxes on U.S. return.
+
+Foreign income taxes can only be taken as a credit on Schedule 3 (Form 1040), line 1, or as an itemized deduction on Schedule A (Form 1040). These amounts cannot be included as withheld income taxes on Form 1040 or 1040-SR, line 25.
+
+Foreign taxes paid on excluded income.
+
+You cannot take a credit or deduction for foreign income taxes paid on earnings you exclude from tax under any of the following.
+
+-
+
+Foreign earned income exclusion.
+
+-
+
+Foreign housing exclusion.
+
+-
+
+Territory exclusion.
+
+If your wages are completely excluded, you can’t deduct or take a credit for any of the foreign taxes paid on your wages.
+
+If only part of your wages is excluded, you can’t deduct or take a credit for the foreign income taxes allocable to the excluded part. You find the taxes allocable to your excluded wages by applying a fraction to the foreign taxes paid on foreign earned income received during the tax year. The numerator (top number) of the fraction is your excluded foreign earned income received during the tax year minus deductible expenses allocable to that income (not including the foreign housing deduction). The denominator (bottom number) of the fraction is your total foreign earned income received during the tax year minus all deductible expenses allocable to that income (including the foreign housing deduction).
+
+If foreign law taxes both earned income and some other type of income and the taxes on the other type can’t be separated, the denominator of the fraction is the total amount of income subject to foreign tax minus deductible expenses allocable to that income.
+
+Caution:
+
+If you take a foreign tax credit for tax on income you could have excluded under your choice to exclude foreign earned income or your choice to exclude foreign housing costs, one or both of the choices may be considered revoked.
+
+Credit for Foreign Income Taxes
+
+If you take the foreign tax credit, you may have to file Form 1116, Foreign Tax Credit (Individual, Estate, or Trust), available at IRS.gov/Form1116 , with Form 1040 or 1040-SR. Form 1116 is used to figure the amount of foreign tax paid or accrued that can be claimed as a foreign tax credit. Don’t include the amount of foreign tax paid or accrued as withheld federal income taxes on Form 1040 or 1040-SR, line 25.
+
+The foreign income tax for which you can claim a credit is the amount of legal and actual tax liability you pay or accrue during the year. The amount for which you can claim a credit is not necessarily the amount withheld by the foreign country. You can’t take a foreign tax credit for income tax you paid to a foreign country that would be refunded by the foreign country if you made a claim for refund.
+
+Subsidies.
+
+If a foreign country returns your foreign tax payments to you in the form of a subsidy, you cannot claim a foreign tax credit based on these payments. This rule applies to a subsidy provided by any means that is determined, directly or indirectly, by reference to the amount of tax, or to the base used to figure the tax.
+
+Some ways of providing a subsidy are refunds, credits, deductions, payments, or discharges of obligations. A credit is also not allowed if the subsidy is given to a person related to you, or persons who participated in a transaction or a related transaction with you.
+
+Limit
+
+The foreign tax credit is limited to the part of your total U.S. tax that is in proportion to your taxable income from sources outside the United States compared to your total taxable income. The allowable foreign tax credit can’t be more than your actual foreign tax liability.
+
+Exemption from limit.
+
+You won’t be subject to this limit and won’t have to file Form 1116 if you meet all three of the following requirements.
+
+-
+
+Your only foreign source income for the year is passive income (dividends, interest, royalties, etc.) that is reported to you on a payee statement (such as a Form 1099-DIV or 1099-INT).
+
+-
+
+Your foreign taxes for the year that qualify for the credit are not more than $300 ($600 if you are filing a joint return) and are reported on a payee statement.
+
+-
+
+You elect this procedure.
+
+If you make this election, you can’t carry back or carry over any unused foreign tax to or from this year.
+
+Separate limit.
+
+You must figure the limit on a separate basis with regard to section 951A category income, foreign branch category income, passive category income, general category income, section 901(j) income, certain income re-sourced by treaty, and any lump-sum distributions from an employer benefit plan for which the special averaging treatment is used to determine your tax (see the Instructions for Form 1116 ).
+
+Figuring the limit.
+
+In figuring taxable income in each category, you take into account only the amount that you must include in income on your federal tax return. Don’t take any excluded amount into account.
+
+To determine your taxable income in each category, deduct expenses and losses that are definitely related to that income.
+
+Other expenses (such as itemized deductions or the standard deduction) not definitely related to specific items of income must be apportioned to the foreign income in each category by multiplying them by a fraction. The numerator (top number) of the fraction is your gross foreign income in the separate limit category. The denominator (bottom number) of the fraction is your gross income from all sources. For this purpose, gross income includes income that is excluded under the foreign earned income provisions but does not include any other exempt income. You must use special rules for deducting interest expenses. For more information on allocating and apportioning your deductions, see Pub. 514, Foreign Tax Credit for Individuals, available at IRS.gov/Pub514 .
+
+Recapture of foreign losses.
+
+If you have an overall foreign loss and the loss reduces your U.S. source income (resulting in a reduction of your U.S. tax liability with respect to U.S. source income), you must recapture the loss in later years when you have taxable income from foreign sources. This is done by treating a part of your taxable income from foreign sources in later years as U.S. source income. This reduces the numerator of the limiting fraction and the resulting foreign tax credit limit.
+
+Recapture of domestic losses.
+
+If you have an overall domestic loss and the loss reduces your foreign source income (resulting in a reduction in the amount of foreign tax credit you can claim for taxes paid during that year), you must recapture the loss in later years when you have U.S. source taxable income. This is done by treating a part of your taxable income from U.S. sources in later years as foreign source income. This increases the numerator of the limitation fraction and the resulting foreign tax credit limit.
+
+Foreign tax credit carryback and carryover.
+
+The amount of foreign income tax not allowed as a credit because of the limit can be carried back 1 year and carried forward 10 years.
+
+Schedule B (Form 1116) is used to reconcile your prior-year foreign tax carryover with your current year foreign tax carryover. The schedule replaces the previous attachment requirement for Part III, line 10, of Form 1116. For more information, see the Instructions for Schedule B and the instructions for Form 1116, line 10, at Form 1116 .
+
+Deduction for Foreign Income Taxes
+
+Instead of taking the foreign tax credit, you can deduct foreign income taxes as an itemized deduction on Schedule A (Form 1040), available at IRS.gov/ScheduleA .
+
+You deduct only foreign income taxes paid on income that is subject to U.S. tax. You can’t deduct foreign taxes paid on earnings you exclude from tax under any of the following.
+
+-
+
+Foreign earned income exclusion.
+
+-
+
+Foreign housing exclusion.
+
+-
+
+Territory exclusion.
+
+Example.
+
+You are a U.S. citizen and qualify to exclude your foreign earned income. Your excluded wages in Country X are $70,000 on which you paid income tax of $10,000. You received dividends from Country X of $2,000 on which you paid income tax of $600.
+
+You can deduct the $600 tax payment because the dividends relating to it are subject to U.S. tax. Because you exclude your wages, you cannot deduct the income tax of $10,000.
+
+If you exclude only a part of your wages, see the earlier discussion under foreign taxes paid on excluded income .
+
+Deduction for Other Foreign Taxes
+
+You cannot deduct other foreign taxes, such as real property or personal property taxes, unless you incurred the expenses in a trade or business or in the production of income.
+
+On the other hand, you can generally deduct real property or personal property taxes when you pay them to U.S. territories. But if you claim the territory exclusion, see Pub. 570 .
+
+The deduction for foreign taxes other than foreign income taxes isn’t related to the foreign tax credit. You can take deductions for these miscellaneous foreign taxes and also claim the foreign tax credit for income taxes imposed by a foreign country.
+
+How To Report Deductions
+
+If you exclude foreign earned income or housing amounts, how you show your deductions on your tax return and how you figure the amount allocable to your excluded income depend on whether the expenses are used in figuring adjusted gross income (Form 1040 or 1040-SR, line 11) or are itemized deductions.
+
+If you have deductions used in figuring adjusted gross income, enter the total amount for each of these items on the appropriate lines and schedules of Form 1040 or 1040-SR. Generally, you figure the amount of a deduction related to the excluded income by multiplying the deduction by a fraction, the numerator of which is your foreign earned income exclusion and the denominator of which is your foreign earned income. Enter the amount of the deduction(s) related to excluded income on line 44 of Form 2555.
+
+If you have itemized deductions related to excluded income, enter on Schedule A (Form 1040) only the part not related to excluded income. You figure that amount by subtracting from the total deduction the amount related to excluded income. Generally, you figure the amount that is related to the excluded income by multiplying the total deduction by a fraction, the numerator of which is your foreign earned income exclusion and the denominator of which is your foreign earned income. Attach a statement to your return showing how you figured the deductible amount.
+
+Example 1.
+
+You are a U.S. citizen employed as an accountant. Your tax home is in Germany for the entire tax year. You meet the physical presence test. Your foreign earned income for the year was $129,875 and your investment income was $8,890. After excluding $120,000, your adjusted gross income is $18,765.
+
+Generally, mortgage interest is deductible on Schedule A (Form 1040). You paid mortgage interest on your foreign home of $15,000. Your mortgage is under $750,000. Reduce the $15,000 of your mortgage interest by 92.3% (0.923) ($13,845) because you excluded 92.3% (0.923) ($120,000/$129,875) of your foreign earned income.
+
+The remaining mortgage interest of $1,155 can be deducted on line 8a or 8b of Schedule A (Form 1040).
+
+Example 2.
+
+You are a U.S. citizen, have a tax home in Spain, and meet the physical presence test. You are self-employed and personal services produce the business income. Your gross income was $121,842, business expenses were $67,695, and net income (profit) was $54,147. You choose the foreign earned income exclusion and exclude $120,000 of your gross income. Because your excluded income is 98.48% (0.9848) of your total income, 98.48% (0.9848) of your business expenses are not deductible. Report your total income and expenses on Schedule C (Form 1040). On Form 2555, you will show the following.
+
+-
+
+Line 20a, $121,842, gross income.
+
+-
+
+Lines 42 and 43, $120,000, foreign earned income exclusion.
+
+-
+
+Line 44, $66,666 (98.48% (0.9848) × $67,695), business expenses attributable to the exclusion.
+
+Example 3.
+
+Assume in Example 2 that both capital and personal services combine to produce the business income. No more than 30% of your net income or $16,244 ($54,147 x 30% (0.30)), assuming that this amount is a reasonable allowance for your services, is considered earned and can be excluded. Your exclusion of $16,244 is 13.33% of your gross income ($16,244 ÷ $121,842). Because you excluded 13.33% of your net income, $9,024 (13.33% (0.1333) x $67,695) of your business expenses is attributable to the excluded income and is not deductible.
+
+Example 4.
+
+You are a U.S. citizen, have a tax home in Brazil, and meet the physical presence test. You are self-employed and both capital and personal services combine to produce business income. Your gross income was $146,000, business expenses were $172,000, and your net loss was $26,000. A reasonable allowance for the services you performed for the business is $77,000. Because you incurred a net loss, the earned income limit of 30% of your net profit does not apply. The $77,000 is foreign earned income. If you choose to exclude the $77,000, you exclude 52.74% of your gross income ($77,000 ÷ $146,000), and 52.74% of your business expenses ($90,713) is attributable to that income and is not deductible. Show your total income and expenses on Schedule C (Form 1040). On Form 2555, exclude $77,000 and show $90,713 on line 44. Subtract line 44 from line 43, and enter the difference as a negative (in parentheses) on line 45. Because this amount is negative, enter it as a positive (no parentheses) on line 8d of Schedule 1 (Form 1040), and combine it with your other income to arrive at total income on line 9 of Schedule 1 (Form 1040).
+
+Tip:
+
+In Example 4, if this was the first year you were eligible to claim the foreign earned income exclusion, you probably would not want to do so because you have a net loss. However, if you have a valid election in place from an earlier year and decide not to take the exclusion, you will be considered to have revoked your election and cannot claim the exclusion again for the next 5 tax years without IRS approval. See Effect of Choosing the Exclusions and Deduction in chapter 4.
+
+Example 5.
+
+You are a U.S. citizen, have a tax home in Panama, and meet the bona fide residence test. You have been performing services for clients as a partner in a firm that provides services exclusively in Panama. Capital investment is not material in producing the partnership's income. Under the terms of the partnership agreement, you are to receive 50% of the net profits. The partnership received gross income of $248,000 and incurred operating expenses of $102,250. Of the net profits of $145,750, you received $72,875 as your distributive share.
+
+You choose to exclude $120,000 of your share of the gross income. Because you exclude 96.77% (0.9677) ($120,000 ÷ $124,000) of your share of the gross income, you cannot deduct $49,474, which is 96.77% (0.9677) of your share of the operating expenses (96.77% (0.9677) × $51,125). Report $72,875, your distributive share of the partnership net profit, on Schedule E (Form 1040). On Form 2555, show $120,000 on line 42 and show $49,474 on line 44. Your exclusion on Form 2555 is $70,521.

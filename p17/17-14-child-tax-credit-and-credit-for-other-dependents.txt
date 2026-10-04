@@ -1,0 +1,263 @@
+IRS Pub 17 (2025) | 14. Child Tax Credit and Credit for Other Dependents
+
+14. Child Tax Credit and Credit for Other Dependents
+
+What’s New
+
+SSN required by due date of return. If you don’t have an SSN issued before the due date of your 2025 return (including extensions), you can’t claim the CTC or ACTC on either your original or an amended 2025 return. If you are filing a joint return, only one spouse is required to have an SSN issued by the due date of your return in order to be eligible for the CTC and ACTC. The other spouse may have an ITIN, but it must have been issued on or before the due date of the return.
+
+CTC amount increased. The maximum amount of CTC for each qualifying child increased to $2,200.
+
+Reminders
+
+ACTC amount. The maximum amount of ACTC for each qualifying child is $1,700.
+
+Schedule 8812 (Form 1040). Schedule 8812 (Form 1040) and its instructions are the single source for figuring and reporting the child tax credit, credit for other dependents, and additional child tax credit. The instructions now include all applicable worksheets for figuring these credits. As a result, Pub. 972, Child Tax Credit, won’t be revised. For prior-year versions of Pub. 972, go to IRS.gov/Pub972 .
+
+Abbreviations used throughout this chapter. The following abbreviations will be used in this chapter when appropriate.
+
+-
+
+ACTC means additional child tax credit.
+
+-
+
+ATIN means adoption taxpayer identification number.
+
+-
+
+CTC means child tax credit.
+
+-
+
+ITIN means individual taxpayer identification number.
+
+-
+
+ODC means credit for other dependents.
+
+-
+
+SSN means social security number.
+
+-
+
+TIN means taxpayer identification number. A TIN may be an ATIN, an ITIN, or an SSN.
+
+Other abbreviations may be used in this chapter and will be defined as needed.
+
+Delayed refund for returns claiming the ACTC. The IRS can’t issue refunds before mid-February 2026 for returns that properly claim the ACTC. This time frame applies to the entire refund, not just the portion associated with the ACTC.
+
+Introduction
+
+The CTC is a credit that may reduce your tax by as much as $2,200 for each child who qualifies you for the credit. See Limits on the CTC and ODC , later.
+
+The ACTC is a credit you may be able to take if you are not able to claim the full amount of the CTC.
+
+The ODC is a credit that may reduce your tax by as much as $500 for each eligible dependent.
+
+. The CTC and the ACTC shouldn’t be confused with the child and dependent care credit discussed in Pub. 503. .
+
+Useful Items
+
+You may want to see:
+
+Form (and Instructions)
+
+-
+
+Schedule 8812 (Form 1040) Credits for Qualifying Children and Other Dependents
+
+-
+
+8862 Information To Claim Certain Credits After Disallowance
+
+For these and other useful items, go to IRS.gov/Forms .
+
+Taxpayer Identification Number Requirements
+
+You must have a TIN by the due date of your return.
+
+If you, or your spouse if filing jointly, don’t have an SSN issued before the due date of your 2025 return (including extensions), you can’t claim the CTC or ACTC on either your original or amended 2025 tax return.
+
+If you, or your spouse if filing jointly, don’t have an SSN or ITIN issued on or before the due date of your 2025 return (including extensions), you can’t claim the ODC on either your original or amended 2025 tax return.
+
+If you apply for an ITIN on or before the due date of your 2025 return (including extensions) and the IRS issues you an ITIN as a result of the application, the IRS will consider your ITIN as issued on or before the due date of your return.
+
+Each qualifying child you use for CTC or ACTC must have the required SSN.
+
+If you have a qualifying child who doesn’t have the required SSN, you can’t use the child to claim the CTC or ACTC on either your original or amended 2025 tax return. The required SSN is one that is valid for employment and is issued before the due date of your 2025 return (including extensions).
+
+If your qualifying child was born and died in 2025 and you don’t have an SSN for the child, attach a copy of the child’s birth certificate, death certificate, or hospital records. The document must show the child was born alive.
+
+If your qualifying child doesn’t have the required SSN but has another type of TIN issued on or before the due date of your 2025 return (including extensions), you may be able to claim the ODC for that child. See Credit for Other Dependents (ODC) , later.
+
+Each dependent you use for the ODC must have a TIN by the due date of your return.
+
+If you have a dependent who doesn’t have an SSN, ITIN, or ATIN issued on or before the due date of your 2025 return (including extensions), you can’t use that dependent to claim the ODC on either your original or amended 2025 tax return.
+
+If you apply for an ITIN or ATIN for the dependent on or before the due date of your 2025 return (including extensions) and the IRS issues the ITIN or ATIN as a result of the application, the IRS will consider the ITIN or ATIN as issued on or before the due date of your return.
+
+Improper Claims
+
+If you erroneously claim the CTC, ACTC, or ODC, and it is later determined that your error was due to reckless or intentional disregard of the CTC, ACTC, or ODC rules, you will not be allowed to claim any of these credits for 2 years. If it is determined that your error was due to fraud, you will not be allowed to claim any of these credits for 10 years. You may also have to pay penalties. See How to appeal the disallowance period in the Instructions for Form 8862, for more information about what to do if you disagree with our determination that you can’t claim the credit for 2 or 10 years.
+
+Form 8862 may be required.
+
+If your CTC (refundable or nonrefundable depending on the tax year), ACTC, or ODC for a year after 2015 was denied or reduced for any reason other than a math or clerical error, you must attach Form 8862 to your tax return to claim the CTC, ACTC, or ODC, unless an exception applies. See Form 8862, and its instructions for more information, including whether an exception applies.
+
+Child Tax Credit (CTC)
+
+The CTC is for individuals who claim a child as a dependent if the child meets additional conditions (described later).
+
+Note:
+
+This credit is different from and in addition to the credit for child and dependent care expenses and the earned income credit that you may also be eligible to claim.
+
+The maximum amount you can claim for the credit is $2,200 for each child who qualifies you for the CTC. But, see Limits on the CTC and ODC , later.
+
+For more information about claiming the CTC, see Claiming the CTC and ODC , later.
+
+Qualifying Child for the CTC
+
+A child qualifies you for the CTC if the child meets all of the following conditions.
+
+-
+
+The child is your son, daughter, stepchild, foster child, brother, sister, stepbrother, stepsister, half brother, half sister, or a descendant of any of them (for example, your grandchild, niece, or nephew).
+
+-
+
+The child was under age 17 at the end of 2025.
+
+-
+
+The child didn’t provide over half the child’s own support for 2025.
+
+-
+
+The child lived with you for more than half of 2025 (see Exceptions to time lived with you , later).
+
+-
+
+The child is claimed as a dependent on your return. See chapter 3 for more information about claiming someone as a dependent.
+
+-
+
+The child doesn’t file a joint return for the year (or files it only to claim a refund of withheld income tax or estimated tax paid).
+
+-
+
+The child was a U.S. citizen, U.S. national, or U.S. resident alien. For more information, see Pub. 519. If the child was adopted, see Adopted child , later.
+
+Example.
+
+Your child turned 17 on December 30, 2025, and is a citizen of the United States and claimed as a dependent on your return. You can't use the child to claim the CTC or ACTC because the child was not under age 17 at the end of 2025.
+
+. If your child is age 17 or older at the end of 2025, see Credit for Other Dependents (ODC) , later. .
+
+Adopted child.
+
+An adopted child is always treated as your own child. An adopted child includes a child lawfully placed with you for legal adoption.
+
+If you are a U.S. citizen or U.S. national and your adopted child lived with you all year as a member of your household in 2025, that child meets condition 7, earlier, to be a qualifying child for the child tax credit (or condition 3, later, to be a qualifying person for the ODC).
+
+Exceptions to time lived with you.
+
+A child is considered to have lived with you for more than half of 2025 if the child was born or died in 2025 and your home was this child's home for more than half the time the child was alive. Temporary absences by you or the child for special circumstances, such as school, vacation, business, medical care, military service, or detention in a juvenile facility, count as time the child lived with you.
+
+There are also exceptions for kidnapped children and children of divorced or separated parents. For details, see Residency Test in chapter 3.
+
+Qualifying child of more than one person.
+
+A special rule applies if your qualifying child is the qualifying child of more than one person. For details, see Qualifying Child of More Than One Person in chapter 3.
+
+Required SSN
+
+In addition to being a qualifying child for the CTC, your child must have the required SSN. The required SSN is one that is valid for employment and that is issued by the Social Security Administration (SSA) before the due date of your 2025 return (including extensions).
+
+. If your qualifying child does not have the required SSN, see Credit for Other Dependents (ODC) , later. .
+
+If your child was a U.S. citizen when the child received the SSN, the SSN is valid for employment. If “Not Valid for Employment” is printed on your child’s social security card and your child’s immigration status has changed so that your child is now a U.S. citizen or permanent resident, ask the SSA for a new social security card without the legend. However, if “Valid for Work Only With DHS Authorization” is printed on your child’s social security card, your child has the required SSN only as long as the Department of Homeland Security (DHS) authorization is valid.
+
+If your child doesn’t have the required SSN, you can't use the child to claim the CTC or ACTC on either your original or amended 2025 tax return.
+
+Credit for Other Dependents (ODC)
+
+This credit is for individuals with a dependent who meets additional conditions (described later).
+
+Note:
+
+This credit is different from and in addition to the credit for child and dependent care expenses that you may also be eligible to claim.
+
+The maximum amount you can claim for this credit is $500 for each qualifying dependent. See Limits on the CTC and ODC , later.
+
+For more information about claiming the ODC, see Claiming the CTC and ODC , later.
+
+Qualifying Person for the ODC
+
+A person qualifies you for the ODC if the person meets all of the following conditions.
+
+-
+
+The person is claimed as a dependent on your return. See chapter 3 for more information about claiming someone as a dependent.
+
+-
+
+The person can’t be used by you to claim the CTC or ACTC. See Child Tax Credit (CTC) , earlier.
+
+-
+
+The person was a U.S. citizen, U.S. national, or U.S. resident alien. For more information, see Pub. 519. If the person is your adopted child, see Adopted child , earlier.
+
+Example.
+
+Your sibling’s 10-year-old child lives in Mexico and qualifies as your dependent. The child is not a U.S. citizen, U.S. national, or U.S. resident alien. You can't use this dependent to claim the ODC.
+
+. You can’t use the same child to claim the CTC or ACTC, and the ODC. .
+
+Timely Issued TIN
+
+In addition to being a qualifying person for the ODC, the person must have an SSN, ITIN, or ATIN issued to the dependent on or before the due date of your 2025 return (including extensions). If the person has not been issued an SSN, ITIN, or ATIN by that date, you can’t use the person to claim the ODC on either your original or amended 2025 return. For more information, see Taxpayer Identification Number Requirements , earlier.
+
+Limits on the CTC and ODC
+
+The credit amount of your CTC or ODC may be reduced if your modified adjusted gross income (AGI) is more than the amounts shown below for your filing status.
+
+-
+
+Married filing jointly — $400,000.
+
+-
+
+All other filing statuses — $200,000.
+
+Modified AGI.
+
+For purposes of the CTC and ODC, your modified AGI is the amount on line 3 of Schedule 8812.
+
+For more information about limits on the CTC and ODC, see the Instructions for Schedule 8812 (Form 1040).
+
+Claiming the CTC and ODC
+
+To claim the CTC or ODC, be sure you meet the following requirements.
+
+. Don't check both the Child tax credit box and the Credit for other dependents box for the same person. .
+
+Additional Child Tax Credit (ACTC)
+
+This credit is for certain individuals who get less than the full amount of the CTC.
+
+. The ODC can’t be used to figure the ACTC. Only your CTC can be used to figure your ACTC. If you are claiming the ODC but not the CTC, you can’t claim the ACTC. .
+
+Foreign earned income.
+
+If you file Form 2555 (relating to foreign earned income), you can’t claim the ACTC.
+
+Bona fide residents of Puerto Rico.
+
+Bona fide residents of Puerto Rico are no longer required to have three or more qualifying children to be eligible to claim the ACTC. See Schedule 8812 (Form 1040) and its instructions.
+
+How to claim the ACTC.
+
+To claim the ACTC, see Schedule 8812 (Form 1040) and its instructions.

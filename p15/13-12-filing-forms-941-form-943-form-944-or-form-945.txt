@@ -1,0 +1,144 @@
+IRS Pub 15 (2026) | 12. Filing Forms 941, Form 943, Form 944, or Form 945
+
+12. Filing Forms 941, Form 943, Form 944, or Form 945
+
+Form 941.
+
+If you paid wages subject to federal income tax withholding (including withholding on sick pay and supplemental unemployment benefits) or social security and Medicare taxes, you must file Form 941 quarterly even if you have no taxes to report, unless you filed a final return, you receive an IRS notification that you’re eligible to file Form 944, or the exceptions discussed later apply. Also, if you’re required to file Forms 941 but believe your employment taxes for the calendar year will be $1,000 or less, and you would like to file Form 944 instead of Forms 941, you must contact the IRS during the first calendar quarter of the tax year to request to file Form 944. You must receive written notice from the IRS to file Form 944 instead of Forms 941 before you may file this form. For more information on requesting to file Form 944, including the methods and deadlines for making a request, see the Instructions for Form 944. Form 941 must be filed by the last day of the month that follows the end of the quarter. However, if you made timely deposits in full payment of your taxes for the quarter, you may file by the 10th day of the 2nd month that follows the end of the quarter. See Calendar , earlier.
+
+Form 943.
+
+You must file Form 943 for each calendar year beginning with the first year that you pay $2,500 or more for farmwork or you employ a farmworker who meets the $150 test explained under Social Security and Medicare Taxes in section 9. Don’t report these wages on Form 941, Form 944, or Form 945. File your 2025 Form 943 by February 2, 2026. However, if you made timely deposits in full payment of your taxes for the year, you may file by February 10, 2026.
+
+Form 944.
+
+If you receive written notification that you qualify for the Form 944 program, you must file Form 944 instead of Forms 941. You must file Form 944 even if you have no taxes to report (or you have taxes in excess of $1,000 to report) unless you filed a final return for the prior year. If you received notification to file Form 944, but prefer to file Forms 941, you can request to have your filing requirement changed to Forms 941 during the first calendar quarter of the tax year. For more information on requesting to file Forms 941, including the methods and deadlines for making a request, see the Instructions for Form 944. File your 2025 Form 944 by February 2, 2026. However, if you made timely deposits in full payment of your taxes for the year, you may file by February 10, 2026.
+
+Form 945.
+
+If you withhold or are required to withhold federal income tax (including backup withholding) from nonpayroll payments, you must file Form 945. All federal income tax withholding from nonpayroll payments that is reported on Forms 1099 or Form W-2G must be included on Form 945 and not on another form such as Form 1040-ES, Estimated Tax for Individuals. Don’t report on Form 945 withholding that is required to be reported on Form 1042, Annual Withholding Tax Return for U.S. Source Income of Foreign Persons. You don’t have to file Form 945 for those years in which you don’t have a nonpayroll tax liability. File your 2025 Form 945 by February 2, 2026. However, if you made timely deposits in full payment of your taxes for the year, you may file by February 10, 2026.
+
+Exceptions.
+
+The following exceptions apply to the filing requirements for Form 941 and Form 944.
+
+-
+
+Seasonal employers who don’t have to file Forms 941 for quarters when they have no tax liability because they have paid no wages. To alert the IRS you won’t have to file a return for 1 or more quarters during the year, check the “Seasonal employer” box on Form 941, line 18. When you fill out Form 941, be sure to check the box on the top of the form that corresponds to the quarter reported. Generally, the IRS won’t inquire about unfiled returns if at least one taxable return is filed each year. However, you must check the “Seasonal employer” box on every Form 941 you file. Otherwise, the IRS will expect a return to be filed for each quarter.
+
+-
+
+Household employers reporting social security and Medicare taxes and/or withheld income tax. If you file Form 941, Form 943, or Form 944 for business employees, you may include taxes for household employees on your Form 941, Form 943, or Form 944. Otherwise, report social security and Medicare taxes and income tax withholding for household employees on Schedule H (Form 1040). See Pub. 926 for more information.
+
+-
+
+Agricultural employers reporting social security, Medicare, and withheld income taxes. Report these taxes on Form 943.
+
+Railroad employers.
+
+Employers that pay Railroad Retirement Tax Act (RRTA) taxes use Form CT-1 to report employment taxes imposed by the RRTA, and Form 941 or Form 944 to report federal income taxes withheld from their employees’ wages and other compensation.
+
+E-file .
+
+The IRS e-file program allows a taxpayer to electronically file Form 941, Form 943, Form 944, and Form 945. For more information, go to IRS.gov/EmploymentEfile or call 866-255-0654.
+
+Electronic filing by reporting agents.
+
+Reporting agents filing Form 941, Form 943, Form 944, or Form 945 for groups of taxpayers can file them electronically. For details, see Pub. 3112, IRS e-file Application and Participation. For information on electronic filing, see Revenue Procedure 2007-40, 2007-26 I.R.B. 1488, available at IRS.gov/irb/2007-26_IRB#RP-2007-40 . For information on the different types of third-party payer arrangements, see section 16 .
+
+Electronic filing by CPEOs.
+
+With the exception of the first quarter (Form 941 only) for which a CPEO is certified, CPEOs are required to electronically file Form 941 with Schedule R (Form 941), or, if applicable, Form 943 with Schedule R (Form 943). Under certain circumstances, the IRS may waive the electronic filing requirement. To request a waiver, the CPEO must file a written request using the IRS Online Registration System for Professional Employer Organizations at least 45 days before the due date of the return for which the CPEO is unable to electronically file. For more information on filing a waiver request electronically, go to IRS.gov/CPEO . Also see Revenue Procedure 2023-18 .
+
+Penalties.
+
+For each whole or part month a return isn’t filed when required, there is a failure-to-file (FTF) penalty of 5% of the unpaid tax due with that return. The maximum penalty is generally 25% of the tax due. Also, for each whole or part month the tax is paid late, there is a failure-to-pay (FTP) penalty of 0.5% per month of the amount of tax. For individual filers only, the FTP penalty is reduced from 0.5% per month to 0.25% per month if an installment agreement is in effect. You must have filed your return on or before the due date of the return to qualify for the reduced penalty. The maximum amount of the FTP penalty is also 25% of the tax due. If both penalties apply in any month, the FTF penalty is reduced by the amount of the FTP penalty. The penalties won’t be charged if you have reasonable cause for failing to file or pay. If you receive a penalty notice, you can provide an explanation of why you believe reasonable cause exists. In addition to any penalties, interest accrues from the due date of the tax on any unpaid balance.
+
+If income, social security, or Medicare tax that must be withheld isn’t withheld or isn’t paid, you may be personally liable for the trust fund recovery penalty. See Trust fund recovery penalty in section 11.
+
+Generally, the use of a third-party payer, such as a PSP or reporting agent, doesn’t relieve an employer of the responsibility to ensure tax returns are filed and all taxes are paid or deposited correctly and on time. However, see Certified professional employer organization (CPEO) in section 16 for an exception.
+
+Don’t file more than one return per return period.
+
+Employers with multiple locations or divisions must file only one Form 941 per quarter or one Form 944 per year. An agricultural employer must file only one Form 943 per year. A payer of nonpayroll payments that withheld federal income tax or backup withholding must file only one Form 945 per year. Filing more than one return may result in processing delays and may require correspondence between you and the IRS. For information on making adjustments to previously filed returns, see section 13 .
+
+Reminders about filing.
+
+Final return.
+
+If you go out of business, you must file a final return for the last quarter (last year for Form 943, Form 944, or Form 945) in which wages (nonpayroll payments for Form 945) are paid. If you continue to pay wages or other compensation for periods following termination of your business, you must file returns for those periods. See the Instructions for Form 941, Instructions for Form 943, Instructions for Form 944, or Instructions for Form 945 for details on how to file a final return.
+
+If you’re required to file a final return, you’re also required to furnish Forms W-2 to your employees and file Forms W-2 and W-3 with the SSA by the due date of your final return. Don’t send an original or copy of your Form 941, Form 943, or Form 944 to the SSA. See the General Instructions for Forms W-2 and W-3 for more information. Employers in Puerto Rico, see the General Instructions for Forms W-3 (PR) and W-3C (PR).
+
+Filing late returns for previous years.
+
+Get a copy of Form 941, Form 943, Form 944, or Form 945 (and separate instructions) with a revision date showing the year, and, if applicable, quarter for which your delinquent return is being filed. Prior year and/or quarterly Form 941, Form 943, Form 944, and Form 945 are available, respectively, at IRS.gov/Form941 , IRS.gov/Form943 , IRS.gov/Form944 , and IRS.gov/Form945 (select the link for “All form revisions” under “Other items you may find useful”). Also, see Ordering Employer Tax Forms, Instructions, and Publications , earlier. Contact the IRS at 800-829-4933 if you have any questions about filing late returns.
+
+Table 3. Social Security and Medicare Tax Rates (for 3 Prior Years)
+
+Calendar year | Wage base limit (each employee) | Tax rate on taxable wages and tips
+2025—social security | $176,100 | 12.4%
+2025—Medicare | All wages | 2.9%
+2024—social security | $168,600 | 12.4%
+2024—Medicare | All wages | 2.9%
+2023—social security | $160,200 | 12.4%*
+2023—Medicare | All wages | 2.9%
+* Qualified sick leave wages and qualified family leave wages for leave taken after March 31, 2020, and before April 1, 2021, aren’t subject to the employer share of social security tax; therefore, the tax rate on these wages is 6.2% (0.062).
+
+Reconciling Forms W-2 and W-3 with Forms 941, Form 943, or Form 944.
+
+When there are discrepancies between Forms 941, Form 943, or Form 944 filed with the IRS and Forms W-2 and W-3 filed with the SSA, the IRS or the SSA may contact you to resolve the discrepancies.
+
+Take the following steps to help reduce discrepancies.
+
+-
+
+Report bonuses as wages and as social security and Medicare wages on Forms W-2 and on Forms 941, Form 943, or Form 944.
+
+-
+
+Report both social security and Medicare wages and taxes separately on Forms W-2 and W-3, and on Forms 941, Form 943, or Form 944.
+
+-
+
+Report the employee share of social security taxes on Form W-2 in the box for social security tax withheld (box 4), not as social security wages. On Form 499R-2/W-2PR, social security tax withheld is reported in box 21.
+
+-
+
+Report the employee share of Medicare taxes on Form W-2 in the box for Medicare tax withheld (box 6), not as Medicare wages. On Form 499R-2/W-2PR, Medicare tax withheld is reported in box 23.
+
+-
+
+Make sure the social security wage amount for each employee doesn’t exceed the annual social security wage base limit ($184,500 for 2026).
+
+-
+
+Don’t report noncash wages that aren’t subject to social security or Medicare tax, as discussed earlier under Wages not paid in money in section 5, as social security or Medicare wages.
+
+-
+
+If you used an EIN on any Forms 941, Form 943, or Form 944 for the year that is different from the EIN reported on Form W-3, enter the other EIN on Form W-3 in the box for “Other EIN used this year” (box h). On Form W-3 (PR), “Other EIN used this year” is reported in box f.
+
+-
+
+Be sure the amounts on Form W-3 are the total of amounts from Forms W-2.
+
+-
+
+Reconcile Form W-3 with your four quarterly Forms 941, annual Form 943, or annual Form 944 by comparing amounts reported for the following items.
+
+-
+
+Federal income tax withheld.
+
+-
+
+Social security and Medicare wages.
+
+-
+
+Social security and Medicare taxes. Generally, the amounts shown on Forms 941, Form 943, or Form 944, including current year adjustments, should be approximately twice the amounts shown on Form W-3 because Forms 941, Form 943, and Form 944 report both the employer and employee social security and Medicare taxes while Form W-3 reports only the employee taxes.
+
+Don’t report backup withholding or withholding on nonpayroll payments, such as pensions, annuities, and gambling winnings, on Forms 941, Form 943, or Form 944. Withholding on nonpayroll payments is reported on Forms 1099 or Form W-2G and must be reported on Form 945. Only taxes and withholding reported on Form W-2 should be reported on Forms 941, Form 943, or Form 944.
+
+Amounts reported on Forms W-2, W-3, and Forms 941, Form 943, or Form 944 may not match for valid reasons. For example, if you withheld any Additional Medicare Tax from your employee’s wages, the amount of Medicare tax that is reported on Forms 941, line 5c, column 2; Form 943, line 5; or Form 944, line 4c, column 2, won’t be twice the amount of the Medicare tax withheld that is reported in box 6 of Form W-3 (box 13 of Form W-3 (PR)) because the Additional Medicare Tax is only imposed on the employee; there is no employer share of Additional Medicare Tax. Make sure there are valid reasons for any mismatch. Keep your reconciliation so you’ll have a record of why amounts didn’t match in case there are inquiries from the IRS or the SSA. See the Instructions for Schedule D (Form 941) if you need to explain any discrepancies that were caused by an acquisition, statutory merger, or consolidation.

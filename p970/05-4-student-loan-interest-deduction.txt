@@ -1,0 +1,443 @@
+IRS Pub 970 (2025) | 4. Student Loan Interest Deduction
+
+4. Student Loan Interest Deduction
+
+What’s New
+
+Modified adjusted gross income (MAGI) limits. For 2025, the amount of your student loan interest deduction is gradually reduced (phased out) if your MAGI is between $85,000 and $100,000 ($170,00 and $200,000 if you file a joint return). You can’t claim the deduction if your MAGI is $100,000 or more ($200,000 or more if you file a joint return). For more information, see Figuring the Deduction .
+
+Reminder
+
+No double benefit allowed. You can’t deduct as interest on a student loan any interest paid by your employer after March 27, 2020, under an educational assistance program. See No Double Benefit Allowed .
+
+Introduction
+
+Generally, personal interest you pay, other than certain mortgage interest, isn’t deductible on your tax return. However, if your MAGI is less than $100,000 ($200,000 if filing a joint return), you may be allowed a special deduction for paying interest on a student loan (also known as an education loan) used for higher education. For most taxpayers, MAGI is the adjusted gross income (AGI) as figured on their federal income tax return before subtracting any deduction for student loan interest. This deduction can reduce the amount of your income subject to tax by up to $2,500.
+
+The student loan interest deduction is claimed as an adjustment to income. This means you can claim this deduction even if you don’t itemize deductions on Schedule A (Form 1040).
+
+This chapter explains:
+
+-
+
+What type of loan interest you can deduct,
+
+-
+
+Whether you can claim the deduction,
+
+-
+
+What expenses you must have paid with the student loan,
+
+-
+
+Who is an eligible student,
+
+-
+
+How to figure the deduction, and
+
+-
+
+How to claim the deduction.
+
+Table 4-1. Student Loan Interest Deduction at a Glance
+
+This table summarizes the features of the student loan interest deduction. Don’t rely on this table alone. Refer to the text for more details.
+
+Feature |  | Description
+Maximum benefit |  | You can reduce your income subject to tax by up to $2,500.
+Loan qualifications |  | Your student loan: • Must have been taken out solely to pay qualified education expenses, and • Can’t be from a related person or made under a qualified employer plan.
+Student qualifications |  | The student must be: • You, your spouse, or your dependent (as defined later for this purpose); and • Enrolled at least half-time in a program leading to a degree, certificate, or other recognized educational credential at an eligible educational institution.
+Limit on MAGI |  | $200,000 if married filing a joint return; $100,000 if single, head of household, or qualifying surviving spouse.
+
+Student Loan Interest Defined
+
+Student loan interest is interest you paid during the year on a qualified student loan. It includes both required and voluntary interest payments.
+
+Qualified Student Loan
+
+This is a loan you took out solely to pay qualified education expenses (defined later) that were:
+
+-
+
+For you, your spouse, or a person who was your dependent (as defined later for this purpose) when you took out the loan;
+
+-
+
+Paid or incurred within a reasonable period of time before or after you took out the loan; and
+
+-
+
+For education provided during an academic period for an eligible student.
+
+Loans from the following sources aren’t qualified student loans.
+
+-
+
+A related person.
+
+-
+
+A qualified employer plan.
+
+Your dependent.
+
+Generally, your dependent is someone who is either a:
+
+-
+
+Qualifying child, or
+
+-
+
+Qualifying relative.
+
+You can find more information about dependents in Pub. 501.
+
+For this purpose, the term “dependent” also includes any person you could have claimed as a dependent on your return except that:
+
+-
+
+You or your spouse if filing jointly could be claimed as a dependent of another taxpayer (like on your parent’s tax return);
+
+-
+
+The person filed a joint return; or
+
+-
+
+The person had gross income for the year that was equal to or more than $5,200 (for 2025).
+
+Reasonable period of time.
+
+Qualified education expenses are treated as paid or incurred within a reasonable period of time before or after you take out the loan if they are paid with the proceeds of student loans that are part of a federal postsecondary education loan program.
+
+Even if not paid with the proceeds of that type of loan, the expenses are treated as paid or incurred within a reasonable period of time if both of the following requirements are met.
+
+-
+
+The expenses relate to a specific academic period.
+
+-
+
+The loan proceeds are disbursed within a period that begins 90 days before the start of that academic period and ends 90 days after the end of that academic period.
+
+If neither of the above situations applies, the reasonable period of time is usually determined based on all the relevant facts and circumstances.
+
+Academic period.
+
+An academic period includes a semester, trimester, quarter, or other period of study (such as a summer school session) as reasonably determined by an educational institution. If an educational institution uses credit hours or clock hours and doesn’t have academic terms, each payment period can be treated as an academic period.
+
+Eligible student.
+
+An eligible student is a student who was enrolled at least half-time in a program leading to a degree, certificate, or other recognized educational credential.
+
+Enrolled at least half-time.
+
+A student was enrolled at least half-time if the student was taking at least half the normal full-time workload for their course of study.
+
+The standard for what is half of the normal full-time workload is determined by each eligible educational institution. However, the standard may not be lower than any of those established by the U.S. Department of Education under the Higher Education Act of 1965.
+
+Related person.
+
+You can’t deduct interest on a loan you get from a related person. Related persons include:
+
+-
+
+Your spouse;
+
+-
+
+Your brothers and sisters;
+
+-
+
+Your half brothers and half sisters;
+
+-
+
+Your ancestors (parents, grandparents, etc.);
+
+-
+
+Your lineal descendants (children, grandchildren, etc.); and
+
+-
+
+Certain corporations, partnerships, trusts, and exempt organizations.
+
+Qualified employer plan.
+
+You can’t deduct interest on a loan made under a qualified employer plan or under a contract purchased under such a plan.
+
+Qualified Education Expenses
+
+For purposes of the student loan interest deduction, these expenses are the total costs of attending an eligible educational institution. They include amounts paid for the following items.
+
+-
+
+Tuition and fees.
+
+-
+
+Room and board.
+
+-
+
+Books, supplies, and equipment.
+
+-
+
+Other necessary expenses (such as transportation).
+
+The cost of room and board qualifies only to the extent it isn’t more than:
+
+-
+
+The allowance for room and board, as determined by the eligible educational institution, that was included in the cost of attendance (for federal financial aid purposes) for a particular academic period and living arrangement of the student; or
+
+-
+
+If greater, the actual amount charged if the student is residing in housing owned or operated by the eligible educational institution.
+
+Eligible educational institution.
+
+An eligible educational institution is generally any college, university, vocational school, or other postsecondary educational institution eligible to participate in a student aid program administered by the U.S. Department of Education. Virtually all accredited public, nonprofit, and proprietary (privately owned profit-making) postsecondary institutions meet this definition.
+
+An eligible educational institution also includes certain educational institutions located outside the United States that are eligible to participate in a student aid program administered by the U.S. Department of Education.
+
+For purposes of the student loan interest deduction, an eligible educational institution also includes an institution conducting an internship or residency program leading to a degree or certificate from an institution of higher education, a hospital, or a health care facility that offers postgraduate training.
+
+An educational institution must meet the above criteria only during the academic period(s) for which the student loan was incurred. The deductibility of interest on the loan isn’t affected by the institution’s subsequent loss of eligibility.
+
+. The educational institution should be able to tell you if it is an eligible educational institution. .
+
+Adjustments to Qualified Education Expenses
+
+You must reduce your qualified education expenses by the total amount paid for them with the following tax-free items.
+
+Include as Interest
+
+In addition to simple interest on the loan, if all other requirements are met, the items discussed below can be student loan interest.
+
+Loan origination fee.
+
+In general, this is a one-time fee charged by the lender when a loan is made. To be deductible as interest, a loan origination fee must be for the use of money rather than for property or services (such as commitment fees or processing costs) provided by the lender. A loan origination fee treated as interest accrues over the life of the loan.
+
+Loan origination fees weren’t required to be reported on Form 1098-E, Student Loan Interest Statement, for loans made before September 1, 2004. If loan origination fees aren’t included in the amount reported on your Form 1098-E, you can use any reasonable method to allocate the loan origination fees over the term of the loan.
+
+Capitalized interest.
+
+This is unpaid interest on a student loan that is added by the lender to the outstanding principal balance of the loan. Capitalized interest is treated as interest for tax purposes and is deductible as payments of principal are made on the loan. No deduction for capitalized interest is allowed in a year in which no loan payments were made.
+
+Interest on revolving lines of credit.
+
+This interest, which includes interest on credit card debt, is student loan interest if the borrower uses the line of credit (credit card) only to pay qualified education expenses. See Qualified Education Expenses , earlier.
+
+Interest on refinanced and consolidated student loans.
+
+This includes interest on a loan used solely to refinance a qualified student loan of the same borrower. It also includes a single consolidation loan used solely to refinance two or more qualified student loans of the same borrower.
+
+. If you refinance a qualified student loan for more than your original loan and you use the additional amount for any purpose other than qualified education expenses, you can’t deduct any interest paid on the refinanced loan. .
+
+Allocating Payments Between Interest and Principal
+
+The allocation of payments between interest and principal for tax purposes might not be the same as the allocation shown on the Form 1098-E or other statement you receive from the lender or loan servicer. To make the allocation for tax purposes, a payment generally applies first to stated interest that remains unpaid as of the date the payment is due, second to any loan origination fees allocable to the payment, third to any capitalized interest that remains unpaid as of the date the payment is due, and fourth to the outstanding principal.
+
+Example.
+
+In August 2024, you took out a $10,000 student loan to pay the tuition for your senior year of college. The lender charged a 3% loan origination fee ($300) that was withheld from the funds you received. The interest (5% simple) on this loan accrued while you completed your senior year and for 6 months after graduating. At the end of that period, the lender determined the amount to be repaid by capitalizing all accrued but unpaid interest ($625 interest accrued from August 2024 through October 2025) and adding it to the outstanding principal balance of the loan. The loan is payable over 60 months, with a payment of $200.51 due on the first of each month, beginning November 2025.
+
+You didn’t receive a Form 1098-E for 2025 from the lender because the amount of interest you paid didn’t require the lender to issue an information return. However, you did receive an account statement from the lender that showed the following 2025 payments on your outstanding loan of $10,625 ($10,000 principal + $625 accrued but unpaid interest).
+
+Payment Date |  | Payment |  | Stated Interest |  | Principal
+November 2025 |  | $200.51 |  | $44.27 |  | $156.24
+December 2025 |  | $200.51 |  | $43.62 |  | $156.89
+Totals |  | $401.02 |  | $87.89 |  | $313.13
+
+To determine the amount of interest that could be deducted on the loan for 2025, you start with the total amount of stated interest you paid, $87.89. Next, allocate the loan origination fee over the term of the loan ($300 ÷ 60 months = $5 per month). A total of $10 ($5 of each of the two principal payments) should be treated as interest for tax purposes. You then apply the unpaid capitalized interest ($625) to the two principal payments in the order in which they were made and determine that the remaining amount of principal of both payments is treated as interest for tax purposes. Assuming that you qualify to claim the student loan interest deduction, you can deduct $401.02 ($87.89 + $10 + $303.13).
+
+For 2026, you will continue to allocate $5 of the loan origination fee to the principal portion of each monthly payment you make and treat that amount as interest for tax purposes. You will also apply the remaining amount of capitalized interest ($625 − $303.13 = $321.87) to the principal payments in the order in which they are made until the balance is zero and treat those amounts as interest for tax purposes.
+
+Don’t Include as Interest
+
+You can’t claim a student loan interest deduction for any of the following items.
+
+When Must Interest Be Paid?
+
+You can deduct all interest you paid during the year on your student loan, including voluntary payments, until the loan is paid off.
+
+Can You Claim the Deduction?
+
+Generally, you can claim the deduction if all of the following requirements are met.
+
+-
+
+Your filing status is any filing status except married filing separately.
+
+-
+
+No one else is claiming you as a dependent on their tax return.
+
+-
+
+You are legally obligated to pay interest on a qualified student loan.
+
+-
+
+You paid interest on a qualified student loan.
+
+Claiming you as a dependent.
+
+Another taxpayer is claiming you as a dependent if they list your name and other required information on page 1 of their Form 1040, 1040-SR, or 1040-NR.
+
+Example 1.
+
+During 2025, you paid $600 interest on your qualified student loan. Only you are legally obligated to make the payments. No one claimed you as a dependent for 2025. Assuming all other requirements are met, you can deduct the $600 of interest you paid on your 2025 Form 1040 or 1040-SR.
+
+Example 2.
+
+During 2025, you paid $1,100 interest on your qualified student loan. Only you are legally obligated to make the payments. Your parents claimed you as a dependent on their 2025 tax return. In this case, neither you nor your parents may deduct the student loan interest you paid in 2025.
+
+Interest paid by others.
+
+If you are the person legally obligated to make interest payments and someone else makes a payment of interest on your behalf, you are treated as receiving the payments from the other person and, in turn, paying the interest.
+
+Example 1.
+
+You obtained a qualified student loan to attend college. After graduating from college, you worked as an intern for a nonprofit organization. As part of the internship program, the nonprofit organization made an interest payment on your behalf. This payment was treated as additional compensation and reported in box 1 of your Form W-2. Assuming all other qualifications are met, you can deduct this payment of interest on your tax return.
+
+Example 2.
+
+You obtained a qualified student loan to attend college. After graduating from college, the first monthly payment on the loan was due in December. As a gift, your mother made this payment. No one is claiming you as a dependent on their tax return. Assuming all other qualifications are met, you can deduct this payment of interest on your tax return.
+
+No Double Benefit Allowed
+
+You can’t deduct as interest on a student loan any amount that is an allowable deduction under any other provision of the tax law (for example, home mortgage interest).
+
+You also can’t deduct as interest on a student loan any amount paid from a distribution of earnings made from a QTP after 2018 to the extent the earnings are treated as tax free because they were used to pay student loan interest. For more information, see chapter 7 .
+
+For payments made after March 27, 2020, do not deduct as interest on a student loan any interest paid by your employer under an educational assistance program. See chapter 10 .
+
+Figuring the Deduction
+
+Your student loan interest deduction is generally the smaller of:
+
+-
+
+$2,500, or
+
+-
+
+The interest you paid during the tax year.
+
+However, the amount determined above may be phased out (gradually reduced) or eliminated based on your filing status and MAGI as explained below. You can use Worksheet 4-1 (at the end of this chapter) to figure both your MAGI and your deduction.
+
+Form 1098-E.
+
+To help you figure your student loan interest deduction, you should receive Form 1098-E. Generally, an institution (such as a bank or governmental agency) that received interest payments of $600 or more during 2025 on one or more qualified student loans must send Form 1098-E (or an acceptable substitute) to each borrower by February 2, 2026 (January 31 falls on a Saturday).
+
+For qualified student loans taken out before September 1, 2004, the institution is required to include on Form 1098-E only payments of stated interest. Other interest payments, such as certain loan origination fees and capitalized interest, may not appear on the form you receive. However, if you pay qualifying interest that isn’t included on Form 1098-E, you can also deduct those amounts. See Allocating Payments Between Interest and Principal , earlier.
+
+The lender may ask for a completed Form W-9S or similar statement to obtain the borrower’s name, address, and taxpayer identification number. The form may also be used by the borrower to certify that the student loan was incurred solely to pay for qualified education expenses.
+
+Effect of the Amount of Your Income on the Amount of Your Deduction
+
+The amount of your student loan interest deduction is phased out (gradually reduced) if your MAGI is between $85,000 and $100,000 ($170,00 and $200,000 if you file a joint return). You can’t claim a student loan interest deduction if your MAGI is $100,000 or more ($200,000 or more if you file a joint return).
+
+Modified adjusted gross income (MAGI).
+
+For most taxpayers, MAGI is AGI as figured on their federal income tax return before subtracting any deduction for student loan interest. However, as discussed below, there may be other modifications.
+
+Table 4-2 shows how the amount of your MAGI can affect your student loan interest deduction.
+
+Table 4-2. Effect of MAGI on Student Loan Interest Deduction
+
+IF your filing status is... | AND your MAGI is... | THEN your student loan interest deduction is...
+single, head of household, or qualifying surviving spouse | not more than $85,000 | not affected by the phaseout.
+more than $85,000 but less than $100,000 | reduced because of the phaseout.
+$100,000 or more | eliminated by the phaseout.
+married filing joint return | not more than $170,000 | not affected by the phaseout.
+more than $170,000 but less than $200,000 | reduced because of the phaseout.
+$200,000 or more | eliminated by the phaseout.
+
+MAGI when using Form 1040 or 1040-SR.
+
+If you file Form 1040 or 1040-SR, your MAGI is the AGI on line 11a of that form figured without taking into account any amount on Schedule 1 (Form 1040), line 21 (student loan interest deduction), and modified by adding back any:
+
+-
+
+Foreign earned income exclusion,
+
+-
+
+Foreign housing exclusion,
+
+-
+
+Foreign housing deduction,
+
+-
+
+Exclusion of income by bona fide residents of American Samoa, and
+
+-
+
+Exclusion of income by bona fide residents of Puerto Rico.
+
+MAGI when using Form 1040-NR.
+
+If you file Form 1040-NR, your MAGI is the AGI on line 11a of that form figured without taking into account any amount on Schedule 1 (Form 1040), line 21 (student loan interest deduction).
+
+Phaseout.
+
+If your MAGI is within the range of incomes where the credit must be reduced, you must figure your reduced deduction. To figure the phaseout, multiply your interest deduction (before the phaseout but not more than $2,500) by a fraction. The numerator (top part) is your MAGI minus $85,000 ($170,000 in the case of a joint return). The denominator (bottom part) is $15,000 ($30,000 in the case of a joint return). Subtract the result from your deduction (before the phaseout) to give you the amount you can deduct.
+
+Example 1.
+
+During 2025, you paid $800 of interest on a qualified student loan. Your 2025 MAGI is $185,000 and you are filing a joint return. You must reduce your deduction by $400, figured as follows.
+
+$800 | × | $185,000 − $170,000 $30,000 | = | $400
+
+Your reduced student loan interest deduction is $400 ($800 − $400).
+
+Example 2.
+
+The facts are the same as in Example 1 , except that you paid $2,750 interest. Your maximum deduction for 2025 is $2,500. You must reduce your maximum deduction by $1,250, figured as follows.
+
+$2,500 | × | $185,000 − $170,000 $30,000 | = | $1,250
+
+In this example, your reduced student loan interest deduction is $1,250 ($2,500 − $1,250).
+
+Which Worksheet To Use
+
+Generally, you figure the deduction using the Student Loan Interest Deduction Worksheet in the Schedule 1 (Form 1040) instructions included in the Instructions for Form 1040. However, if you are filing Form 2555, Foreign Earned Income; Form 4563, Exclusion of Income for Bona Fide Residents of American Samoa; or you are excluding income from sources within Puerto Rico, you must complete Worksheet 4-1.
+
+Claiming the Deduction
+
+The student loan interest deduction is an adjustment to income. To claim the deduction, enter the allowable amount on Schedule 1 (Form 1040), line 21.
+
+Student loan interest deductionWorksheet 4-1 WorksheetsStudent loan interest deduction (Worksheet 4-1)Worksheet 4-1. Student Loan Interest Deduction Worksheet
+
+Use this worksheet instead of the worksheet in the Schedule 1 (Form 1040) instructions if you are filing Form 2555 or 4563 , or you are excluding income from sources within Puerto Rico. Before using this worksheet, you must complete Form 1040 or 1040-SR , line 9, and Schedule 1 (Form 1040) , lines 11 through 20 and 23 and 25.
+
+1. | Enter the total interest you paid in 2025 on qualified student loans. Don’t enter more than $2,500 | 1. | _____
+2. | Enter the amount from Form 1040 or 1040-SR, line 9 | 2. | _____
+3. | Enter the total of the amounts from Schedule 1 (Form 1040), lines 11 through 20 and 23 and 25 | 3. | _____
+4. | Subtract line 3 from line 2 | 4. | _____
+5. | Enter any foreign earned income exclusion and/or housing exclusion (Schedule 1 (Form 1040), line 8d) | 5. | _____
+6. | Enter any foreign housing deduction (Schedule 1 (Form 1040), line 24j) | 6. | _____
+7. | Enter the amount of income from Puerto Rico you are excluding | 7. | _____
+8. | Enter the amount of income from American Samoa you are excluding (Form 4563, line 15) | 8. | _____
+9. | Add lines 4 through 8. This is your modified adjusted gross income | 9. | _____
+10. | Enter the amount shown below for your filing status | 10. | _____
+• Single, head of household, or qualifying surviving spouse—$85,000
+• Married filing jointly—$170,000
+11. | Is the amount on line 9 more than the amount on line 10?
+□ | No. Skip lines 11 and 12, enter -0- on line 13, and go to line 14.
+□ | Yes. Subtract line 10 from line 9 | 11. | _____
+12. | Divide line 11 by $15,000 ($30,000 if married filing jointly). Enter the result as a decimal (rounded to at least three places). If the result is 1.000 or more, enter 1.000 | 12. | .
+13. | Multiply line 1 by line 12 | 13. | _____
+14. | Student loan interest deduction. Subtract line 13 from line 1. Enter the result here and on Schedule 1 (Form 1040), line 21. Don’t include this amount in figuring any other deduction on your return (such as on Schedule A, C, E, etc.) | 14. | _____

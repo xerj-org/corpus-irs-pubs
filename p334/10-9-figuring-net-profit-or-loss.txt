@@ -1,0 +1,43 @@
+IRS Pub 334 (2025) | 9. Figuring Net Profit or Loss
+
+9. Figuring Net Profit or Loss
+
+Introduction
+
+After figuring your business income and expenses, you are ready to figure the net profit or net loss from your business. You do this by subtracting business expenses from business income. If your expenses are less than your income, the difference is net profit and becomes part of your income on line 3 of Schedule 1 (Form 1040). If your expenses are more than your income, the difference is a net loss. You can usually deduct it from gross income on line 3 of Schedule 1 (Form 1040). But in some situations your loss is limited. This chapter briefly explains three of those situations. Other situations that may limit your loss are explained in the instructions for Schedule C (Form 1040), line G and line 32.
+
+. If you have more than one business, you must figure your net profit or loss for each business on a separate Schedule C (Form 1040). .
+
+Excess business loss limitation.
+
+Your loss from a trade or business may be limited. Use Form 461 to determine the amount of your excess business loss, if any. Your excess business loss will be included as income on line 8p of Schedule 1 (Form 1040) and treated as an NOL that you must carry forward and deduct in a subsequent year.
+
+For more information about the excess business loss limitation, see Form 461 and its instructions.
+
+Net Operating Losses (NOLs)
+
+If your deductions for the year are more than your income for the year, you may have an NOL. You can use an NOL by deducting it from your income in another year or years.
+
+Examples of typical losses that may produce an NOL include, but are not limited to, losses incurred from the following.
+
+-
+
+Your trade or business.
+
+-
+
+A casualty or theft resulting from a federally declared disaster.
+
+-
+
+Rental property.
+
+A loss from operating a business is the most common reason for an NOL.
+
+For details about NOLs, see the Instructions for Form 172. It explains how to figure an NOL, when to use it, how to claim an NOL deduction, and how to figure an NOL carryover.
+
+Activities Not Engaged in for Profit
+
+If you don’t carry on your business to make a profit, there is a limit on the deductions you can take. You generally can’t use a loss from the activity to offset other income. Activities you do as a hobby, or mainly for sport or recreation, come under this limit.
+
+For details about not-for-profit activities, see IRS.gov/newsroom/Hobby-or-business-here’s-what-to-know-about-that-side-hustle .

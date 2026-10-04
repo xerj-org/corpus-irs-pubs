@@ -1,0 +1,21 @@
+IRS Pub 15 (2026) | 1. Employer Identification Number (EIN)
+
+1. Employer Identification Number (EIN)
+
+If you’re required to report employment taxes or give tax statements to employees or annuitants, you need an EIN.
+
+The EIN is a nine-digit number the IRS issues. The digits are arranged as follows: 00-0000000. It is used to identify the tax accounts of employers and certain others who have no employees. Use your EIN on all of the items you send to the IRS and the SSA. For more information, see Pub. 1635.
+
+If you don’t have an EIN, you may apply for one online by going to IRS.gov/EIN . You may also apply for an EIN by faxing or mailing Form SS-4 to the IRS. If the principal business was created or organized outside of the United States or U.S. territories, you may also apply for an EIN by calling 267-941-1099 (toll call). Don’t use an SSN in place of an EIN.
+
+You should have only one EIN. If you have more than one and aren’t sure which one to use, call 800-829-4933 or 800-829-4059 (TDD/TTY for persons who are deaf, hard of hearing, or have a speech disability). Give the numbers you have, the name and address to which each was assigned, and the address of your main place of business. The IRS will tell you which number to use. For more information, see Pub. 1635.
+
+If you took over another employer’s business (see Successor employer in section 9), don’t use that employer’s EIN. If you’ve applied for an EIN but don’t have your EIN by the time a return is due, file a paper return and enter “Applied For” and the date you applied for it in the space shown for the number.
+
+Caution:
+
+Always be sure the EIN on the form you file exactly matches the EIN the IRS assigned to your business. Don’t use your SSN or individual taxpayer identification number (ITIN) on forms that ask for an EIN. If you used an EIN (including a prior owner’s EIN) on Form 941, Form 943, or Form 944 that is different from the EIN reported on Form W-3, see Box h—Other EIN used this year in the General Instructions for Forms W-2 and W-3. On Form W-3 (PR) for Puerto Rico, “Other EIN used this year” is reported in box f. The name and EIN on Form 945 must match the name and EIN on your information returns where federal income tax withholding is reported (for example, backup withholding reported on Form 1099-NEC). Filing a Form 945 with an incorrect EIN or using another business’s EIN may result in penalties and delays in processing your return.
+
+Agricultural employers that have crew leaders.
+
+An agricultural employer must record the crew leader’s name, address, and EIN. See sections 2 and 14 .

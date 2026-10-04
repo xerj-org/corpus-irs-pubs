@@ -1,0 +1,594 @@
+IRS Pub 334 (2025) | 1. Filing and Paying Business Taxes
+
+1. Filing and Paying Business Taxes
+
+Introduction
+
+This chapter explains the business taxes you may have to pay and the forms you may have to file. It also discusses taxpayer identification numbers (TINs).
+
+Table 1-1 lists the benefits of filing electronically.
+
+Table 1-2 lists the federal taxes you may have to pay, due dates, and the forms you use to report them.
+
+Table 1-3 provides checklists that highlight the typical forms and schedules you may need to file if you go out of business.
+
+. You may want to get Pub. 509, Tax Calendars. It has tax calendars that tell you when to file returns and make tax payments. .
+
+Useful Items
+
+You may want to see:
+
+Publication
+
+-
+
+505 Tax Withholding and Estimated Tax
+
+-
+
+583 Starting a Business and Keeping Records
+
+Form (and Instructions)
+
+-
+
+461 Limitation on Business Losses
+
+-
+
+1040 U.S. Individual Income Tax Return
+
+-
+
+1040-SR U.S. Tax Return for Seniors
+
+-
+
+1040-ES Estimated Tax for Individuals
+
+-
+
+7205 Energy Efficient Commercial Buildings Deduction
+
+-
+
+Sch C (Form 1040) Profit or Loss From Business
+
+-
+
+Sch SE (Form 1040) Self-Employment Tax
+
+See chapter 12 for information about getting publications and forms.
+
+Identification Numbers
+
+This section explains three types of TINs, who needs them, when to use them, and how to get them.
+
+Social security number (SSN).
+
+Generally, use your SSN as your TIN. You must report this number on each of your individual income tax forms, such as Form 1040 and its schedules.
+
+To apply for an SSN, use Form SS-5 , Application for a Social Security Card. This form is available at Social Security Administration (SSA) offices or by calling 800-772-1213. It is also available from the SSA website at SSA.gov/forms/ss-5 .
+
+Individual taxpayer identification number (ITIN).
+
+The IRS will issue an ITIN if you are a nonresident or resident alien and you do not have and are not eligible to get an SSN. The ITIN will expire for any taxpayer who does not file a federal income tax return (or who is not included as a dependent on the return of another taxpayer) for 3 consecutive years. In general, if you need to obtain an ITIN, you must attach Form W-7 , Application for IRS Individual Taxpayer Identification Number, with your signed, original, completed tax return and any other required documentation and mail them to the address in the Instructions for Form W-7. Exceptions are covered in the instructions. If you must include another person’s SSN on your return and that person does not have and cannot get an SSN, enter that person’s ITIN. The application is also available in Spanish. The form is available at IRS.gov/FormW7 .
+
+. An ITIN is for tax use only. It does not entitle the holder to social security benefits or change the holder’s employment or immigration status. .
+
+Employer identification number (EIN).
+
+You must also have an EIN to use as a TIN if you do either of the following.
+
+-
+
+Pay wages to one or more employees.
+
+-
+
+File pension or excise tax returns.
+
+If you must have an EIN, include it along with your SSN on your Schedule C (Form 1040) as instructed.
+
+You can apply for an EIN:
+
+-
+
+Online by going to IRS.gov/EIN . As long as the principal business location is in the United States or U.S. territories, the EIN is issued immediately once the application information is validated;
+
+-
+
+By telephone at 267-941-1099 (not a toll-free number) only if the principal business is located outside the United States or U.S. territories; or
+
+-
+
+By mailing or faxing Form SS-4 , Application for Employer Identification Number.
+
+New EIN.
+
+You may need to get a new EIN if either the form or the ownership of your business changes. For more information, see Pub. 1635, Understanding Your EIN.
+
+When you need identification numbers of other persons.
+
+In operating your business, you will probably make certain payments you must report on information returns. These payments are discussed under Information Returns , later in this chapter. You must give the recipient of these payments (the payee) a statement showing the total amount paid during the year. You must include the payee’s identification number and your identification number on the returns and statements. See the General Instructions for Certain Information Returns.
+
+Employee.
+
+If you have employees, you must get an SSN from each of them. Record the name and SSN of each employee exactly as they are shown on the employee’s social security card. If the employee’s name is not correct as shown on the card, the employee should request a new card from the SSA. This may occur if the employee’s name was changed due to marriage or divorce. See Pub. 15.
+
+Form W-4, Employee’s Withholding Allowance Certificate, is completed by each employee so the correct federal income tax can be withheld from their pay.
+
+If your employee does not have an SSN, they should file Form SS-5 with the SSA.
+
+Other payee.
+
+If you make payments to someone who is not your employee and you must report the payments on an information return, get that person’s SSN. If you must report payments to an organization, such as a corporation or partnership, you must get its EIN.
+
+To get the payee’s SSN or EIN, use Form W-9 , Request for Taxpayer Identification Number and Certification.
+
+A payee who does not provide you with an identification number may be subject to backup withholding. For information on backup withholding, see the Instructions for the Requester of Form W-9 and the General Instructions for Certain Information Returns.
+
+Income Tax
+
+This part explains whether you have to file an income tax return and when you file it. It also explains how you pay the tax.
+
+Do I Have To File an Income Tax Return?
+
+You have to file an income tax return for 2025 if your net earnings from self-employment were $400 or more. If your net earnings from self-employment were less than $400, you still have to file an income tax return if you meet any other filing requirement listed in the Instructions for Form 1040.
+
+How Do I File?
+
+File your income tax return on Form 1040 or 1040-SR and attach Schedule C (Form 1040) . Enter the net profit or loss from Schedule C (Form 1040) on Schedule 1 (Form 1040). Use Schedule C (Form 1040) to figure your net profit or loss from your business. If you operated more than one business as a sole proprietorship, attach a separate Schedule C (Form 1040) for each business.
+
+IRS e-file (Electronic Filing)
+
+E-file logo
+
+I.R.S. e-file logo
+
+I.R.S. e-file logo
+
+Summary: This is an illustration of the logo used to identify the I.R.S. e-file program.
+
+Please click here for the text description of the image.
+
+You may be able to file your tax returns electronically using an IRS e-file option. Table 1-1 lists the benefits of IRS e-file . IRS e-file uses automation to replace most of the manual steps needed to process paper returns. As a result, the processing of IRS e-file returns is faster and more accurate than the processing of paper returns. As with a paper return, you are responsible for making sure your return contains accurate information and is filed on time.
+
+Using IRS e-file does not affect your probability of an IRS examination of your return.
+
+You can file most commonly used business forms using IRS e-file . For more information, go to IRS.gov .
+
+E-signatures.
+
+Paperless filing is easier than you think and it’s available to most taxpayers who file electronically, including first-time filers who were 16 or older at the end of 2025. If you file electronically using tax preparation software or a tax professional, you will sign your return using the Self-Select PIN (personal identification number) method for IRS e-file . If you are married filing jointly, you and your spouse will each need to create a PIN and enter these PINs as your electronic signatures.
+
+To create a PIN, you must know your adjusted gross income (AGI) from your originally filed 2024 income tax return (not from an amended return, Form 1040-X, or after receiving any math error notice from the IRS). You will also need to provide your date of birth (DOB). Make sure your DOB is accurate and matches the information on record with the SSA before you e-file . To do this, check your annual Social Security Statement.
+
+With a Self-Select PIN, there is nothing to sign and nothing to mail, not even your Form(s) W-2. For more details on the Self-Select PIN method, go to IRS.gov/E-File-Providers/Self-Select-Pin-Method-for-Forms-1040-and-4868-Modernized-E-File-MeF .
+
+State returns.
+
+In most states, you can file an electronic state return simultaneously with your federal return. For more information, check with your state tax agency, a tax professional, or IRS.gov .
+
+Refunds and direct deposit.
+
+If you have access to U.S. banking services or electronic payment systems, you should use direct deposit for any refunds. The IRS also recommends paying electronically whenever possible. Options to pay electronically include using your bank account with Direct Pay, your debit or credit card, your digital wallet, or your IRS Online Account.
+
+With IRS e-file , your refund will be issued in half the time as when filing on paper. Most refunds are issued in less than 21 days.
+
+Offset against debts.
+
+As with a paper return, you may not get all of your refund if you (or your spouse, if filing a joint return) owe certain past-due amounts, such as federal tax, state tax, a student loan, or past-due child support, including past-due support owed to any Indian tribe or tribal organization. You will be notified if the refund you claimed has been offset against your debts. You may file an injured spouse claim on Form 8379, Injured Spouse Allocation, or Form 8857, Request for Innocent Spouse Relief, to recover part or all of a joint refund transferred to pay the separate liabilities of your spouse.
+
+Refund inquiries.
+
+You can check the status of your refund if it has been at least 24 hours (4 weeks if you mailed a paper return) from the date you filed your return. Be sure to have a copy of your tax return available because you will need to know the filing status, the first SSN shown on the return, and the exact whole-dollar amount of the refund. To check on your refund, do one of the following.
+
+-
+
+Go to IRS.gov/Refunds .
+
+-
+
+Download the free IRS2Go app to your smart phone and use it to check your refund status.
+
+-
+
+Call 800-829-1954 for automated refund information and follow the recorded instructions.
+
+The IRS can’t issue refunds before mid-February 2026 for returns that claimed the earned income credit or the additional child tax credit. This applies to the entire refund, not just the portion associated with these credits.
+
+Balance due and electronic payments.
+
+If your return shows that you owe tax, you must pay it by the due date of your return (without regard to any extension to file) to avoid late-payment penalties and interest. For calendar-year 2025, pay by April 15, 2026. The IRS recommends paying electronically whenever possible. Options to pay electronically include using your bank account with Direct Pay, your debit or credit card, your digital wallet, or your IRS Online Account. Go to IRS.gov/Payments to see all your payment options.
+
+Using an Authorized IRS e-file Provider
+
+Many tax professionals can electronically file paperless returns for their clients. You have two options.
+
+-
+
+You can prepare your return, take it to an authorized IRS e-file provider, and have the provider transmit it electronically to the IRS.
+
+-
+
+You can have an authorized IRS e-file provider prepare your return and transmit it for you electronically.
+
+You will be asked to complete Form 8879, IRS e-file Signature Authorization, to authorize the provider to enter your self-selected PIN on your return.
+
+Depending on the provider and the specific services requested, a fee may be charged. To find an authorized IRS e-file provider near you, go to IRS.gov/Efile/Providers .
+
+Using Your Personal Computer
+
+A computer with Internet access is all you need to file your tax return using IRS e-file . When you use your personal computer, you can e-file your return from your home any time of the day or night. Sign your return electronically using a self-selected PIN to complete the process. There is no signature form to submit or Forms W-2 to send in.
+
+Free software options for filing your taxes.
+
+If your AGI was $89,000 or less in 2025, you can use free tax software to prepare and e-file your tax return.
+
+Free File.
+
+This public-private partnership, between the IRS and tax software providers, makes approximately a dozen brand-name commercial software products and e-file available for free. Go to IRS.gov/FreeFile for details. You can review each software provider’s criteria for free usage or use an online tool to find which free software products match your situation. Some software providers offer state tax return preparation for free.
+
+Free File Fillable Forms.
+
+The IRS also offers electronic versions of IRS paper forms that can be e-filed for free. Free File Fillable Forms is best for people experienced in preparing their own tax returns. There is no income limitation to using these forms. Free File Fillable Forms does basic math calculations. It supports only federal tax forms.
+
+Filing Through Employers and Financial Institutions
+
+Some businesses offer free e-file to their employees, members, or customers. Others offer it for a fee. Ask your employer or financial institution if they offer IRS e-file as an employee, member, or customer benefit.
+
+Free Help With Your Return
+
+Free help in preparing your return is available nationwide from IRS-trained volunteers. The Volunteer Income Tax Assistance (VITA) program is designed to help low-income taxpayers, and the Tax Counseling for the Elderly (TCE) program is designed to assist taxpayers age 60 or older with their tax returns. Some locations offer free electronic filing.
+
+Table 1-1. Benefits of IRS e-file
+
+Accuracy | • | Your chance of getting an error notice from the IRS is significantly reduced.
+Security | • | Your privacy and security are assured.
+Electronic signatures | • | Create your own personal identification number (PIN) and file a completely paperless return through your tax preparation software or tax professional. There is nothing to mail.
+Proof of acceptance | • | You receive an electronic acknowledgment within 48 hours that the IRS has accepted your return for processing.
+Fast refunds | • | If you have access to banking services or electronic services, you get your refund faster with direct deposit.
+Free Internet filing options | • | Use IRS.gov to access commercial tax preparation and e-file services available at no cost to eligible taxpayers.
+Electronic payment options | • | Convenient, safe, and secure electronic payment options are available. E-file and pay your taxes in a single step. Schedule direct payment from your checking or savings account (up to and including April 15, 2026) or pay by debit or credit card. See Balance due and electronic payments , earlier.
+Federal/State filing | • | Prepare and file your federal and state tax returns together and double the benefits you get from e-file .
+
+When Is My Tax Return Due?
+
+For calendar-year 2025, Form 1040 or 1040-SR is due by April 15, 2026. If you use a fiscal year (explained in chapter 2), your return is due by the 15th day of the 4th month after the end of your fiscal year. If you file late, you may have to pay penalties and interest.
+
+If you cannot file your return on time, use Form 4868 , Application for Automatic Extension of Time To File U.S. Individual Income Tax Return, to request an automatic 6-month extension. For calendar-year taxpayers, this will extend the tax filing due date until October 15. Filing an extension does not extend the time to pay your taxes, only the time to file the tax return.
+
+How Do I Pay Income Tax?
+
+Federal income tax is a pay-as-you-go tax. You must pay it as you earn or receive income during the year. An employee usually has income tax withheld from their pay. If you do not pay your tax through withholding, or do not pay enough tax that way, you might have to pay estimated tax.
+
+Estimated tax payments.
+
+You generally have to make estimated tax payments if you expect to owe taxes, including self-employment tax (discussed later), of $1,000 or more when you file your return. Use Form 1040-ES to figure and pay the tax. If you do not have to make estimated tax payments, you can pay any tax due when you file your return. For more information on estimated tax, see Pub. 505.
+
+What are my options for paying estimated tax?
+
+You can pay your estimated tax electronically using various options. If you pay electronically, there is no need to mail in Form 1040-ES payment vouchers. These options include:
+
+-
+
+Paying electronically through the Electronic Federal Tax Payment System (EFTPS),
+
+-
+
+Paying with Direct Pay by authorizing an electronic funds withdrawal when you file Form 1040 or 1040-SR electronically, or
+
+-
+
+Paying by credit or debit card over the phone or by Internet.
+
+Other options include crediting an overpayment from your 2024 return to your 2025 estimated tax.
+
+EFTPS.
+
+-
+
+To enroll in EFTPS, go to EFTPS.gov or call 800-555-4477.
+
+-
+
+When you request a new EIN, you may be automatically enrolled in EFTPS.
+
+-
+
+Benefits of EFTPS include the following.
+
+-
+
+The chance of an error in making your payments is reduced.
+
+-
+
+You receive immediate confirmation of every transaction.
+
+Penalty for underpayment of tax.
+
+If you did not pay enough income tax and self-employment tax for 2025 by withholding or by making estimated tax payments, you may have to pay a penalty on the amount not paid. The IRS will figure the penalty for you and send you a bill. Or you can use Form 2210, Underpayment of Estimated Tax by Individuals, Estates, and Trusts, to see if you have to pay a penalty and to figure the penalty amount. For more information, see Pub. 505.
+
+Self-Employment (SE) Tax
+
+SE tax is a social security and Medicare tax primarily for individuals who work for themselves. It is similar to the social security and Medicare taxes withheld from the pay of most wage earners.
+
+. If you earned income as a statutory employee, you don’t pay SE tax on that income. Social security and Medicare taxes should have already been withheld from those earnings. .
+
+Social security coverage.
+
+Social security benefits are available to self-employed persons just as they are to wage earners. Your payments of SE tax contribute to your coverage under the social security system. Social security coverage provides you with retirement benefits, disability benefits, survivor benefits, and hospital insurance (Medicare) benefits.
+
+. Be sure to report all of your self-employment income. By not reporting all of it, you could cause your social security benefits to be lower when you retire. .
+
+How to become insured under social security.
+
+You must be insured under the social security system before you begin receiving social security benefits. You are insured if you have the required number of credits (also called quarters of coverage), discussed next.
+
+Earning credits in 2025 and 2026.
+
+For 2025, you received one credit, up to a maximum of four credits, for each $1,810 ($1,890 for 2026) of income subject to social security tax. Therefore, for 2025, if you had income (self-employment and wages) of $7,240 that was subject to social security tax, you received four credits ($7,240 ÷ $1,810).
+
+For an explanation of the number of credits you must have to be insured and the benefits available to you and your family under the social security program, consult your nearest SSA office.
+
+. Making false statements to get or to increase social security benefits may subject you to penalties. .
+
+The SSA time limit for posting self-employment income.
+
+Generally, the SSA will give you credit only for self-employment income reported on a tax return filed within 3 years, 3 months, and 15 days after the tax year you earned the income. If you file your tax return or report a change in your self-employment income after this time limit, the SSA may change its record but only to remove or reduce the amount. The SSA will not change its records to increase your self-employment income.
+
+Who must pay SE tax.
+
+You must pay SE tax and file Schedule SE (Form 1040) if either of the following applies.
+
+-
+
+Your net earnings from self-employment (excluding church employee income) were $400 or more.
+
+-
+
+You had church employee income of $108.28 or more.
+
+. The SE tax rules apply no matter how old you are and even if you are already receiving social security or Medicare benefits. .
+
+SE tax rate.
+
+The SE tax rate on net earnings is 15.3% (12.4% social security tax plus 2.9% Medicare tax).
+
+Maximum earnings subject to SE tax.
+
+Only the first $176,100 of your combined wages, tips, and net earnings in 2025 is subject to any combination of the 12.4% social security part of SE tax, social security tax, or the Tier 1 part of railroad retirement tax.
+
+All your combined wages, tips, and net earnings in 2025 are subject to any combination of the 2.9% Medicare part of SE tax, Medicare tax, or Medicare part of railroad retirement tax.
+
+If wages and tips you receive as an employee are subject to either social security tax or the Tier 1 part of railroad retirement tax, or both, and total at least $176,100, don’t pay the 12.4% social security part of the SE tax on any of your net earnings. However, you must pay the 2.9% Medicare part of the SE tax on all your net earnings.
+
+. Deduct one-half of your SE tax as an adjustment to income on line 15 of Schedule 1 (Form 1040).
+
+.
+
+Additional Medicare Tax.
+
+A 0.9% Additional Medicare Tax may apply to you if your net earnings from self-employment exceed one of the following threshold amounts (based on your filing status).
+
+-
+
+Married filing jointly—$250,000.
+
+-
+
+Married filing separately—$125,000.
+
+-
+
+Single, Head of household, or Qualifying surviving spouse—$200,000.
+
+If you have both wages and self-employment income, the threshold amount for applying the Additional Medicare Tax on the self-employment income is reduced (but not below zero) by the amount of wages subject to Additional Medicare Tax. Use Form 8959, Additional Medicare Tax, to figure this tax.
+
+More information.
+
+For information on methods of calculating SE tax, see chapter 10 .
+
+Table 1-2. Which Forms Must I File?
+
+IF you are liable for... | THEN use Form... | DUE by... 1
+Income tax | 1040, or 1040-SR, and Schedule C 2 | 15th day of 4th month after end of tax year.
+Self-employment tax | Schedule SE (Form 1040) | File with Form 1040, Form 1040-SR, 1040-SS, or 1040-NR.
+Estimated tax | 1040-ES | 15th day of 4th, 6th, and 9th months of tax year, and 15th day of 1st month after the end of tax year.
+Social security and Medicare taxes and income tax withholding | 941 or 944 | April 30, July 31, October 31, and January 31. 3
+See Pub. 15.
+Providing information on social security and Medicare taxes and income tax withholding | W-2 (to employee) W-2 and W-3 (to the SSA) | January 31. 3 January 31. 3
+Federal unemployment tax (FUTA) | 940 | January 31. 3
+April 30, July 31, October 31, and January 31, but only if the liability for unpaid tax is more than $500.
+Filing information returns for payments to nonemployees and transactions with other persons | See Information Returns | Forms 1099—to the recipient by January 31 and to the IRS by February 28 (March 31 if filing electronically). 4
+Other forms—see the General Instructions for Certain Information Returns.
+Excise tax | See Excise Taxes | See the instructions for the forms.
+
+1 If a due date falls on a Saturday, Sunday, or legal holiday, file by the next day that is not a Saturday, Sunday, or legal holiday. For more information, see Pub. 509.
+2 File a separate schedule for each business.
+3 See the form instructions if you go out of business, change the form of your business, or stop paying wages.
+4 Form 1099-NEC—to the IRS by January 31 (even if filing electronically) if you are reporting nonemployee compensation.
+
+Employment Taxes
+
+If you have employees, you need to file forms to report employment taxes. Employment taxes include the following items.
+
+-
+
+Social security and Medicare taxes.
+
+-
+
+Federal income tax withholding.
+
+-
+
+Federal unemployment tax (FUTA).
+
+For more information, see Pub. 15 (Circular E), Employer’s Tax Guide. That publication explains your tax responsibilities as an employer.
+
+To help you determine whether the people working for you are your employees, see Pub. 15-A. That publication has information to help you determine whether an individual is an independent contractor or an employee.
+
+. If you incorrectly classify an employee as an independent contractor, you may be held liable for employment taxes for that worker plus a penalty. .
+
+An independent contractor is someone who is self-employed. You generally do not have to withhold or pay any taxes on payments made to an independent contractor.
+
+Excise Taxes
+
+This section identifies some of the excise taxes you may have to pay and the forms you have to file if you do any of the following.
+
+-
+
+Manufacture or sell certain products.
+
+-
+
+Operate certain kinds of businesses.
+
+-
+
+Use various kinds of equipment, facilities, or products.
+
+-
+
+Receive payment for certain services.
+
+For more information on excise taxes, see Pub. 510, Excise Taxes.
+
+Form 720.
+
+The federal excise taxes reported on Form 720, Quarterly Federal Excise Tax Return, consist of several broad categories of taxes, including the following.
+
+-
+
+Environmental taxes on the sale or use of ozone-depleting chemicals and imported products containing or manufactured with these chemicals.
+
+-
+
+Communications and air transportation taxes.
+
+-
+
+Fuel taxes.
+
+-
+
+Tax on the first retail sale of heavy trucks, trailers, and tractors.
+
+-
+
+Manufacturer’s taxes on the sale or use of a variety of different articles.
+
+-
+
+Tax on indoor tanning services.
+
+Form 2290.
+
+There is a federal excise tax on the use of certain trucks, truck tractors, and buses on public highways. The tax applies to vehicles having a taxable gross weight of 55,000 pounds or more. Report the tax on Form 2290, Heavy Highway Vehicle Use Tax Return. For more information, see the Instructions for Form 2290.
+
+Depositing excise taxes.
+
+If you have to file a quarterly excise tax return on Form 720, you may have to deposit your excise taxes before the return is due. For details on depositing excise taxes, see the Instructions for Form 720.
+
+Information Returns
+
+If you make or receive payments in your business, you may have to report them to the IRS on information returns. The IRS compares the payments shown on the information returns with each person’s income tax return to see if the payments were included in income. You must furnish a copy of each information return you are required to file to the recipient or payee. In addition to the forms described below, you may have to use other returns to report certain kinds of payments or transactions. For more details on information returns and when you have to file them, see the General Instructions for Certain Information Returns.
+
+Form 1099-MISC.
+
+Use Form 1099-MISC, Miscellaneous Information, to report certain payments you make in your business. These payments include the following items.
+
+-
+
+Rent payments of $600 or more, other than rents paid to real estate agents.
+
+-
+
+Prizes and awards of $600 or more that are not for services, such as winnings on TV or radio shows.
+
+-
+
+Royalty payments of $10 or more.
+
+-
+
+Payments to certain crew members by owners or operators of fishing boats.
+
+-
+
+Amounts paid for the purchase of fish for resale from any person engaged in the business of catching fish.
+
+You also use Form 1099-MISC to report your sales of $5,000 or more of consumer products to a person for resale anywhere other than in a permanent retail establishment.
+
+Form 1099-NEC.
+
+File Form 1099-NEC, Nonemployee Compensation, for each person in the course of your business to whom you have paid at least $600 during the year in:
+
+-
+
+Services performed by someone who is not your employee (including parts and materials) (box 1),
+
+-
+
+Cash payments for fish (or other aquatic life) you purchase from anyone engaged in the trade or business of catching fish (box 1), or
+
+-
+
+Payments to an attorney (box 1).
+
+You must also file Form 1099-NEC for each person from whom you have withheld any federal income tax (report in box 4) under the backup withholding rules regardless of the amount of the payment.
+
+. If you use Form 1099-NEC to report sales totaling $5,000 or more of consumer products, then you are required to file Form 1099-NEC with the IRS by January 31. .
+
+Form W-2.
+
+You must file Form W-2 to report payments to your employees, such as wages, tips, and other compensation, and withheld income, social security, and Medicare taxes. You can file Form W-2 online. For more information about Form W-2, see the General Instructions for Forms W-2 and W-3.
+
+Penalties.
+
+The law provides for the following penalties if you do not file Form(s) 1099-MISC, Form(s) 1099-NEC, or Form(s) W-2 or do not correctly report the information. For more information, see the General Instructions for Certain Information Returns.
+
+-
+
+Failure to file information returns. This penalty applies if you do not file information returns by the due date, do not include all required information, or report incorrect information.
+
+-
+
+Failure to furnish correct payee statements. This penalty applies if you do not furnish a required statement to a payee by the required date, do not include all required information, or report incorrect information.
+
+Other penalties.
+
+Accuracy-related or fraud penalties may apply in the case of an underpayment of tax attributable to negligence, substantial understatement of income tax, reportable transaction understatements, or fraud. See sections 6662, 6662A, and 6663.
+
+Waiver of penalties.
+
+These penalties will not apply if you can show that the failure was due to reasonable cause and not willful neglect.
+
+In addition, there is no penalty for failure to include all required information, or for including incorrect information, on a de minimis (small) number of information returns if you correct the errors by August 1 of the year the returns are due. (A de minimis number of returns is the greater of 10 or one-half of 1% of the total number of returns you are required to file for the year.)
+
+Form 8300.
+
+File Form 8300, Report of Cash Payments Over $10,000 Received in a Trade or Business, if you receive more than $10,000 in cash in one transaction or two or more related business transactions. Cash includes U.S. and foreign coin and currency. It also includes certain monetary instruments such as cashier’s and traveler’s checks and money orders. Cash does not include a check drawn on an individual’s personal account (personal check). For more information, see Pub. 1544, Reporting Cash Payments of Over $10,000.
+
+Penalties.
+
+There are civil and criminal penalties, including up to 5 years in prison, for not filing Form 8300, filing (or causing the filing of) a false or fraudulent Form 8300, or structuring a transaction to evade reporting requirements.
+
+Table 1-3. Going Out of Business Checklists
+
+( Note: The following checklists highlight the typical final forms and schedules you may need to file if you go out of business. For more information, see the instructions for the listed forms.)
+
+IF you are liable for... |  | THEN you may need to...
+Income tax | □ | File Schedule C (Form 1040) with your Form 1040 or 1040-SR for the year in which you go out of business.
+□ | File Form 4797 with your Form 1040 or 1040-SR for each year in which you sell or exchange property used in your business or in which the business use of certain section 179 or listed property drops to 50% or less.
+□ | File Form 8594 with your Form 1040 or 1040-SR if you sold your business.
+SE tax | □ | File Schedule SE (Form 1040) with your Form 1040 or 1040-SR for the year in which you go out of business.
+Employment taxes | □ | File Form 941 for the calendar quarter (or Form 944 for the year) in which you make final wage payments. Note: Do not forget to check the box and enter the date final wages were paid on line 17 of Form 941 or line 14 of Form 944.
+□ | File Form 940 for the calendar year in which final wages were paid. Note: Don’t forget to check box d, Final: Business closed or stopped paying wages under Type of Return.
+Information returns | □ | Provide Forms W-2 to your employees for the calendar year in which you make final wage payments.
+□ | File Form W-3 to file Forms W-2.
+□ | Provide Form(s) 1099-MISC and Form(s) 1099-NEC to each person to whom you have paid at least $600 for services (including parts and materials) during the calendar year in which you go out of business.
+□ | File Form 1096 to file Form(s) 1099-MISC and Form(s) 1099-NEC.

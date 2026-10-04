@@ -1,0 +1,484 @@
+IRS Pub 523 (2025) | Figuring Gain or Loss
+
+Figuring Gain or Loss
+
+To figure the gain or loss on the sale of your main home, you must know the selling price, the amount realized, and the adjusted basis. Subtract the adjusted basis from the amount realized to get your gain or loss.
+
+Selling price
+− | Selling expenses
+Amount realized
+− | Adjusted basis
+Gain or loss
+
+A positive number indicates a gain; a negative number indicates a loss.
+
+Certain events during your ownership, such as use of your home for business purposes or your making improvements to it, can affect your gain or loss. They are explained in this section.
+
+See Worksheet 2 , later, for steps you should follow to figure your gain or loss.
+
+Basis Adjustments—Details and Exceptions
+
+You should include many, but not all, costs associated with the purchase and maintenance of your home in the basis of your home. For more information on determining basis, see Pub. 551, Basis of Assets.
+
+Fees and Closing Costs
+
+Some settlement fees and closing costs you can include in your basis are:
+
+-
+
+Abstract fees (abstract of title fees),
+
+-
+
+Charges for installing utility services,
+
+-
+
+Legal fees (including fees for the title search and preparing the sales contract and deed),
+
+-
+
+Recording fees,
+
+-
+
+Survey fees,
+
+-
+
+Transfer or stamp taxes, and
+
+-
+
+Owner’s title insurance.
+
+Settlement costs don’t include amounts placed in escrow for the future payment of items such as taxes and insurance.
+
+Some settlement fees and closing costs you can’t include in your basis are:
+
+-
+
+Fire and casualty insurance premiums,
+
+-
+
+Rent for occupancy of the house before closing,
+
+-
+
+Charges for utilities or other services related to occupancy of the house before closing,
+
+-
+
+Any fee or cost that you deducted as a moving expense (allowed for certain fees and costs before 1994),
+
+-
+
+Charges connected with getting a mortgage loan, such as:
+
+-
+
+Mortgage insurance premiums (including funding fees connected with loans guaranteed by the Department of Veterans Affairs),
+
+-
+
+Loan assumption fees,
+
+-
+
+Cost of a credit report,
+
+-
+
+Fee for an appraisal required by a lender,
+
+-
+
+Points (discount points, loan origination fees), and
+
+-
+
+Fees for refinancing a mortgage.
+
+Construction.
+
+If you contracted to have your house built on the land you own, your basis is:
+
+-
+
+The cost of the land, plus
+
+-
+
+The amount it cost you to complete the house, including:
+
+-
+
+The cost of labor and materials,
+
+-
+
+Any amounts paid to a contractor,
+
+-
+
+Any architect’s fees,
+
+-
+
+Building permit charges,
+
+-
+
+Utility meter and connection charges, and
+
+-
+
+Legal fees directly connected with building the house.
+
+Your cost includes your down payment and any debt such as a first or second mortgage or notes you gave the seller or builder. It also includes certain settlement or closing costs. In addition, you must generally reduce your basis by points the seller paid you.
+
+If you built all or part of your house yourself, its basis is the total amount it cost you to complete it. Don’t include in the cost of the house:
+
+-
+
+The value of your own labor, or
+
+-
+
+The value of any other labor for which you didn’t pay.
+
+Costs owed by the seller that you paid.
+
+You can include in your basis any amounts the seller owes that you agree to pay (as long as the seller doesn’t reimburse you), such as:
+
+-
+
+Any real estate taxes owed up through the day before the sale date,
+
+-
+
+Back interest owed by the seller,
+
+-
+
+The seller‘s title recording or mortgage fees,
+
+-
+
+Charges for improvements or repairs that are the seller’s responsibility (for example, lead paint removal), and
+
+-
+
+Sales commissions (for example, payment to the seller‘s real estate agent).
+
+Improvements
+
+Improvements add to the value of your home, prolong its useful life, or adapt it to new uses. You add the cost of additions and improvements to the basis of your property.
+
+The following chart lists some examples of improvements.
+
+Examples of Improvements That Increase Basis
+
+Additions Bedroom Bathroom Deck Garage Porch Patio Lawn & Grounds Landscaping Driveway Walkway Fence Retaining wall Swimming pool | Systems Heating system Central air conditioning Furnace Duct work Central humidifier Central vacuum Air/water filtration systems Wiring Security system Lawn sprinkler system
+Exterior Storm windows/doors New roof New siding Satellite dish Insulation Attic Walls Floors Pipes and duct work | Plumbing Septic system Water heater Soft water system Filtration system Interior Built-in appliances Kitchen modernization Flooring Wall-to-wall carpeting Fireplace
+
+Repairs done as part of larger project.
+
+You can include repair-type work if it is done as part of an extensive remodeling or restoration job. For example, replacing broken windowpanes is a repair, but replacing the same window as part of a project of replacing all the windows in your home counts as an improvement.
+
+Examples of improvements you CAN’T include in your basis.
+
+You can’t include:
+
+-
+
+Any costs of repairs or maintenance that are necessary to keep your home in good condition but don’t add to its value or prolong its life. Examples include painting (interior or exterior), fixing leaks, filling holes or cracks, or replacing broken hardware;
+
+-
+
+Any costs of any improvements that are no longer part of your home (for example, wall-to-wall carpeting that you installed but later replaced);
+
+-
+
+Any costs of any improvements with a life expectancy, when installed, of less than 1 year.
+
+Exception.
+
+The entire job is considered an improvement if items that would otherwise be considered repairs are done as part of an extensive remodeling or restoration of your home. For example, if you have a casualty and your home is damaged, increase your basis by the amount you spend on repairs that restore the property to its pre-casualty condition. However, you must adjust your basis by any amount of insurance reimbursement you receive or expect to receive for casualty losses. See Worksheet 2 , line 5.
+
+Energy credits and subsidies.
+
+If you included in your basis the cost of any energy-related improvements (such as a solar energy system) and you received any tax credits or subsidies related to those improvements, you must subtract those credits or subsidies from your total basis. Examples include:
+
+-
+
+1977–1987: Credit for home energy improvements;
+
+-
+
+1992–present: Direct or indirect subsidy from a public utility for installations or modifications aimed at lowering a home’s electricity or natural gas usage or better managing its energy demand;
+
+-
+
+2006–2025: Credit for certain residential clean energy (previously the residential energy efficient property credit), for expenditures made for qualified energy property, such as qualified solar electric, solar water heating, fuel cell, small wind energy, and geothermal heat pump property; and battery storage technology;
+
+-
+
+2006–2007, 2009–2025: Credit for qualified energy efficiency home improvements (previously the nonbusiness property credit), generally for expenditures or property placed in service for exterior windows, skylights, exterior doors, heat pumps, heat pump water heaters, biomass stoves, and biomass boilers. A product identification number is required in 2025; and
+
+-
+
+2023–2025: Credit for home energy audits, involving an inspection and written report for a main home to identify cost-effective energy efficiency improvements. Beginning January 1, 2024, the audits must be conducted and prepared by (or under the supervision of) a certified home energy auditor.
+
+See the Instructions for Form 5695 for detailed information on improvements and credit percentages in specific tax years.
+
+Home Acquired Through a Trade
+
+Traded for another home.
+
+When you trade your home for a new one, you are treated as having sold your home and purchased a new one. Your sale price is the trade-in value you received for your home plus any mortgage or other debt that the person taking your home as a trade-in assumed (took over) from you as part of the deal.
+
+Traded for other property.
+
+If you paid for your home by trading other property for it, the starting basis of your home is usually the fair market value of the property you traded.
+
+Home Foreclosed, Repossessed, or Abandoned
+
+If your home was foreclosed on, repossessed, or abandoned, you may have ordinary income, gain, or loss. See Pub. 4681, Canceled Debts, Foreclosures, Repossessions, and Abandonments.
+
+If you used part of your home for business or rental purposes, see Foreclosures and Repossessions in chapter 1 of Pub. 544, for examples of how to figure gain or loss.
+
+Home Destroyed or Condemned
+
+You have a disposition when your home is destroyed or condemned and you receive other property or money in payment, such as insurance or a condemnation award. This is treated as a sale and you may be able to exclude all or part of any gain that you have. If your home was destroyed, see Pub. 547. If your home was condemned, see Pub. 544.
+
+Home Received in Divorce
+
+Home acquired after July 18, 1984.
+
+If your former spouse was the sole owner, your starting basis is the same as your former spouse’s adjusted basis just before you received the home. If you co-owned the home with your spouse, add the adjusted basis of your spouse’s half-share in the home to the adjusted basis of your own half-share to get your starting basis. (In most cases, the adjusted basis of the two half-shares will be the same.) The rules apply whether or not you received anything in exchange for the home.
+
+Home acquired on or before July 18, 1984.
+
+Your starting basis will usually be the home’s fair market value at the time you acquired it from your spouse or ex-spouse.
+
+For more information, see Pub. 504, Divorced or Separated Individuals. If you or your spouse or ex-spouse lived in a community property state, see Pub. 555, Community Property.
+
+Home Received as a Gift
+
+If you received your home as a gift, you should keep records of the date you received it. Record the adjusted basis of the donor at the time of the gift and the fair market value of the home at the time of the gift. Also ask if the donor paid any gift tax. As a general rule, you will use the donor’s adjusted basis at the time of the gift as your basis. However, see Table 1 below to determine if any exceptions to this rule listed in the “IF” column apply.
+
+Table 1. Exceptions to Using a Donor’s Adjusted Basis for a Home Received as a Gift
+
+IF... | AND... | THEN...
+at the time of the gift, the donor’s adjusted basis in the home was more than the home’s fair market value, | your usage of the donor’s adjusted basis as your basis results in a loss, | you must use the fair market value of the home at the time of the gift as your basis (if using the fair market value results in a gain for you, then you don’t need to recognize that gain).
+at the time of the gift, the donor’s adjusted basis in the home was less than the home’s fair market value, | the donor paid gift tax on the gift of the home, | you figure your basis by starting with the donor’s adjusted basis at the time of the gift and adding the federal gift tax paid due to the increase in value of the home (see Regulations section 1.1015-5 for further details on this calculation).
+
+Home Inherited
+
+Home acquired from a decedent who died before or after 2010.
+
+If you inherited your home from a decedent who died before or after 2010, your basis is the fair market value of the property on the date of the decedent‘s death (or the later alternate valuation date chosen by the personal representative of the estate). If a federal estate tax return (Form 706) was filed or required to be filed, the value of the property listed on the estate tax return is your basis. If Form 706 didn’t have to be filed, your basis in the home is the same as its appraised value at the date of death, for purposes of state inheritance or transmission taxes. See section 1014 for details.
+
+Surviving spouse.
+
+If you are a surviving spouse and you owned your home jointly, your basis in the home will change. The new basis for the interest your spouse owned will be its fair market value on the date of death (or alternate valuation date). The basis in your interest will remain the same. Your new basis in the home is the total of these two amounts.
+
+If you and your spouse owned the home either as tenants by the entirety or as joint tenants with right of survivorship, you will each be considered to have owned one-half of the home.
+
+Example.
+
+Your jointly owned home (owned as joint tenants with right of survivorship) had an adjusted basis of $50,000 on the date of your spouse’s death, and the fair market value on that date was $100,000. Your new basis in the home is $75,000 ($25,000 for one-half of the adjusted basis plus $50,000 for one-half of the fair market value).
+
+Community property.
+
+In community property states (Arizona, California, Idaho, Louisiana, Nevada, New Mexico, Texas, Washington, and Wisconsin), each spouse is usually considered to own half of the community property. When either spouse dies, the total fair market value of the community property becomes the basis of the entire property, including the part belonging to the surviving spouse. For this rule to apply, at least half the value of the community property interest must be includible in the decedent’s gross estate, whether or not the estate must file a return.
+
+For more information about community property, see Pub. 555, Community Property.
+
+Inherited property in 2010.
+
+If you are selling a home in which you acquired an interest from a decedent who died in 2010, see Pub. 4895, Tax Treatment of Property Acquired From a Decedent Dying in 2010, available at IRS.gov/pub/irs-prior/p4895--2011.pdf , to determine your basis.
+
+Property Used Partly for Business or Rental
+
+Calculation.
+
+If you use property partly as a home and partly for business or to produce rental income, the treatment of any gain on the sale depends partly on whether the business or rental part of the property is part of your home or separate from it. If you fail to meet the ownership and use tests, or if you used a separate portion of your home for business or rental purposes during your ownership, this may affect your gain or loss calculations. If a portion of the property was used for residential purposes and another portion of the property, separate from the dwelling unit, was used for nonresidential purposes, then only the gain allocable to the residential portion is excludable under Section 121. The Section 121 exclusion is reduced to the extent of any depreciation adjustments in connection with the rental or business use of your residence. For details and an example, see Recapturing Depreciation , later. Treatment of any gain also depends on the use during the 5 years leading up to the sale. To figure the portion of the gain allocated to the period of nonresidential use, see Business or rental usage calculations , later. See also Worksheet 2 .
+
+Space within the living area.
+
+If the part of your property used for business or to produce rental income is within your home, such as a room used as a home office for a business, you do not need to allocate gain on the sale of the property between the business part of the property and the part used as a home. In addition, you do not need to report the sale of the business or rental part on Form 4797. This is true whether or not you were entitled to claim any depreciation. However, you can’t exclude the portion of gain equal to any section 1250(b)(3) depreciation adjustments allowed or allowable after May 6, 1997, which must be recaptured and reported under section 1250. See Regulations section 1.121-1(d). See also Recapturing Depreciation , later. Other examples of space within the living area include a rented spare bedroom and attic space used as a home office.
+
+Example of nonresidential use within a dwelling unit.
+
+Logan, an attorney, buys a house in 2013. The house is a single dwelling unit but Logan uses a portion of the house exclusively as a law office on a regular basis. Logan claimed depreciation deductions of $2,000 during the period that the house is owned. Logan sells the house in 2016, realizing a gain of $13,000. Logan has no other section 1231 or capital gains or losses for 2016. Logan must recognize $2,000 of the gain as unrecaptured section 1250 gain. Logan completes Form 4797 to report the amount of depreciation recapture, if any. Logan may exclude the remaining $11,000 of the gain from the sale of the house because Logan is not required to allocate gain to the business use within the dwelling unit. See Regulations section 1.121-1(e). See also Determine any depreciation amounts you may need to recapture for guidance on reporting depreciation previously deducted.
+
+Space separate from the living area.
+
+You generally can’t exclude gain on the separate portion of your property used for business or to produce rental income. Regulations section 1.121-1(e) provides that the use of a separate portion of your home for business or rental purposes doesn’t qualify for exclusion under section 121, and this may affect your gain or loss calculations. See Regulations section 1.121-1(e). Examples are:
+
+-
+
+A working farm on which your house was located,
+
+-
+
+A duplex in which you lived in one unit and rented the other, or
+
+-
+
+A store building with an upstairs apartment in which you lived.
+
+You can’t exclude gain on the separate part of your property used for business or to produce rental income unless you owned and lived in that part of your property for at least 2 years during the 5-year period ending on the date of the sale. If you don’t meet the use test for the separate business or rental part of the property, an allocation of the gain on the sale is required. For this purpose, you must allocate the basis of the property and the amount realized between the residential and nonresidential portions of the property using the same method of allocation that you used to determine depreciation adjustments. See the Example for allocating residential and nonresidential portions of the property. Report the sale of the business or rental part on Form 4797. For more information about using any part of your home for business or as a rental property, see Pub. 587, Business Use of Your Home, and Pub. 527, Residential Rental Property.
+
+Space formerly used as business or rental.
+
+Note that space formerly used as business or rental will qualify for exclusion under section 121 if the space was converted to the taxpayer’s principal residence for a total of 2 years or more, as long as the use as the principal residence was within the 5 years leading up to the sale. See Regulations section 1.121-1(a). However, depreciation deductions claimed during the previous business use must be reported on line 5a of Worksheet 2 and recognized as unrecaptured section 1250 gain. No separate Business worksheet is needed because there are no current business expenses. See Regulations section 1.121-1(d). See also the Instructions for Form 4797, and the Instructions for Schedule D (Form 1040). For information on unrecaptured section 1250 gain, see Recapturing Depreciation , later.
+
+Business or rental usage calculations.
+
+If you use property partly as a home and partly for business or to produce rental income and the business or rental portion isn’t within the home’s living area, you need to make separate gain/loss calculations for the business and residence portions of your property. Make three copies of all pages of Worksheet 2 . Label one copy “Total,” one copy “Home,” and one copy “Business or Rental.”
+
+Complete your “Total” worksheet using the figures for your property as a whole. Include the total amount you received, all of your basis adjustments, etc. Include the cost of all improvements, whether you made them to the business space or the residential space.
+
+Determine your “business or rental percentage,” meaning the percentage of your property that you used for business or rental. Section 121 requires you to recognize depreciation claimed on a home after May 6, 1997. If you were entitled to take depreciation deductions because you used a portion of your home for business purposes or as rental property, you can’t exclude the part of your gain equal to any depreciation allowed or allowable as a deduction for periods after May 6, 1997.
+
+If you used part of your home for business or rental after May 6, 1997, you may need to pay back (“recapture”) some or all of the depreciation deductions you were entitled to take on your property. “Recapturing” depreciation means you must include it as ordinary income on your tax return. See Regulations section 1.1250-1 for limitations. If you took depreciation on your home on past tax returns, use the same business or rental percentage that you used in determining how much depreciation to take. If you didn’t take depreciation on your home on past tax returns, compare the size of your business or rental space to the size of the whole property and express this as a percentage. For example, if you have a building with three equal-sized stories, and you live in the top two stories and use the ground floor for a store, then you are using one-third of the property and your business percentage is 33.3%.
+
+For each number on your “Total” worksheet, figure the business-related portion of that number and enter it on your “Business or Rental” worksheet. You may use different methods to determine the business portion of different numbers. Here are the three possible methods and the circumstances under which each method applies.
+
+The total you get on line 7 on your “Business” copy of Worksheet 2 is the gain or loss related to the business or rental portion of the property you sold.
+
+Next, complete your “Home” worksheet. For each number, take the number from your “Total” worksheet, subtract the number from your “Business or Rental” worksheet, and enter the result in your “Home” worksheet (for example, subtract the number on line 1f of the "Business or Rental" worksheet from the number on line 1f of your "Total" worksheet), and enter the result on your "Home" worksheet.
+
+Now figure the totals on your “Home” worksheet. The total you get on line 7 on the “Home” copy of Worksheet 2 is the gain or loss related to the home portion of the property you sold.
+
+Review the results of your “Home” and “Business” worksheets to determine your next step. When you have completed each worksheet, you will know whether you have a gain or loss on each part of your property. It is possible to have a gain on both parts, a loss on both parts, or a gain on one part and a loss on the other. For more information about using any part of your home for business or as a rental property, see Pub. 587, Business Use of Your Home, and Pub. 527, Residential Rental Property.
+
+Example.
+
+The following example demonstrates separate calculations for business and residential uses.
+
+Stacey owns property that consists of a house, a stable, and 35 acres. Stacey uses the stable and 28 acres for nonresidential purposes for more than 3 years during the 5-year period preceding the sale. Stacey uses the entire house and the remaining 7 acres as a principal residence for at least 2 years during the 5-year period preceding the sale. For periods after May 6, 1997, Stacey claims depreciation deductions of $9,000 for the nonresidential use of the stable. Stacey sells the entire property in 2014, realizing a gain of $24,000. Stacey has no other section 1231 or capital gains or losses for 2014.
+
+Because the stable and the 28 acres used in the business are separate from the dwelling unit, the allocation rules apply. Stacey must allocate the basis and amount realized between the portion of the property used as a principal residence and the portion used for nonresidential purposes based on their respective FMVs. Stacey creates three copies of Worksheet 2 and titles them “Business or Rental,”“Home,” and “Total” to allocate basis and the amount realized for the different uses of the property.
+
+Stacey determines that $14,000 of the gain is allocable to the nonresidential-use portion of the property by completing the copy of Worksheet 2 entitled “Business or Rental.” Stacey determines that $10,000 of the gain is allocable to the portion of the property used as a residence by completing the copy of Worksheet 2 entitled “Home.” Stacey must recognize the $14,000 of gain allocable to the nonresidential-use portion of the property ($9,000 of which is unrecaptured section 1250 gain, and $5,000 of which is adjusted net capital gain). Stacey reports gain associated with the nonresidential-use portion of the property on Form 4797. Stacey may have to complete Form 8949 and Schedule D (Form 1040). See Sale of Home Used for Business , in the Instructions for Form 4797. See also the Instructions for Form 8949, and the Instructions for Schedule D (Form 1040). For information on the treatment of unrecaptured section 1250 gain, see Recapturing Depreciation , later.
+
+Stacey transfers the gain from the “Home” worksheet to Worksheet 3, reviews the maximum amount available for exclusion as figured on Worksheet 1, and determines that the $10,000 gain from the residence portion is less than the maximum amount available for exclusion from Worksheet 1. The $10,000 gain on the property may be excluded.
+
+Complete Worksheet 2 . Then see Table 2 to determine your next steps. Worksheet 2 is used to figure the adjusted basis of your home and your gain or (loss). You will figure your taxable gain (if any) on Worksheet 3 , later.
+
+Worksheet 2. How To Figure Your Gain or Loss
+
+DO NOT use this worksheet to determine your basis if you acquired an interest in your home from a decedent who died in 2010 and whose executor filed Form 8939. See Home acquired from a decedent who died before or after 2010 .
+
+If you have questions as you work through these step-by-step instructions or want examples of costs that can and can’t be included, see Basis Adjustments—Details and Exceptions .
+1. | Determine the sale price. This is everything you received for selling your home.
+a. | All money (currency, check, wire transfer) | a. | _____
+b. | The fair market value of any other property or services you received, including digital assets | b. | _____
+c. | The value of any notes, mortgages, or other debts that the buyer agreed to assume (take over) as part of the sale | c. | _____
+d. | Any real estate taxes the buyer paid on your behalf | d. | _____
+e. | Any amount you received for granting an option to buy your home, if the option was exercised | e. | _____
+f. | Add lines 1a through 1e. This is your sale price | f. | _____
+If you received payment for personal property , DON’T include it in the sale price. If you received payment or reimbursement from your employer because of a job transfer, DON’T include the payment as part of the selling price. Your employer will include it as wages in box 1 of your Form W-2. If you received Form 1099-S , the gross proceeds for the sale price should appear in box 2. If box 4 is checked, the sale price included noncash payments, and you need to determine the value of these and add them to the figure in box 2. If you didn’t receive Form 1099-S , refer to your real estate transaction documents for the total amount you received for your home.
+2. | Determine your selling expenses. These are the costs directly associated with selling your home.
+a. | Any sales commissions (for example, a real estate agent’s sales commission) | a. | _____
+b. | Any advertising fees | b. | _____
+c. | Any legal fees | c. | _____
+d. | Any mortgage points or other loan charges you paid that would normally have been the buyer’s responsibility | d. | _____
+e. | Any other fees or costs to sell your home | e. | _____
+f. | Add lines 2a through 2e. These are your selling expenses | f. | _____
+3. | Figure your “amount realized” (sale price minus selling expenses).
+Line 1f minus line 2f | 3. | _____
+4. | Determine your “total basis” (the total amount you invested in your home). This includes what you paid for your home as well as other money you may have spent that added to its value.
+a. | The amount you paid for your home (or if you built your home, the cost of the land). Include any down payment and any amount you borrowed to pay for the home. For cooperative apartments, include the value of the corporation stock you purchased. If you acquired your home through inheritance, gift, bargain sale, trade, or anything except a fair market purchase, see Basis Adjustments—Details and Exceptions | a. | _____
+b. | Any settlement fees or closing costs you paid when you bought your home, except for financing-related costs (such as seller-paid points). The settlement statement should list the fees related to buying the home. See Basis Adjustments—Details and Exceptions and Fees and Closing Costs | b. | _____
+c. | Any real estate taxes or other costs you paid on behalf of the seller you bought your home from (and for which the seller never paid you back) | c. | _____
+d. | Any amounts you spent on construction or other improvements that are still part of your home at the time of sale (not including costs of maintenance and repairs). See Basis Adjustments—Details and Exceptions | d. | _____
+e. | Any amounts you spent to repair damage to your home or the land on which it sits | e. | _____
+f. | Any special assessments for local improvements (such as special tax or condominium association assessments that aren’t merely for repairs or maintenance) | f. | _____
+g. | Add lines 4a through 4f. This is your total basis | g. | _____
+
+Worksheet 2. How To Figure Your Gain or Loss (continued)
+
+5. | Determine your “basis adjustments” (any payments, credits, or benefits you may need to deduct from your basis).
+a. | Any depreciation you took or were allowed to take for the use of your home for business or rental purposes | a. | _____
+b. | Any casualty losses (such as flood or fire damage) you claimed as a deduction on a federal tax return | b. | _____
+c. | Any insurance payments you received or expect to receive for casualty losses | c. | _____
+d. | Any payments you received for granting an easement, conservation restriction, or right-of-way | d. | _____
+e. | Any energy credits or subsidies that effectively paid you back for improvements you included in your total basis, including home energy audits by a certified home energy auditor. See Basis Adjustments—Details and Exceptions | e. | _____
+f. | Any adoption credits you claimed or any nontaxable payments from an employer-sponsored adoption assistance program | f. | _____
+g. | Any real estate taxes the seller paid on your behalf (and for which you never paid the seller back). If you reimburse the seller, it doesn’t affect basis | g. | _____
+h. | Any mortgage points the seller paid for you when you bought your home, if one of the following is true | h. | _____
+You bought your home between January 1, 1991, and April 3, 1994, AND you deducted the points as home mortgage interest in the year paid, or You bought your home after April 3, 1994 (regardless of whether you deducted the points).
+i. | Any canceled or forgiven mortgage debt amount on a qualified principal residence that was excluded before January 1, 2026 (or as part of an arrangement evidenced in writing before January 1, 2026) or due to a bankruptcy or insolvency and that you didn’t have to declare as income. (See Pub. 4681.) | i. | _____
+j. | Any sales tax you paid on your home (such as for a mobile home or houseboat) and then claimed as a deduction on a federal tax return | j. | _____
+k. | The value of any temporary housing the builder of your home provided for you | k. | _____
+Use this equation : Contract price × Value of temporary housing ÷ (Value of temporary housing + Value of new home)
+l. | Any gain you postponed from the sale of a previous home sold before May 7, 1997 | l. | _____
+m. | Add lines 5a through 5l. This is your basis adjustment | m. | _____
+6. | Figure your “adjusted basis” (total basis minus basis adjustments).
+Line 4g minus line 5m | 6. | _____
+If your adjusted basis is less than zero and you went through a mortgage workout or other process resulting in forgiveness or cancellation of mortgage debt (“discharge of qualified principal residence indebtedness”), don’t count any portion of your canceled debt that is bringing your basis below zero.
+7. | Figure your gain or loss (amount realized minus adjusted basis).
+Line 3 minus line 6 | 7. | _____
+If this is your separate worksheet for business use, don’t follow guidance on line 7. Report the gain on Form 4797 because this gain is not excluded under section 121.
+
+Table 2. Does Your Home or Business Show a Gain or a Loss?
+
+IF... | THEN...
+your “Home” worksheet shows a loss, | follow the instructions at the end of line 7, under Worksheet 2 for “If the number is negative.”
+your “Home” worksheet shows a gain, | see How Much Is Taxable? and Worksheet 3 to find out how much of the gain on your “Home” worksheet is taxable.
+your “Business” worksheet shows a loss, | DON’T follow the instructions at the end of line 7, under Worksheet 2 . Instead, report the loss from your “Business” worksheet on Form 4797, Sales of Business Property. Note : Your loss may be limited. See the Instructions for Form 4797.
+your “Business” worksheet shows a gain, | you can’t exclude any of the gain shown on your “Business” worksheet. DON’T follow the instructions at the end of line 7, under Worksheet 2 . Instead, report the gain from your “Business” worksheet on Form 4797.
+
+Business or Rental Use of Home
+
+Nonqualified use of entire property after 2008.
+
+If you fail to meet the requirements to qualify for the $250,000 or $500,000 exclusion, you may still qualify for a reduced exclusion. If you fail to meet the ownership and use tests, or if, after 2008, you (your spouse or former spouse) didn’t use your home as a principal residence, this type of usage may affect your gain or loss calculations.
+
+Gain from the sale or exchange of your main home isn’t excludable from income if it is allocable to periods of nonqualified use. Nonqualified use means any period after 2008 when neither you nor your spouse (or former spouse) used the property as your main home, with certain exceptions.
+
+Exceptions.
+
+A period of nonqualified use does not include:
+
+-
+
+Any portion of the 5-year period ending on the date of the sale or exchange after the last date you or your spouse (or former spouse) used the property as your main home;
+
+-
+
+Any period (not to exceed 10 years) during which you (or your spouse) are serving on qualified official extended duty:
+
+a. As a member of the uniformed services;
+b. As a member of the Foreign Service of the United States; or
+c. As an employee of the intelligence community; and
+
+-
+
+Any other period of temporary absence (not to exceed an aggregate period of 2 years) due to change of employment, health conditions, or other unforeseen circumstances as may be specified by the IRS. See Eligibility Step 5 Exceptions to the Eligibility Test , and Does Your Home Sale Qualify for the Exclusion of Gain? , earlier.
+
+Gain from depreciation for periods after May 6, 1997, isn't taken into account to determine gain from nonqualified use. Such gain is not accounted for in determining the amount of gain allocated to nonqualified use. To figure the portion of the gain allocated to the period of nonqualified use, see Worksheet 3 .
+
+Example.
+
+Finley buys a property on January 1, 2020, for $400,000 and uses the entire property as rental property for 2 years, claiming $20,000 of depreciation deductions and reducing the property’s basis to $380,000. On January 1, 2022, Finley converts the property to a principal residence. Finley moves out on January 1, 2024, and sells the property for $700,000 on January 1, 2025. The total gain on the sale is $320,000 ($700,000 − ($400,000 − $20,000)). Finley completes Worksheet 2, and enters $20,000 on line 5a so that line 7 reports $320,000.
+
+Finley transfers the $320,000 net gain from line 7 of Worksheet 2 to Worksheet 3. Finley completes Section A of Worksheet 3 and takes the amount from line 7 of Worksheet 2, $320,000, and subtracts $20,000 for depreciation. Finley enters $300,000 ($320,000 - $20,000 depreciation) in Step 3 (Section A). Moving to Section B of Worksheet 3, Finley has $300,000 in net gain that is potentially excluded, except for the period of nonqualified use. The rental period occurred for 2 out of 5 years that Finley owned the property and met the use test by using the home as a principal residence for 2 years (January 1, 2022, to January 1, 2024). Note that the rental period occurred before Finley moved back into the home to fulfill the required 2-year personal use requirement.
+
+In Section B of Worksheet 3, Finley allocates 40% (2/5, or 2 years out of 5) of the remaining $300,000 gain, or $120,000, to nonqualified use ($300,000 - $120,000 = $180,000). The $120,000 nonqualified use gain is ineligible for the section 121 exclusion and is reported as long-term capital gain on Schedule D (Form 1040). The $180,000 of the remaining gain is excluded from gross income, as reported in Section C of Worksheet 3. The balance of the $250,000 exclusion can’t be used. The $20,000 attributable to the depreciation deduction is subject to recapture under section 1250. See Determine any depreciation amounts you may need to recapture to figure the amount to report as ordinary income on Form 4797. For information on reporting $120,000 of nonqualified use gain (long-term capital gain), see the Instructions for Schedule D (Form 1040).
+
+Example.
+
+Taylor buys a residence on January 1, 2020, for $400,000 and immediately begins using it as a principal residence. Taylor moves out on January 1, 2023, and immediately begins to rent the home. On December 1, 2024, Taylor sells the property for $600,000. Based on the facts presented, note that the rental period after Taylor’s last qualified use is not considered nonqualified use because nonqualified use during the 5-year period ending on the date of the sale doesn’t include the time between when Taylor last used the property as Taylor’s principal residence and when Taylor sold the property. See section 121(b)(5)(C)(ii). Because Taylor met the ownership and use tests, Taylor can exclude gain up to $250,000. Taylor had deducted $27,000 for depreciation for the period of rental to a third party. Taylor can’t exclude the part of the gain equal to the depreciation claimed after May 6, 1997, for renting the house ($27,000). This is unrecaptured section 1250 gain.
+
+After subtracting depreciation from net gain, Taylor’s net gain reported in Worksheet 3, Section A, Step 3 is $200,000, calculated as follows: Taylor had completed Worksheet 2 and reported $600,000 on line 1, $400,000 on line 4a, and $27,000 on line 5a. Taylor computed figures on Worksheet 2 and reported $227,000 on line 7 ($600,000 - ($400,000 - $27,000)). Taylor transferred the result from line 7 to Worksheet 3. Taylor completed Section A to enter net gain and subtract the $27,000 of depreciation deductions taken. Taylor entered $200,000 in Step 3 of Section A. Taylor skipped Section B because there is no nonqualified use based on the exception under section 121(b)(5)(C)(ii). Taylor completed Section C for the column “you completed Section A but skipped Section B” and took the figure from Section A, Step 3 and entered $200,000. The entire $200,000 gain is excludable from gross income because any period after the last qualified use doesn’t constitute nonqualified use.
+
+After subtracting depreciation from net gain in Worksheet 2, line 7, if Taylor’s net gain had exceeded the maximum exclusion amount for a single filer, any capital gain above the threshold ($250,000) would have been reported on Schedule D (Form 1040) as long-term capital gain. However, Taylor must report the $27,000 depreciation on Form 4797. See the Instructions for Form 4797. For information on the treatment of unrecaptured section 1250 gain, see Recapturing Depreciation , later. See also Pub. 544 for information on depreciation recapture.
+
+For more information about using any part of your home for business or as a rental property, including information about depreciation deductions, see Pub. 587, Business Use of Your Home, and Pub. 527, Residential Rental Property. See also Pub. 946, How to Depreciate Property.

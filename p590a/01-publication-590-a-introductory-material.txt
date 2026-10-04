@@ -1,0 +1,277 @@
+IRS Pub 590-A (2025) | Publication 590-A - Introductory Material
+
+Publication 590-A (2025), Contributions to Individual Retirement Arrangements (IRAs)
+
+For use in preparing 2025 Returns
+
+Publication 590-A - Introductory Material
+
+Future Developments
+
+For the latest information about developments related to Pub. 590-A, such as legislation enacted after it was published, go to IRS.gov/Pub590A .
+
+What’s New for 2025
+
+IRA contribution limit for 2025. For 2025, the IRA contribution limit remains $7,000 ($8,000 for individuals age 50 or older).
+
+Trump account and new Form 4547. Recent legislation allows parents, guardians, and other authorized individuals to elect to establish a new type of individual retirement account, called a Trump account, for the exclusive benefit of certain children. If the child was born after 2024 and before 2029, is a U.S. citizen, and meets certain other requirements, the authorized individual may also elect to receive a $1,000 pilot program contribution to the child’s Trump account. Both elections can be made on Form 4547, which can be filed at the same time as the authorized individual’s 2025 income tax return. For more information on Trump accounts, and to learn how to make these elections, see Form 4547 and its instructions.
+
+Modified AGI limit for traditional IRA contributions. For 2025, if you are covered by a retirement plan at work, your deduction for contributions to a traditional IRA is reduced (phased out) if your modified AGI is:
+
+-
+
+More than $126,000 but less than $146,000 for a married couple filing a joint return or a qualifying surviving spouse,
+
+-
+
+More than $79,000 but less than $89,000 for a single individual or head of household, or
+
+-
+
+Less than $10,000 for a married individual filing a separate return.
+
+Modified AGI limit for certain married individuals.
+
+If you are married and your spouse is covered by a retirement plan at work and you aren’t, and you live with your spouse or file a joint return, your deduction is phased out if your modified AGI is more than $236,000 (up from $230,000 for 2024) but less than $246,000 (up from $240,000 for 2024). If your modified AGI is $246,000 or more, you can’t take a deduction for contributions to a traditional IRA.
+
+Modified AGI limit for Roth IRA contributions. For 2025, your Roth IRA contribution limit is reduced (phased out) in the following situations.
+
+-
+
+Your filing status is married filing jointly or qualifying surviving spouse and your modified AGI is at least $236,000. You can’t make a Roth IRA contribution if your modified AGI is $246,000 or more.
+
+-
+
+Your filing status is single, head of household, or married filing separately and you didn’t live with your spouse at any time in 2025 and your modified AGI is at least $150,000. You can’t make a Roth IRA contribution if your modified AGI is $165,000 or more.
+
+-
+
+Your filing status is married filing separately, you lived with your spouse at any time during the year, and your modified AGI is more than zero. You can’t make a Roth IRA contribution if your modified AGI is $10,000 or more.
+
+What’s New for 2026
+
+IRA contribution limit increased for 2026. Beginning in 2026, the IRA contribution limit is increased to $7,500 ($8,600 for individuals age 50 or older) from $7,000 ($8,000 for individuals age 50 or older).
+
+Modified AGI limit for traditional IRA contributions increased. For 2026, if you are covered by a retirement plan at work, your deduction for contributions to a traditional IRA is reduced (phased out) if your modified AGI is:
+
+-
+
+More than $129,000 but less than $149,000 for a married couple filing a joint return or a qualifying surviving spouse,
+
+-
+
+More than $81,000 but less than $91,000 for a single individual or head of household, or
+
+-
+
+Less than $10,000 for a married individual filing a separate return.
+
+Modified AGI limit for certain married individuals increased.
+
+If you are married and your spouse is covered by a retirement plan at work and you aren’t, and you live with your spouse or file a joint return, your deduction is phased out if your modified AGI is more than $242,000 (up from $236,000 for 2025) but less than $252,000 (up from $246,000 for 2025). If your modified AGI is $252,000 or more, you can’t take a deduction for contributions to a traditional IRA.
+
+Modified AGI limit for Roth IRA contributions increased. For 2026, your Roth IRA contribution limit is reduced (phased out) in the following situations.
+
+-
+
+Your filing status is married filing jointly or qualifying surviving spouse and your modified AGI is at least $242,000. You can’t make a Roth IRA contribution if your modified AGI is $252,0000 or more.
+
+-
+
+Your filing status is single, head of household, or married filing separately and you didn’t live with your spouse at any time in 2026 and your modified AGI is at least $153,000. You can’t make a Roth IRA contribution if your modified AGI is $168,000 or more.
+
+-
+
+Your filing status is married filing separately, you lived with your spouse at any time during the year, and your modified AGI is more than zero. You can’t make a Roth IRA contribution if your modified AGI is $10,000 or more.
+
+Reminders
+
+Qualified tuition program rollover to a Roth IRA. Beginning with distributions made after December 31, 2023, a beneficiary of a section 529 qualified tuition program is permitted to roll over a distribution from a section 529 account into a Roth IRA for the beneficiary if certain requirements are met. See Qualified tuition program rollover to a Roth IRA , later.
+
+Increase in required minimum distribution age. Individuals who reach age 72 after December 31, 2022, may delay receiving their required minimum distributions (RMDs) until April 1 of the year following the year in which they turn age 73.
+
+Qualified disaster tax relief. The special rules that provide for tax-favored withdrawals and repayments from certain qualified plans for taxpayers who suffered an economic loss as a result of a qualified disaster were made permanent by the SECURE 2.0 Act of 2022. A qualified disaster is a major disaster that occurred on or after January 26, 2021, and was declared by the President after December 27, 2020, under section 401 of the Robert T. Stafford Disaster Relief and Emergency Act. For more information, see Disaster-Related Relief in Pub. 590-B, Distributions from Individual Retirement Arrangements (IRAs).
+
+Repayment of certain early distributions. Contributions made to the eligible retirement plan as a repayment of emergency personal expense distributions, domestic abuse distributions, and terminal illness distributions may be eligible for tax-free rollover treatment. See Pub. 590-B for more information.
+
+Certain corrective distributions not subject to 10% additional tax. Beginning on December 29, 2022, the 10% additional tax on early distributions will not apply to a corrective IRA distribution, which consists of an excess contribution (a contribution greater than the IRA contribution limit) and any earnings allocable to the excess contribution, as long as the corrective distribution is made on or before the due date (including extensions) of the income tax return.
+
+Divorce or separation instruments after 2018. Amounts paid as alimony or separate maintenance payments under a divorce or separation instrument executed after 2018 won't be deductible by the payer. Such amounts also won't be includible in the income of the recipient. The same is true of alimony paid under a divorce or separation instrument executed before 2019 and modified after 2018, if the modification expressly states that the alimony isn't deductible to the payer or includible in the income of the recipient. For more information, see Pub. 504.
+
+IRA interest. Although interest earned from your IRA is generally not taxed in the year earned, it isn’t tax-exempt interest. Tax on your traditional IRA is generally deferred until you take a distribution. Don’t report this interest on your return as tax-exempt interest. For more information on tax-exempt interest, see the instructions for your tax return.
+
+Photographs of missing children. The IRS is a proud partner with the National Center for Missing & Exploited Children® (NCMEC) . Photographs of missing children selected by the Center may appear in this publication on pages that would otherwise be blank. You can help bring these children home by looking at the photographs and calling 1-800-THE-LOST (1-800-843-5678) if you recognize a child.
+
+Introduction
+
+This publication discusses contributions to individual retirement arrangements (IRAs). An IRA is a personal savings plan that gives you tax advantages for setting aside money for retirement. For information about distributions (including rollovers) from an IRA, see Pub. 590-B.
+
+What are some tax advantages of an IRA?
+
+Two tax advantages of an IRA are that:
+
+-
+
+Contributions you make to an IRA may be fully or partially deductible, depending on which type of IRA you have and on your circumstances; and
+
+-
+
+Generally, amounts in your IRA (including earnings and gains) aren’t taxed until distributed. In some cases, amounts aren’t taxed at all if distributed according to the rules.
+
+What's in this publication?
+
+This publication discusses contributions to traditional and Roth IRAs. It explains the rules for:
+
+-
+
+Setting up an IRA,
+
+-
+
+Contributing to an IRA,
+
+-
+
+Transferring money or property to and from an IRA, and
+
+-
+
+Taking a credit for contributions to an IRA.
+
+It also explains the penalties and additional taxes that apply when the rules aren’t followed. To assist you in complying with the tax rules for IRAs, this publication contains worksheets and sample forms, which can be found throughout the publication and in the appendices at the end of the publication.
+
+How to use this publication.
+
+The rules that you must follow depend on which type of IRA you have. Use Table I-1 to help you determine which parts of this publication to read. Also use Table I-1 if you were referred to this publication from instructions to a form.
+
+Comments and suggestions.
+
+We welcome your comments about this publication and suggestions for future editions.
+
+You can send us comments through IRS.gov/FormComments . Or, you can write to the Internal Revenue Service, Tax Forms and Publications, 1111 Constitution Ave. NW, IR-6526, Washington, DC 20224.
+
+Although we can’t respond individually to each comment received, we do appreciate your feedback and will consider your comments and suggestions as we revise our tax forms, instructions, and publications. Don’t send tax questions, tax returns, or payments to the above address.
+
+Getting answers to your tax questions.
+
+If you have a tax question not answered by this publication or the How To Get Tax Help section at the end of this publication, go to the IRS Interactive Tax Assistant page at IRS.gov/Help/ITA where you can find topics by using the search feature or viewing the categories listed.
+
+Getting tax forms, instructions, and publications.
+
+Go to IRS.gov/Forms to download current and prior-year forms, instructions, and publications.
+
+Ordering tax forms, instructions, and publications.
+
+Go to IRS.gov/OrderForms to order current forms, instructions, and publications; call 800-829-3676 to order prior-year forms and instructions. The IRS will process your order for forms and publications as soon as possible. Don’t resubmit requests you’ve already sent us. You can get forms and publications faster online.
+
+Useful Items
+
+You may want to see:
+
+Publications
+
+-
+
+505 Tax Withholding and Estimated Tax
+
+-
+
+590-B Distributions from Individual Retirement Arrangements (IRAs)
+
+-
+
+560 Retirement Plans for Small Business (SEP, SIMPLE, and Qualified Plans)
+
+-
+
+571 Tax-Sheltered Annuity Plans (403(b) Plans)
+
+-
+
+575 Pension and Annuity Income
+
+-
+
+939 General Rule for Pensions and Annuities
+
+Forms (and Instructions)
+
+-
+
+W-4P Withholding Certificate for Pension or Annuity Payments
+
+-
+
+1099-R Distributions From Pensions, Annuities, Retirement or Profit-Sharing Plans, IRAs, Insurance Contracts, etc.
+
+-
+
+5304-SIMPLE Savings Incentive Match Plan for Employees of Small Employers (SIMPLE)—Not for Use With a Designated Financial Institution
+
+-
+
+5305-S SIMPLE Individual Retirement Trust Account
+
+-
+
+5305-SA SIMPLE Individual Retirement Custodial Account
+
+-
+
+5305-SIMPLE Savings Incentive Match Plan for Employees of Small Employers (SIMPLE)—for Use With a Designated Financial Institution
+
+-
+
+5329 Additional Taxes on Qualified Plans (Including IRAs) and Other Tax-Favored Accounts
+
+-
+
+5498 IRA Contribution Information
+
+-
+
+8606 Nondeductible IRAs
+
+-
+
+8815 Exclusion of Interest From Series EE and I U.S. Savings Bonds Issued After 1989
+
+-
+
+8839 Qualified Adoption Expenses
+
+-
+
+8880 Credit for Qualified Retirement Savings Contributions
+
+-
+
+8915-F Qualified Disaster Retirement Plan Distributions and Repayments
+
+See How To Get Tax Help near the end of this publication for information about getting these publications and forms.
+
+Table I-1. Using This Publication
+
+IF you need information on... | THEN see...
+traditional IRAs (not including traditional SIMPLE IRAs) | chapter 1 .
+Roth IRAs (not including Roth SIMPLE IRAs) | chapter 2 , and parts of chapter 1 .
+the credit for qualified retirement savings contributions (saver's credit) | chapter 3 .
+how to keep a record of your contributions to, and distributions from, your traditional IRA(s) | Appendix A .
+SEP IRAs, SIMPLE IRAs, and 401(k) plans | Pub. 560.
+Coverdell education savings accounts (ESAs) (formerly called education IRAs) | Pub. 970.
+
+IF for 2025, you: received social security benefits, had taxable compensation, contributed to a traditional IRA, and you or your spouse was covered by an employer retirement plan, and you want to... | THEN see...
+first figure your modified adjusted gross income (AGI) | Appendix B, Worksheet 1 .
+then figure how much of your traditional IRA contribution you can deduct | Appendix B, Worksheet 2 .
+and finally figure how much of your social security is taxable | Appendix B, Worksheet 3 .
+
+Table I-2. How Are a Traditional IRA and a Roth IRA Different?
+
+This table shows the differences between traditional IRAs (not including traditional SIMPLE IRAs) and Roth IRAs (not including Roth SIMPLE IRAs). Answers in the middle column apply to traditional IRAs. Answers in the right column apply to Roth IRAs.
+
+Question | Answer
+Traditional IRA? | Roth IRA?
+Is there an age limit on when I can open and contribute to a | No. For tax years after 2019, you are able to contribute to your IRA even if you have reached age 70½ or older. See Who Can Open a Traditional IRA? in chapter 1. | No. You can be any age. See Can You Contribute to a Roth IRA? in chapter 2.
+If I earned more than $7,000 in 2025 ($8,000 if I was age 50 or older by the end of 2025), is there a limit on how much I can contribute to a | Yes. For 2025, you can contribute to a traditional IRA up to: $7,000, or $8,000 if you were age 50 or older by the end of 2025. There is no upper limit on how much you can earn and still contribute. See How Much Can Be Contributed? in chapter 1. | Yes. For 2025, you may be able to contribute to a Roth IRA up to: $7,000, or $8,000 if you were age 50 or older by the end of 2025, but the amount you can contribute may be less than that depending on your income, your filing status, and if you contribute to another IRA. See How Much Can Be Contributed? and Table 2-1 in chapter 2.
+Can I deduct contributions to a | Yes. You may be able to deduct your contributions to a traditional IRA depending on your income, your filing status, whether you are covered by a retirement plan at work, and whether you receive social security benefits. See How Much Can You Deduct? in chapter 1. | No. You can never deduct contributions to a Roth IRA. See What Is a Roth IRA? in chapter 2.
+Do I have to file a form just because I contribute to a | Not unless you make nondeductible contributions to your traditional IRA. In that case, you must file Form 8606. See Nondeductible Contributions in chapter 1. | No. You don’t have to file a form if you contribute to a Roth IRA. See Contributions not reported in chapter 2.

@@ -1,0 +1,499 @@
+IRS Pub 596 (2025) | 2. Rules if You Have a Qualifying Child
+
+2. Rules if You Have a Qualifying Child
+
+If you have met all the rules in chapter 1, use this chapter to see if you have a qualifying child. This chapter discusses Rules 8 through 10 . You must meet all three of those rules, in addition to the rules in chapters 1 and 4, to qualify for the EIC with a qualifying child.
+
+Follow these rules if you have a child who meets the conditions to be your qualifying child for purposes of claiming the EIC, even if the child who qualifies you to claim the EIC doesn’t have a valid SSN issued on or before the due date of your 2025 return (including extensions).
+
+When you file Form 1040 or 1040-SR, you must attach Schedule EIC to your return if you have at least one child who meets the conditions to be your qualifying child for purposes of claiming the EIC, even if that child doesn’t have a valid SSN issued on or before the due date of your return (including extensions). For information about how to complete Schedule EIC if your qualifying child or children don’t have valid SSNs, see Schedule EIC. If you meet all the rules in chapter 1 and this chapter, read chapter 4 to find out what to do next.
+
+No qualifying child.
+
+If you don’t meet Rule 8 , you don’t have a qualifying child. Read chapter 3 to find out if you can get the EIC without a qualifying child.
+
+. If your child meets the tests to be your qualifying child, but also meets the tests to be the qualifying child of another person, only one of you can actually treat the child as a qualifying child to claim the EIC. If the other person can claim the child under the tiebreaker rules, you can’t claim the EIC as a taxpayer with a qualifying child unless you have another qualifying child. However, you may be able to claim the EIC without a qualifying child. .
+
+Rule 8—Your Child Must Meet the Relationship, Age, Residency, and Joint Return Tests
+
+Your child is a qualifying child if your child meets four tests. The four tests are:
+
+-
+
+Relationship,
+
+-
+
+Age,
+
+-
+
+Residency, and
+
+-
+
+Joint return.
+
+The four tests are illustrated in Figure A. The paragraphs that follow contain more information about each test.
+
+Relationship Test
+
+To be your qualifying child, a child must be your:
+
+-
+
+Son, daughter, stepchild, foster child, or a descendant of any of them (for example, your grandchild); or
+
+-
+
+Brother, sister, half brother, half sister, stepbrother, stepsister, or a descendant of any of them (for example, your niece or nephew).
+
+The following definitions clarify the relationship test.
+
+Adopted child.
+
+An adopted child is always treated as your own child. The term “adopted child” includes a child who was lawfully placed with you for legal adoption.
+
+Foster child.
+
+For the EIC, a person is your foster child if the child is placed with you by an authorized placement agency or by judgment, decree, or other order of any court of competent jurisdiction. An authorized placement agency includes:
+
+-
+
+A state or local government agency,
+
+-
+
+A tax-exempt organization licensed by a state, and
+
+-
+
+An Indian tribal government or an organization authorized by an Indian tribal government to place Indian children.
+
+Example.
+
+Dean, who is 12 years old, was placed in your care 2 years ago by an authorized agency responsible for placing children in foster homes. Dean is your foster child.
+
+Figure A. Tests for Qualifying Child
+
+Conditions for Qualifying Child
+
+Test for Qualifying Child
+
+Test for Qualifying Child
+
+Summary: This figure is an illustrative representation of the relationship, age, and residency tests described in the text that determine if a dependent is a qualifying child.
+
+Please click here for the text description of the image.
+
+Age Test
+
+Your child must be:
+
+-
+
+Under age 19 at the end of 2025 and younger than you (or your spouse if filing jointly);
+
+-
+
+Under age 24 at the end of 2025, a full-time student, and younger than you (or your spouse if filing jointly); or
+
+-
+
+Any age and permanently and totally disabled.
+
+. If your child is a full-time student or permanently and totally disabled, be sure to check the appropriate box on line 6 of the Dependents section on page 1 of Form 1040 or 1040-SR. .
+
+The following examples and definitions clarify the age test.
+
+Example 1—Child not under age 19.
+
+Your child, Sam, turned 19 on December 10. Unless Sam was permanently and totally disabled or a student, Sam isn’t a qualifying child because, at the end of the year, Sam wasn’t under age 19.
+
+Example 2—Child not younger than you or your spouse.
+
+Your 23-year-old sibling, Blake, who is a full-time student and unmarried, lives with you and your spouse. Blake isn’t disabled. Both you and your spouse are 21 years old, and you file a joint return. Blake isn’t your qualifying child because Blake isn’t younger than you or your spouse.
+
+Example 3—Child younger than your spouse but not younger than you.
+
+The facts are the same as in Example 2 except that your spouse is 25 years old. Because Blake is younger than your spouse, Blake is your qualifying child, even though Blake isn’t younger than you.
+
+Full-time student defined.
+
+To qualify as a full-time student, your child must be, during some part of each of any 5 calendar months during the calendar year:
+
+-
+
+A full-time student at a school that has a regular teaching staff, course of study, and regular student body at the school; or
+
+-
+
+A student taking a full-time, on-farm training course given by a school described in (1), or a state, county, or local government.
+
+The 5 calendar months need not be consecutive.
+
+A full-time student is a student who is enrolled for the number of hours or courses the school considers to be full-time attendance.
+
+School defined.
+
+A school can be an elementary school; junior or senior high school; college; university; or technical, trade, or mechanical school. However, on-the-job training courses, correspondence schools, and schools offering courses only through the Internet don’t count as schools for the EIC.
+
+Vocational high school students.
+
+Students who work in co-op jobs in private industry as a part of a school’s regular course of classroom and practical training are considered full-time students.
+
+Permanently and totally disabled.
+
+Your child is permanently and totally disabled if both of the following apply.
+
+-
+
+Your child can’t engage in any substantial gainful activity because of a physical or mental condition.
+
+-
+
+A doctor determines the condition has lasted or can be expected to last continuously for at least a year or can lead to death.
+
+Substantial gainful activity.
+
+Substantial gainful activity means performing significant duties over a reasonable period of time while working for pay or profit, or in work generally done for pay or profit. Full-time work (or part-time work done at an employer’s convenience) in a competitive work situation for at least the minimum wage shows that the child can engage in substantial gainful activity.
+
+Substantial gainful activity isn’t work done to take care of yourself or your home. It isn’t unpaid work on hobbies, institutional therapy or training, school attendance, clubs, social programs, and similar activities. However, doing this kind of work may show that the child is able to engage in substantial gainful activity.
+
+The fact that the child hasn’t worked for some time doesn’t, by itself, prove the child can’t engage in substantial gainful activity.
+
+For examples of substantial gainful activity, see the Instructions for Schedule R (Form 1040).
+
+Residency Test
+
+Your child must have lived with you in the United States for more than half of 2025.
+
+. You can’t claim the EIC for a child who didn’t live with you for more than half of the year, even if you paid most of the child’s living expenses. The IRS may ask you for documents to show you lived with each qualifying child. Documents you might want to keep for this purpose include school and childcare records and other records that show your child’s address. .
+
+. If the child lived with you in the United States for more than half of 2025, check both boxes (box (a) and box (b)) on row (5) of the Dependents section on page 1 of Form 1040 or 1040-SR. Also, make sure to check the box to the right of the address block on page 1 of Form 1040 or 1040-SR. .
+
+The following paragraphs clarify the residency test.
+
+United States.
+
+This means the 50 states and the District of Columbia. It doesn’t include Puerto Rico or U.S. territories such as Guam.
+
+Homeless shelter.
+
+Your home can be any location where you regularly live. You don’t need a traditional home. For example, if your child lived with you for more than half the year in one or more homeless shelters, your child meets the residency test.
+
+Military personnel stationed outside the United States.
+
+U.S. military personnel stationed outside the United States on extended active duty are considered to live in the United States during that duty period for purposes of the EIC.
+
+Extended active duty.
+
+Extended active duty means you are called or ordered to duty for an indefinite period or for a period of more than 90 days. Once you begin serving your extended active duty, you are still considered to have been on extended active duty even if you don’t serve more than 90 days.
+
+Birth or death of child.
+
+A child who was born or died in 2025 is treated as having lived with you for more than half of 2025 if your home was the child’s home for more than half the time the child was alive in 2025.
+
+Temporary absences.
+
+Count time that you or your child is away from home on a temporary absence due to a special circumstance as time the child lived with you. Examples of a special circumstance include illness, school attendance, business, vacation, military service, and detention in a juvenile facility.
+
+Adopted child.
+
+If you adopted a child in 2025, and that child was lawfully placed with you for legal adoption by you in 2025, or the child was an eligible foster child placed with you during 2025, the child is considered to have lived with you for more than half of 2025 if your main home was this child’s main home for more than half the time this child was adopted or placed with you in 2025.
+
+Kidnapped child.
+
+A kidnapped child is treated as living with you for more than half of the year if the child lived with you for more than half the part of the year before the date of the kidnapping or following the date of the child’s return. The child must be presumed by law enforcement authorities to have been kidnapped by someone who isn’t a member of your family or the child’s family. This treatment applies for all years until the child is returned. However, the last year this treatment can apply is the earlier of:
+
+-
+
+The year there is a determination that the child is dead, or
+
+-
+
+The year the child would have reached age 18.
+
+If your qualifying child has been kidnapped and meets these requirements, enter “KC,” instead of a number, on line 6 of Schedule EIC.
+
+Joint Return Test
+
+To meet this test, the child can’t file a joint return for the year.
+
+Exception.
+
+An exception to the joint return test applies if your child and your child’s spouse file a joint return only to claim a refund of income tax withheld or estimated tax paid.
+
+Example 1—Child files joint return.
+
+You supported your 18-year-old child who lived with you all year while the child’s spouse was in the Armed Forces. Your child’s spouse earned $25,000 for the year. The couple files a joint return so this child isn’t your qualifying child.
+
+Example 2—Child files joint return to get refund of tax withheld.
+
+Your 18-year-old child and your child’s 17-year-old spouse had $800 of wages from part-time jobs and no other income. They don’t have a child. Neither is required to file a tax return. Taxes were taken out of their pay, so they file a joint return only to get a refund of the withheld taxes. The exception to the joint return test applies, so this child may be your qualifying child if all the other tests are met.
+
+Example 3—Child files joint return to claim American opportunity credit.
+
+The facts are the same as in Example 2 except no taxes were taken out of your child’s pay. Your child and their spouse aren’t required to file a tax return, but they file a joint return to claim an American opportunity credit of $124 and get a refund of that amount. Because claiming the American opportunity credit is their reason for filing the return, they aren’t filing it only to claim a refund of income tax withheld or estimated tax paid. The exception to the joint return test doesn’t apply, so this child isn’t your qualifying child.
+
+Married child.
+
+Even if your child doesn’t file a joint return, if your child was married at the end of the year, your child can’t be your qualifying child unless:
+
+-
+
+You can claim the child as a dependent, or
+
+-
+
+The reason you can’t claim the child as a dependent is that you let the child’s other parent claim the child as a dependent under the Special rule for divorced or separated parents (or parents who live apart) , described later.
+
+. Social security number (SSN). To claim a higher EIC amount based on a qualifying child, that qualifying child must have a valid SSN issued on or before the due date of your 2025 return (including extensions), unless the child was born and died in 2025 and you attach to your return a copy of the child’s birth certificate, death certificate, or hospital records showing a live birth. You can’t claim a higher EIC amount on the basis of a qualifying child if: .
+
+-
+
+The qualifying child’s SSN is missing from your tax return or is incorrect;
+
+-
+
+The qualifying child’s social security card says “Not valid for employment” and was issued for use in getting a federally funded benefit; or
+
+-
+
+Instead of an SSN, the qualifying child has:
+
+-
+
+An ITIN, which is issued to a noncitizen who can’t get an SSN, or
+
+-
+
+An adoption taxpayer identification number (ATIN), issued to adopting parents who can’t get an SSN for the child being adopted until the adoption is final.
+
+If you have more than one qualifying child and only one has a valid SSN, you can use only that child to claim a higher EIC amount. For more information about SSNs, see Rule 2 . .
+
+. If “Not Valid for Employment” is printed on your child’s social security card and your child’s immigration status has changed so that your child is now a U.S. citizen or permanent resident, ask the SSA for a social security card without the legend. .
+
+. If you have a child who meets the conditions to be a qualifying child for purposes of claiming the EIC, but that child doesn’t have a valid SSN, you may be eligible to claim a self-only EIC. .
+
+Rule 9—Your Qualifying Child Cannot Be Used by More Than One Person To Claim the EIC
+
+Sometimes a child meets the tests to be a qualifying child of more than one person. However, only one of these persons can actually treat the child as a qualifying child. Only that person can use the child as a qualifying child to take all of the following tax benefits (provided the person is eligible for each benefit).
+
+-
+
+The child tax credit, credit for other dependents, or additional child tax credit.
+
+-
+
+Head of household filing status.
+
+-
+
+The credit for child and dependent care expenses.
+
+-
+
+The exclusion for dependent care benefits.
+
+-
+
+The EIC.
+
+The other person can’t take any of these benefits based on this qualifying child. In other words, you and the other person can’t agree to divide these tax benefits between you. The other person can’t take any of these tax benefits unless that person has a different qualifying child.
+
+The tiebreaker rules, which follow, explain who, if anyone, can claim the EIC when more than one person has the same qualifying child. However, the tiebreaker rules don’t apply if the other person is your spouse and you file a joint return.
+
+Tiebreaker rules.
+
+To determine which person can treat the child as a qualifying child to claim the five tax benefits just listed, the following tiebreaker rules apply. For purposes of these tiebreaker rules, the term “parent” means a biological or adoptive parent of an individual. It does not include a stepparent or foster parent unless that person has adopted the individual.
+
+-
+
+If only one of the persons is the child’s parent, the child is treated as the qualifying child of the parent.
+
+-
+
+If the parents file a joint return together and can claim the child as a qualifying child, the child is treated as the qualifying child of the parents.
+
+-
+
+If the parents don’t file a joint return together but both parents claim the child as a qualifying child, the IRS will treat the child as the qualifying child of the parent with whom the child lived for the longer period of time during the year. If the child lived with each parent for the same amount of time, the IRS will treat the child as the qualifying child of the parent who had the higher AGI for the year.
+
+-
+
+If no parent can claim the child as a qualifying child, the child is treated as the qualifying child of the person who had the highest AGI for the year.
+
+-
+
+If a parent can claim the child as a qualifying child but no parent claims the child, the child is treated as the qualifying child of the person who had the highest AGI for the year, but only if that person’s AGI is higher than the highest AGI of any of the child’s parents who can claim the child.
+
+. If your qualifying child is treated under the tiebreaker rules as the qualifying child of another person for 2025, you may be able to take the EIC using the rules in chapter 3 for taxpayers who don’t have a qualifying child. .
+
+Subject to these tiebreaker rules, you and the other person may be able to choose which of you claims the child as a qualifying child. See Example 1 through Example 12 , later.
+
+If you can’t claim the EIC because your qualifying child is treated under the tiebreaker rules as the qualifying child of another person for 2025, you may be able to take the EIC using a different qualifying child, or take the EIC using the rules in chapter 3 for people who don’t have a qualifying child.
+
+If the other person cannot claim the EIC.
+
+If you and someone else have the same qualifying child but the other person can’t claim the EIC because the other person isn’t eligible or their earned income or AGI is too high, you may be able to treat the child as a qualifying child. See Example 6 and Example 7 , later. But you can’t treat the child as a qualifying child to claim the EIC if the other person uses the child to claim any of the other five tax benefits listed earlier in this chapter.
+
+Examples.
+
+The following examples may help you in determining whether you can claim the EIC when you and someone else have the same qualifying child.
+
+Example 1—Child lived with parent and grandparent.
+
+You and your 2-year-old child Sam lived with your parent all year. You are 25 years old, unmarried, and your AGI is $9,000. Your only income was $9,000 from a part-time job. Your parent’s only income was $22,000 from a job, and their AGI is $22,000. Your child’s other parent did not live with you or Sam. The special rule explained later for divorced or separated parents (or parents who live apart) doesn’t apply. Sam is a qualifying child of both you and your parent because Sam meets the relationship, age, residency, and joint return tests for both you and your parent. However, only one of you can treat Sam as a qualifying child to claim the EIC (and the other tax benefits listed earlier in this chapter for which that person qualifies). Sam isn’t a qualifying child of anyone else, including the child’s other parent. If you don’t claim Sam as a qualifying child for the EIC or any of the other tax benefits listed earlier, your parent can treat Sam as a qualifying child to claim the EIC (and any of the other tax benefits listed earlier for which your parent qualifies).
+
+Example 2—Parent has higher AGI than grandparent.
+
+The facts are the same as in Example 1 except your AGI is $25,000. Because your parent’s AGI isn’t higher than yours, your parent can’t claim Sam as a qualifying child. Only you can claim Sam.
+
+Example 3—Two persons claim same child.
+
+The facts are the same as in Example 1 except that you and your parent both claim Sam as a qualifying child. In this case, you as the child’s parent will be the only one allowed to claim Sam as a qualifying child for the EIC and the other tax benefits listed earlier for which you qualify. The IRS will disallow your parent’s claim to the EIC and any of the other tax benefits listed earlier based on Sam. Your parent can’t take the EIC for a taxpayer without a qualifying child because your parent’s AGI is more than $19,104.
+
+Example 4—Qualifying children split between two persons.
+
+The facts are the same as in Example 1 except that you also have two other young children who are qualifying children of both you and your parent. Only one of you can claim each child. However, if your parent’s AGI is higher than yours, you can allow your parent to claim one or more of the children. For example, if you claim one child, your parent can claim the other two.
+
+Example 5—Taxpayer who is a qualifying child.
+
+The facts are the same as in Example 1 except that you are only 18 years old. This means you are a qualifying child of your parent. Because of Rule 10 , discussed later, you can’t claim the EIC and can’t claim Sam as a qualifying child. Only your parent may be able to treat Sam as a qualifying child to claim the EIC. If your parent meets all the other requirements for claiming the EIC and you don’t claim Sam as a qualifying child for any of the other tax benefits listed earlier, your parent can claim both you and Sam as qualifying children for the EIC.
+
+Example 6—Grandparent with too much earned income to claim EIC.
+
+The facts are the same as in Example 1 except that your parent earned $50,000 from employment. Because your parent’s earned income is too high for your parent to claim the EIC, only you can claim the EIC using Sam.
+
+Example 7—Parent with too much earned income to claim EIC.
+
+The facts are the same as in Example 1 except that you earned $50,000 from your job and your AGI is $50,500. Your earned income is too high for you to claim the EIC. But your parent can’t claim the EIC either, because your parent’s AGI isn’t higher than yours.
+
+Example 8—Separated parents.
+
+You, your spouse, and your 10-year-old child, Jordan, lived together until August 1, 2025, when your spouse moved out of the household. In August and September, Jordan lived with you. For the rest of the year, Jordan lived with Jordan’s other parent. Jordan is a qualifying child of both you and your spouse because Jordan lived with each of you for more than half the year and because Jordan met the relationship, age, and joint return tests for both of you. At the end of the year, you and your spouse still weren’t divorced, legally separated, or separated under a written separation agreement, so the Special rule for divorced or separated parents (or parents who live apart) doesn’t apply.
+
+You and your spouse will file separate returns. Your spouse agrees to let you treat Jordan as a qualifying child. This means, if your spouse doesn’t claim Jordan as a qualifying child for any of the tax benefits listed earlier, you can claim Jordan as a qualifying child for any tax benefit listed earlier for which you qualify. However, you can’t take the EIC because you and your spouse didn’t live apart for the last 6 months of 2025 and, while you did live apart at the end of 2025, you aren’t legally separated under a written separation agreement or decree of separate maintenance. Therefore, you don’t meet the requirements for certain separated spouses to take the EIC when they don’t file a joint return. See Rule 3 . You also can’t take the credit for child and dependent care expenses because your filing status is married filing separately and you and your spouse didn’t live apart for the last 6 months of 2025. See Pub. 503.
+
+Example 9—Separated parents claim same child.
+
+The facts are the same as in Example 8 , except that you and your spouse both claim Jordan as a qualifying child. In this case, only your spouse will be allowed to treat Jordan as a qualifying child. This is because, during 2025, Jordan lived with your spouse longer than with you. You can’t claim the EIC because you are a separated spouse who isn’t filing a joint return and you don’t have a qualifying child. However, your spouse’s filing status is also married filing separately, so your spouse can’t claim the EIC because you and your spouse didn’t live apart for the last 6 months of 2025 or you aren’t legally separated under a written separation agreement or decree of separate maintenance. Therefore, your spouse doesn’t meet the requirements to claim the EIC as a separated spouse who isn’t filing a joint return. See Rule 3 . Your spouse also can’t take the credit for child and dependent care expenses because your spouse’s filing status is married filing separately and you and your spouse didn’t live apart for the last 6 months of 2025. See Pub. 503.
+
+Example 10—Unmarried parents.
+
+You, your 5-year-old child, Logan, and Logan’s other parent lived together all year. You and Logan’s other parent aren’t married. Logan is a qualifying child of both you and Logan’s other parent because Logan meets the relationship, age, residency, and joint return tests for both you and Logan’s other parent. Your earned income and AGI are $12,000, and Logan’s other parent’s earned income and AGI are $14,000. Neither of you had any other income. Logan’s other parent agrees to let you treat the child as a qualifying child. This means if Logan’s other parent doesn’t claim Logan as a qualifying child for the EIC or any of the other tax benefits listed earlier, you can claim Logan as a qualifying child for the EIC and any of the other tax benefits listed earlier for which you qualify.
+
+Example 11—Unmarried parents claim same child.
+
+The facts are the same as in Example 10 except that you and Logan’s other parent both claim Logan as a qualifying child. In this case, only Logan’s other parent will be allowed to treat Logan as a qualifying child. This is because Logan’s other parent’s AGI, $14,000, is more than your AGI, $12,000. You can claim the EIC without a qualifying child.
+
+Example 12—Child did not live with a parent.
+
+You and your sibling’s child, Morgan, lived with your parent all year. You are 25 years old, and your AGI is $9,300. Your only income was from a part-time job. Your parent’s AGI is $15,000. Your parent’s only income was from a job. Morgan’s parents file jointly, have an AGI of less than $9,000, and don’t live with you or Morgan. Morgan is a qualifying child of both you and your parent because Morgan meets the relationship, age, residency, and joint return tests for both you and your parent. However, only your parent can treat Morgan as a qualifying child. This is because your parent’s AGI, $15,000, is more than your AGI, $9,300.
+
+Special rule for divorced or separated parents (or parents who live apart).
+
+A child will be treated as the qualifying child of the noncustodial parent if all of the following statements are true.
+
+-
+
+The parents:
+
+-
+
+Are divorced or legally separated under a decree of divorce or separate maintenance;
+
+-
+
+Are separated under a written separation agreement; or
+
+-
+
+Lived apart at all times during the last 6 months of 2025.
+
+-
+
+The child received over half of the child’s support for the year from the parents.
+
+-
+
+The child is in the custody of one or both parents for more than half of 2025.
+
+-
+
+Either of the following statements is true.
+
+-
+
+The custodial parent signs Form 8332 or a substantially similar statement that the custodial parent will not claim the child as a dependent for the year, and the noncustodial parent attaches the form or statement to their return. If the divorce decree or separation agreement went into effect after 1984 and before 2009, the noncustodial parent may be able to attach certain pages from the decree or agreement instead of Form 8332.
+
+-
+
+A pre-1985 decree of divorce or separate maintenance or written separation agreement that applies to 2025 provides that the noncustodial parent can claim the child as a dependent, and the noncustodial parent provides at least $600 for support of the child during 2025.
+
+For details, see Pub. 501. If a child is treated as the qualifying child of the noncustodial parent under this special rule for children of divorced or separated parents (or parents who live apart), only the noncustodial parent can claim the child tax credit or the credit for other dependents for the child. However, only the custodial parent, if eligible, or another eligible taxpayer can claim the child as a qualifying child for the EIC. For details and examples, see Applying the tiebreaker rules to divorced or separated parents (or parents who live apart) in Pub. 501.
+
+Rule 10—You Cannot Be a Qualifying Child of Another Taxpayer
+
+You are a qualifying child of another taxpayer (such as your parent, guardian, or foster parent) if all of the following statements are true.
+
+-
+
+You are that person’s son, daughter, stepchild, foster child, or a descendant of any of them. Or, you are that person’s brother, sister, half brother, half sister, stepbrother, stepsister, or a descendant of any of them.
+
+-
+
+You were:
+
+-
+
+Under age 19 at the end of the year and younger than that person (or that person’s spouse if the person files jointly);
+
+-
+
+Under age 24 at the end of the year, a full-time student, and younger than that person (or that person’s spouse if the person files jointly); or
+
+-
+
+Any age and permanently and totally disabled.
+
+-
+
+You lived with that person in the United States for more than half of the year.
+
+-
+
+You aren’t filing a joint return for the year (or are filing a joint return only to claim a refund of withheld income tax or estimated tax paid).
+
+For more details about the tests to be a qualifying child, see Rule 8 .
+
+If you are a qualifying child of another taxpayer, you can’t claim the EIC. This is true even if the person for whom you are a qualifying child doesn’t claim the EIC or meet all of the rules to claim the EIC. Check the box on line 27c (Form 1040 or 1040-SR).
+
+Example.
+
+You and your child lived with your parent all year. You are 22 years old, unmarried, and attended a trade school full time. You had a part-time job and earned $5,700. You had no other income. Because you meet the relationship, age, residency, and joint return tests, you are a qualifying child of your parent. Your parent can claim the EIC if your parent meets all the other requirements. Because you are your parent’s qualifying child, you can’t claim the EIC. This is so even if your parent can’t or doesn’t claim the EIC.
+
+Child of person not required to file a return.
+
+You aren’t the qualifying child of another taxpayer (and so may qualify to claim the EIC) if the person for whom you met the relationship, age, residency, and joint return tests isn’t required to file an income tax return and either:
+
+-
+
+Doesn’t file an income tax return, or
+
+-
+
+Files a return only to get a refund of income tax withheld or estimated tax paid.
+
+Example 1—Return not required.
+
+The facts are the same as in the last example except your parent had no gross income, isn’t required to file a 2025 tax return, and doesn’t file a 2025 tax return. As a result, you aren’t your parent’s qualifying child. You can claim the EIC if you meet all the other requirements to do so.
+
+Example 2—Return filed to get refund of tax withheld.
+
+The facts are the same as in Example 1 except your parent had wages of $1,500 and had income tax withheld from those wages. Your parent files a return only to get a refund of the income tax withheld and doesn’t claim the EIC or any other tax credits or deductions. As a result, you aren’t your parent’s qualifying child. You can claim the EIC if you meet all the other requirements to do so.
+
+Example 3—Return filed to get EIC.
+
+The facts are the same as in Example 2 except your parent claimed the EIC on their return. Since your parent filed the return to get the EIC, your parent isn’t filing it only to get a refund of income tax withheld. As a result, you are your parent’s qualifying child. You can’t claim the EIC.

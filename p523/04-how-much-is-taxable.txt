@@ -1,0 +1,88 @@
+IRS Pub 523 (2025) | How Much Is Taxable?
+
+How Much Is Taxable?
+
+Review of the Eligibility Test.
+
+Generally, your home sale qualifies for the maximum exclusion if all of the following conditions are true.
+
+-
+
+You didn’t acquire the property through a like-kind exchange in the past 5 years.
+
+-
+
+You aren’t subject to the expatriate tax.
+
+-
+
+You owned the home for at least 2 of the last 5 years and lived in the home for at least 2 (1 if you become disabled) of the last 5 years leading up to the date of the sale.*
+
+-
+
+For the 2 years before the date of the current sale, you didn’t sell another home on which you claimed the exclusion.
+
+-
+
+You didn’t use a portion of the home outside of the living area, for business or rental purposes.
+
+-
+
+You didn’t use the entire property for business or rental purposes or as a second home after 2008.
+
+-
+
+The sale doesn’t involve the transfer of vacant land or a remainder interest.**
+
+*If this condition isn’t met, your home sale may qualify for a partial exclusion. The sale must involve one of the following events experienced by you, your spouse, a co-owner, or anyone else for whom the home was their residence: a work-related move, a health-related move, a death, a divorce, a pregnancy with multiple children, a change in employment status, a change in unemployment compensation eligibility, or other unusual event.
+
+**The transfer of vacant land or of a remainder interest may qualify for the maximum exclusion, but special rules apply in those situations.
+
+For a step-by-step guide to determining whether your home sale qualifies for the maximum exclusion, see Does Your Home Sale Qualify for the Exclusion of Gain? , earlier.
+
+If you qualify for an exclusion on your home sale, up to $250,000 ($500,000 if married and filing jointly) of your gain will be tax free. If your gain is more than that amount, or if you qualify only for a partial exclusion, then some of your gain may be taxable. This section contains step-by-step instructions for figuring out how much of your gain is taxable. See Worksheet 3 , later, for assistance in determining your taxable gain.
+
+If you determined in Does Your Home Sale Qualify for the Exclusion of Gain , earlier, that your home sale doesn't qualify for any exclusion (either full or partial), then your entire gain is taxable. If you don’t have a gain, you owe no tax on the sale. In either case, you don’t need to complete Worksheet 3 and you can skip to Reporting Your Home Sale , later.
+
+Recapturing Depreciation
+
+If you were entitled to take depreciation deductions because you used your home for business purposes or as rental property, you cannot exclude the part of your gain equal to any depreciation allowed or allowable as a deduction for periods after May 6, 1997. However, If you used all of your home for business or rental, you may also have to pay back (“recapture”) some or all of the depreciation you were entitled to take on your property. “Recapturing” depreciation means you must include it as ordinary income on your tax return. See Additional Depreciation in Pub. 544 for more information about depreciation recapture.
+
+See Determine any depreciation amounts you may need to recapture , later, for more detail.
+
+Example.
+
+Cartier owned and used a house as a main home from 2017 through 2020. On January 1, 2021, Cartier moved to another state. Cartier rented the home from that date until April 30, 2023, when Cartier sold it. During the 5-year period ending on the date of sale (May 1, 2018–April 30, 2023), Cartier owned and lived in the house for more than 2 years. Because the period of nonqualified use doesn’t include any part of the 5-year period after the last date Cartier lived in the home, there is no period of nonqualified use. Because Cartier met the ownership and use tests, Cartier can exclude gain up to $250,000. However, Cartier can’t exclude the part of the gain equal to the depreciation Cartier claimed or could have claimed for renting the house.
+
+Worksheet 3 is used to help you figure taxable gain on the sale or exchange of your home (if any) and how to report it.
+
+Tip:
+
+If you completed “Business or Rental” and “Home” versions of your gain/loss worksheet, as described in Property Used Partly for Business or Rental , earlier, complete Worksheet 3 only for the “Home” version.
+
+Worksheet 3. Determine if You Have Taxable Gain
+
+If you completed “Business or Rental” and “Home” versions of your gain/loss worksheet, as described in Property Used Partly for Business or Rental , earlier, complete Worksheet 3 only for the “Home” version. However, the section 121 exclusion is reduced to the extent of any depreciation adjustments in connection with the business use of your residence. Worksheet 2 allocated a separate portion of the property used for Business or Rental, if any, to figure the amount of gain potentially excluded under section 121. Worksheet 3 helps you figure how much of the gain calculated in Worksheet 2 will be excluded under section 121 based, in part, on whether you, your spouse, or a former spouse used the entire property as your principal residence or for another purpose, for example, for rental use or as a second home or a vacation home.
+
+Section A. Depreciation. Determine your net gain. Complete this section only if you used all or part of your home for business or rental purposes between May 7, 1997, and the date of sale. Otherwise, skip to Section B.
+Step 1 | Enter your gain from line 7 of Worksheet 2 | _____
+Step 2 | List the total of all depreciation deductions that you took or could have taken for the use of all or part of your home for business or rental purposes between May 7, 1997, and the date of sale. | _____
+Step 3 | Subtract the sum of Step 2 from the amount listed in Section A, Step 1. This is your net gain | _____
+Section B. Determine your nonqualified use gain. Complete this section only if the following apply: a) During the time you owned the property there were periods of nonqualified use when neither you nor your spouse (or your former spouse) used the entire property as your main home; b) the periods of nonqualified use occurred after 2008; c) the periods of nonqualified use occurred before the last day the entire property was used as your or your spouse’s (or your former spouse) main home prior to the date of sale. Do not include any period of nonqualified use that occurred after the last day that you or your spouse (or former spouse) used the entire property as your main home during the 5-year period prior to the date of sale.* Otherwise, skip to Section C.
+*Note : If the period of nonuse was 1) for an aggregate of 2 years or less and due to a change in employment, a health condition, or other “unforeseen circumstance” described in Does Your Home Qualify for a Partial Exclusion of Gain , earlier; or 2) for 10 years or less and due to a “stop the clock” exception for certain military, intelligence, and Peace Corps personnel described in Service, Intelligence, and Peace Corps Personnel , earlier, then you may skip Section B.
+Step 1 | Enter the amount from Section A, Step 3, or, if you skipped Section A, your gain from line 7 of Worksheet 2 , earlier | _____
+Step 2 | Enter the total number of days after 2008 and before the date of sale that neither you nor your spouse (or former spouse) used the entire home as a main residence. Do not include any days that occurred after the last day that you or your spouse (or former spouse) used the entire property as your main home during the 5-year period prior to the date of sale. This number is your nonuse days | _____
+Step 3 | Enter the total number of days you owned your home (counting all days, not just days after 2008). This number is your number of days owned | _____
+Step 4 | Divide the nonuse days by the days owned. This number is your nonresidence factor | _____
+Step 5 | Multiply the decimal from Section B, Step 4, by the amount listed in Section B, Step 1. This number is your nonqualified use gain | _____
+Section C. Determine your gain that is eligible for exclusion.
+IF... | THEN your gain that is eligible for exclusion is …
+you skipped Sections A & B | the amount of your gain from line 7 of Worksheet 2 .
+you completed Section A but skipped Section B | your net gain from Section A, Step 3.
+you completed Section B but skipped Section A |  | the amount from Section B, Step 1, less your nonqualified use gain from Section B, Step 5.
+you completed Sections A & B |  | your net gain from Section A, Step 3, less your nonqualified use gain from Section B, Step 5.
+Your gain that is eligible for exclusion is $ _______________
+Section D. Determine if you have taxable gain.
+IF... | THEN …
+your gain that is eligible for exclusion from Section C is less than or equal to your exclusion limit from Worksheet 1 , Section C | your gain that is eligible for exclusion from your income is not to be reported on your tax return. The Reporting Your Home Sale section only applies to your nonqualified use gain. However, you may need to complete Form 8949 if Form 1099-S was received. See Reporting Gain or Loss on Your Home Sale , later.
+your gain that is eligible for exclusion from Section C is greater than your exclusion limit from Worksheet 1 , Section C | some of your gain isn’t excludable, and you may owe tax on it. See Reporting Your Home Sale for instructions on how to report the gain on your tax return.

@@ -1,0 +1,27 @@
+IRS Pub 502 (2025) | How Do You Figure and Report the Deduction on Your Tax Return?
+
+How Do You Figure and Report the Deduction on Your Tax Return?
+
+Once you have determined which medical expenses you can include, figure and report the deduction on your tax return.
+
+What Tax Form Do You Use?
+
+You report your medical expense deduction on Schedule A (Form 1040). See the Instructions for Schedule A (Form 1040) for more detailed information on figuring your medical and dental expense deduction.
+
+Worksheet D. Adjusted Basis of Medical Equipment or Property Sold
+
+Instructions: Use this worksheet if you deducted the cost of medical equipment or property in one year and sold the equipment or property in a later year. This worksheet will give you the adjusted basis of the equipment or property you sold.
+1. |  | Enter the cost of the equipment or property | 1. | _____
+2. |  | Enter your total includible medical expenses for the year you included the cost in your medical expenses | 2. | _____
+3. |  | Divide line 1 by line 2 | 3. | _____
+4. |  | Enter 7.5% or 10% of your AGI (whichever applies) for the year the cost was included in your medical expenses | 4. | _____
+5. |  | Multiply line 3 by line 4. If your allowable itemized deductions for the year you purchased the equipment or property weren’t more than your AGI for that year, stop here. This is the adjusted basis of the equipment or property. If your allowable itemized deductions for the year you purchased the equipment or property were more than your AGI for that year, complete lines 6 through 11 | 5. | _____
+6. |  | Subtract line 5 from line 1 | 6. | _____
+7. |  | Enter your total allowable itemized deductions for the year the cost was included in your medical expenses | 7. | _____
+8. |  | Divide line 6 by line 7 | 8. | _____
+9. |  | Enter your AGI for the year the cost was included in your medical expenses | 9. | _____
+10. |  | Subtract line 9 from line 7 | 10. | _____
+11. |  | Multiply line 8 by line 10 | 11. | _____
+12. |  | Add line 5 to line 11. If your allowable itemized deductions for the year you purchased the equipment or property were more than your AGI for that year, this is the adjusted basis of the equipment or property | 12. | _____
+
+. Recordkeeping. You should keep records of your medical and dental expenses to support your deduction. Don’t send these records with your paper return. .

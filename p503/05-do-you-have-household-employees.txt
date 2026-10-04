@@ -1,0 +1,33 @@
+IRS Pub 503 (2025) | Do You Have Household Employees?
+
+Do You Have Household Employees?
+
+If you pay someone to come to your home and care for your dependent or spouse and you can control not only what work is done, but how it is done, that person is probably a household employee and you may need to file Schedule H (Form 1040), with your tax return and pay household employment taxes. If you are a household employer, you will need an EIN. If the individuals who work in your home are self-employed, you aren't liable for any of the taxes discussed in this section. Self-employed persons who are in business for themselves aren't household employees. Usually, you aren't a household employer if the person who cares for your dependent or spouse does so at their home or place of business. For example, nannies are generally household employees, while daycare centers are not.
+
+If you use a placement agency that exercises control over what work is done and how it will be done by a babysitter or companion who works in your home, the worker isn't your employee. This control could include providing rules of conduct and appearance and requiring regular reports. In this case, you don't have to pay employment taxes. But if an agency merely gives you a list of sitters and you hire one from that list and pay the sitter directly, the sitter may be your employee.
+
+If you have a household employee, you may be subject to:
+
+-
+
+Social security and Medicare taxes,
+
+-
+
+Federal unemployment tax, and
+
+-
+
+Federal income tax withholding.
+
+Social security and Medicare taxes are generally withheld from the employee's pay and matched by the employer. Federal unemployment (FUTA) tax is paid by the employer only and provides for payments of unemployment compensation to workers who have lost their jobs. Federal income tax is withheld from the employee's total pay if the employee asks you to do so and you agree.
+
+For more information on a household employer's tax responsibilities, see Pub. 926 and Schedule H (Form 1040) and its instructions.
+
+Tip:
+
+You must check either the “Yes” or “No” box on Form 2441, line 1, column (d) to indicate whether or not your care provider was your household employee during the year.
+
+State employment tax.
+
+You may also have to pay state unemployment tax for your household employee. Contact your state unemployment tax office for information. You should also find out whether you need to pay or collect other state employment taxes or carry workers compensation insurance. For a list of state unemployment tax agencies, visit the U.S. Department of Labor's website at oui.doleta.gov/unemploy/agencies.asp .

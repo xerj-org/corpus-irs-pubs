@@ -1,0 +1,1089 @@
+IRS Pub 17 (2025) | 4. Tax Withholding and Estimated Tax
+
+4. Tax Withholding and Estimated Tax
+
+What’s New for 2026
+
+Tax law changes for 2026. When you figure how much income tax you want withheld from your pay and when you figure your estimated tax, consider tax law changes effective in 2026. For more information, see Pub. 505, Tax Withholding and Estimated Tax.
+
+Reminders
+
+Estimated tax safe harbor for higher income taxpayers. If your 2025 adjusted gross income was more than $150,000 ($75,000 if you are married filing a separate return), you must pay the smaller of 90% of your expected tax for 2026 or 110% of the tax shown on your 2025 return to avoid an estimated tax penalty.
+
+Introduction
+
+This chapter discusses how to pay your tax as you earn or receive income during the year. In general, the federal income tax is a pay-as-you-go tax. There are two ways to pay as you go.
+
+-
+
+Withholding. If you are an employee, your employer probably withholds income tax from your pay. Tax may also be withheld from certain other income, such as pensions, bonuses, commissions, and gambling winnings. The amount withheld is paid to the IRS in your name.
+
+-
+
+Estimated tax. If you don’t pay your tax through withholding, or don’t pay enough tax that way, you may have to pay estimated tax. People who are in business for themselves will generally have to pay their tax this way. Also, you may have to pay estimated tax if you receive income such as dividends, interest, capital gains, rent, and royalties. Estimated tax is used to pay not only income tax, but self-employment tax and alternative minimum tax as well.
+
+This chapter explains these methods. In addition, it also explains the following.
+
+Useful Items
+
+You may want to see:
+
+Publication
+
+-
+
+505 Tax Withholding and Estimated Tax
+
+Form (and Instructions)
+
+-
+
+W-4 Employee’s Withholding Certificate
+
+-
+
+W-4P Withholding Certificate for Periodic Pension or Annuity Payments
+
+-
+
+W-4S Request for Federal Income Tax Withholding From Sick Pay
+
+-
+
+W-4V Voluntary Withholding Request
+
+-
+
+1040-ES Estimated Tax for Individuals
+
+-
+
+2210 Underpayment of Estimated Tax by Individuals, Estates, and Trusts
+
+-
+
+2210-F Underpayment of Estimated Tax by Farmers and Fishers
+
+Tax Withholding for 2026
+
+This section discusses income tax withholding on:
+
+-
+
+Salaries and wages,
+
+-
+
+Tips,
+
+-
+
+Taxable fringe benefits,
+
+-
+
+Sick pay,
+
+-
+
+Pensions and annuities,
+
+-
+
+Gambling winnings,
+
+-
+
+Unemployment compensation, and
+
+-
+
+Certain federal payments.
+
+This section explains the rules for withholding tax from each of these types of income.
+
+This section also covers backup withholding on interest, dividends, and other payments.
+
+Salaries and Wages
+
+Income tax is withheld from the pay of most employees. Your pay includes your regular pay, bonuses, commissions, and vacation allowances. It also includes reimbursements and other expense allowances paid under a nonaccountable plan. See Supplemental Wages , later, for more information about reimbursements and allowances paid under a nonaccountable plan.
+
+If your income is low enough that you won’t have to pay income tax for the year, you may be exempt from withholding. This is explained under Exemption From Withholding , later.
+
+You can ask your employer to withhold income tax from noncash wages and other wages not subject to withholding. If your employer doesn’t agree to withhold tax, or if not enough is withheld, you may have to pay estimated tax, as discussed later under Estimated Tax for 2026 .
+
+Military retirees.
+
+Military retirement pay is treated in the same manner as regular pay for income tax withholding purposes, even though it is treated as a pension or annuity for other tax purposes.
+
+Household workers.
+
+If you are a household worker, you can ask your employer to withhold income tax from your pay. A household worker is an employee who performs household work in a private home, local college club, or local fraternity or sorority chapter.
+
+Tax is withheld only if you want it withheld and your employer agrees to withhold it. If you don’t have enough income tax withheld, you may have to pay estimated tax, as discussed later under Estimated Tax for 2026 .
+
+Farmworkers.
+
+Generally, income tax is withheld from your cash wages for work on a farm unless your employer:
+
+-
+
+Pays you cash wages of less than $150 during the year, and
+
+-
+
+Has expenditures for agricultural labor totaling less than $2,500 during the year.
+
+Differential wage payments.
+
+When employees are on leave from employment for military duty, some employers make up the difference between the military pay and civilian pay. Payments to an employee who is on active duty for a period of more than 30 days will be subject to income tax withholding, but not subject to social security, Medicare, or federal unemployment (FUTA) tax withholding. The wages and withholding will be reported on Form W-2, Wage and Tax Statement.
+
+Determining Amount of Tax Withheld Using Form W-4
+
+The amount of income tax your employer withholds from your regular pay depends on the following two things.
+
+-
+
+The amount you earn in each payroll period.
+
+-
+
+The information you give your employer on Form W-4.
+
+Form W-4 includes steps to help you figure your withholding. Complete Steps 2 through 4 only if they apply to you.
+
+-
+
+Step 1. Enter your personal information including your filing status.
+
+-
+
+Step 2. Complete this step if you have more than one job at the same time or are married filing jointly and you and your spouse both work.
+
+-
+
+Step 3. Complete this step if you claim dependents and other credits.
+
+-
+
+Step 4. Complete this optional step to make other adjustments.
+
+—Other income
+
+—Deductions
+
+—Extra withholding
+
+New Job
+
+When you start a new job, you must fill out Form W-4 and give it to your employer. Your employer should have copies of the form. If you need to change the information later, you must fill out a new form.
+
+If you work only part of the year (for example, you start working after the beginning of the year), too much tax may be withheld. You may be able to avoid overwithholding if your employer agrees to use the part-year method. See Part-Year Method in chapter 1 of Pub. 505 for more information.
+
+Employee also receiving pension income.
+
+If you receive pension or annuity income and begin a new job, you will need to file Form W-4 with your new employer. However, you can choose to split your withholding between your pension and job in any manner.
+
+Changing Your Withholding
+
+During the year, changes may occur to your marital status, adjustments, deductions, or credits you expect to claim on your tax return. When this happens, you may need to give your employer a new Form W-4 to change your withholding status.
+
+If a change in personal circumstances reduces the amount of withholding you are entitled to claim, you are required to give your employer a new Form W-4 within 10 days after the change occurs.
+
+Changing your withholding for 2027.
+
+If events in 2026 will change the amount of withholding you should claim for 2027, you must give your employer a new Form W-4 by December 1, 2026. If the event occurs in December 2026, submit a new Form W-4 within 10 days.
+
+Checking Your Withholding
+
+After you have given your employer a Form W-4, you can check to see whether the amount of tax withheld from your pay is too little or too much. If too much or too little tax is being withheld, you should give your employer a new Form W-4 to change your withholding. You should try to have your withholding match your actual tax liability. If not enough tax is withheld, you will owe tax at the end of the year and may have to pay interest and a penalty. If too much tax is withheld, you will lose the use of that money until you get your refund. Always check your withholding if there are personal or financial changes in your life or changes in the law that might change your tax liability.
+
+Note:
+
+You can’t give your employer a payment to cover withholding on salaries and wages for past pay periods or a payment for estimated tax.
+
+Completing Form W-4 and Worksheets
+
+Form W-4 has worksheets to help you figure the correct amount of withholding you can claim. The worksheets are for your own records. Don’t give them to your employer.
+
+Multiple Jobs Worksheet.
+
+If you have income from more than one job at the same time, or are married filing jointly and you and your spouse both work, complete the Multiple Jobs Worksheet on the Form W-4.
+
+If you and your spouse expect to file separate returns, figure your withholding using separate worksheets based on your own individual income, adjustments, deductions, and credits.
+
+Deductions Worksheet.
+
+Use the Deductions Worksheet on Form W-4 if you plan to itemize deductions or claim certain adjustments to income and you want to reduce your withholding. Also complete this worksheet when you have changes to these items to see if you need to change your withholding.
+
+Getting the Right Amount of Tax Withheld
+
+In most situations, the tax withheld from your pay will be close to the tax you figure on your return if you follow these two rules.
+
+-
+
+You accurately complete all the Form W-4 worksheets that apply to you.
+
+-
+
+You give your employer a new Form W-4 when changes occur.
+
+But, because the worksheets and withholding methods don’t account for all possible situations, you may not be getting the right amount withheld. This is most likely to happen in the following situations.
+
+-
+
+You are married and both you and your spouse work.
+
+-
+
+You have more than one job at a time.
+
+-
+
+You have nonwage income, such as interest, dividends, alimony, unemployment compensation, or self-employment income.
+
+-
+
+You will owe additional amounts with your return, such as self-employment tax.
+
+-
+
+Your withholding is based on obsolete Form W-4 information for a substantial part of the year.
+
+-
+
+You work only part of the year.
+
+-
+
+You change the amount of your withholding during the year.
+
+-
+
+You are subject to Additional Medicare Tax or Net Investment Income Tax (NIIT). If you anticipate liability for Additional Medicare Tax or NIIT, you may request that your employer withhold an additional amount of income tax withholding on Form W-4.
+
+Cumulative wage method.
+
+If you change the amount of your withholding during the year, too much or too little tax may have been withheld for the period before you made the change. You may be able to compensate for this if your employer agrees to use the cumulative wage withholding method for the rest of the year. You must ask your employer in writing to use this method.
+
+To be eligible, you must have been paid for the same kind of payroll period (weekly, biweekly, etc.) since the beginning of the year.
+
+Publication 505
+
+To make sure you are getting the right amount of tax withheld, see Pub. 505. It will help you compare the total tax to be withheld during the year with the tax you can expect to figure on your return. It will also help you determine how much, if any, additional withholding is needed each payday to avoid owing tax when you file your return. If you don’t have enough tax withheld, you may have to pay estimated tax, as explained under Estimated Tax for 2026 , later.
+
+. You can use the Tax Withholding Estimator at IRS.gov/W4App , instead of Pub. 505 or the worksheets included with Form W-4, to determine whether you need to have your withholding increased or decreased. .
+
+Rules Your Employer Must Follow
+
+It may be helpful for you to know some of the withholding rules your employer must follow. These rules can affect how to fill out your Form W-4 and how to handle problems that may arise.
+
+New Form W-4.
+
+When you start a new job, your employer should have you complete a Form W-4. Beginning with your first payday, your employer will use the information you give on the form to figure your withholding.
+
+If you later fill out a new Form W-4, your employer can put it into effect as soon as possible. The deadline for putting it into effect is the start of the first payroll period ending 30 or more days after you turn it in.
+
+No Form W-4.
+
+If you don’t give your employer a completed Form W-4, your employer must withhold at the highest rate, as if you were single.
+
+Repaying withheld tax.
+
+If you find you are having too much tax withheld because you didn’t claim the correct amount of withholding you are entitled to, you should give your employer a new Form W-4. Your employer can’t repay any of the tax previously withheld. Instead, claim the full amount withheld when you file your tax return.
+
+However, if your employer has withheld more than the correct amount of tax for the Form W-4 you have in effect, you don’t have to fill out a new Form W-4 to have your withholding lowered to the correct amount. Your employer can repay the amount that was withheld incorrectly. If you aren’t repaid, your Form W-2 will reflect the full amount actually withheld, which you would claim when you file your tax return.
+
+Exemption From Withholding
+
+If you claim exemption from withholding, your employer won’t withhold federal income tax from your wages. The exemption applies only to income tax, not to social security, Medicare, or FUTA tax withholding.
+
+You can claim exemption from withholding for 2026 only if both of the following situations apply.
+
+-
+
+For 2025, you had a right to a refund of all federal income tax withheld because you had no tax liability.
+
+-
+
+For 2026, you expect a refund of all federal income tax withheld because you expect to have no tax liability.
+
+Students.
+
+If you are a student, you aren’t automatically exempt. See chapter 1 to find out if you must file a return. If you work only part time or only during the summer, you may qualify for exemption from withholding.
+
+Age 65 or older or blind.
+
+If you are 65 or older or blind, use Worksheet 1-1 or 1-2 in chapter 1 of Pub. 505 to help you decide if you qualify for exemption from withholding. Don’t use either worksheet if you will itemize deductions or claim tax credits on your 2026 return. Instead, see Itemizing deductions or claiming credits in chapter 1 of Pub. 505.
+
+Eligible for a bonus deduction?
+
+If you are age 65 or older, you may be eligible for a $6,000 ($12,000 if married filing jointly) bonus deduction for tax years beginning in 2025 through tax years beginning no later than 2028. For more information, see Pub. 505.
+
+Claiming exemption from withholding.
+
+To claim exemption, you must give your employer a Form W-4. Write “Exempt” on the form in the space below Step 4(c) and complete the applicable steps of the form.
+
+If you claim exemption, but later your situation changes so that you will have to pay income tax after all, you must file a new Form W-4 within 10 days after the change. If you claim exemption in 2026, but you expect to owe income tax for 2027, you must file a new Form W-4 by December 1, 2026.
+
+Your claim of exempt status may be reviewed by the IRS.
+
+An exemption is good for only 1 year.
+
+You must generally give your employer a new Form W-4 by February 15 each year to continue your exemption.
+
+Supplemental Wages
+
+Supplemental wages include bonuses, certain tips, commissions, overtime pay, vacation allowances, certain sick pay, and expense allowances under certain plans. The payer can figure withholding on supplemental wages using the same method used for your regular wages. However, if these payments are identified separately from your regular wages, your employer or other payer of supplemental wages can withhold income tax from these wages at a flat rate.
+
+. Certain qualified tips and overtime pay can be deducted from your taxable income beginning in 2025 through 2028. See Pub. 531, Reporting Tip Income, and Pub. 505 for more information. .
+
+Expense allowances.
+
+Reimbursements or other expense allowances paid by your employer under a nonaccountable plan are treated as supplemental wages.
+
+Reimbursements or other expense allowances paid under an accountable plan that are more than your proven expenses are treated as paid under a nonaccountable plan if you don’t return the excess payments within a reasonable period of time.
+
+For more information about accountable and nonaccountable expense allowance plans, see Pub. 505.
+
+Penalties
+
+You may have to pay a penalty of $500 if both of the following apply.
+
+-
+
+You make statements or claim withholding on your Form W-4 that reduce the amount of tax withheld.
+
+-
+
+You have no reasonable basis for those statements or withholding at the time you prepare your Form W-4.
+
+There is also a criminal penalty for willfully supplying false or fraudulent information on your Form W-4 or for willfully failing to supply information that would increase the amount withheld. The penalty upon conviction can be either a fine of up to $1,000 or imprisonment for up to 1 year, or both.
+
+These penalties will apply if you deliberately and knowingly falsify your Form W-4 in an attempt to reduce or eliminate the proper withholding of taxes. A simple error or an honest mistake won’t result in one of these penalties.
+
+Tips
+
+The tips you receive while working on your job are considered part of your pay. You must include your tips on your tax return on the same line as your regular pay. However, tax isn’t withheld directly from tip income, as it is from your regular pay. Nevertheless, your employer will take into account the tips you report when figuring how much to withhold from your regular pay.
+
+For more information on reporting your tips to your employer and on the withholding rules for tip income, see Pub. 531.
+
+How employer figures amount to withhold.
+
+The tips you report to your employer are counted as part of your income for the month you report them. Your employer can figure your withholding in either of the following two ways.
+
+-
+
+By withholding at the regular rate on the sum of your pay plus your reported tips.
+
+-
+
+By withholding at the regular rate on your pay plus a percentage of your reported tips.
+
+Not enough pay to cover taxes.
+
+If your regular pay isn’t enough for your employer to withhold all the tax (including income tax and social security and Medicare taxes (or the equivalent railroad retirement tax)) due on your pay plus your tips, you can give your employer money to cover the shortage. See Pub. 531 for more information.
+
+Allocated tips.
+
+Your employer shouldn’t withhold income tax, Medicare tax, social security tax, or railroad retirement tax on any allocated tips. Withholding is based only on your pay plus your reported tips. Your employer should refund to you any incorrectly withheld tax. See Pub. 531 for more information.
+
+Taxable Fringe Benefits
+
+The value of certain noncash fringe benefits you receive from your employer is considered part of your pay. Your employer must generally withhold income tax on these benefits from your regular pay.
+
+For information on fringe benefits, see Fringe Benefits under Employee Compensation in chapter 5.
+
+Although the value of your personal use of an employer-provided car, truck, or other highway motor vehicle is taxable, your employer can choose not to withhold income tax on that amount. Your employer must notify you if this choice is made.
+
+For more information on withholding on taxable fringe benefits, see chapter 1 of Pub. 505.
+
+Sick Pay
+
+Sick pay is a payment to you to replace your regular wages while you are temporarily absent from work due to sickness or personal injury. To qualify as sick pay, it must be paid under a plan to which your employer is a party.
+
+If you receive sick pay from your employer or an agent of your employer, income tax must be withheld. An agent who doesn’t pay regular wages to you may choose to withhold income tax at a flat rate.
+
+However, if you receive sick pay from a third party who isn’t acting as an agent of your employer, income tax will be withheld only if you choose to have it withheld. See Form W-4S , later.
+
+If you receive payments under a plan in which your employer doesn’t participate (such as an accident or health plan where you paid all the premiums), the payments aren’t sick pay and usually aren’t taxable.
+
+Union agreements.
+
+If you receive sick pay under a collective bargaining agreement between your union and your employer, the agreement may determine the amount of income tax withholding. See your union representative or your employer for more information.
+
+Form W-4S.
+
+If you choose to have income tax withheld from sick pay paid by a third party, such as an insurance company, you must fill out Form W-4S. Its instructions contain a worksheet you can use to figure the amount you want withheld. They also explain restrictions that may apply.
+
+Give the completed form to the payer of your sick pay. The payer must withhold according to your directions on the form.
+
+Estimated tax.
+
+If you don’t request withholding on Form W-4S, or if you don’t have enough tax withheld, you may have to make estimated tax payments. If you don’t pay enough tax, either through estimated tax or withholding, or a combination of both, you may have to pay a penalty. See Underpayment Penalty for 2025 at the end of this chapter.
+
+Pensions and Annuities
+
+Income tax will usually be withheld from your pension or annuity distributions unless you choose not to have it withheld. This rule applies to distributions from:
+
+-
+
+A traditional individual retirement arrangement (IRA);
+
+-
+
+A life insurance company under an endowment, annuity, or life insurance contract;
+
+-
+
+A pension, annuity, or profit-sharing plan;
+
+-
+
+A stock bonus plan; and
+
+-
+
+Any other plan that defers the time you receive compensation.
+
+The amount withheld depends on whether you receive payments spread out over more than 1 year (periodic payments), within 1 year (nonperiodic payments), or as an eligible rollover distribution (ERD). Income tax withholding from an ERD is mandatory.
+
+More information.
+
+For more information on withholding on pensions and annuities, including a discussion of Form W-4P, see Pensions and Annuities in chapter 1 of Pub. 505.
+
+Gambling Winnings
+
+Income tax is withheld at a flat 24% rate from certain kinds of gambling winnings.
+
+Gambling winnings of more than $5,000 from the following sources are subject to income tax withholding.
+
+-
+
+Any sweepstakes; wagering pool, including payments made to winners of poker tournaments; or lottery.
+
+-
+
+Any other wager, if the proceeds are at least 300 times the amount of the bet.
+
+It doesn’t matter whether your winnings are paid in cash, in property, or as an annuity. Winnings not paid in cash are taken into account at their fair market value.
+
+Exception.
+
+Gambling winnings from bingo, keno, and slot machines generally aren’t subject to income tax withholding. However, you may need to provide the payer with a social security number (SSN) to avoid withholding. See Backup withholding on gambling winnings in chapter 1 of Pub. 505. If you receive gambling winnings not subject to withholding, you may need to pay estimated tax. See Estimated Tax for 2026 , later.
+
+If you don’t pay enough tax, either through withholding or estimated tax, or a combination of both, you may have to pay a penalty. See Underpayment Penalty for 2025 at the end of this chapter.
+
+Form W-2G.
+
+If a payer withholds income tax from your gambling winnings, you should receive a Form W-2G, Certain Gambling Winnings, showing the amount you won and the amount withheld. Report the tax withheld on Form 1040 or 1040-SR, line 25c.
+
+Unemployment Compensation
+
+You can choose to have income tax withheld from unemployment compensation. To make this choice, fill out Form W-4V (or a similar form provided by the payer) and give it to the payer.
+
+All unemployment compensation is taxable. If you don’t have income tax withheld, you may have to pay estimated tax. See Estimated Tax for 2026 , later.
+
+If you don’t pay enough tax, either through withholding or estimated tax, or a combination of both, you may have to pay a penalty. See Underpayment Penalty for 2025 at the end of this chapter.
+
+Federal Payments
+
+You can choose to have income tax withheld from certain federal payments you receive. These payments are the following.
+
+-
+
+Social security benefits.
+
+-
+
+Tier 1 railroad retirement benefits.
+
+-
+
+Commodity Credit Corporation (CCC) loans you choose to include in your gross income.
+
+-
+
+Payments under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), as amended, or title II of the Disaster Assistance Act of 1988, that are treated as insurance proceeds and that you receive because:
+
+-
+
+Your crops were destroyed or damaged by drought, flood, or any other natural disaster; or
+
+-
+
+You were unable to plant crops because of a natural disaster described in (a).
+
+-
+
+Any other payment under federal law as determined by the Secretary.
+
+To make this choice, fill out Form W-4V (or a similar form provided by the payer) and give it to the payer.
+
+If you don’t choose to have income tax withheld, you may have to pay estimated tax. See Estimated Tax for 2026 , later.
+
+If you don’t pay enough tax, either through withholding or estimated tax, or a combination of both, you may have to pay a penalty. See Underpayment Penalty for 2025 at the end of this chapter.
+
+More information.
+
+For more information about the tax treatment of social security and railroad retirement benefits, see chapter 7. See Pub. 225, Farmer’s Tax Guide, for information about the tax treatment of CCC loans or crop disaster payments.
+
+Backup Withholding
+
+Banks or other businesses that pay you certain kinds of income must file an information return (Form 1099) with the IRS. The information return shows how much you were paid during the year. It also includes your name and taxpayer identification number (TIN). TINs are explained in chapter 1 under Social Security Number (SSN) .
+
+These payments generally aren’t subject to withholding. However, “backup” withholding is required in certain situations. Backup withholding can apply to most kinds of payments that are reported on Form 1099.
+
+The payer must withhold at a flat 24% rate in the following situations.
+
+-
+
+You don’t give the payer your TIN in the required manner.
+
+-
+
+The IRS notifies the payer that the TIN you gave is incorrect.
+
+-
+
+You are required, but fail, to certify that you aren’t subject to backup withholding.
+
+-
+
+The IRS notifies the payer to start withholding on interest or dividends because you have underreported interest or dividends on your income tax return. The IRS will do this only after it has mailed you four notices.
+
+Go to IRS.gov/Businesses/Small-Businesses-Self-Employed/Backup-Withholding for more information on kinds of payments subject to backup withholding.
+
+Penalties.
+
+There are civil and criminal penalties for giving false information to avoid backup withholding. The civil penalty is $500. The criminal penalty, upon conviction, is a fine of up to $1,000 or imprisonment of up to 1 year, or both.
+
+Estimated Tax for 2026
+
+Estimated tax is the method used to pay tax on income that isn’t subject to withholding. This includes income from self-employment, interest, dividends, alimony, rent, gains from the sale of assets, prizes, and awards. You may also have to pay estimated tax if the amount of income tax being withheld from your salary, pension, or other income isn’t enough.
+
+Estimated tax is used to pay both income tax and self-employment tax, as well as other taxes and amounts reported on your tax return. If you don’t pay enough tax, either through withholding or estimated tax, or a combination of both, you may have to pay a penalty. If you don’t pay enough by the due date of each payment period (see When To Pay Estimated Tax , later), you may be charged a penalty even if you are due a refund when you file your tax return. For information on when the penalty applies, see Underpayment Penalty for 2025 at the end of this chapter.
+
+Who Doesn’t Have To Pay Estimated Tax
+
+If you receive salaries or wages, you can avoid having to pay estimated tax by asking your employer to take more tax out of your earnings. To do this, give a new Form W-4 to your employer. See chapter 1 of Pub. 505.
+
+Estimated tax not required.
+
+You don’t have to pay estimated tax for 2026 if you meet all three of the following conditions.
+
+-
+
+You had no tax liability for 2025.
+
+-
+
+You were a U.S. citizen or resident alien for the whole year.
+
+-
+
+Your 2025 tax year covered a 12-month period.
+
+You had no tax liability for 2025 if your total tax was zero or you didn’t have to file an income tax return. For the definition of “total tax” for 2025, see chapter 2 of Pub. 505.
+
+Who Must Pay Estimated Tax
+
+If you owe additional tax for 2025, you may have to pay estimated tax for 2026.
+
+You can use the following general rule as a guide during the year to see if you will have enough withholding, or if you should increase your withholding or make estimated tax payments.
+
+General rule.
+
+In most cases, you must pay estimated tax for 2026 if both of the following apply.
+
+-
+
+You expect to owe at least $1,000 in tax for 2026, after subtracting your withholding and refundable credits.
+
+-
+
+You expect your withholding plus your refundable credits to be less than the smaller of:
+
+-
+
+90% of the tax to be shown on your 2026 tax return; or
+
+-
+
+100% of the tax shown on your 2025 tax return (but see Special rules for farmers, fishers, and higher income taxpayers , later). Your 2025 tax return must cover all 12 months.
+
+. If the result from using the general rule above suggests that you won’t have enough withholding, complete the 2026 Estimated Tax Worksheet in Pub. 505 for a more accurate calculation. .
+
+Special rules for farmers, fishers, and higher income taxpayers.
+
+If at least two-thirds of your gross income for tax year 2025 or 2026 is from farming or fishing, substitute 66 2 / 3 % for 90% in (2a) under the General rule , earlier. If your AGI for 2025 was more than $150,000 ($75,000 if your filing status for 2026 is married filing a separate return), substitute 110% for 100% in (2b) under General rule , earlier. See Figure 4-A and chapter 2 of Pub. 505 for more information.
+
+Figure 4-A. Do You Have To Pay Estimated Tax?
+
+Figure 4-A Do You Have To Pay Estimated Tax?
+
+Figure 4-A. Do You Have To Pay Estimated Tax?
+
+Figure 4-A. Do You Have To Pay Estimated Tax?
+
+Summary: This flowchart is used to determine if you have to pay estimated tax.
+
+Start Here
+
+This is the start of the flowchart.
+
+Decision (1)
+
+Will you owe $1,000 or more for 2026 after subtracting income tax withholding and refundable credits (see footnote 1) from your total tax? (Don’t subtract any estimated tax payments.)
+
+Footnote 1: Use the refundable credits shown on the 2026 Estimated Tax Worksheet in Pub. 505.
+
+IF Yes Continue To Decision (2)
+IF No Continue To Process (a)
+
+Decision (2)
+
+Will your income tax withholding and refundable credits (see footnote 1) be at least 90% (66 2/3% for farmers and fishers) of the tax shown on your 2026 tax return?
+
+IF Yes Continue To Process (a)
+IF No Continue To Decision (3)
+
+Decision (3)
+
+Will your income tax withholding and refundable credits (see footnote 1) be at least 100% (see footnote 2) of the tax shown on your 2025 tax return?
+
+Note: Your 2025 return must have covered a 12-month period.
+
+Footnote 2: 110% if less than two-thirds of your gross income for 2025 and 2026 is from farming or fishing and your 2025 adjusted gross income was more than $150,000 ($75,000 if your filing status for 2026 is married filing a separate return).
+
+IF Yes Continue To Process (a)
+IF No Continue To Process (b)
+
+Process (a)
+
+You are NOT required to pay estimated tax.
+
+Continue To End
+
+Process (b)
+
+You MUST make estimated tax payment(s) by the required due date(s). See When To Pay Estimated Tax.
+
+Continue To End
+
+End
+
+This is the end of the flowchart.
+
+Please click here for the text description of the image.
+
+Aliens.
+
+Resident and nonresident aliens may also have to pay estimated tax. Resident aliens should follow the rules in this chapter unless noted otherwise. Nonresident aliens should get Form 1040-ES (NR), U.S. Estimated Tax for Nonresident Alien Individuals.
+
+You are an alien if you aren’t a citizen or national of the United States. You are a resident alien if you either have a green card or meet the substantial presence test. For more information about the substantial presence test, see Pub. 519, U.S. Tax Guide for Aliens.
+
+Married taxpayers.
+
+If you qualify to make joint estimated tax payments, apply the rules discussed here to your joint estimated income.
+
+You and your spouse can make joint estimated tax payments even if you aren’t living together.
+
+However, you and your spouse can’t make joint estimated tax payments if:
+
+-
+
+You are legally separated under a decree of divorce or separate maintenance,
+
+-
+
+You and your spouse have different tax years, or
+
+-
+
+Either spouse is a nonresident alien (unless that spouse elected to be treated as a resident alien for tax purposes (see chapter 1 of Pub. 519)).
+
+If you and your spouse can’t make estimated tax payments, apply these rules to your separate estimated income. Making joint or separate estimated tax payments won’t affect your choice of filing a joint tax return or separate returns for 2026.
+
+2025 separate returns and 2026 joint return.
+
+If you plan to file a joint return with your spouse for 2026 but you filed separate returns for 2025, your 2025 tax is the total of the tax shown on your separate returns. You filed a separate return if you filed as single, head of household, or married filing separately.
+
+2025 joint return and 2026 separate returns.
+
+If you plan to file a separate return for 2026 but you filed a joint return for 2025, your 2025 tax is your share of the tax on the joint return. You file a separate return if you file as single, head of household, or married filing separately.
+
+To figure your share of the tax on the joint return, first figure the tax both you and your spouse would have paid had you filed separate returns for 2025 using the same filing status as for 2026. Then, multiply the tax on the joint return by the following fraction.
+
+The tax you would have paid had you filed a separate return
+The total tax you and your spouse would have paid had you filed separate returns
+
+Example.
+
+Owen and Sophia filed a joint return for 2025 showing taxable income of $48,500 and tax of $5,346. Of the $48,500 taxable income, $40,100 was Owen’s and the rest was Sophia’s. For 2026, they plan to file married filing separately. Owen figures tax on the 2025 joint return as follows.
+
+Tax on $40,100 based on a separate return | $4,577
+Tax on $8,400 based on a separate return | 843
+Total | $5,420
+Owen’s percentage of total ($4,577 ÷ $5,420) | 84.4465%
+Owen’s share of tax on joint return ($5,346 × 84.4465%) | $4,514
+
+How To Figure Estimated Tax
+
+To figure your estimated tax, you must figure your expected adjusted gross income (AGI), taxable income, taxes, deductions, and credits for the year.
+
+When figuring your 2026 estimated tax, it may be helpful to use your income, deductions, and credits for 2025 as a starting point. Use your 2025 federal tax return as a guide. You can use Form 1040-ES and Pub. 505 to figure your estimated tax. Nonresident aliens use Form 1040-ES (NR) and Pub. 505 to figure estimated tax (see chapter 8 of Pub. 519 for more information).
+
+You must make adjustments both for changes in your own situation and for recent changes in the tax law. For a discussion of these changes, go to IRS.gov .
+
+For more complete information on how to figure your estimated tax for 2026, see chapter 2 of Pub. 505.
+
+When To Pay Estimated Tax
+
+For estimated tax purposes, the tax year is divided into four payment periods. Each period has a specific payment due date. If you don’t pay enough tax by the due date of each payment period, you may be charged a penalty even if you are due a refund when you file your income tax return. The payment periods and due dates for estimated tax payments are shown next.
+
+For the period: | Due date:*
+Jan. 1–March 31 | April 15
+April 1–May 31 | June 15
+June 1–August 31 | Sept. 15
+Sept. 1–Dec. 31 | Jan. 15, next year
+
+* See Saturday, Sunday, holiday rule and January payment .
+
+Saturday, Sunday, holiday rule.
+
+If the due date for an estimated tax payment falls on a Saturday, Sunday, or legal holiday, the payment will be on time if you make it on the next day that isn’t a Saturday, Sunday, or legal holiday.
+
+January payment.
+
+If you file your 2026 Form 1040 or 1040-SR by February 1, 2027, and pay the rest of the tax you owe, you don’t need to make the payment due on January 15, 2027.
+
+Fiscal-year taxpayers.
+
+If your tax year doesn’t start on January 1, see the Form 1040-ES instructions for your payment due dates.
+
+When To Start
+
+You don’t have to make estimated tax payments until you have income on which you will owe income tax. If you have income subject to estimated tax during the first payment period, you must make your first payment by the due date for the first payment period. You can pay all your estimated tax at that time, or you can pay it in installments. If you choose to pay in installments, make your first payment by the due date for the first payment period. Make your remaining installment payments by the due dates for the later periods.
+
+No income subject to estimated tax during first period.
+
+If you don’t have income subject to estimated tax until a later payment period, you must make your first payment by the due date for that period. You can pay your entire estimated tax by the due date for that period or you can pay it in installments by the due date for that period and the due dates for the remaining periods.
+
+Table 4-1.General Due Dates for Estimated Tax Installment Payments
+
+If you first have income on which you must pay estimated tax: | Make installments by:* | Make later installments by:*
+Before April 1 | April 15 | June 15 Sept. 15 Jan. 15, next year
+April 1–May 31 | June 15 | Sept. 15 Jan. 15, next year
+June 1–Aug. 31 | Sept. 15 | Jan. 15, next year
+After Aug. 31 | Jan. 15, next year | (None)
+
+* See Saturday, Sunday, holiday rule and January payment .
+
+How much to pay to avoid a penalty.
+
+To determine how much you should pay by each payment due date, see How To Figure Each Payment next.
+
+How To Figure Each Payment
+
+You should pay enough estimated tax by the due date of each payment period to avoid a penalty for that period. You can figure your required payment for each period by using either the regular installment method or the annualized income installment method. These methods are described in chapter 2 of Pub. 505. If you don’t pay enough during each payment period, you may be charged a penalty even if you are due a refund when you file your tax return.
+
+If the earlier discussion under No income subject to estimated tax during first period or the later discussion under Change in estimated tax applies to you, you may benefit from reading Annualized Income Installment Method in chapter 2 of Pub. 505 for information on how to avoid a penalty.
+
+Underpayment penalty.
+
+Under the regular installment method, if your estimated tax payment for any period is less than one-fourth of your estimated tax, you may be charged a penalty for underpayment of estimated tax for that period when you file your tax return. Under the annualized income installment method, your estimated tax payments vary with your income, but the amount required must be paid each period. See Instructions for Form 2210 for more information.
+
+Change in estimated tax.
+
+After you make an estimated tax payment, changes in your income, adjustments, deductions, or credits may make it necessary for you to refigure your estimated tax. Pay the unpaid balance of your amended estimated tax by the next payment due date after the change or in installments by that date and the due dates for the remaining payment periods.
+
+Estimated Tax Payments Not Required
+
+You don’t have to pay estimated tax if your withholding in each payment period is at least as much as:
+
+-
+
+One-fourth of your required annual payment, or
+
+-
+
+Your required annualized income installment for that period.
+
+You also don’t have to pay estimated tax if you will pay enough through withholding to keep the amount you owe with your return under $1,000.
+
+How To Pay Estimated Tax
+
+There are several ways to pay estimated tax.
+
+-
+
+Credit an overpayment on your 2025 return to your 2026 estimated tax.
+
+-
+
+Pay by direct transfer from your bank account, or pay by debit or credit card using a pay-by-phone system or the Internet.
+
+-
+
+Send in your payment (check or money order) with a payment voucher from Form 1040-ES.
+
+Credit an Overpayment
+
+If you show an overpayment of tax after completing your Form 1040 or 1040-SR for 2025, you can apply part or all of it to your estimated tax for 2026. On line 36 of Form 1040 or 1040-SR, enter the amount you want credited to your estimated tax rather than refunded. Take the amount you have credited into account when figuring your estimated tax payments.
+
+You can’t have any of the amount you credited to your estimated tax refunded to you until you file your tax return for the following year. You also can’t use that overpayment in any other way.
+
+Pay Online
+
+The IRS offers an electronic payment option that is right for you. Paying online is convenient, secure, and helps make sure we get your payments on time. To pay your taxes online or for more information, go to IRS.gov/Payments . You can pay using any of the following methods.
+
+-
+
+IRS Direct Pay. For online transfers directly from your checking or savings account at no cost to you, go to IRS.gov/DirectPay .
+
+-
+
+Pay by card or digital wallet. To pay by debit or credit card or digital wallet, go to IRS.gov/PayByCard . A fee is charged by these service providers. You can also pay by phone with a debit or credit card. See Debit or credit card under Pay by Phone, later.
+
+-
+
+Electronic funds withdrawal (EFW). This is an integrated e-file/ e-pay option offered only when filing your federal taxes electronically using tax preparation software, through a tax professional, or through the IRS at IRS.gov/EFW .
+
+-
+
+Online payment agreement. If you can’t pay in full by the due date of your tax return, you can apply for an online monthly installment agreement at IRS.gov/OPA . Once you complete the online process, you will receive immediate notification of whether your agreement has been approved. A user fee is charged.
+
+-
+
+IRS2Go. This is the mobile application of the IRS. You can access IRS Direct Pay or pay by card by downloading the application.
+
+Electronic Federal Tax Payment System (EFTPS)
+
+This system allows you to pay your taxes online or by phone directly from your checking or savings account. There is no fee for this service. You must be enrolled either online or have an enrollment form mailed to you. See EFTPS under Pay by Phone , later.
+
+Pay by Phone
+
+Paying by phone is another safe and secure method of paying electronically. Use one of the following methods: (1) call one of the debit or credit card providers, or (2) use the EFTPS to pay directly from your checking or savings account.
+
+Debit or credit card.
+
+Call one of our service providers. Each charges a fee that varies by provider, card type, and payment amount.
+
+Link2Gov Corporation
+
+888-PAY-1040 TM (888-729-1040)
+
+PAY1040.com
+
+ACI Payments, Inc. (formerly Official Payments)
+
+888-UPAY-TAX TM (888-872-9829)
+
+fed.acipayonline.com
+
+EFTPS.
+
+To get more information about EFTPS or to enroll in EFTPS, go to EFTPS.gov or call 800-555-4477. To contact EFTPS using Telecommunications Relay Services (TRS) for people who are deaf, hard of hearing, or have a speech disability, dial 711 and then provide the TRS assistant the 800-555-4477 number or 800-733-4829. Additional information about EFTPS is also available in Pub. 966.
+
+Pay by Mobile Device
+
+To pay through your mobile device, download the IRS2Go application.
+
+Pay by Cash
+
+Cash is an in-person payment option for individuals provided through retail partners. To make a cash payment, you must choose a payment processor online with ACI Payments, Inc. at fed.acipayonline.com or Pay1040.com , our official payment provider. For more information, go to IRS.gov/PayWithCash . Don’t send cash payments through the mail.
+
+Pay by Check or Money Order Using the Estimated Tax Payment Voucher
+
+Before submitting a payment through the mail using the estimated tax payment voucher, please consider alternative methods. One of our safe, quick, and easy electronic payment options might be right for you.
+
+If you choose to mail in your payment, each payment of estimated tax by check or money order must be accompanied by a payment voucher from Form 1040-ES.
+
+During 2025, if you:
+
+-
+
+Made at least one estimated tax payment but not by electronic means,
+
+-
+
+Didn’t use software or a paid preparer to prepare or file your return,
+
+then you should receive a copy of the 2026 Form 1040-ES with payment vouchers.
+
+The enclosed payment vouchers will be preprinted with your name, address, and SSN. Using the preprinted vouchers will speed processing, reduce the chance of error, and help save processing costs.
+
+Use the window envelopes that came with your Form 1040-ES package. If you use your own envelopes, make sure you mail your payment vouchers to the address shown in the Form 1040-ES instructions for the place where you live.
+
+No checks of $100 million or more accepted.
+
+The IRS can’t accept a single check (including a cashier’s check) for amounts of $100,000,000 ($100 million) or more. If you are sending $100 million or more by check, you’ll need to spread the payment over two or more checks with each check made out for an amount less than $100 million. This limit doesn’t apply to other methods of payment (such as electronic payments). Consider a method of payment other than check if the amount of the payment is over $100 million.
+
+Note:
+
+These criteria can change without notice. If you don’t receive a Form 1040-ES package and you are required to make an estimated tax payment, you should go to IRS.gov/Form1040ES and print a copy of Form 1040-ES that includes four blank payment vouchers. Complete one of these and make your payment timely to avoid penalties for paying late.
+
+. Don’t use the address shown in the Instructions for Form 1040 for your estimated tax payments. .
+
+If you didn’t pay estimated tax last year, you can order Form 1040-ES from the IRS (see the inside back cover of this publication) or download it from IRS.gov. Follow the instructions to make sure you use the vouchers correctly.
+
+Joint estimated tax payments.
+
+If you file a joint return and are making joint estimated tax payments, enter the names and SSNs on the payment vouchers in the same order as they will appear on the joint return.
+
+Change of address.
+
+You must notify the IRS if you are making estimated tax payments and you changed your address during the year. Complete Form 8822, Change of Address, and mail it to the address shown in the instructions for that form.
+
+Credit for Withholding and Estimated Tax for 2025
+
+When you file your 2025 income tax return, take credit for all the income tax and excess social security or railroad retirement tax withheld from your salary, wages, pensions, etc. Also take credit for the estimated tax you paid for 2025. These credits are subtracted from your total tax. Because these credits are refundable, you should file a return and claim these credits, even if you don’t owe tax.
+
+Two or more employers.
+
+If you had two or more employers in 2025 and were paid wages of more than $176,100, too much social security or tier 1 railroad retirement tax may have been withheld from your pay. You may be able to claim the excess as a credit against your income tax when you file your return. See the Instructions for Form 1040 for more information.
+
+Withholding
+
+If you had income tax withheld during 2025, you should be sent a statement by February 2, 2026, showing your income and the tax withheld. Depending on the source of your income, you should receive:
+
+-
+
+Form W-2;
+
+-
+
+Form W-2G; or
+
+-
+
+A form in the 1099 series.
+
+Forms W-2 and W-2G.
+
+If you file a paper return, always file Form W-2 with your income tax return. File Form W-2G with your return only if it shows any federal income tax withheld from your winnings.
+
+You should get at least two copies of each form. If you file a paper return, attach one copy to the front of your federal income tax return. Keep one copy for your records. You should also receive copies to file with your state and local returns.
+
+Form W-2
+
+Your employer is required to provide or send Form W-2 to you no later than February 2, 2026. You should receive a separate Form W-2 from each employer you worked for.
+
+If you stopped working before the end of 2025, your employer could have given you your Form W-2 at any time after you stopped working. However, your employer must provide or send it to you by February 2, 2026.
+
+If you ask for the form, your employer must send it to you within 30 days after receiving your written request or within 30 days after your final wage payment, whichever is later.
+
+If you haven’t received your Form W-2 by February 2, you should ask your employer for it. If you don’t receive it by early February, call the IRS.
+
+Form W-2 shows your total pay and other compensation and the income tax, social security tax, and Medicare tax that was withheld during the year. Include the federal income tax withheld (as shown in box 2 of Form W-2) on Form 1040 or 1040-SR, line 25a.
+
+In addition, Form W-2 is used to report any taxable sick pay you received and any income tax withheld from your sick pay.
+
+Form W-2G
+
+If you had gambling winnings in 2025, the payer may have withheld income tax. If tax was withheld, the payer will give you a Form W-2G showing the amount you won and the amount of tax withheld.
+
+Report the amounts you won on Schedule 1 (Form 1040). Take credit for the tax withheld on Form 1040 or 1040-SR, line 25c.
+
+The 1099 Series
+
+Most forms in the 1099 series aren’t filed with your return. These forms should be furnished to you by February 2, 2026 (or, for Form 1099-B, Form 1099-DA, Form 1099-S, and certain Forms 1099-MISC, by February 17, 2026). Unless instructed to file any of these forms with your return, keep them for your records. There are several different forms in this series, which are not listed. See the instructions for the specific Form 1099 for more information.
+
+Form 1099-R.
+
+Attach Form 1099-R to your paper return if box 4 shows federal income tax withheld. Include the amount withheld in the total on line 25b of Form 1040 or 1040-SR.
+
+Backup withholding.
+
+If you were subject to backup withholding on income you received during 2025, include the amount withheld, as shown on your Form 1099, in the total on line 25b of Form 1040 or 1040-SR.
+
+Form Not Correct
+
+If you receive a form with incorrect information on it, you should ask the payer for a corrected form. Call the telephone number or write to the address given for the payer on the form. The corrected Form W-2G or Form 1099 you receive will have an “X” in the “CORRECTED” box at the top of the form. A special form, Form W-2c, Corrected Wage and Tax Statement, is used to correct a Form W-2.
+
+In certain situations, you will receive two forms in place of the original incorrect form. This will happen when your TIN is wrong or missing, your name and address are wrong, or you received the wrong type of form (for example, a Form 1099-DIV, Dividends and Distributions, instead of a Form 1099-INT, Interest Income). One new form you receive will be the same incorrect form or have the same incorrect information, but all money amounts will be zero. This form will have an “X” in the “CORRECTED” box at the top of the form. The second new form should have all the correct information, prepared as though it is the original (the “CORRECTED” box won’t be checked).
+
+Form Received After Filing
+
+If you file your return and you later receive a form for income that you didn’t include on your return, you should report the income and take credit for any income tax withheld by filing Form 1040-X, Amended U.S. Individual Income Tax Return.
+
+Separate Returns
+
+If you are married but file a separate return, you can take credit only for the tax withheld from your own income. Don’t include any amount withheld from your spouse’s income. However, different rules may apply if you live in a community property state.
+
+Community property states are listed in chapter 1. For more information on these rules, and some exceptions, see Pub. 555, Community Property.
+
+Estimated Tax
+
+Take credit for all your estimated tax payments for 2025 on Form 1040 or 1040-SR, line 26. Include any overpayment from 2024 that you had credited to your 2025 estimated tax.
+
+Name changed.
+
+If you changed your name, and you made estimated tax payments using your former name, attach a brief statement to the front of your paper tax return indicating:
+
+-
+
+When you made the payments,
+
+-
+
+The amount of each payment,
+
+-
+
+Your name when you made the payments, and
+
+-
+
+Your SSN.
+
+The statement should cover payments you made jointly with your spouse as well as any you made separately.
+
+Be sure to report the change to the Social Security Administration before filing your return. This prevents delays in processing your return and issuing any refunds.
+
+Separate Returns
+
+If you and your spouse made separate estimated tax payments for 2025 and you file separate returns, you can take credit only for your own payments.
+
+If you made joint estimated tax payments, you must decide how to divide the payments between your returns. One of you can claim all of the estimated tax paid and the other none, or you can divide it in any other way you agree on. If you can’t agree, you must divide the payments in proportion to each spouse’s individual tax as shown on your separate returns for 2025.
+
+Divorced Taxpayers
+
+If you made joint estimated tax payments for 2025, and you were divorced during the year, either you or your former spouse can claim all of the joint payments, or you each can claim part of them. If you can’t agree on how to divide the payments, you must divide them in proportion to each spouse’s individual tax as shown on your separate returns for 2025.
+
+If you claim any of the joint payments on your tax return, enter your former spouse’s social security number (SSN) in the space provided on the front of Form 1040 or 1040-SR. If you divorced and remarried in 2025, enter your present spouse’s SSN in the space provided on the front of Form 1040 or 1040-SR. Also, on the dotted line next to line 26, enter your former spouse’s SSN, followed by “DIV.”
+
+Underpayment Penalty for 2025
+
+If you didn’t pay enough tax, either through withholding or by making timely estimated tax payments, you will have an underpayment of estimated tax and you may have to pay a penalty.
+
+Generally, you won’t have to pay a penalty for 2025 if any of the following apply.
+
+-
+
+The total of your withholding and estimated tax payments was at least as much as your 2024 tax (or 110% of your 2024 tax if your AGI was more than $150,000: $75,000 if your 2025 filing status is married filing separately) and you paid all required estimated tax payments on time.
+
+-
+
+The tax balance due on your 2025 return is no more than 10% of your total 2025 tax, and you paid all required estimated tax payments on time.
+
+-
+
+Your total 2025 tax minus your withholding and refundable credits is less than $1,000.
+
+-
+
+You didn’t have a tax liability for 2024 and your 2024 tax year was 12 months.
+
+-
+
+You didn’t have any withholding taxes and your current-year tax less any household employment taxes is less than $1,000.
+
+Farmers and fishers.
+
+Special rules apply if you are a farmer or fisher. See the Instructions for Form 2210-F for more information.
+
+The IRS can figure the penalty for you.
+
+If you think you owe the penalty but you don’t want to figure it yourself when you file your tax return, you may not have to. Generally, the IRS will figure the penalty for you and send you a bill. However, if you think you are able to lower or eliminate your penalty, you must complete Form 2210 or Form 2210-F and attach it to your paper return. See the Instructions for Form 2210 for more information.

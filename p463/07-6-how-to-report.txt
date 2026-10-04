@@ -1,0 +1,1397 @@
+IRS Pub 463 (2025) | 6. How To Report
+
+6. How To Report
+
+This chapter explains where and how to report the expenses discussed in this publication. It discusses reimbursements and how to treat them under accountable and nonaccountable plans. It also explains rules for independent contractors and clients, fee-basis officials, certain performing artists, Armed Forces reservists, and certain disabled employees. The chapter ends with illustrations of how to report travel, gift, and car expenses on Forms 2106.
+
+Where To Report
+
+This section provides general information on where to report the expenses discussed in this publication.
+
+Self-employed.
+
+You must report your income and expenses on Schedule C (Form 1040) if you are a sole proprietor or on Schedule F (Form 1040) if you are a farmer. You don’t use Form 2106.
+
+If you claim car or truck expenses, you must provide certain information on the use of your vehicle. You provide this information on Schedule C (Form 1040) or Form 4562.
+
+If you file Schedule C (Form 1040):
+
+-
+
+Report your travel expenses, except meals, on line 24a;
+
+-
+
+Report your deductible non-entertainment-related meals (actual cost or standard meal allowance) on line 24b;
+
+-
+
+Report your gift expenses and transportation expenses, other than car expenses, on line 27b; and
+
+-
+
+Report your car expenses on line 9. Complete Part IV of the form unless you have to file Form 4562 for depreciation or amortization.
+
+If you file Schedule F (Form 1040), do the following.
+
+-
+
+Report your car expenses on line 10. Attach Form 4562 and provide information on the use of your car in Part V of Form 4562.
+
+-
+
+Report all other business expenses discussed in this publication on line 32. You can only include 50% of your non-entertainment-related meals on that line.
+
+See your form instructions for more information on how to complete your tax return.
+
+Both self-employed and an employee.
+
+If you are both self-employed and an employee, you must keep separate records for each business activity. Report your business expenses for self-employment on Schedule C (Form 1040) or Schedule F (Form 1040), as discussed earlier. Report your business expenses for your work as an employee on Form 2106, as discussed next.
+
+Caution:
+
+Form 2106 is only used by Armed Forces reservists, qualified performing artists, fee-basis state or local government officials, and employees with impairment-related work expenses. Due to the suspension of miscellaneous itemized deductions subject to the 2% floor under section 67(a), employees who don’t fit into one of the listed categories may not use Form 2106.
+
+Employees.
+
+If you are an employee, you must generally complete Form 2106 to deduct your travel and transportation expenses.
+
+-
+
+You are an employee deducting expenses attributable to your job.
+
+-
+
+You weren’t reimbursed by your employer for your expenses (amounts included in box 1 of your Form W-2 aren’t considered reimbursements).
+
+-
+
+If you claim car expenses, you use the standard mileage rate.
+
+For more information on how to report your expenses on Form 2106, see Completing Form 2106 , later.
+
+Gifts.
+
+If you didn’t receive any reimbursements (or the reimbursements were all included in box 1 of your Form W-2), the only business expense you are claiming is for gifts, and the special rules discussed later don’t apply to you, don’t complete Form 2106.
+
+Statutory employees.
+
+If you received a Form W-2 and the “Statutory employee” box in box 13 was checked, report your income and expenses related to that income on Schedule C (Form 1040). Don’t complete Form 2106.
+
+Statutory employees include full-time life insurance salespersons, certain agent or commission drivers, traveling salespersons, and certain homeworkers.
+
+Caution:
+
+If you are entitled to a reimbursement from your employer but you don’t claim it, you can’t claim a deduction for the expenses to which that unclaimed reimbursement applies.
+
+Reimbursement for personal expenses.
+
+If your employer reimburses you for nondeductible personal expenses, such as for vacation trips, your employer must report the reimbursement as wage income in box 1 of your Form W-2. You can’t deduct personal expenses.
+
+Income-producing property.
+
+If you have travel or transportation expenses related to income-producing property, report your deductible expenses on the form appropriate for that activity.
+
+For example, if you have rental real estate income and expenses, report your expenses on Schedule E (Form 1040), Supplemental Income and Loss. See Pub. 527, Residential Rental Property, for more information on the rental of real estate.
+
+Vehicle Provided by Your Employer
+
+If your employer provides you with a car, you may be able to deduct the actual expenses of operating that car for business purposes. The amount you can deduct depends on the amount that your employer included in your income and the business and personal miles you drove during the year. You can’t use the standard mileage rate.
+
+Caution:
+
+Form 2106 is only used by Armed Forces reservists, qualified performing artists, fee-basis state or local government officials, and employees with impairment-related work expenses. Due to the suspension of miscellaneous itemized deductions subject to the 2% floor under section 67(a), employees who don’t fit into one of the listed categories may not use Form 2106.
+
+Value reported on Form W-2.
+
+Your employer can figure and report either the actual value of your personal use of the car or the value of the car as if you used it only for personal purposes (100% income inclusion). Your employer must separately state the amount if 100% of the annual lease value was included in your income. If you are unsure of the amount included on your Form W-2, ask your employer.
+
+Full value included in your income.
+
+You may be able to deduct the value of the business use of an employer-provided car if your employer reported 100% of the value of the car in your income. On your 2025 Form W-2, the amount of the value will be included in box 1, Wages, tips, other compensation; and box 14, Other.
+
+To claim your expenses, complete Form 2106, Part II, Sections A and C. Enter your actual expenses on line 23 of Section C and include the entire value of the employer-provided car on line 25. Complete the rest of the form.
+
+Less than full value included in your income.
+
+If less than the full annual lease value of the car was included on your Form W-2, this means that your Form W-2 only includes the value of your personal use of the car. Don’t enter this value on your Form 2106 because it isn’t deductible.
+
+If you paid any actual costs (that your employer didn’t provide or reimburse you for) to operate the car, you can deduct the business portion of those costs. Examples of costs that you may have are gas, oil, and repairs. Complete Form 2106, Part II, Sections A and C. Enter your actual costs on line 23 of Section C and leave line 25 blank. Complete the rest of the form.
+
+Reimbursements
+
+This section explains what to do when you receive an advance or are reimbursed for any of the employee business expenses discussed in this publication.
+
+If you received an advance, allowance, or reimbursement for your expenses, how you report this amount and your expenses depends on whether your employer reimbursed you under an accountable plan or a nonaccountable plan.
+
+This section explains the two types of plans, how per diem and car allowances simplify proving the amount of your expenses, and the tax treatment of your reimbursements and expenses. It also covers rules for independent contractors.
+
+No reimbursement.
+
+You aren’t reimbursed or given an allowance for your expenses if you are paid a salary or commission with the understanding that you will pay your own expenses. In this situation, you have no reimbursement or allowance arrangement, and you don’t have to read this section on reimbursements. Instead, see Completing Form 2106 , later, for information on completing your tax return.
+
+Caution:
+
+Form 2106 is only used by Armed Forces reservists, qualified performing artists, fee-basis state or local government officials, and employees with impairment-related work expenses. Due to the suspension of miscellaneous itemized deductions subject to the 2% floor under section 67(a), employees who don’t fit into one of the listed categories may not use Form 2106.
+
+Reimbursement, allowance, or advance.
+
+A reimbursement or other expense allowance arrangement is a system or plan that an employer uses to pay, substantiate, and recover the expenses, advances, reimbursements, and amounts charged to the employer for employee business expenses. Arrangements include per diem and car allowances.
+
+A per diem allowance is a fixed amount of daily reimbursement your employer gives you for your lodging and M&IE when you are away from home on business. (The term “incidental expenses” is defined in chapter 1 under Standard Meal Allowance. ) A car allowance is an amount your employer gives you for the business use of your car.
+
+Your employer should tell you what method of reimbursement is used and what records you must provide.
+
+Employers.
+
+If you are an employer and you reimburse employee business expenses, how you treat this reimbursement on your employee’s Form W-2 depends in part on whether you have an accountable plan. Reimbursements treated as paid under an accountable plan, as explained next, aren’t reported as pay. Reimbursements treated as paid under nonaccountable plans , as explained later, are reported as pay. See Pub. 15 (Circular E), Employer’s Tax Guide, for information on employee pay.
+
+Accountable Plans
+
+To be an accountable plan, your employer’s reimbursement or allowance arrangement must include all of the following rules.
+
+-
+
+Your expenses must have a business connection—that is, you must have paid or incurred deductible expenses while performing services as an employee of your employer.
+
+-
+
+You must adequately account to your employer for these expenses within a reasonable period of time.
+
+-
+
+You must return any excess reimbursement or allowance within a reasonable period of time.
+
+Adequate accounting and returning excess reimbursements are discussed later.
+
+An excess reimbursement or allowance is any amount you are paid that is more than the business-related expenses that you adequately accounted for to your employer.
+
+Reasonable period of time.
+
+The definition of reasonable period of time depends on the facts and circumstances of your situation. However, regardless of the facts and circumstances of your situation, actions that take place within the times specified in the following list will be treated as taking place within a reasonable period of time.
+
+-
+
+You receive an advance within 30 days of the time you have an expense.
+
+-
+
+You adequately account for your expenses within 60 days after they were paid or incurred.
+
+-
+
+You return any excess reimbursement within 120 days after the expense was paid or incurred.
+
+-
+
+You are given a periodic statement (at least quarterly) that asks you to either return or adequately account for outstanding advances and you comply within 120 days of the statement.
+
+Employee meets accountable plan rules.
+
+If you meet the three rules for accountable plans, your employer shouldn’t include any reimbursements in your income in box 1 of your Form W-2. If your expenses equal your reimbursements, you don’t complete Form 2106. You have no deduction since your expenses and reimbursements are equal.
+
+Tip:
+
+If your employer included reimbursements in box 1 of your Form W-2 and you meet all the rules for accountable plans, ask your employer for a corrected Form W-2.
+
+Accountable plan rules not met.
+
+Even though you are reimbursed under an accountable plan, some of your expenses may not meet all three rules. All reimbursements that fail to meet all three rules for accountable plans are generally treated as having been reimbursed under a nonaccountable plan (discussed later).
+
+Failure to return excess reimbursements.
+
+If you are reimbursed under an accountable plan, but you fail to return, within a reasonable time, any amounts in excess of the substantiated amounts, the amounts paid in excess of the substantiated expenses are treated as paid under a nonaccountable plan. See Reasonable period of time , earlier, and Returning Excess Reimbursements , later.
+
+Reimbursement of nondeductible expenses.
+
+You may be reimbursed under your employer’s accountable plan for expenses related to that employer’s business, some of which would be allowable as employee business expense deductions and some of which wouldn’t. The reimbursements you receive for the nondeductible expenses don’t meet rule (1) for accountable plans, and they are treated as paid under a nonaccountable plan.
+
+Example.
+
+Your employer’s plan reimburses you for travel expenses while away from home on business and also for meals when you work late at the office, even though you aren’t away from home. The part of the arrangement that reimburses you for the nondeductible meals when you work late at the office is treated as paid under a nonaccountable plan.
+
+Tip:
+
+The employer makes the decision whether to reimburse employees under an accountable plan or a nonaccountable plan. If you are an employee who receives payments under a nonaccountable plan, you can’t convert these amounts to payments under an accountable plan by voluntarily accounting to your employer for the expenses and voluntarily returning excess reimbursements to the employer.
+
+Adequate Accounting
+
+One of the rules for an accountable plan is that you must adequately account to your employer for your expenses. You adequately account by giving your employer a statement of expense, an account book, a diary, or a similar record in which you entered each expense at or near the time you had it, along with documentary evidence (such as receipts) of your travel, mileage, and other employee business expenses. (See Table 5-1 in chapter 5 for details you need to enter in your record and documents you need to prove certain expenses.) A per diem or car allowance satisfies the adequate accounting requirement under certain conditions. See Per Diem and Car Allowances , later.
+
+You must account for all amounts you received from your employer during the year as advances, reimbursements, or allowances. This includes amounts you charged to your employer by credit card or other method. You must give your employer the same type of records and supporting information that you would have to give to the IRS if the IRS questioned a deduction on your return. You must pay back the amount of any reimbursement or other expense allowance for which you don’t adequately account or that is more than the amount for which you accounted.
+
+Per Diem and Car Allowances
+
+If your employer reimburses you for your expenses using a per diem or a car allowance, you can generally use the allowance as proof for the amount of your expenses. A per diem or car allowance satisfies the adequate accounting requirements for the amount of your expenses only if all the following conditions apply.
+
+If the IRS finds that an employer’s travel allowance practices aren’t based on reasonably accurate estimates of travel costs (including recognition of cost differences in different areas for per diem amounts), you won’t be considered to have accounted to your employer. In this case, you must be able to prove your expenses to the IRS.
+
+Related to employer.
+
+You are related to your employer if:
+
+-
+
+Your employer is your brother or sister, half brother or half sister, spouse, ancestor, or lineal descendant;
+
+-
+
+Your employer is a corporation in which you own, directly or indirectly, more than 10% in value of the outstanding stock; or
+
+-
+
+Certain relationships (such as grantor, fiduciary, or beneficiary) exist between you, a trust, and your employer.
+
+You may be considered to indirectly own stock for purposes of (2) if you have an interest in a corporation, partnership, estate, or trust that owns the stock or if a member of your family or your partner owns the stock.
+
+The federal rate.
+
+The federal rate can be figured using any one of the following methods.
+
+-
+
+For per diem amounts:
+
+-
+
+The regular federal per diem rate.
+
+-
+
+The standard meal allowance.
+
+-
+
+The high-low rate.
+
+-
+
+For car expenses:
+
+-
+
+The standard mileage rate.
+
+-
+
+A fixed and variable rate (FAVR).
+
+Tip:
+
+For per diem amounts, use the rate in effect for the locality where you stop for sleep or rest.
+
+Regular federal per diem rate.
+
+The regular federal per diem rate is the highest amount that the federal government will pay to its employees for lodging and M&IE (or M&IE only) while they are traveling away from home in a particular area. The rates are different for different localities. Your employer should have these rates available. You can also find federal per diem rates at GSA.gov/travel/plan-book/per-diem-rates .
+
+The standard meal allowance.
+
+The standard meal allowance is the federal M&IE rate. For travel in 2025, the rate for most small localities in the United States is $68 per day. Most major cities and many other localities qualify for higher rates. You can find this information at GSA.gov/travel/plan-book/per-diem-rates .
+
+You receive an allowance only for M&IE when your employer does one of the following.
+
+-
+
+Provides you with lodging (furnishes it in kind).
+
+-
+
+Reimburses you, based on your receipts, for the actual cost of your lodging.
+
+-
+
+Pays the hotel, motel, etc., directly for your lodging.
+
+-
+
+Doesn’t have a reasonable belief that you had (or will have) lodging expenses, such as when you stay with friends or relatives or sleep in the cab of your truck.
+
+-
+
+Figures the allowance on a basis similar to that used in figuring your compensation, such as number of hours worked or miles traveled.
+
+High-low rate.
+
+This is a simplified method of figuring the federal per diem rate for travel within the continental United States. It eliminates the need to keep a current list of the per diem rates for each city.
+
+Under the high-low method, the per diem amount for travel during January through September of 2025 is $319 (which includes $86 for M&IE) for certain high-cost locations. All other areas have a per diem amount of $225 (which includes $74 for M&IE). For more information, see Notice 2024-68, which can be found at IRS.gov/irb/2024-41_IRB#NOT-2024-68 .
+
+Effective October 1, 2025, the per diem rate for certain high-cost locations remained $319 (which includes $86 for M&IE). The rate for all other locations remained $225 (which includes $74 for M&IE). For more information, see Notice 2025-54, which can be found at IRS.gov/irb/2025-41_IRB#NOT-2025-54 , and Revenue Procedure 2019-48 at IRS.gov/irb/2019-51_IRB#REV-PROC-2019-48 .
+
+Caution:
+
+Employers who didn’t use the high-low method during the first 9 months of 2025 can’t begin to use it before 2026.
+
+Prorating the standard meal allowance on partial days of travel.
+
+The standard meal allowance is for a full 24-hour day of travel. If you travel for part of a day, such as on the days you depart and return, you must prorate the full-day M&IE rate. This rule also applies if your employer uses the regular federal per diem rate or the high-low rate.
+
+You can use either of the following methods to figure the federal M&IE for that day.
+
+-
+
+Method 1:
+
+-
+
+For the day you depart, add 3 / 4 of the standard meal allowance amount for that day.
+
+-
+
+For the day you return, add 3 / 4 of the standard meal allowance amount for the preceding day.
+
+-
+
+Method 2: Prorate the standard meal allowance using any method you consistently apply in accordance with reasonable business practice. For example, an employer can treat 2 full days of per diem (that includes M&IE) paid for travel away from home from 9 a.m. of one day to 5 p.m. of the next day as being no more than the federal rate. This is true even though a federal employee would be limited to a reimbursement of M&IE for only 1½ days of the federal M&IE rate.
+
+The standard mileage rate.
+
+This is a set rate per mile that you can use to figure your deductible car expenses. For 2025, the standard mileage rate for the cost of operating your car for business use is 70 cents ($0.70) per mile.
+
+Fixed and variable rate (FAVR).
+
+This is an allowance your employer may use to reimburse your car expenses. Under this method, your employer pays an allowance that includes a combination of payments covering fixed and variable costs, such as a cents-per-mile rate to cover your variable operating costs (such as gas, oil, etc.) plus a flat amount to cover your fixed costs (such as depreciation (or lease payments), insurance, etc.). If your employer chooses to use this method, your employer will request the necessary records from you.
+
+Reporting your expenses with a per diem or car allowance.
+
+If your reimbursement is in the form of an allowance received under an accountable plan, the following facts affect your reporting.
+
+-
+
+The federal rate.
+
+-
+
+Whether the allowance or your actual expenses were more than the federal rate.
+
+The following discussions explain where to report your expenses depending upon how the amount of your allowance compares to the federal rate.
+
+Allowance less than or equal to the federal rate.
+
+If your allowance is less than or equal to the federal rate, the allowance won’t be included in box 1 of your Form W-2. You don’t need to report the related expenses or the allowance on your return if your expenses are equal to or less than the allowance.
+
+However, if your actual expenses are more than your allowance, you can complete Form 2106. If you are using actual expenses, you must be able to prove to the IRS the total amount of your expenses and reimbursements for the entire year. If you are using the standard meal allowance or the standard mileage rate, you don’t have to prove that amount.
+
+Caution:
+
+Form 2106 is only used by Armed Forces reservists, qualified performing artists, fee-basis state or local government officials, and employees with impairment-related work expenses. Due to the suspension of miscellaneous itemized deductions subject to the 2% floor under section 67(a), employees who don’t fit into one of the listed categories may not use Form 2106.
+
+Example 1.
+
+In April, a member of a reserve component of the Armed Forces takes a 2-day business trip to Denver. The federal rate for Denver is $307 ($215 lodging + $92 M&IE) per day. As required by their employer’s accountable plan, they account for the time (dates), place, and business purpose of the trip. Their employer reimburses them $307 a day ($614 total) for living expenses. Their living expenses in Denver aren’t more than $307 a day.
+
+Their employer doesn’t include any of the reimbursement on their Form W-2 and they don’t deduct the expenses on their return.
+
+Example 2.
+
+In June, a fee-basis local government official takes a 2-day business trip to Boston. Their employer uses the high-low method to reimburse employees. Because Boston is a high-cost area, they are given an advance of $319 (which includes $86 for M&IE) a day ($638 total) for their lodging and M&IE. Their actual expenses totaled $700.
+
+Since their $700 of expenses are more than their $638 advance, they include the excess expenses when they itemize their deductions. They complete Form 2106 (showing all of their expenses and reimbursements). They must also allocate their reimbursement between their meals and other expenses as discussed later under Completing Form 2106 .
+
+Example 3.
+
+A fee-basis state government official drives 10,000 miles during 2025 for business. Under their employer’s accountable plan, they account for the time (dates), place, and business purpose of each trip. Their employer pays them a mileage allowance of 40 cents ($0.40) a mile.
+
+Because their $7,000 expense figured under the standard mileage rate (10,000 miles x 70 cents ($0.70) per mile) is more than their $4,000 reimbursement (10,000 miles × 40 cents ($0.40)), they itemize their deductions to claim the excess expense. They complete Form 2106 (showing all their expenses and reimbursements) and enter $3,000 ($7,000 − $4,000) as an itemized deduction.
+
+Allowance more than the federal rate.
+
+If your allowance is more than the federal rate, your employer must include the allowance amount up to the federal rate under code L in box 12 of your Form W-2. This amount isn’t taxable. However, the excess allowance will be included in box 1 of your Form W-2. You must report this part of your allowance as if it were wage income.
+
+If your actual expenses are less than or equal to the federal rate, you don’t complete Form 2106 or claim any of your expenses on your return.
+
+However, if your actual expenses are more than the federal rate, you can complete Form 2106 and deduct those excess expenses. You must report on Form 2106 your reimbursements up to the federal rate (as shown under code L in box 12 of your Form W-2) and all your expenses. You should be able to prove these amounts to the IRS.
+
+Caution:
+
+Form 2106 is only used by Armed Forces reservists, qualified performing artists, fee-basis state or local government officials, and employees with impairment-related work expenses. Due to the suspension of miscellaneous itemized deductions subject to the 2% floor under section 67(a), employees who don’t fit into one of the listed categories may not use Form 2106.
+
+Example 1.
+
+Sasha, a performing artist, lives and works in Austin. In July, the employer sent Sasha to Albuquerque for 4 days on business. The employer paid the hotel directly for Sasha’s lodging and reimbursed $90 a day ($360 total) for M&IE. Sasha’s actual meal expenses weren’t more than the federal rate for Albuquerque, which is $80 per day.
+
+The employer included the $40 that was more than the federal rate (($90 − $80) × 4) in box 1 of Sasha’s Form W-2. The employer shows $320 ($80 a day × 4) under code L in box 12 of Form W-2. This amount isn’t included in income. Sasha doesn’t have to complete Form 2106; however, Sasha must include the $40 in gross income as wages (by reporting the total amount shown in box 1 of their Form W-2).
+
+Example 2.
+
+Another performing artist, Ari, also lives in Austin and works for the same employer as in Example 1 . In May, the employer sent Ari to San Diego for 4 days and paid the hotel directly for the hotel bill. The employer reimbursed Ari $85 a day for M&IE. The federal rate for San Diego is $80 a day.
+
+Ari can prove that actual non-entertainment-related meal expenses totaled $380. The employer’s accountable plan won’t pay more than $75 a day for travel to San Diego, so Ari doesn’t give the employer the records that prove that the amount actually spent was $380. However, Ari does account for the time (dates), place, and business purpose of the trip. This is Ari’s only business trip this year.
+
+Ari was reimbursed $340 ($85 × 4 days), which is $20 more than the federal rate of $320 ($80 × 4 days). The employer includes the $20 as income on the employee’s Form W-2 in box 1. The employer also enters $320 under code L in box 12 of the employee’s Form W-2.
+
+Ari completes Form 2106 to figure deductible expenses and enters the total of actual expenses for the year ($380) on Form 2106. Ari also enters the reimbursements that weren’t included in income ($320). Ari’s total deductible meals and beverages expense, before the 50% limit, is $96. Ari will include $48 as an itemized deduction.
+
+Example 3.
+
+Palmer, a fee-basis state government official, drives 10,000 miles during 2025 for business. Under the employer’s accountable plan, Palmer gets reimbursed 75 cents ($0.75) a mile, which is more than the standard mileage rate. The total reimbursement is $7,500.
+
+The employer must include the reimbursement amount up to the standard mileage rate, $7,000 (10,000 miles x 70 cents ($0.70) per mile), under code L in box 12 of the employee’s Form W-2. That amount isn’t taxable. The employer must also include $500 ($7,500 − $7,000) in box 1 of the employee’s Form W-2. This is the reimbursement that is more than the standard mileage rate.
+
+If the expenses are equal to or less than the standard mileage rate, Palmer wouldn’t complete Form 2106. If the expenses are more than the standard mileage rate, Palmer would complete Form 2106 and report total expenses and reimbursement (shown under code L in box 12 of their Form W-2). Palmer would then claim the excess expenses as an itemized deduction.
+
+Returning Excess Reimbursements
+
+Under an accountable plan, you are required to return any excess reimbursement or other expense allowances for your business expenses to the person paying the reimbursement or allowance. Excess reimbursement means any amount for which you didn’t adequately account within a reasonable period of time. For example, if you received a travel advance and you didn’t spend all the money on business-related expenses or you don’t have proof of all your expenses, you have an excess reimbursement.
+
+Adequate accounting and reasonable period of time were discussed earlier in this chapter.
+
+Travel advance.
+
+You receive a travel advance if your employer provides you with an expense allowance before you actually have the expense, and the allowance is reasonably expected to be no more than your expense. Under an accountable plan, you are required to adequately account to your employer for this advance and to return any excess within a reasonable period of time.
+
+If you don’t adequately account for or don’t return any excess advance within a reasonable period of time, the amount you don’t account for or return will be treated as having been paid under a nonaccountable plan (discussed later).
+
+Unproven amounts.
+
+If you don’t prove that you actually traveled on each day for which you received a per diem or car allowance (proving the elements described in Table 5-1 ), you must return this unproven amount of the travel advance within a reasonable period of time. If you don’t do this, the unproven amount will be considered paid under a nonaccountable plan (discussed later).
+
+Per diem allowance more than federal rate.
+
+If your employer’s accountable plan pays you an allowance that is higher than the federal rate, you don’t have to return the difference between the two rates for the period you can prove business-related travel expenses. However, the difference will be reported as wages on your Form W-2. This excess amount is considered paid under a nonaccountable plan (discussed later).
+
+Example.
+
+Your employer sends you on a 5-day business trip to Phoenix in March 2025 and gives you a $450 ($90 × 5 days) advance to cover your M&IE. The federal per diem for M&IE for Phoenix is $86. Your trip lasts only 3 days. Under your employer’s accountable plan, you must return the $180 ($90 × 2 days) advance for the 2 days you didn’t travel. For the 3 days you did travel, you don’t have to return the $12 difference between the allowance you received and the federal rate for Phoenix (($90 − $86) × 3 days). However, the $12 will be reported on your Form W-2 as wages.
+
+Nonaccountable Plans
+
+A nonaccountable plan is a reimbursement or expense allowance arrangement that doesn’t meet one or more of the three rules listed earlier under Accountable Plans .
+
+In addition, even if your employer has an accountable plan, the following payments will be treated as being paid under a nonaccountable plan.
+
+An arrangement that repays you for business expenses by reducing the amount reported as your wages, salary, or other pay will be treated as a nonaccountable plan. This is because you are entitled to receive the full amount of your pay whether or not you have any business expenses.
+
+If you aren’t sure if the reimbursement or expense allowance arrangement is an accountable or nonaccountable plan, ask your employer.
+
+Reporting your expenses under a nonaccountable plan.
+
+Your employer will combine the amount of any reimbursement or other expense allowance paid to you under a nonaccountable plan with your wages, salary, or other pay. Your employer will report the total in box 1 of your Form W-2.
+
+You must complete Form 2106 and itemize your deductions to deduct your expenses for travel, transportation, or non-entertainment-related meals. Your meal and entertainment expenses will be subject to the 50% Limit discussed in chapter 2.
+
+Caution:
+
+Form 2106 is only used by Armed Forces reservists, qualified performing artists, fee-basis state or local government officials, and employees with impairment-related work expenses. Due to the suspension of miscellaneous itemized deductions subject to the 2% floor under section 67(a), employees who don’t fit into one of the listed categories may not use Form 2106.
+
+Example 1.
+
+Your employer gives you $1,000 a month ($12,000 total for the year) for your business expenses. You don’t have to provide any proof of your expenses to your employer, and you can keep any funds that you don’t spend.
+
+You are a performing artist and are being reimbursed under a nonaccountable plan. Your employer will include the $12,000 on your Form W-2 as if it were wages. If you want to deduct your business expenses, you must complete Form 2106 and itemize your deductions.
+
+Example 2.
+
+You are paid $2,000 a month by your employer. On days that you travel away from home on business, your employer designates $50 a day of your salary as paid to reimburse your travel expenses. Because your employer would pay your monthly salary whether or not you were traveling away from home, the arrangement is a nonaccountable plan. No part of the $50 a day designated by your employer is treated as paid under an accountable plan.
+
+Rules for Independent Contractors and Clients
+
+This section provides rules for independent contractors who incur expenses on behalf of a client or customer. The rules cover the reporting and substantiation of certain expenses discussed in this publication, and they affect both independent contractors and their clients or customers.
+
+You are considered an independent contractor if you are self-employed and you perform services for a customer or client.
+
+Accounting to Your Client
+
+If you received a reimbursement or an allowance for travel, or gift expenses that you incurred on behalf of a client, you should provide an adequate accounting of these expenses to your client. If you don’t account to your client for these expenses, you must include any reimbursements or allowances in income. You must keep adequate records of these expenses whether or not you account to your client for these expenses.
+
+If you don’t separately account for and seek reimbursement for meal and entertainment expenses in connection with providing services for a client, you are subject to the 50% limit on those expenses. See 50% Limit in chapter 2.
+
+Adequate accounting.
+
+As a self-employed person, you adequately account by reporting your actual expenses. You should follow the recordkeeping rules in chapter 5 .
+
+How to report.
+
+For information on how to report expenses on your tax return, see Self-employed at the beginning of this chapter.
+
+Required Records for Clients or Customers
+
+If you are a client or customer, you generally don’t have to keep records to prove the reimbursements or allowances you give, in the course of your business, to an independent contractor for travel or gift expenses incurred on your behalf. However, you must keep records if:
+
+-
+
+You reimburse the contractor for entertainment expenses incurred on your behalf, and
+
+-
+
+The contractor adequately accounts to you for these expenses.
+
+Contractor adequately accounts.
+
+If the contractor adequately accounts to you for non-entertainment-related meal expenses, you (the client or customer) must keep records documenting each element of the expense, as explained in chapter 5 . Use your records as proof for a deduction on your tax return. If non-entertainment-related meal expenses are accounted for separately, you are subject to the 50% limit on meals. If the contractor adequately accounts to you for reimbursed amounts, you don’t have to report the amounts on an information return.
+
+Contractor doesn’t adequately account.
+
+If the contractor doesn’t adequately account to you for allowances or reimbursements of non-entertainment-related meal expenses, you don’t have to keep records of these items. You aren’t subject to the 50% limit on meals in this case. You can deduct the reimbursements or allowances as payment for services if they are ordinary and necessary business expenses. However, you must file Form 1099-MISC to report amounts paid to the independent contractor if the total of the reimbursements and any other fees is $600 or more during the calendar year.
+
+How To Use Per Diem Rate Tables
+
+This section contains information about the per diem rate substantiation methods available and the choice of rates you must make for the last 3 months of the year.
+
+The Two Substantiation Methods
+
+High-low method.
+
+IRS Notices list the localities that are treated under the high-low substantiation method as high-cost localities for all or part of the year. Notice 2024-68, available at IRS.gov/irb/2024-41_IRB#NOT-2024-68 , lists the high-cost localities that are eligible for $319 (which includes $86 for meals and incidental expenses (M&IE)) per diem, effective October 1, 2024. For travel on or after October 1, 2024, all other localities within the continental United States (CONUS) are eligible for $225 (which includes $74 for M&IE) per diem under the high-low method.
+
+Notice 2025-54, available at IRS.gov/irb/2025-41_IRB#NOT-2025-54 , lists the high-cost localities that are eligible for $319 (which includes $86 for M&IE) per diem, effective October 1, 2025. For travel on or after October 1, 2025, the per diem for all other localities remained $225 (which includes $74 for M&IE).
+
+Regular federal per diem rate method.
+
+Regular federal per diem rates are published by the General Services Administration (GSA). Both tables include the separate rate for M&IE for each locality. The rates listed for FY2025 at GSA.gov/travel/plan-book/per-diem-rates are effective October 1, 2024, and those listed for FY2026 are effective October 1, 2025. The standard rate for all locations within CONUS not specifically listed for FY2025 is $178 ($110 for lodging and $68 for M&IE). For FY2026, this rate remains $178 ($110 for lodging and $68 for M&IE).
+
+Transition Rules
+
+The transition period covers the last 3 months of the calendar year, from the time that new rates are effective (generally, October 1) through December 31. During this period, you may generally change to the new rates or finish out the year with the rates you had been using.
+
+High-low method.
+
+If you use the high-low substantiation method, when new rates become effective (generally, October 1), you can either continue with the rates you used for the first part of the year or change to the new rates. However, you must continue using the high-low method for the rest of the calendar year (through December 31). If you are an employer, you must use the same rates for all employees reimbursed under the high-low method during that calendar year.
+
+The new rates and localities for the high-low method are included each year in a notice that is generally published in mid-to-late September. You can find the notice in the weekly Internal Revenue Bulletin (IRB) at IRS.gov/IRB , or visit IRS.gov and enter “Special Per Diem Rates” in the search box.
+
+Federal per diem rate method.
+
+New CONUS per diem rates become effective on October 1 of each year and remain in effect through September 30 of the following year. Employees being reimbursed under the per diem rate method during the first 9 months of a year (January 1–September 30) must continue under the same method through the end of that calendar year (December 31). However, for travel by these employees from October 1 through December 31, you can choose to continue using the same per diem rates or use the new rates.
+
+The new federal CONUS per diem rates are published each year, generally early in September. Go to GSA.gov/travel/plan-book/per-diem-rates .
+
+Caution:
+
+Per diem rates for localities listed for FY2026 may change at any time. To be sure you have the most current rate, check GSA.gov/travel/plan-book/per-diem-rates .
+
+Completing Form 2106
+
+For tax years beginning after 2017, the Form 2106 will be used by Armed Forces reservists, qualified performing artists, fee-basis state or local government officials, and employees with impairment-related work expenses. Due to the suspension of miscellaneous itemized deductions subject to the 2% floor under section 67(a), employees who don’t fit into one of the listed categories may not use Form 2106.
+
+This section briefly describes how employees complete Forms 2106. Table 6-1 explains what the employer reports on Form W-2 and what the employee reports on Form 2106. The instructions for the forms have more information on completing them.
+
+Caution:
+
+If you are self-employed, don’t file Form 2106. Report your expenses on Schedule C (Form 1040) or Schedule F (Form 1040). See the instructions for the form that you must file.
+
+Table 6-1. Reporting Travel, Nonentertainment Meal, Gift, and Car Expenses and Reimbursements
+
+IF the type of reimbursement (or other expense allowance) arrangement is under: | THEN the employer reports on Form W-2: | AND the employee reports on Form 2106:
+An accountable plan with:
+Actual expense reimbursement: adequate accounting made and excess returned. | No amount. | No amount.
+Actual expense reimbursement: adequate accounting and return of excess both required but excess not returned. | The excess amount as wages in box 1. | No amount.
+Per diem or mileage allowance up to the federal rate: adequate accounting made and excess returned. | No amount. | All expenses and reimbursements only if excess expenses are claimed. Otherwise, form isn’t filed.
+Per diem or mileage allowance up to the federal rate: adequate accounting and return of excess both required but excess not returned. | The excess amount as wages in box 1. The amount up to the federal rate is reported only under code L in box 12 of Form W-2—it isn’t reported in box 1. | No amount.
+Per diem or mileage allowance exceeds the federal rate: adequate accounting up to the federal rate only and excess not returned. | The excess amount as wages in box 1. The amount up to the federal rate is reported only under code L in box 12 of Form W-2—it isn’t reported in box 1. | All expenses (and reimbursements reported under code L in box 12 of Form W-2) only if expenses in excess of the federal rate are claimed. Otherwise, form isn’t filed.
+A nonaccountable plan with:
+Either adequate accounting or return of excess, or both, not required by plan. | The entire amount as wages in box 1. | All expenses.
+No reimbursement plan:
+The entire amount as wages in box 1. | All expenses.
+
+Car expenses.
+
+If you used a car to perform your job as an employee, you may be able to deduct certain car expenses. These are generally figured on Form 2106, Part II, and then claimed on Form 2106, Part I, line 1, column A.
+
+Information on use of cars.
+
+If you claim any deduction for the business use of a car, you must answer certain questions and provide information about the use of the car. The information relates to the following items.
+
+-
+
+Date placed in service.
+
+-
+
+Mileage (total, business, commuting, and other personal mileage).
+
+-
+
+Percentage of business use.
+
+-
+
+After-work use.
+
+-
+
+Use of other vehicles.
+
+-
+
+Whether you have evidence to support the deduction.
+
+-
+
+Whether or not the evidence is written.
+
+Employees must complete Form 2106, Part II, Section A, to provide this information.
+
+Standard mileage rate.
+
+If you claim a deduction based on the standard mileage rate instead of your actual expenses, you must complete Form 2106, Part II, Section B. The amount on line 22 (Section B) is carried to Form 2106, Part I, line 1. In addition, on Part I, line 2, you can deduct parking fees and tolls that apply to the business use of the car. See Standard Mileage Rate in chapter 4 for information on using this rate.
+
+Actual expenses.
+
+If you claim a deduction based on actual car expenses, you must complete Form 2106, Part II, Section C. In addition, unless you lease your car, you must complete Section D to show your depreciation deduction and any section 179 deduction you claim.
+
+If you are still using a car that is fully depreciated, continue to complete Section C. Since you have no depreciation deduction, enter zero on line 28. In this case, don’t complete Section D.
+
+Car rentals.
+
+If you claim car rental expenses on Form 2106, line 24a, you may have to reduce that expense by an inclusion amount , as described in chapter 4. If so, you can show your car expenses and any inclusion amount as follows.
+
+-
+
+Figure the inclusion amount without taking into account your business-use percentage for the tax year.
+
+-
+
+Report the inclusion amount from (1) on Form 2106, Part II, line 24b.
+
+-
+
+Report on line 24c the net amount of car rental expenses (total car rental expenses minus the inclusion amount figured in (1)).
+
+The net amount of car rental expenses will be adjusted on Form 2106, Part II, line 27, to reflect the percentage of business use for the tax year.
+
+Transportation expenses.
+
+Show your transportation expenses that didn’t involve overnight travel on Form 2106, line 2, column A. Also, include on this line business expenses you have for parking fees and tolls. Don’t include expenses of operating your car or expenses of commuting between your home and work.
+
+Employee business expenses other than nonentertainment meals.
+
+Show your other employee business expenses on Form 2106, lines 3 and 4, column A. Don’t include expenses for nonentertainment meals on those lines. Line 4 is for expenses such as gifts, educational expenses (tuition and books), office-in-the-home expenses, and trade and professional publications.
+
+Tip:
+
+If line 4 expenses are the only ones you are claiming, you received no reimbursements (or the reimbursements were all included in box 1 of your Form W-2), and the special rules discussed later don’t apply to you, don’t complete Form 2106.
+
+Non-entertainment-related meal expenses.
+
+Show the full amount of your expenses for nonentertainment business-related meals on Form 2106, line 5, column B. Include meals while away from your tax home overnight and other business meals. Enter 50% of the line 8, column B, meal expenses on line 9, column B.
+
+“Hours of service” limits.
+
+If you are subject to the Department of Transportation’s “hours of service” limits (as explained earlier under Individuals subject to hours of service limits in chapter 2), use 80% instead of 50% for meals while away from your tax home.
+
+Reimbursements.
+
+Enter on Form 2106, line 7, the amounts your employer (or third party) reimbursed you that weren’t reported to you in box 1 of your Form W-2. This includes any amount reported under code L in box 12 of Form W-2.
+
+Allocating your reimbursement.
+
+If you were reimbursed under an accountable plan and want to deduct excess expenses that weren’t reimbursed, you may have to allocate your reimbursement. This is necessary when your employer pays your reimbursement in the following manner.
+
+-
+
+Pays you a single amount that covers non-entertainment-related meals and/or entertainment, as well as other business expenses.
+
+-
+
+Doesn’t clearly identify how much is for deductible non-entertainment-related meals.
+
+You must allocate that single payment so that you know how much to enter on Form 2106, line 7, column A and column B.
+
+Example.
+
+Your employer paid you an expense allowance of $12,000 this year under an accountable plan. The $12,000 payment consisted of $5,000 for airfare and $7,000 for non-entertainment-related meals, and car expenses. Your employer didn’t clearly show how much of the $7,000 was for the cost of deductible non-entertainment-related meals. You actually spent $14,000 during the year ($5,500 for airfare, $4,500 for non-entertainment-related meals, and $4,000 for car expenses).
+
+Since the airfare allowance was clearly identified, you know that $5,000 of the payment goes in column A, line 7, of Form 2106. To allocate the remaining $7,000, you use the worksheet from the Instructions for Form 2106. Your completed worksheet follows.
+
+Reimbursement Allocation Worksheet (Keep for your records.)
+
+1. | Enter the total amount of reimbursements your employer gave you that weren’t reported to you in box 1 of Form W-2 | $7,000
+2. | Enter the total amount of your expenses for the periods covered by this reimbursement | 8,500
+3. | Enter the part of the amount on line 2 that was your total expense for non-entertainment-related meals | 4,500
+4. | Divide line 3 by line 2. Enter the result as a decimal (rounded to at least three places) | 0.529
+5. | Multiply line 1 by line 4. Enter the result here and in column B, line 7 | 3,703
+6. | Subtract line 5 from line 1. Enter the result here and in column A, line 7 | $3,297
+
+On line 7 of Form 2106, you enter $8,297 ($5,000 airfare and $3,297 of the $7,000) in column A and $3,703 (of the $7,000) in column B.
+
+After you complete the form.
+
+If you are an Armed Forces reservist, a government official who is paid on a fee basis, a performing artist, or a disabled employee with impairment-related work expenses, see Special Rules , later.
+
+Limits on employee business expenses.
+
+Your employee business expenses may be subject to either of the limits described next. They are figured in the following order on the specified form.
+
+1. Limit on meals and entertainment.
+
+Certain non-entertainment-related meal expenses are subject to a 50% limit. Generally, entertainment expenses are nondeductible if paid or incurred after December 2017. If you are an employee, you figure this limit on line 9 of Form 2106. (See 50% Limit in chapter 2.)
+
+2. Limit on total itemized deductions.
+
+Limitations on itemized deductions are suspended for tax years beginning after 2017, per section 68(g).
+
+Special Rules
+
+This section discusses special rules that apply only to Armed Forces reservists, government officials who are paid on a fee basis, performing artists, and disabled employees with impairment-related work expenses. For tax years beginning after 2017, they are the only taxpayers who can use Form 2106.
+
+Armed Forces Reservists Traveling More Than 100 Miles From Home
+
+If you are a member of a reserve component of the Armed Forces of the United States and you travel more than 100 miles away from home in connection with your performance of services as a member of the reserves, you can deduct your travel expenses as an adjustment to gross income rather than as a miscellaneous itemized deduction. The amount of expenses you can deduct as an adjustment to gross income is limited to the regular federal per diem rate (for lodging and M&IE) and the standard mileage rate (for car expenses) plus any parking fees, ferry fees, and tolls. See Per Diem and Car Allowances , earlier, for more information.
+
+Member of a reserve component.
+
+You are a member of a reserve component of the Armed Forces of the United States if you are in the Army, Navy, Marine Corps, Air Force, or Coast Guard Reserve; the Army National Guard of the United States; the Air National Guard of the United States; or the Reserve Corps of the Public Health Service.
+
+How to report.
+
+If you have reserve-related travel that takes you more than 100 miles from home, you should first complete Form 2106. Then include your expenses for reserve travel over 100 miles from home, up to the federal rate, from Form 2106, line 10, in the total on Schedule 1 (Form 1040), line 12.
+
+You can’t deduct expenses of travel that doesn’t take you more than 100 miles from home as an adjustment to gross income.
+
+Officials Paid on a Fee Basis
+
+Certain fee-basis officials can claim their employee business expenses on Form 2106.
+
+Fee-basis officials are persons who are employed by a state or local government and who are paid in whole or in part on a fee basis. They can deduct their business expenses in performing services in that job as an adjustment to gross income rather than as a miscellaneous itemized deduction.
+
+If you are a fee-basis official, include your employee business expenses from Form 2106, line 10, in the total on Schedule 1 (Form 1040), line 12.
+
+Expenses of Certain Performing Artists
+
+If you are a performing artist, you may qualify to deduct your employee business expenses as an adjustment to gross income. To qualify, you must meet all of the following requirements.
+
+-
+
+During the tax year, you perform services in the performing arts as an employee for at least two employers.
+
+-
+
+You receive at least $200 each from any two of these employers.
+
+-
+
+Your related performing-arts business expenses are more than 10% of your gross income from the performance of those services.
+
+-
+
+Your adjusted gross income isn’t more than $16,000 before deducting these business expenses.
+
+Special rules for married persons.
+
+If you are married, you must file a joint return unless you lived apart from your spouse at all times during the tax year. If you file a joint return, you must figure requirements (1), (2), and (3) separately for both you and your spouse. However, requirement (4) applies to your and your spouse’s combined adjusted gross income.
+
+Where to report.
+
+If you meet all of the above requirements, you should first complete Form 2106. Then you include your performing-arts-related expenses from Form 2106, line 10, in the total on Schedule 1 (Form 1040), line 12.
+
+If you don’t meet all of the above requirements, you don’t qualify to deduct your expenses as an adjustment to gross income.
+
+Impairment-Related Work Expenses of Disabled Employees
+
+If you are an employee with a physical or mental disability, your impairment-related work expenses aren’t subject to the 2%-of-adjusted-gross-income limit that applies to most other employee business expenses. After you complete Form 2106, enter your impairment-related work expenses from Form 2106, line 10, on Schedule A (Form 1040), line 16, and identify the type and amount of this expense on the line next to line 16.
+
+Impairment-related work expenses are your allowable expenses for attendant care at your workplace and other expenses in connection with your workplace that are necessary for you to be able to work.
+
+You are disabled if you have:
+
+-
+
+A physical or mental disability (for example, blindness or deafness) that functionally limits your being employed; or
+
+-
+
+A physical or mental impairment (for example, a sight or hearing impairment) that substantially limits one or more of your major life activities, such as performing manual tasks, walking, speaking, breathing, learning, or working.
+
+You can deduct impairment-related expenses as business expenses if they are:
+
+-
+
+Necessary for you to do your work satisfactorily;
+
+-
+
+For goods and services not required or used, other than incidentally, in your personal activities; and
+
+-
+
+Not specifically covered under other income tax laws.
+
+Example 1.
+
+You are blind. You must use a reader to do your work. You use the reader both during your regular working hours at your place of work and outside your regular working hours away from your place of work. The reader’s services are only for your work. You can deduct your expenses for the reader as business expenses.
+
+Example 2.
+
+You are deaf. You must use a sign language interpreter during meetings while you are at work. The interpreter’s services are used only for your work. You can deduct your expenses for the interpreter as business expenses.
+
+How To Get Tax Help
+
+If you have questions about a tax issue; need help preparing your tax return; or want to download free publications, forms, or instructions, go to IRS.gov to find resources that can help you right away.
+
+Tax reform.
+
+Tax reform legislation impacting federal taxes, credits, and deductions was enacted in P.L. 119-21, commonly known as the One Big Beautiful Bill Act, on July 4, 2025. Go to IRS.gov/OBBB for more information and updates on how this legislation affects your taxes.
+
+Preparing and filing your tax return.
+
+After receiving all your wage and earnings statements (Forms W-2, W-2G, 1099-R, 1099-MISC, 1099-NEC, etc.); unemployment compensation statements (by mail or in a digital format) or other government payment statements (Form 1099-G); and interest, dividend, and retirement statements from banks and investment firms (Forms 1099), you have several options to choose from to prepare and file your tax return. You can prepare the tax return yourself, see if you qualify for free tax preparation, or hire a tax professional to prepare your return.
+
+Free options for tax preparation.
+
+Your options for preparing and filing your return online or in your local community, if you qualify, include the following.
+
+-
+
+Free File. This program lets you prepare and file your federal individual income tax return for free using software or Free File Fillable Forms. However, state tax preparation may not be available through Free File. Go to IRS.gov/FreeFile to see if you qualify for free online federal tax preparation, e-filing, and direct deposit or payment options.
+
+-
+
+VITA. The Volunteer Income Tax Assistance (VITA) program offers free tax help to people with low-to-moderate incomes, persons with disabilities, and limited-English-speaking taxpayers who need help preparing their own tax returns. Go to IRS.gov/VITA , download the free IRS2Go app, or call 800-906-9887 for information on free tax return preparation.
+
+-
+
+TCE. The Tax Counseling for the Elderly (TCE) program offers free tax help for all taxpayers, particularly those who are 60 years of age and older. TCE volunteers specialize in answering questions about pensions and retirement-related issues unique to seniors. Go to IRS.gov/TCE or download the free IRS2Go app for information on free tax return preparation.
+
+-
+
+MilTax. Members of the U.S. Armed Forces and qualified veterans may use MilTax, a free tax service offered by the Department of Defense through Military OneSource. For more information, go to MilitaryOneSource ( MilitaryOneSource.mil/MilTax ).
+
+Also, the IRS offers Free Fillable Forms, which can be completed online and then e-filed regardless of income.
+
+Using online tools to help prepare your return.
+
+Go to IRS.gov/Tools for the following.
+
+-
+
+The Earned Income Tax Credit Assistant ( IRS.gov/EITCAssistant ) determines if you’re eligible for the earned income credit (EITC).
+
+-
+
+The Online EIN Application ( IRS.gov/EIN ) helps you get an employer identification number (EIN) at no cost.
+
+-
+
+The Tax Withholding Estimator ( IRS.gov/W4App ) makes it easier for you to estimate the federal income tax you want your employer to withhold from your paycheck. This is tax withholding. See how your withholding affects your refund, take-home pay, or tax due.
+
+-
+
+The Sales Tax Deduction Calculator ( IRS.gov/SalesTax ) figures the amount you can claim if you itemize deductions on Schedule A (Form 1040).
+
+. Getting answers to your tax questions. On IRS.gov, you can get up-to-date information on current events and changes in tax law. .
+
+-
+
+IRS.gov/Help : A variety of tools to help you get answers to some of the most common tax questions.
+
+-
+
+IRS.gov/ITA : The Interactive Tax Assistant, a tool that will ask you questions and, based on your input, provide answers on a number of tax topics.
+
+-
+
+IRS.gov/Forms : Find forms, instructions, and publications. You will find details on the most recent tax changes and interactive links to help you find answers to your questions.
+
+-
+
+You may also be able to access tax information in your e-filing software.
+
+.
+
+Need someone to prepare your tax return?
+
+There are various types of tax return preparers, including enrolled agents, certified public accountants (CPAs), accountants, and many others who don’t have professional credentials. If you choose to have someone prepare your tax return, choose that preparer wisely. A paid tax preparer is:
+
+-
+
+Primarily responsible for the overall substantive accuracy of your return,
+
+-
+
+Required to sign the return, and
+
+-
+
+Required to include their preparer tax identification number (PTIN).
+
+. Although the tax preparer always signs the return, you’re ultimately responsible for providing all the information required for the preparer to accurately prepare your return and for the accuracy of every item reported on the return. Anyone paid to prepare tax returns for others should have a thorough understanding of tax matters. For more information on how to choose a tax preparer, go to Tips for Choosing a Tax Preparer on IRS.gov. .
+
+Employers can register to use Business Services Online.
+
+The Social Security Administration (SSA) offers online service at SSA.gov/employer for fast, free, and secure W-2 filing options to CPAs, accountants, enrolled agents, and individuals who process Form W-2, Wage and Tax Statement; and Form W-2c, Corrected Wage and Tax Statement.
+
+Business tax account.
+
+If you are a sole proprietor, a partnership, an S corporation, a C corporation, or a single-member limited liability company (LLC), you can view your tax information on record with the IRS and do more with a business tax account. Go to IRS.gov/BusinessAccount for more information.
+
+IRS social media.
+
+Go to IRS.gov/SocialMedia to see the various social media tools the IRS uses to share the latest information on tax changes, scam alerts, initiatives, products, and services. At the IRS, privacy and security are our highest priority. We use these tools to share public information with you. Don’t post your social security number (SSN) or other confidential information on social media sites. Always protect your identity when using any social networking site.
+
+The following IRS YouTube channels provide short, informative videos on various tax-related topics in English and ASL.
+
+-
+
+Youtube.com/irsvideos .
+
+-
+
+Youtube.com/irsvideosASL .
+
+Online tax information in other languages.
+
+You can find information on IRS.gov/MyLanguage if English isn’t your native language.
+
+Over-the-Phone Interpreter (OPI) Service.
+
+The IRS offers the OPI Service to taxpayers needing language interpretation. The OPI Service is available at Taxpayer Assistance Centers (TACs), most IRS offices, and every VITA/TCE tax return site. This service is available in Spanish, Mandarin, Cantonese, Korean, Vietnamese, Russian, and Haitian Creole.
+
+Accessibility Helpline available for taxpayers with disabilities.
+
+Taxpayers who need information about accessibility services can call 833-690-0598. The Accessibility Helpline can answer questions related to current and future accessibility products and services available in alternative media formats (for example, braille-ready, large print, audio, etc.). The Accessibility Helpline does not have access to your IRS account. For help with tax law, refunds, or account-related issues, go to IRS.gov/LetUsHelp .
+
+Alternative media preference.
+
+Form 9000, Alternative Media Preference, or Form 9000(SP) allows you to elect to receive certain types of written correspondence in the following formats.
+
+-
+
+Standard Print.
+
+-
+
+Large Print.
+
+-
+
+Braille.
+
+-
+
+Audio (MP3).
+
+-
+
+Plain Text File (TXT).
+
+-
+
+Braille-Ready File (BRF).
+
+Disasters.
+
+Go to IRS.gov/DisasterRelief to review the available disaster tax relief.
+
+Getting tax forms and publications.
+
+Go to IRS.gov/Forms to view, download, or print all the forms, instructions, and publications you may need. Or you can go to IRS.gov/OrderForms to place an order.
+
+Mobile-friendly forms.
+
+You’ll need an IRS Online Account (OLA) to complete mobile-friendly forms that require signatures. You’ll have the option to submit your form(s) online or download a copy for mailing. You’ll need scans of your documents to support your submission. Go to IRS.gov/MobileFriendlyForms for more information.
+
+Getting tax publications and instructions in eBook format.
+
+Download and view most tax publications and instructions (including the Instructions for Form 1040) on mobile devices as eBooks at IRS.gov/eBooks .
+
+IRS eBooks have been tested using Apple’s iBooks for iPad. Our eBooks haven’t been tested on other dedicated eBook readers, and eBook functionality may not operate as intended.
+
+Access your online account (individual taxpayers only).
+
+Go to IRS.gov/Account to securely access information about your federal tax account.
+
+-
+
+View the amount you owe and a breakdown by tax year.
+
+-
+
+See payment plan details or apply for a new payment plan.
+
+-
+
+Make a payment or view 5 years of payment history and any pending or scheduled payments.
+
+-
+
+Access your tax records, including key data from your most recent tax return, and transcripts.
+
+-
+
+View digital copies of select notices from the IRS.
+
+-
+
+Approve or reject authorization requests from tax professionals.
+
+Get a transcript of your return.
+
+With an online account, you can access a variety of information to help you during the filing season. You can get a transcript, review your most recently filed tax return, and get your adjusted gross income. Create or access your online account at IRS.gov/Account .
+
+Tax Pro Account.
+
+This tool lets your tax professional submit an authorization request to access your individual taxpayer IRS OLA. For more information, go to IRS.gov/TaxProAccount .
+
+Using direct deposit.
+
+The safest and easiest way to receive a tax refund is to e-file and choose direct deposit, which securely and electronically transfers your refund directly into your financial account. Direct deposit also avoids the possibility that your check could be lost, stolen, destroyed, or returned undeliverable to the IRS. Eight in 10 taxpayers use direct deposit to receive their refunds. If you don’t have a bank account, go to IRS.gov/DirectDeposit for more information on where to find a bank or credit union that can open an account online.
+
+Reporting and resolving your tax-related identity theft issues.
+
+-
+
+Tax-related identity theft happens when someone steals your personal information to commit tax fraud. Your taxes can be affected if your SSN is used to file a fraudulent return or to claim a refund or credit.
+
+-
+
+The IRS doesn’t initiate contact with taxpayers by email, text messages (including shortened links), telephone calls, or social media channels to request or verify personal or financial information. This includes requests for personal identification numbers (PINs), passwords, or similar information for credit cards, banks, or other financial accounts.
+
+-
+
+Go to IRS.gov/IdentityTheft , the IRS Identity Theft Central webpage, for information on identity theft and data security protection for taxpayers, tax professionals, and businesses. If your SSN has been lost or stolen or you suspect you’re a victim of tax-related identity theft, you can learn what steps you should take.
+
+-
+
+Get an Identity Protection PIN (IP PIN). IP PINs are six-digit numbers assigned to taxpayers to help prevent the misuse of their SSNs on fraudulent federal income tax returns. When you have an IP PIN, it prevents someone else from filing a tax return with your SSN. To learn more, go to IRS.gov/IPPIN .
+
+Ways to check on the status of your refund.
+
+-
+
+Go to IRS.gov/Refunds .
+
+-
+
+Download the official IRS2Go app to your mobile device to check your refund status.
+
+-
+
+Call the automated refund hotline at 800-829-1954.
+
+. The IRS can’t issue refunds before mid-February for returns that claimed the EITC or the additional child tax credit (ACTC). This applies to the entire refund, not just the portion associated with these credits. .
+
+Making a tax payment.
+
+The IRS recommends paying electronically whenever possible. Options to pay electronically are included in the list below. Payments of U.S. tax must be remitted to the IRS in U.S. dollars. Digital assets are not accepted. Go to IRS.gov/Payments for information on how to make a payment using any of the following options.
+
+-
+
+IRS Direct Pay : Pay taxes from your bank account. It’s free and secure, and no sign-in is required. You can change or cancel within 2 days of scheduled payment.
+
+-
+
+Debit Card, Credit Card, or Digital Wallet : Choose an approved payment processor to pay online or by phone.
+
+-
+
+Electronic Funds Withdrawal : Schedule a payment when filing your federal taxes using tax return preparation software or through a tax professional.
+
+-
+
+Electronic Federal Tax Payment System : This is the best option for businesses. Enrollment is required.
+
+-
+
+Check or Money Order : Mail your payment to the address listed on the notice or instructions.
+
+-
+
+Cash : You may be able to pay your taxes with cash at a participating retail store.
+
+-
+
+Same-Day Wire : You may be able to do same-day wire from your financial institution. Contact your financial institution for availability, cost, and time frames.
+
+Note:
+
+The IRS uses the latest encryption technology to ensure that the electronic payments you make online, by phone, or from a mobile device using the IRS2Go app are safe and secure. Paying electronically is quick and easy.
+
+What if I can’t pay now?
+
+Go to IRS.gov/Payments for more information about your options.
+
+-
+
+Apply for an online payment agreement ( IRS.gov/OPA ) to meet your tax obligation in monthly installments if you can’t pay your taxes in full today. Once you complete the online process, you will receive immediate notification of whether your agreement has been approved.
+
+-
+
+Use the Offer in Compromise Pre-Qualifier to see if you can settle your tax debt for less than the full amount you owe. For more information on the Offer in Compromise program, go to IRS.gov/OIC .
+
+Filing an amended return.
+
+Go to IRS.gov/1040X for information and updates.
+
+Checking the status of your amended return.
+
+Go to IRS.gov/WMAR to track the status of Form 1040-X amended returns.
+
+. It can take up to 3 weeks from the date you filed your amended return for it to show up in our system, and processing it can take up to 16 weeks. .
+
+Understanding an IRS notice or letter you’ve received.
+
+Go to IRS.gov/Notices to find additional information about responding to an IRS notice or letter.
+
+IRS Document Upload Tool.
+
+You may be able to use the Document Upload Tool to respond digitally to eligible IRS notices and letters by securely uploading required documents online through IRS.gov. For more information, go to IRS.gov/DUT .
+
+Schedule LEP.
+
+You can use Schedule LEP (Form 1040), Request for Change in Language Preference, to state a preference to receive notices, letters, or other written communications from the IRS in an alternative language. You may not immediately receive written communications in the requested language. The IRS’s commitment to LEP taxpayers is part of a multi-year timeline that began providing translations in 2023. You will continue to receive communications, including notices and letters, in English until they are translated to your preferred language.
+
+Contacting your local TAC.
+
+Keep in mind, many questions can be answered on IRS.gov without visiting a TAC. Go to IRS.gov/LetUsHelp for the topics people ask about most. If you still need help, TACs provide tax help when a tax issue can’t be handled online or by phone. All TACs now provide service by appointment, so you’ll know in advance that you can get the service you need without long wait times. Before you visit, go to IRS.gov/TAC to find the nearest TAC and to check hours, available services, and appointment options. Or, on the IRS2Go app, under the Stay Connected tab, choose the Contact Us option and click on “Local Offices.”
+
+————————————————————————
+
+Below is a message to you from the Taxpayer Advocate Service, an independent organization established by Congress.
+
+The Taxpayer Advocate Service (TAS) Is Here To Help You
+
+What Is the Taxpayer Advocate Service?
+
+The Taxpayer Advocate Service (TAS) is an independent organization within the Internal Revenue Service (IRS). TAS helps taxpayers resolve problems with the IRS, makes administrative and legislative recommendations to prevent or correct the problems, and protects taxpayer rights. We work to ensure that every taxpayer is treated fairly and that you know and understand your rights under the Taxpayer Bill of Rights. We are Your Voice at the IRS.
+
+How Can TAS Help Me?
+
+TAS can help you resolve problems that you haven’t been able to resolve with the IRS on your own. Always try to resolve your problem with the IRS first, but if you can’t, then come to TAS. Our services are free .
+
+-
+
+TAS helps all taxpayers (and their representatives), including individuals, businesses, and exempt organizations. You may be eligible for TAS help if your IRS problem is causing financial difficulty, if you’ve tried and been unable to resolve your issue with the IRS, or if you believe an IRS system, process, or procedure just isn’t working as it should.
+
+-
+
+To get help any time with general tax topics, visit www.TaxpayerAdvocate.IRS.gov . The site can help you with common tax issues and situations, such as what to do if you make a mistake on your return or if you get a notice from the IRS.
+
+-
+
+TAS works to resolve large-scale (systemic) problems that affect many taxpayers. You can report systemic issues at www.IRS.gov/SAMS . (Be sure not to include any personal identifiable information.)
+
+How Do I Contact TAS?
+
+TAS has offices in every state, the District of Columbia, and Puerto Rico. To find your local advocate’s number:
+
+-
+
+Go to www.TaxpayerAdvocate.IRS.gov/Contact-Us ,
+
+-
+
+Check your local directory, or
+
+-
+
+Call TAS toll free at 877-777-4778.
+
+What Are My Rights as a Taxpayer?
+
+The Taxpayer Bill of Rights describes ten basic rights that all taxpayers have when dealing with the IRS. Go to www.TaxpayerAdvocate.IRS.gov/Taxpayer-Rights for more information about the rights, what they mean to you, and how they apply to specific situations you may encounter with the IRS. TAS strives to protect taxpayer rights and ensure the IRS is administering the tax law in a fair and equitable way.
+
+Appendices
+
+Appendices A-1 through A-7 show the lease inclusion amounts that you may need to report if you first leased a passenger automobile (including a truck and van) in 2018 through 2025 for 30 days or more.
+
+If any of these apply to you, use the appendix for the year you first leased the car. (See Leasing a Car in chapter 4.)
+
+Appendix A-1. Inclusion Amounts for Passenger Automobiles First Leased in 2018
+
+Fair market value (FMV) | Tax year of lease 1
+Over | Not over | 1st | 2nd | 3rd | 4th | 5th and later
+$50,000 | $51,000 | $1 | $3 | $5 | $5 | $6
+51,000 | 52,000 | 4 | 9 | 13 | 16 | 19
+52,000 | 53,000 | 7 | 15 | 22 | 27 | 31
+53,000 | 54,000 | 10 | 21 | 31 | 37 | 44
+54,000 | 55,000 | 12 | 27 | 40 | 48 | 56
+55,000 | 56,000 | 15 | 33 | 49 | 59 | 68
+56,000 | 57,000 | 18 | 39 | 58 | 69 | 81
+57,000 | 58,000 | 20 | 45 | 67 | 80 | 93
+58,000 | 59,000 | 23 | 51 | 76 | 91 | 105
+59,000 | 60,000 | 26 | 57 | 85 | 101 | 117
+60,000 | 62,000 | 30 | 66 | 98 | 118 | 135
+62,000 | 64,000 | 36 | 78 | 116 | 139 | 160
+64,000 | 66,000 | 41 | 90 | 134 | 160 | 185
+66,000 | 68,000 | 46 | 102 | 152 | 181 | 210
+68,000 | 70,000 | 52 | 114 | 169 | 203 | 235
+70,000 | 72,000 | 57 | 126 | 187 | 225 | 259
+72,000 | 74,000 | 63 | 138 | 205 | 246 | 284
+74,000 | 76,000 | 68 | 150 | 223 | 267 | 309
+76,000 | 78,000 | 74 | 162 | 241 | 288 | 333
+78,000 | 80,000 | 79 | 174 | 259 | 310 | 357
+80,000 | 85,000 | 89 | 195 | 290 | 347 | 401
+85,000 | 90,000 | 102 | 225 | 335 | 400 | 463
+90,000 | 95,000 | 116 | 255 | 379 | 454 | 525
+95,000 | 100,000 2 | 130 | 285 | 423 | 508 | 586
+1 For the last tax year of the lease, use the dollar amount for the preceding year.
+2 If the FMV of the vehicle is more than $100,000, see Revenue Procedure 2018-25 (2018-18 I.R.B. 543), available at IRS.gov/pub/irs-drop/rp-18-25.pdf .
+
+Appendix A-2. Inclusion Amounts for Passenger Automobiles First Leased in 2019
+
+Fair market value (FMV) | Tax year of lease 1
+Over | Not over | 1st | 2nd | 3rd | 4th | 5th and later
+$50,000 | $51,000 | $0 | $1 | $1 | $3 | $3
+51,000 | 52,000 | 4 | 11 | 15 | 20 | 23
+52,000 | 53,000 | 9 | 20 | 30 | 36 | 43
+53,000 | 54,000 | 13 | 30 | 44 | 53 | 63
+54,000 | 55,000 | 17 | 40 | 58 | 70 | 83
+55,000 | 56,000 | 22 | 49 | 72 | 88 | 102
+56,000 | 57,000 | 26 | 59 | 86 | 105 | 122
+57,000 | 58,000 | 31 | 68 | 101 | 122 | 142
+58,000 | 59,000 | 35 | 78 | 115 | 139 | 161
+59,000 | 60,000 | 39 | 88 | 129 | 156 | 181
+60,000 | 62,000 | 46 | 102 | 151 | 181 | 211
+62,000 | 64,000 | 55 | 121 | 179 | 216 | 250
+64,000 | 66,000 | 63 | 140 | 208 | 251 | 289
+66,000 | 68,000 | 72 | 160 | 236 | 284 | 329
+68,000 | 70,000 | 81 | 179 | 265 | 318 | 369
+70,000 | 72,000 | 90 | 198 | 293 | 353 | 408
+72,000 | 74,000 | 98 | 217 | 322 | 387 | 448
+74,000 | 76,000 | 107 | 236 | 351 | 421 | 487
+76,000 | 78,000 | 116 | 255 | 379 | 456 | 526
+78,000 | 80,000 | 125 | 275 | 407 | 489 | 567
+80,000 | 85,000 | 140 | 308 | 458 | 549 | 635
+85,000 | 90,000 | 162 | 356 | 529 | 635 | 734
+90,000 | 95,000 | 184 | 404 | 600 | 720 | 833
+95,000 | 100,000 2 | 206 | 452 | 671 | 806 | 931
+1 For the last tax year of the lease, use the dollar amount for the preceding year.
+2 If the FMV of the vehicle is more than $100,000, see Revenue Procedure 2019-26 (2019-24 I.R.B. 1323), available at IRS.gov/pub/irs-drop/rp-19-26.pdf .
+
+Appendix A-3. Inclusion Amounts for Passenger Automobiles First Leased in 2020
+
+Fair market value (FMV) | Tax year of lease 1
+Over | Not over | 1st | 2nd | 3rd | 4th | 5th and later
+$50,000 | $51,000 | $0 | $1 | $0 | $2 | $2
+51,000 | 52,000 | 2 | 6 | 9 | 10 | 13
+52,000 | 53,000 | 5 | 11 | 17 | 20 | 24
+53,000 | 54,000 | 7 | 17 | 24 | 30 | 35
+54,000 | 55,000 | 10 | 22 | 32 | 39 | 46
+55,000 | 56,000 | 12 | 27 | 41 | 48 | 57
+56,000 | 57,000 | 15 | 32 | 49 | 58 | 68
+57,000 | 58,000 | 17 | 38 | 56 | 68 | 79
+58,000 | 59,000 | 19 | 44 | 64 | 77 | 90
+59,000 | 60,000 | 22 | 49 | 72 | 87 | 100
+60,000 | 62,000 | 26 | 56 | 84 | 102 | 117
+62,000 | 64,000 | 30 | 68 | 99 | 121 | 139
+64,000 | 66,000 | 35 | 78 | 116 | 139 | 161
+66,000 | 68,000 | 40 | 89 | 131 | 159 | 183
+68,000 | 70,000 | 45 | 99 | 148 | 177 | 205
+70,000 | 72,000 | 50 | 110 | 163 | 197 | 227
+72,000 | 74,000 | 55 | 121 | 179 | 215 | 249
+74,000 | 76,000 | 60 | 131 | 195 | 235 | 271
+76,000 | 78,000 | 64 | 142 | 211 | 254 | 293
+78,000 | 80,000 | 69 | 153 | 227 | 272 | 315
+80,000 | 85,000 | 78 | 172 | 254 | 306 | 353
+85,000 | 90,000 | 90 | 198 | 295 | 353 | 408
+90,000 | 95,000 | 102 | 225 | 334 | 401 | 463
+95,000 | 100,000 2 | 114 | 252 | 373 | 449 | 518
+1 For the last tax year of the lease, use the dollar amount for the preceding year.
+2 If the FMV of the vehicle is more than $100,000, see Revenue Procedure 2020-37 (2020-33 I.R.B. 381), available at IRS.gov/pub/irs-drop/rp-20-37.pdf .
+
+Appendix A-4. Inclusion Amounts for Passenger Automobiles First Leased in 2021
+
+Fair market value (FMV) | Tax year of lease 1
+Over | Not over | 1st | 2nd | 3rd | 4th | 5th and later
+$51,000 | $52,000 | $0 | $0 | $1 | $0 | $1
+52,000 | 53,000 | 1 | 1 | 1 | 2 | 2
+53,000 | 54,000 | 1 | 2 | 2 | 3 | 4
+54,000 | 55,000 | 1 | 3 | 3 | 5 | 5
+55,000 | 56,000 | 2 | 3 | 5 | 6 | 6
+56,000 | 57,000 | 2 | 4 | 6 | 7 | 8
+57,000 | 58,000 | 2 | 5 | 7 | 8 | 10
+58,000 | 59,000 | 3 | 5 | 8 | 10 | 11
+59,000 | 60,000 | 3 | 6 | 9 | 11 | 13
+60,000 | 62,000 | 3 | 7 | 11 | 13 | 15
+62,000 | 64,000 | 4 | 9 | 13 | 15 | 18
+64,000 | 66,000 | 5 | 10 | 15 | 18 | 21
+66,000 | 68,000 | 5 | 12 | 17 | 21 | 24
+68,000 | 70,000 | 6 | 13 | 20 | 23 | 27
+70,000 | 72,000 | 7 | 14 | 22 | 26 | 30
+72,000 | 74,000 | 7 | 16 | 24 | 29 | 33
+74,000 | 76,000 | 8 | 18 | 26 | 31 | 36
+76,000 | 78,000 | 9 | 19 | 28 | 34 | 39
+78,000 | 80,000 | 9 | 21 | 30 | 37 | 42
+80,000 | 85,000 | 11 | 23 | 34 | 41 | 48
+85,000 | 90,000 | 12 | 27 | 40 | 47 | 55
+90,000 | 95,000 | 14 | 30 | 45 | 55 | 62
+95,000 | 100,000 2 | 16 | 34 | 50 | 61 | 70
+1 For the last tax year of the lease, use the dollar amount for the preceding year.
+2 If the FMV of the vehicle is more than $100,000, see Revenue Procedure 2021-31 (2021-34 I.R.B. 324), available at IRS.gov/pub/irs-drop/rp-21-31.pdf .
+
+Appendix A-5. Inclusion Amounts for Passenger Automobiles First Leased in 2022
+
+Fair market value (FMV) | Tax year of lease 1
+Over | Not over | 1st | 2nd | 3rd | 4th | 5th and later
+$56,000 | $57,000 | $1 | $1 | $1 | $2 | $2
+57,000 | 58,000 | 2 | 4 | 5 | 7 | 7
+58,000 | 59,000 | 3 | 7 | 9 | 11 | 13
+59,000 | 60,000 | 4 | 9 | 14 | 16 | 19
+60,000 | 62,000 | 6 | 13 | 20 | 23 | 28
+62,000 | 64,000 | 9 | 19 | 27 | 34 | 38
+64,000 | 66,000 | 11 | 24 | 36 | 43 | 50
+66,000 | 68,000 | 14 | 30 | 43 | 53 | 61
+68,000 | 70,000 | 16 | 35 | 52 | 63 | 72
+70,000 | 72,000 | 19 | 40 | 61 | 72 | 83
+72,000 | 74,000 | 21 | 46 | 68 | 82 | 95
+74,000 | 76,000 | 24 | 51 | 77 | 91 | 106
+76,000 | 78,000 | 26 | 57 | 85 | 101 | 117
+78,000 | 80,000 | 29 | 62 | 93 | 111 | 128
+80,000 | 85,000 | 33 | 72 | 107 | 128 | 148
+85,000 | 90,000 | 39 | 86 | 127 | 152 | 176
+90,000 | 95,000 | 45 | 100 | 147 | 177 | 204
+95,000 | 100,000 2 | 52 | 113 | 167 | 201 | 233
+1 For the last tax year of the lease, use the dollar amount for the preceding year.
+2 If the FMV of the vehicle is more than $100,000, see Revenue Procedure 2022-17 (2022-13 I.R.B. 930), available at IRS.gov/pub/irs-drop/rp-22-17.pdf .
+
+Appendix A-6. Inclusion Amounts for Passenger Automobiles First Leased in 2023
+
+Fair market value (FMV) | Tax year of lease 1
+Over | Not over | 1st | 2nd | 3rd | 4th | 5th and later
+$60,000 | $62,000 | $0 | $0 | $1 | $3 | $5
+62,000 | 64,000 | 13 | 29 | 43 | 54 | 63
+64,000 | 66,000 | 26 | 57 | 86 | 104 | 122
+66,000 | 68,000 | 39 | 86 | 128 | 154 | 181
+68,000 | 70,000 | 52 | 114 | 170 | 206 | 239
+70,000 | 72,000 | 65 | 143 | 212 | 256 | 297
+72,000 | 74,000 | 78 | 171 | 255 | 306 | 356
+74,000 | 76,000 | 91 | 200 | 296 | 358 | 414
+76,000 | 78,000 | 104 | 228 | 339 | 408 | 473
+78,000 | 80,000 | 117 | 257 | 381 | 459 | 531
+80,000 | 85,000 | 140 | 306 | 455 | 548 | 634
+85,000 | 90,000 | 172 | 378 | 560 | 674 | 780
+90,000 | 95,000 | 204 | 449 | 666 | 801 | 926
+95,000 | 100,000 2 | 237 | 520 | 772 | 927 | 1,073
+1 For the last tax year of the lease, use the dollar amount for the preceding year.
+2 If the FMV of the vehicle is more than $100,000, see Revenue Procedure 2023-14 (2023-6 I.R.B. 466), available at IRS.gov/pub/irs-drop/rp-23-14.pdf .
+
+Appendix A-7. Inclusion Amounts for Passenger Automobiles First Leased in 2024
+
+Fair market value (FMV) | Tax year of lease 1
+Over | Not over | 1st | 2nd | 3rd | 4th | 5th and later
+$62,000 | $64,000 | $7 | $16 | $24 | $28 | $32
+64,000 | 66,000 | 21 | 47 | 69 | 82 | 94
+66,000 | 68,000 | 35 | 77 | 114 | 136 | 157
+68,000 | 70,000 | 49 | 107 | 159 | 191 | 219
+70,000 | 72,000 | 62 | 138 | 204 | 245 | 281
+72,000 | 74,000 | 76 | 168 | 250 | 298 | 344
+74,000 | 76,000 | 90 | 199 | 294 | 353 | 406
+76,000 | 78,000 | 104 | 229 | 340 | 406 | 469
+78,000 | 80,000 | 118 | 259 | 385 | 461 | 531
+80,000 | 85,000 | 142 | 313 | 463 | 556 | 640
+85,000 | 90,000 | 177 | 388 | 577 | 690 | 797
+90,000 | 95,000 | 211 | 465 | 689 | 826 | 952
+95,000 | 100,000 2 | 246 | 541 | 802 | 961 | 1,108
+1 For the last tax year of the lease, use the dollar amount for the preceding year.
+2 If the FMV of the vehicle is more than $100,000, see Revenue Procedure 2024-13 (2024-09 I.R.B. 678), available at IRS.gov/pub/irs-drop/rp-24-13.pdf .
+
+Appendix A-8. Inclusion Amounts for Passenger Automobiles First Leased in 2025
+
+Fair market value (FMV) | Tax year of lease 1
+Over | Not over | 1st | 2nd | 3rd | 4th | 5th and later
+$62,000 | $64,000 | $13 | $26 | $36 | $43 | $50
+64,000 | 66,000 | 25 | 53 | 78 | 92 | 107
+66,000 | 68,000 | 38 | 81 | 118 | 142 | 163
+68,000 | 70,000 | 50 | 109 | 159 | 191 | 220
+70,000 | 72,000 | 63 | 136 | 201 | 240 | 277
+72,000 | 74,000 | 76 | 164 | 241 | 289 | 334
+74,000 | 76,000 | 88 | 192 | 282 | 338 | 391
+76,000 | 78,000 | 101 | 219 | 324 | 387 | 447
+78,000 | 80,000 | 113 | 247 | 364 | 437 | 504
+80,000 | 85,000 | 135 | 295 | 437 | 522 | 604
+85,000 | 90,000 | 167 | 364 | 539 | 646 | 745
+90,000 | 95,000 | 198 | 434 | 641 | 768 | 888
+95,000 | 100,000 2 | 230 | 502 | 744 | 892 | 1,029
+1 For the last tax year of the lease, use the dollar amount for the preceding year.
+2 If the FMV of the vehicle is more than $100,000, see Revenue Procedure 2025-16 (2025-11 I.R.B. 1100), available at IRS.gov/pub/irs-drop/rp-25-16.pdf .

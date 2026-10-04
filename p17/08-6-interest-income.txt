@@ -1,0 +1,957 @@
+IRS Pub 17 (2025) | 6. Interest Income
+
+6. Interest Income
+
+Reminders
+
+Foreign source income. If you are a U.S. citizen with interest income from sources outside the United States (foreign income), you must report that income on your tax return unless it is exempt by U.S. law. This is true whether you reside inside or outside the United States and whether or not you receive a Form 1099 from the foreign payer.
+
+Automatic 6-month extension. If you receive your Form 1099 reporting your interest income late and you need more time to file your tax return, you can request a 6-month extension of time to file. See Automatic Extension in chapter 1.
+
+Children who have unearned income. See Form 8615 and its instructions for the rules and rates that apply to certain children with unearned income.
+
+Introduction
+
+This chapter discusses the following topics.
+
+-
+
+Different types of interest income.
+
+-
+
+What interest is taxable and what interest is nontaxable.
+
+-
+
+When to report interest income.
+
+-
+
+How to report interest income on your tax return.
+
+In general, any interest you receive or that is credited to your account and can be withdrawn is taxable income. Exceptions to this rule are discussed later in this chapter.
+
+You may be able to deduct expenses you have in earning this income on Schedule A (Form 1040) if you itemize your deductions. See Money borrowed to invest in certificate of deposit , later, and chapter 12 .
+
+Useful Items
+
+You may want to see:
+
+Publication
+
+-
+
+525 Taxable and Nontaxable Income
+
+-
+
+537 Installment Sales
+
+-
+
+550 Investment Income and Expenses
+
+-
+
+555 Community Property
+
+-
+
+1212 Guide to Original Issue Discount (OID) Instruments
+
+Form (and Instructions)
+
+-
+
+1040 U.S. Individual Income Tax Return
+
+-
+
+1040-SR U.S. Income Tax Return for Seniors
+
+-
+
+Schedule A (Form 1040) Itemized Deductions
+
+-
+
+Schedule B (Form 1040) Interest and Ordinary Dividends
+
+-
+
+Schedule K-1 (Form 1041) Beneficiary’s Share of Income, Deductions, Credits, etc.
+
+-
+
+Schedule K-1 (Form 1065) Partner’s Share of Income, Deductions, Credits, etc.
+
+-
+
+Schedule K-1 (Form 1120-S) Shareholder’s Share of Income, Deductions, Credits, etc.
+
+-
+
+W-9 Request for Taxpayer Identification Number and Certification
+
+-
+
+1099 General Instructions for Certain Information Returns
+
+-
+
+1099-INT Interest Income
+
+-
+
+1099-DIV Dividends and Distributions
+
+-
+
+1099-OID Original Issue Discount
+
+-
+
+1099-R Distributions From Pensions, Annuities, Retirement or Profit-Sharing Plans, IRAs, Insurance Contracts, etc.
+
+-
+
+3115 Application for Change in Accounting Method
+
+-
+
+6251 Alternative Minimum Tax — Individuals
+
+-
+
+8615 Tax for Certain Children Who Have Unearned Income
+
+-
+
+8814 Parents’ Election To Report Child’s Interest and Dividends
+
+-
+
+8815 Exclusion of Interest From Series EE and I U.S. Savings Bonds Issued After 1989
+
+For these and other useful items, go to IRS.gov/Forms .
+
+General Information
+
+A few items of general interest are covered here.
+
+. Recordkeeping. You should keep a list showing sources of interest income and interest amounts received during the year. Also, keep the forms you receive showing your interest income (Forms 1099-INT, for example) as an important part of your records. .
+
+Tax on unearned income of certain children.
+
+Part of a child’s 2025 unearned income may be taxed at the parent’s tax rate. If so, Form 8615 must be completed and attached to the child’s tax return. If not, Form 8615 isn’t required and the child’s income is taxed at his or her own tax rate.
+
+Some parents can choose to include the child’s interest and dividends on the parent’s return. If you can, use Form 8814 for this purpose.
+
+For more information about the tax on unearned income of children and the parents’ election, go to Form 8615 .
+
+Beneficiary of an estate or trust.
+
+Interest you receive as a beneficiary of an estate or trust is generally taxable income. You should receive a Schedule K-1 (Form 1041) from the fiduciary. Your copy of Schedule K-1 (Form 1041) and its instructions will tell you where to report the income on your Form 1040 or 1040-SR.
+
+Taxpayer identification number (TIN).
+
+You must give your name and TIN (either a social security number (SSN), an employer identification number (EIN), an adoption taxpayer identification number (ATIN), or an individual tax identification number (ITIN)) to any person required by federal tax law to make a return, statement, or other document that relates to you. This includes payers of interest. If you don’t give your TIN to the payer of interest, the payer will generally be required to backup withhold on the interest payments at a rate of 24%, and you may also be subject to a penalty. Use Form W-9 to provide the necessary information. See Form W-9 and its instructions.
+
+TIN for joint account.
+
+Generally, if the funds in a joint account belong to one person, list that person’s name first on the account and give that person’s TIN to the payer. (For information on who owns the funds in a joint account, see Joint accounts , later.) If the joint account contains combined funds, give the TIN of the person whose name is listed first on the account.
+
+These rules apply to both joint ownership by a married couple and to joint ownership by other individuals. For example, if you open a joint savings account with your child using funds belonging to the child, list the child’s name first on the account and give the child’s TIN.
+
+Form W-9 and its instructions provide: If this Form W-9 is for a joint account (other than an account maintained by a foreign financial institution (FFI)), list first and then circle the name of the person or entity whose number you entered in Form W-9, Part I. If you are providing Form W-9 to an FFI to document a joint account, each holder of the account that is a U.S. person must provide a Form W-9. See Form W-9 and its instructions.
+
+Custodian account for your child.
+
+If your child is the actual owner of an account that is recorded in your name as custodian for the child, give the child’s TIN to the payer. For example, you must give your child’s SSN to the payer of interest on an account owned by your child, even though the interest is paid to you as custodian.
+
+Penalty for failure to supply TIN.
+
+If you don’t give your TIN to the payer of interest, you may have to pay a penalty. See Failure to supply SSN under Penalties in chapter 1. Backup withholding may also apply.
+
+Backup withholding.
+
+Your interest income is generally not subject to regular withholding. However, it may be subject to backup withholding to ensure that income tax is collected on the income. Under backup withholding, the payer of interest must withhold, as income tax, on the amount you are paid, by applying the appropriate withholding rate. The current rate is 24%. Withholding is required only if there is a condition for backup withholding, such as failing to provide your TIN to the payer or failing to certify your TIN under penalties of perjury, if required.
+
+Backup withholding may also be required if the IRS has determined that you underreported your interest or dividend income. For more information, see Backup Withholding in chapter 4.
+
+Reporting backup withholding.
+
+If backup withholding is deducted from your interest income, the amount withheld will be reported on your Form 1099-INT. The Form 1099-INT will show any backup withholding as “Federal income tax withheld.”
+
+Joint accounts.
+
+If two or more persons hold property (such as a savings account or bond) as joint tenants, tenants by the entirety, or tenants in common, each person’s share of any interest from the property is determined by local law.
+
+Income from property given to a child.
+
+Property you give as a parent to your child under the Model Gifts of Securities to Minors Act, the Uniform Gifts to Minors Act, or any similar law becomes the child’s property.
+
+Income from the property is taxable to the child, except that any part used to satisfy a legal obligation to support the child is taxable to the parent or guardian having that legal obligation.
+
+Savings account with parent as trustee.
+
+Interest income from a savings account opened for a minor child but placed in the name and subject to the order of the parents as trustees is taxable to the child if, under the law of the state in which the child resides, both of the following are true.
+
+-
+
+The savings account legally belongs to the child.
+
+-
+
+The parents aren’t legally permitted to use any of the funds to support the child.
+
+Form 1099-INT.
+
+Interest income is generally reported to you on Form 1099-INT or a similar statement by banks, savings and loans, and other payers of interest. This form shows you the interest income you received during the year. Keep this form for your records. You don’t have to attach it to your tax return.
+
+Report on your tax return the total interest income you receive for the tax year. See the Form 1099-INT Instructions for Recipient to see whether you need to adjust any of the amounts reported to you.
+
+Interest not reported on Form 1099-INT.
+
+Even if you don’t receive a Form 1099-INT, you must still report all of your interest income. For example, you may receive distributive shares of interest from partnerships or S corporations. This interest is reported to you on Schedule K-1 (Form 1065) or Schedule K-1 (Form 1120-S).
+
+Nominees.
+
+Generally, if someone receives interest as a nominee for you, that person must give you a Form 1099-INT showing the interest received on your behalf.
+
+If you receive a Form 1099-INT and interest as a nominee for another person, see the discussion on nominee distributions under How To Report Interest Income in chapter 1 of Pub. 550 or the Schedule B (Form 1040) instructions.
+
+Incorrect amount.
+
+If you receive a Form 1099-INT that shows an incorrect amount or other incorrect information, you should ask the issuer for a corrected form. The new Form 1099-INT you receive will have the “CORRECTED” box checked.
+
+Form 1099-OID.
+
+Reportable interest income may also be shown on Form 1099-OID. For more information about amounts shown on this form, see Original Issue Discount (OID) , later in this chapter.
+
+. The box references discussed below are from the January 2024 revisions of Form 1099-INT and Form 1099-DIV. Later revisions may have different box references. .
+
+Exempt-interest dividends.
+
+Exempt-interest dividends you receive from a mutual fund or other regulated investment company (RIC) aren’t included in your taxable income. (However, see Information reporting requirement next.) Exempt-interest dividends should be shown on Form 1099-DIV, box 12. You don’t reduce your basis for distributions that are exempt-interest dividends.
+
+Information reporting requirement.
+
+Although exempt-interest dividends aren’t taxable, you must show them on your tax return if you have to file. This is an information reporting requirement and doesn’t change the exempt-interest dividends into taxable income.
+
+Note:
+
+Exempt-interest dividends paid by a mutual fund or other RIC on specified private activity bonds may be subject to the alternative minimum tax (AMT). The exempt-interest dividends subject to the AMT should be shown on Form 1099-DIV, box 13. See Alternative Minimum Tax (AMT) in chapter 13 for more information. Chapter 1 of Pub. 550 contains a discussion on private activity bonds under State or Local Government Obligations .
+
+Interest on Department of Veterans Affairs (VA) dividends.
+
+Interest on insurance dividends left on deposit with the VA isn’t taxable. This includes interest paid on dividends on converted United States Government Life Insurance and on National Service Life Insurance policies.
+
+Individual retirement arrangements (IRAs).
+
+Interest on a Roth IRA generally isn’t taxable. Interest on a traditional IRA is tax deferred. You generally don’t include interest earned in an IRA in your income until you make withdrawals from the IRA. See chapter 9 .
+
+Taxable Interest—General
+
+Taxable interest includes interest you receive from bank accounts, loans you make to others, and other sources. The following are some sources of taxable interest.
+
+Dividends that are actually interest.
+
+Certain distributions commonly called dividends are actually interest. You must report as interest so-called dividends on deposits or on share accounts in:
+
+-
+
+Cooperative banks,
+
+-
+
+Credit unions,
+
+-
+
+Domestic building and loan associations,
+
+-
+
+Domestic savings and loan associations,
+
+-
+
+Federal savings and loan associations, and
+
+-
+
+Mutual savings banks.
+
+The “dividends” will be shown as interest income on Form 1099-INT.
+
+Money market funds.
+
+Money market funds pay dividends and are offered by nonbank financial institutions, such as mutual funds and stock brokerage houses. Generally, amounts you receive from money market funds should be reported as dividends, not as interest.
+
+Certificates of deposit and other deferred interest accounts.
+
+If you buy a certificate of deposit or open a deferred interest account, interest may be paid at fixed intervals of 1 year or less during the term of the account. You must generally include this interest in your income when you actually receive it or are entitled to receive it without paying a substantial penalty. The same is true for accounts that mature in 1 year or less and pay interest in a single payment at maturity. If interest is deferred for more than 1 year, see Original Issue Discount (OID) , later.
+
+Interest subject to penalty for early withdrawal.
+
+If you withdraw funds from a deferred interest account before maturity, you may have to pay a penalty. You must report the total amount of interest paid or credited to your account during the year, without subtracting the penalty. See Penalty on early withdrawal of savings in chapter 1 of Pub. 550 for more information on how to report the interest and deduct the penalty.
+
+Money borrowed to invest in certificate of deposit.
+
+The interest you pay on money borrowed from a bank or savings institution to meet the minimum deposit required for a certificate of deposit from the institution and the interest you earn on the certificate are two separate items. You must report the total interest income you earn on the certificate in your income. If you itemize deductions, you can deduct the interest you pay as investment interest, up to the amount of your net investment income. See Interest Expenses in chapter 3 of Pub. 550.
+
+Example.
+
+You purchase a $10,000 certificate of deposit by borrowing $5,000 from Bank and adding an additional $5,000 of your funds. The certificate earned $575 at maturity in 2025, but you received only $265, which represented the $575 you earned minus $310 interest charged on your $5,000 loan. The bank gives you a Form 1099-INT for 2025 showing the $575 interest you earned. The bank also gives you a statement showing that you paid $310 of interest for 2025. You must include the $575 in your income. If you itemize your deductions on Schedule A (Form 1040), you can deduct $310, subject to the net investment income limit.
+
+Gift for opening account.
+
+If you receive noncash gifts or services for making deposits or for opening an account in a savings institution, you may have to report the value as interest.
+
+For deposits of less than $5,000, gifts or services valued at more than $10 must be reported as interest. For deposits of $5,000 or more, gifts or services valued at more than $20 must be reported as interest. The value is determined by the cost to the financial institution.
+
+Example.
+
+You open a savings account at your local bank and deposit $800. The account earns $20 interest. You also receive a $15 calculator. If no other interest is credited to your account during the year, the Form 1099-INT you receive will show $35 interest for the year. You must report $35 interest income on your tax return.
+
+Interest on insurance dividends.
+
+Interest on insurance dividends left on deposit with an insurance company that can be withdrawn annually is taxable to you in the year it is credited to your account. However, if you can withdraw it only on the anniversary date of the policy (or other specified date), the interest is taxable in the year that date occurs.
+
+Prepaid insurance premiums.
+
+Any increase in the value of prepaid insurance premiums, advance premiums, or premium deposit funds is interest if it is applied to the payment of premiums due on insurance policies or made available for you to withdraw.
+
+U.S. obligations.
+
+Interest on U.S. obligations issued by any agency or instrumentality of the United States, such as U.S. Treasury bills, notes, and bonds, is taxable for federal income tax purposes.
+
+Interest on tax refunds.
+
+Interest you receive on tax refunds is taxable income.
+
+Interest on condemnation award.
+
+If the condemning authority pays you interest to compensate you for a delay in payment of an award, the interest is taxable.
+
+Installment sale payments.
+
+If a contract for the sale or exchange of property provides for deferred payments, it also usually provides for interest payable with the deferred payments. Generally, that interest is taxable when you receive it. If little or no interest is provided for in a deferred payment contract, part of each payment may be treated as interest. See Unstated Interest and Original Issue Discount (OID) in Pub. 537.
+
+Interest on annuity contract.
+
+Accumulated interest on an annuity contract you sell before its maturity date is taxable.
+
+Usurious interest.
+
+Usurious interest is interest charged at an illegal rate. This is taxable as interest unless state law automatically changes it to a payment on the principal.
+
+Interest income on frozen deposits.
+
+Exclude from your gross income interest on frozen deposits. A deposit is frozen if at the end of the year you can’t withdraw any part of the deposit because:
+
+-
+
+The financial institution is or may become bankrupt or insolvent, or
+
+-
+
+The state where the institution is located has placed limits on withdrawals because other financial institutions in the state are bankrupt or insolvent.
+
+The amount of interest you must exclude is the interest that was credited on the frozen deposits minus the sum of:
+
+-
+
+The net amount you withdrew from these deposits during the year, and
+
+-
+
+The amount you could have withdrawn as of the end of the year (not reduced by any penalty for premature withdrawals of a time deposit).
+
+If you receive a Form 1099-INT for interest income on deposits that were frozen at the end of 2025, see Frozen deposits under How To Report Interest Income in chapter 1 of Pub. 550 for information about reporting this interest income exclusion on your tax return.
+
+The interest you exclude is treated as credited to your account in the following year. You must include it in income in the year you can withdraw it.
+
+Example.
+
+$100 of interest was credited on your frozen deposit during the year. You withdrew $80 but couldn’t withdraw any more as of the end of the year. You must include $80 in your income and exclude $20 from your income for the year. You must include the $20 in your income for the year you can withdraw it.
+
+Bonds traded flat.
+
+If you buy a bond at a discount when interest has been defaulted or when the interest has accrued but hasn’t been paid, the transaction is described as trading a bond flat. The defaulted or unpaid interest isn’t income and isn’t taxable as interest if paid later. When you receive a payment of that interest, it is a return of capital that reduces the remaining cost basis of your bond. Interest that accrues after the date of purchase, however, is taxable interest income for the year it is received or accrued. See Bonds Sold Between Interest Dates , later, for more information.
+
+Below-market loans.
+
+Generally, a “below-market loan” means any loan if (a) in the case of a gift or demand loan, interest is payable on the loan at a rate less than the applicable federal rate; or (b) in the case of a term loan, the amount loaned exceeds the present value (using a discount rate equal to the applicable federal rate) of all payments due under the loan. (See Code section 7872 for details.) Section 7872 applies to certain below-market loans, including gift loans, compensation-related loans, and corporation-shareholder loans. (See Code section 7872(c).) If you are the lender of a below-market loan, you may have additional interest income. See Below-Market Loans in chapter 1 of Pub. 550 for more information.
+
+U.S. Savings Bonds
+
+This section provides tax information on U.S. savings bonds. It explains how to report the interest income on these bonds and how to treat transfers of these bonds.
+
+U.S. savings bonds currently offered to individuals include Series EE bonds and Series I bonds.
+
+. For information about U.S. savings bonds, go to TreasuryDirect.gov/savings-bonds/ . .
+
+. If you prefer, write to:
+
+.
+
+Treasury Retail Securities Services
+
+P.O. Box 9150
+
+Minneapolis, MN 55480-9150
+
+.
+
+Accrual method taxpayers.
+
+If you use an accrual method of accounting, you must report interest on U.S. savings bonds each year as it accrues. You can’t postpone reporting interest until you receive it or until the bonds mature. Accrual methods of accounting are explained in chapter 1 under Accounting Methods .
+
+Cash method taxpayers.
+
+If you use the cash method of accounting, as most individual taxpayers do, you generally report the interest on U.S. savings bonds when you receive it. The cash method of accounting is explained in chapter 1 under Accounting Methods . But see Reporting options for cash method taxpayers , later.
+
+Series H and HH bonds.
+
+The U.S. Treasury sold HH savings bonds from 1980 through August 2004. HH savings bonds earn interest for up to 20 years. So the last HH bonds will stop earning interest in 2024. (See TreasuryDirect.gov/savings-bonds/hh-bonds/ .)
+
+Certain HH bonds weren’t available for cash only. To buy those HH bonds, you had to trade in another security you had bought earlier. In making the exchange, you may have used interest the original security had earned to help pay for the HH bond. If you used an old bond to buy more than one HH bond, the interest you used to buy the bonds was divided proportionately among the HH bonds. You had a choice then for the tax on that interest: pay it then or wait and pay it later (defer it). Interest that you decided to pay later is “deferred interest.” If your HH bond has deferred interest, you see the amount identified on the front of the bond. You don’t have to report deferred interest on your federal income tax return until you are filing your return for the year in which the first of these events occurs: you cash the HH bond; the HH bond stops earning interest; the HH bond is reissued to show a change in ownership that is a taxable event. (See TreasuryDirect.gov/savings-bonds/hh-bonds/hh-bonds-tax-information .)
+
+Series H bonds were issued before 1980. All Series H bonds have matured and are no longer earning interest.
+
+In addition to the twice-a-year interest payments, most H/HH bonds have a deferred interest component. The reporting of this as income is addressed later in this chapter.
+
+Series EE and Series I bonds.
+
+Interest on these bonds is payable when you redeem the bonds. The difference between the purchase price and the redemption value is taxable interest.
+
+Series E and EE bonds.
+
+Series E bonds were issued before July 1980. All Series E bonds have matured and are no longer earning interest. Series EE bonds were first offered in January 1980 and have a maturity period of 30 years; they were offered in paper (definitive) form until 2012. Paper Series EE and Series E bonds were issued at a discount and increase in value as they earn interest. Electronic (book-entry) Series EE bonds were first offered in 2003; they are issued at face value and increase in value as they earn interest. For all Series E and Series EE bonds, the purchase price plus all accrued interest is payable to you at redemption.
+
+Series I bonds.
+
+Series I bonds were first offered in 1998. These are inflation-indexed bonds issued at face value with a maturity period of 30 years. Series I bonds increase in value as they earn interest. The face value plus all accrued interest is payable to you at redemption.
+
+Reporting options for cash method taxpayers.
+
+If you use the cash method of reporting income, you can report the interest on Series EE and Series I bonds in either of the following ways.
+
+-
+
+Method 1. Postpone reporting the interest until the earlier of the year you cash or dispose of the bonds or the year they mature.
+
+-
+
+Method 2. Choose to report the increase in redemption value as interest each year.
+
+You must use the same method for all Series EE and Series I bonds you own.
+
+. If you plan to cash your bonds in the same year you will pay for higher education expenses, you may want to use method 1 because you may be able to exclude the interest from your income. To learn how, see Education Savings Bond Program , later. .
+
+Change from method 1.
+
+If you want to change your method of reporting the interest from method 1 to method 2, you can do so without permission from the IRS. In the year of change, you must report all interest accrued to date and not previously reported for all your bonds.
+
+Once you choose to report the interest each year, you must continue to do so for all Series EE and Series I bonds you own and for any you get later, unless you request permission to change, as explained next.
+
+Change from method 2.
+
+To change from method 2 to method 1, see Revenue Procedure 2025-23, section 17.
+
+Co-owners.
+
+If a U.S. savings bond is issued in the names of co-owners, such as you and your child or you and your spouse, interest on the bond is generally taxable to the co-owner who bought the bond.
+
+One co-owner’s funds used.
+
+If you used your funds to buy the bond, you must pay the tax on the interest. This is true even if you let the other co-owner redeem the bond and keep all the proceeds. Under these circumstances, the co-owner who redeemed the bond will receive a Form 1099-INT at the time of redemption and must provide you with another Form 1099-INT showing the amount of interest from the bond taxable to you. The co-owner who redeemed the bond is a “nominee.” See Nominee distributions under How To Report Interest Income in chapter 1 of Pub. 550 for more information about how a person who is a nominee reports interest income belonging to another person.
+
+Both co-owners’ funds used.
+
+If you and the other co-owner each contribute part of the bond’s purchase price, the interest is generally taxable to each of you, in proportion to the amount each of you paid.
+
+Community property.
+
+If you and your spouse live in a community property state and hold bonds as community property, one-half of the interest is considered received by each of you. If you file separate returns, each of you must generally report one-half of the bond interest. For more information about community property, see Pub. 555.
+
+Table 6-1.
+
+These rules are also shown in Table 6-1 .
+
+Ownership transferred.
+
+If you bought Series EE or Series I bonds entirely with your own funds and had them reissued in your co-owner’s name or beneficiary’s name alone, you must include in your gross income for the year of reissue all interest that you earned on these bonds and have not previously reported. But, if the bonds were reissued in your name alone, you don’t have to report the interest accrued at that time.
+
+This same rule applies when bonds (other than bonds held as community property) are transferred between spouses or incident to divorce.
+
+Purchased jointly.
+
+If you and a co-owner each contributed funds to buy Series EE or Series I bonds jointly and later have the bonds reissued in the co-owner’s name alone, you must include in your gross income for the year of reissue your share of all the interest earned on the bonds that you have not previously reported. The former co-owner doesn’t have to include in gross income at the time of reissue his or her share of the interest earned that was not reported before the transfer. This interest, however, as well as all interest earned after the reissue, is income to the former co-owner.
+
+This income-reporting rule also applies when a new co-owner purchases your share of the bond and the bonds are reissued in the name of your former co-owner and a new co-owner. But the new co-owner will report only his or her share of the interest earned after the transfer.
+
+If bonds that you and a co-owner bought jointly are reissued to each of you separately in the same proportion as your contribution to the purchase price, neither you nor your co-owner has to report at that time the interest earned before the bonds were reissued.
+
+Table 6-1. Who Pays the Tax on U.S. Savings Bond Interest
+
+IF... | THEN the interest must be reported by...
+you buy a bond in your name and the name of another person as co-owners, using only your own funds | you.
+you buy a bond in the name of another person, who is the sole owner of the bond | the person for whom you bought the bond.
+you and another person buy a bond as co-owners, each contributing part of the purchase price | both you and the other co-owner, in proportion to the amount each paid for the bond.
+you and your spouse, who live in a community property state, buy a bond that is community property | you and your spouse. If you file separate returns, both you and your spouse generally report one-half of the interest.
+
+Example 1.
+
+You and your spouse each spent an equal amount to buy a $1,000 Series EE savings bond. The bond was issued to you and your spouse as co-owners. You both postpone reporting interest on the bond. You later have the bond reissued as two $500 bonds, one in your name and one in your spouse’s name. At that time, neither you nor your spouse has to report the interest earned to the date of reissue.
+
+Example 2.
+
+You bought a $1,000 Series EE savings bond entirely with your own funds. The bond was issued to you and your spouse as co-owners. You both postpone reporting interest on the bond. You later have the bond reissued as two $500 bonds, one in your name and one in your spouse’s name. You must report half the interest earned to the date of reissue.
+
+Transfer to a trust.
+
+If you own Series EE or Series I bonds and transfer them to a trust, giving up all rights of ownership, you must include in your income for that year the interest earned to the date of transfer if you have not already reported it. However, if you are considered the owner of the trust and if the increase in value both before and after the transfer continues to be taxable to you, you can continue to defer reporting the interest earned each year. You must include the total interest in your income in the year you cash or dispose of the bonds or the year the bonds finally mature, whichever is earlier.
+
+The same rules apply to previously unreported interest on Series EE or Series E bonds if the transfer to a trust consisted of Series HH bonds you acquired in a trade for the Series EE or Series E bonds.
+
+Decedents.
+
+The manner of reporting interest income on Series EE or Series I bonds after the death of the owner (decedent) depends on the accounting and income-reporting methods previously used by the decedent. This is explained in chapter 1 of Pub. 550.
+
+Form 1099-INT for U.S. savings bonds interest.
+
+When you cash a bond, the bank or other payer that redeems it may give you a Form 1099-INT. Form 1099-INT, box 3 should show the interest as the difference between the amount you received and the amount paid for the bond. However, your Form 1099-INT may show more interest than you have to include on your income tax return. For example, this may happen if any of the following are true.
+
+For more information on including the correct amount of interest on your return, see How To Report Interest Income , later.
+
+. Interest on U.S. savings bonds is exempt from state and local taxes. .
+
+Education Savings Bond Program
+
+You may be able to exclude from income all or part of the interest you receive on the redemption of qualified U.S. savings bonds during the year if you pay qualified higher educational expenses during the same year. This exclusion is known as the Education Savings Bond Program.
+
+You don’t qualify for this exclusion if your filing status is married filing separately.
+
+Form 8815.
+
+Use Form 8815 to figure your exclusion. Attach the form to your Form 1040 or 1040-SR.
+
+Qualified U.S. savings bonds.
+
+A qualified U.S. savings bond is a Series EE bond issued after 1989 or a Series I bond. The bond must be issued either in your name (sole owner) or in your and your spouse’s names (co-owners). You must be at least 24 years old before the bond’s issue date. For example, a bond bought by a parent and issued in the name of his or her child under age 24 doesn’t qualify for the exclusion by the parent or child.
+
+. The issue date of a bond may be earlier than the date the bond is purchased because the issue date assigned to a bond is the first day of the month in which it is purchased. .
+
+Beneficiary.
+
+You can designate any individual (including a child) as a beneficiary of the bond.
+
+Verification by IRS.
+
+If you claim the exclusion, the IRS will check it by using bond redemption information from the Department of the Treasury.
+
+Qualified expenses.
+
+Qualified higher education expenses are tuition and fees required for you, your spouse, or your dependent (for whom you claim an exemption) to attend an eligible educational institution.
+
+Qualified expenses include any contribution you make to a qualified tuition program or to a Coverdell education savings account (ESA).
+
+Qualified expenses don’t include expenses for room and board or for courses involving sports, games, or hobbies that aren’t part of a degree- or certificate-granting program.
+
+Eligible educational institutions.
+
+These institutions include most public, private, and nonprofit universities, colleges, and vocational schools that are accredited and eligible to participate in student aid programs run by the U.S. Department of Education.
+
+Reduction for certain benefits.
+
+You must reduce your qualified higher education expenses by all of the following tax-free benefits.
+
+-
+
+Tax-free part of scholarships and fellowships (see Scholarships and fellowships in chapter 8).
+
+-
+
+Expenses used to figure the tax-free portion of distributions from a Coverdell ESA.
+
+-
+
+Expenses used to figure the tax-free portion of distributions from a qualified tuition program.
+
+-
+
+Any tax-free payments (other than gifts or inheritances) received for educational expenses, such as:
+
+-
+
+Veterans’ educational assistance benefits,
+
+-
+
+Qualified tuition reductions, or
+
+-
+
+Employer-provided educational assistance.
+
+-
+
+Any expense used in figuring the American opportunity and lifetime learning credits.
+
+Amount excludable.
+
+If the total proceeds (interest and principal) from the qualified U.S. savings bonds you redeem during the year aren’t more than your adjusted qualified higher education expenses for the year, you may be able to exclude all of the interest. If the proceeds are more than the expenses, you may be able to exclude only part of the interest.
+
+To determine the excludable amount, multiply the interest part of the proceeds by a fraction. The numerator of the fraction is the qualified higher education expenses you paid during the year. The denominator of the fraction is the total proceeds you received during the year.
+
+Example 1.
+
+Max and Helene married and paid $5,000 in January 2009 for a $10,000 denomination Series EE U.S. savings bond. They cashed the bond for $6,148 ($5,000 [price] + $1,148 [interest]) and paid $4,000 of college tuition for their child, Ari, in January 2025. Max and Helene can exclude $746.90 ($1,148 x ($4,000 ÷ $6,148)) of interest on their 2025 joint income tax return.
+
+Example 2.
+
+In January 2024, Mark and Joan, a married couple, cashed qualified Series EE U.S. savings bonds with a total denomination of $10,000 that they bought in January 2008 for $5,000. They received proceeds of $8,052, representing principal of $5,000 and interest of $3,052. In 2024, they paid $4,000 of their daughter’s college tuition. They aren’t claiming an education credit for that amount, and their daughter doesn’t have any tax-free educational assistance. They can exclude $1,516.15 ($3,052 × ($4,000 ÷ $8,052)) of interest on their 2024 joint income tax return.
+
+U.S. Treasury Bills, Notes, and Bonds
+
+Treasury bills, notes, and bonds are direct debts (obligations) of the U.S. Government.
+
+Taxation of interest.
+
+Interest income from Treasury bills, notes, and bonds is subject to federal income tax but is exempt from all state and local income taxes. You should receive a Form 1099-INT showing the interest paid to you for the year in box 3.
+
+Treasury bills.
+
+These bills generally have a 4-week, 8-week, 13-week, 26-week, or 52-week maturity period. They are generally issued at a discount in the amount of $100 and multiples of $100. The difference between the discounted price you pay for the bills and the face value you receive at maturity is interest income. Generally, you report this interest income when the bill is paid at maturity. If you paid a premium for a bill (more than the face value), you generally report the premium as a section 171 deduction when the bill is paid at maturity.
+
+If you reinvest your Treasury bill at its maturity in a new Treasury bill, note, or bond, you will receive payment for the difference between the proceeds of the maturing bill (par amount less any tax withheld) and the purchase price of the new Treasury security. However, you must report the full amount of the interest income on each of your Treasury bills at the time it reaches maturity.
+
+Treasury notes and bonds.
+
+Treasury notes generally have maturity periods of more than 1 year, ranging up to 10 years. Maturity periods for Treasury bonds are generally longer than 10 years. Both generally pay interest every 6 months. Generally, you report this interest for the year paid. For more information, see U.S. Treasury Bills, Notes, and Bonds in chapter 1 of Pub. 550.
+
+. For other information on Treasury notes or bonds, write to:
+
+.
+
+Treasury Retail Securities Services
+
+P.O. Box 9150
+
+Minneapolis, MN 55480-9150
+
+.
+
+. Or, on the Internet, go to TreasuryDirect.gov/marketable-securities/ . .
+
+For information on Series EE, Series I, and Series HH savings bonds, see U.S. Savings Bonds , earlier.
+
+Treasury inflation-protected securities (TIPS).
+
+These securities pay interest twice a year at a fixed rate, based on a principal amount adjusted to take into account inflation and deflation. For the tax treatment of these securities, see Inflation-Indexed Debt Instruments under Original Issue Discount (OID) in chapter 1 of Pub. 550.
+
+Bonds Sold Between Interest Dates
+
+If you sell a bond between interest payment dates, part of the sales price represents interest accrued to the date of sale. You must report that part of the sales price as interest income for the year of sale.
+
+If you buy a bond between interest payment dates, part of the purchase price represents interest accrued before the date of purchase. When that interest is paid to you, treat it as a nontaxable return of your capital investment, rather than as interest income. See Accrued interest on bonds under How To Report Interest Income in chapter 1 of Pub. 550 for information on reporting the payment.
+
+Insurance
+
+Life insurance proceeds paid to you as beneficiary of the insured person are usually not taxable. But if you receive the proceeds in installments, you must usually report a part of each installment payment as interest income.
+
+For more information about insurance proceeds received in installments, see Pub. 525.
+
+Annuity.
+
+If you buy an annuity with life insurance proceeds, the annuity payments you receive are taxed as pension and annuity income from a nonqualified plan, not as interest income. See chapter 5 for information on pension and annuity income from nonqualified plans.
+
+State or Local Government Obligations
+
+Interest on a bond used to finance government operations generally isn’t taxable if the bond is issued by a state, the District of Columbia, a territory of the United States, or any of their political subdivisions.
+
+Bonds issued after 1982 by an Indian tribal government (including tribal economic development bonds issued after February 17, 2009) are treated as issued by a state. Interest on these bonds is generally tax exempt if the bonds are part of an issue of which substantially all proceeds are to be used in the exercise of any essential government function. However, the essential government function requirement does not apply to tribal economic development bonds issued after February 17, 2009. See section 7871(f).
+
+For information on federally guaranteed bonds, mortgage revenue bonds, arbitrage bonds, private activity bonds, qualified bonds, and tax credit bonds, including whether interest on some of these bonds is taxable, see State or Local Government Obligations in chapter 1 of Pub. 550.
+
+Information reporting requirement.
+
+If you file a tax return, you are required to show any tax-exempt interest you received on your return. Tax-exempt interest paid to you will be reported to you on Form 1099-INT, box 8. This is an information reporting requirement only. It doesn’t change tax-exempt interest to taxable interest.
+
+Original Issue Discount (OID)
+
+OID is a form of interest. You generally include OID in your income as it accrues over the term of the debt instrument, whether or not you receive any payments from the issuer.
+
+A debt instrument generally has OID when the instrument is issued for a price that is less than its stated redemption price at maturity. OID is the difference between the stated redemption price at maturity and the issue price.
+
+All debt instruments that pay no interest before maturity are presumed to be issued at a discount. Zero coupon bonds are one example of these instruments.
+
+The OID accrual rules generally don’t apply to short-term obligations (those with a fixed maturity date of 1 year or less from date of issue). See Discount on Short-Term Obligations in chapter 1 of Pub. 550.
+
+De minimis OID.
+
+You can treat the discount as zero if it is less than one-fourth of 1% (0.0025) of the stated redemption price at maturity multiplied by the number of full years from the date of original issue to maturity. This small discount is known as de minimis OID.
+
+Example 1.
+
+You bought a 10-year bond with a stated redemption price at maturity of $1,000, issued at $980 with OID of $20. One-fourth of 1% of $1,000 (stated redemption price) times 10 (the number of full years from the date of original issue to maturity) equals $25. Because the $20 discount is less than $25, the OID is treated as zero. (If you hold the bond at maturity, you will recognize $20 ($1,000 − $980) of capital gain.)
+
+Example 2.
+
+The facts are the same as in Example 1 , except that the bond was issued at $950. The OID is $50. Because the $50 discount is more than the $25 figured in Example 1 , you must include the OID in income as it accrues over the term of the bond.
+
+Debt instrument bought after original issue.
+
+If you buy a debt instrument with de minimis OID at a premium, the de minimis OID isn’t includible in income. If you buy a debt instrument with de minimis OID at a discount, the discount is reported under the market discount rules. See Market Discount Bonds in chapter 1 of Pub. 550.
+
+Exceptions to reporting OID as current income.
+
+The OID rules discussed in this chapter don’t apply to the following debt instruments.
+
+-
+
+Tax-exempt obligations. (However, see Stripped tax-exempt obligations under Stripped Bonds and Coupons in chapter 1 of Pub. 550.)
+
+-
+
+U.S. savings bonds.
+
+-
+
+Short-term debt instruments (those with a fixed maturity date of not more than 1 year from the date of issue).
+
+-
+
+Loans between individuals if all the following are true.
+
+-
+
+The loan is not made in the course of a trade or business of the lender.
+
+-
+
+The amount of the loan, plus the amount of any outstanding prior loans between the same individuals, is $10,000 or less.
+
+-
+
+Avoiding any federal tax isn’t one of the principal purposes of the loan.
+
+-
+
+A debt instrument purchased at a premium.
+
+Form 1099-OID.
+
+You may receive a Form 1099-OID for a debt instrument you own. If you receive a Form 1099-OID (Rev. 1-2024), box 1 will show any “Original issue discount for the year”; box 2 will show any “Other periodic interest”; and box 8 will show any “Original issue discount on U.S. Treasury obligations.”
+
+In most cases, you must report the entire amount in Form 1099-OID, boxes 1, 2, and 8 as interest income. But see Refiguring OID shown on Form 1099-OID , later in this discussion, for more information.
+
+Form 1099-OID not received.
+
+If you had OID for the year but didn’t receive a Form 1099-OID, you may have to figure the correct amount of OID to report on your return. See Pub. 1212 for details on how to figure the correct OID.
+
+Nominee.
+
+If someone else is the record holder (the registered owner) of an OID instrument belonging to you and receives a Form 1099-OID on your behalf, that person must give you a Form 1099-OID.
+
+Refiguring OID shown on Form 1099-OID.
+
+You may need to refigure the OID shown in Form 1099-OID, box 1 or box 8 if either of the following applies.
+
+-
+
+You bought the debt instrument after its original issue and paid a premium or an acquisition premium.
+
+-
+
+The debt instrument is a stripped bond or a stripped coupon (including certain zero coupon instruments).
+
+See Pub. 1212 and Form 1099-OID for information regarding figuring the correct amount of OID to include on your income tax return.
+
+Refiguring periodic interest shown on Form 1099-OID.
+
+If you disposed of a debt instrument or acquired it from another holder during the year, see Bonds Sold Between Interest Dates , earlier, for information about the treatment of periodic interest that may be shown in Form 1099-OID, box 2 for that instrument.
+
+Certificates of deposit (CDs).
+
+A CD is a debt instrument. If you buy a CD with a maturity of more than 1 year, you must include in income each year a part of the total interest due and report it in the same manner as other OID.
+
+This also applies to similar deposit arrangements with banks, building and loan associations, etc., including:
+
+-
+
+Time deposits,
+
+-
+
+Bonus plans,
+
+-
+
+Savings certificates,
+
+-
+
+Deferred income certificates,
+
+-
+
+Bonus savings certificates, and
+
+-
+
+Growth savings certificates.
+
+Bearer CDs.
+
+CDs issued after 1982 must generally be in registered form. Bearer CDs are CDs not in registered form. They aren’t issued in the depositor’s name and are transferable from one individual to another.
+
+Banks must provide the IRS and the person redeeming a bearer CD with a Form 1099-INT.
+
+More information.
+
+See chapter 1 of Pub. 550 for more information about OID and related topics, such as market discount bonds.
+
+When To Report Interest Income
+
+When to report your interest income depends on whether you use the cash method or an accrual method to report income.
+
+Cash method.
+
+Most individual taxpayers use the cash method. If you use this method, you generally report your interest income in the year in which you actually or constructively receive it. However, there are special rules for reporting the discount on certain debt instruments. See U.S. Savings Bonds and Original Issue Discount (OID) , earlier.
+
+Example.
+
+On August 31, 2023, you loaned another individual $2,000 at 4% interest, compounded annually. You aren’t in the business of lending money. The note stated that principal and interest would be due on August 30, 2025. In 2025, you received $2,163.20 ($2,000 principal and $163.20 interest). If you use the cash method, you must include in income on your 2025 return the $163.20 interest you received in that year.
+
+Constructive receipt.
+
+You constructively receive income when it is credited to your account or made available to you. You don’t need to have physical possession of it. For example, you are considered to receive interest, dividends, or other earnings on any deposit or account in a bank, savings and loan, or similar financial institution, or interest on life insurance policy dividends left to accumulate, when they are credited to your account and subject to your withdrawal.
+
+You constructively receive income on the deposit or account even if you must:
+
+-
+
+Make withdrawals in multiples of even amounts;
+
+-
+
+Give a notice to withdraw before making the withdrawal;
+
+-
+
+Withdraw all or part of the account to withdraw the earnings; or
+
+-
+
+Pay a penalty on early withdrawals, unless the interest you are to receive on an early withdrawal or redemption is substantially less than the interest payable at maturity.
+
+Accrual method.
+
+If you use an accrual method, you report your interest income when you earn it, whether or not you have received it. Interest is earned over the term of the debt instrument.
+
+Example.
+
+If, in the previous example, you use an accrual method, you must include the interest in your income as you earn it. You would report the interest as follows: 2023, $26.67; 2024, $81.06; and 2025, $55.47.
+
+Coupon bonds.
+
+Interest on bearer bonds with detachable coupons is generally taxable in the year the coupon becomes due and payable. It doesn’t matter when you mail the coupon for payment.
+
+How To Report Interest Income
+
+Generally, you report all your taxable interest income on Form 1040 or 1040-SR, line 2b.
+
+Schedule B (Form 1040).
+
+You must complete Schedule B (Form 1040), Part I, if you file Form 1040 or 1040-SR and any of the following apply.
+
+-
+
+Your taxable interest income is more than $1,500.
+
+-
+
+You are claiming the interest exclusion under the Education Savings Bond Program (discussed earlier).
+
+-
+
+You received interest from a seller-financed mortgage, and the buyer used the property as a home.
+
+-
+
+You received a Form 1099-INT for U.S. savings bond interest that includes amounts you reported in a previous tax year.
+
+-
+
+You received, as a nominee, interest that actually belongs to someone else.
+
+-
+
+You received a Form 1099-INT for interest on frozen deposits.
+
+-
+
+You received a Form 1099-INT for interest on a bond you bought between interest payment dates.
+
+-
+
+You are reporting OID in an amount less than the amount shown on Form 1099-OID.
+
+-
+
+You reduce interest income from bonds by amortizable bond premium.
+
+In Part I, line 1, list each payer’s name and the amount received from each. If you received a Form 1099-INT or Form 1099-OID from a brokerage firm, list the brokerage firm as the payer.
+
+. The box references discussed below are from the January 2024 revisions of Form 1099-INT and Form 1099-DIV. Later revisions may have different box references. .
+
+Reporting tax-exempt interest.
+
+Total your tax-exempt interest (such as interest or accrued OID on certain state and municipal bonds, including zero coupon municipal bonds) reported on Form 1099-INT, box 8; Form 1099-OID, box 11; and exempt-interest dividends from a mutual fund or other regulated investment company reported on Form 1099-DIV, box 12. Add these amounts to any other tax-exempt interest you received. Report the total on Form 1040 or 1040-SR, line 2a.
+
+Form 1099-INT, box 9, and Form 1099-DIV, box 13, show the tax-exempt interest subject to the AMT on Form 6251. These amounts are already included in the amounts on Form 1099-INT, box 8, and Form 1099-DIV, box 12. Don’t add the amounts in Form 1099-INT, box 9 and Form 1099-DIV, box 13 to or subtract them from the amounts on Form 1099-INT, box 8 and Form 1099-DIV, box 12.
+
+. Don’t report interest from an IRA as tax-exempt interest. .
+
+Form 1099-INT.
+
+Your taxable interest income, except for interest from U.S. savings bonds and Treasury obligations, is shown in Form 1099-INT, box 1. Add this amount to any other taxable interest income you received. See the Form 1099-INT Instructions for Recipient if you have interest from a security acquired at a premium. You must report all of your taxable interest income even if you don’t receive a Form 1099-INT. Contact your financial institution if you don’t receive a Form 1099-INT by February 15. Your identifying number may be truncated on any Form 1099-INT you receive.
+
+If you forfeited interest income because of the early withdrawal of a time deposit, the deductible amount will be shown on Form 1099-INT, box 2. See Penalty on early withdrawal of savings in chapter 1 of Pub. 550.
+
+Form 1099-INT, box 3 shows the interest income you received from U.S. savings bonds, Treasury bills, Treasury notes, and Treasury bonds. Generally, add the amount shown in Form 1099-INT, box 3 to any other taxable interest income you received. If part of the amount shown in Form 1099-INT, box 3 was previously included in your interest income, see U.S. savings bond interest previously reported , later. If you acquired the security at a premium, see the Form 1099-INT Instructions for Recipient.
+
+Form 1099-INT, box 4 will contain an amount if you were subject to backup withholding. Include the amount from box 4 on Form 1040 or 1040-SR, line 25b (federal income tax withheld).
+
+Form 1099-INT, box 5 shows investment expenses. This amount is not deductible.
+
+Form 1099-INT, box 6 shows foreign tax paid. You may be able to claim this tax as a deduction or a credit on your Form 1040 or 1040-SR. See your tax return instructions.
+
+Form 1099-INT, box 7 shows the foreign country or U.S. territory to which the foreign tax was paid.
+
+U.S. savings bond interest previously reported.
+
+If you received a Form 1099-INT for U.S. savings bond interest, the form may show interest you don’t have to report. See Form 1099-INT for U.S. savings bonds interest , earlier.
+
+On Schedule B (Form 1040), Part I, line 1, report all the interest shown on your Form 1099-INT. Then follow these steps.
+
+-
+
+Several rows above line 2, enter a subtotal of all interest listed on line 1.
+
+-
+
+Below the subtotal, enter “U.S. Savings Bond Interest Previously Reported” and enter amounts previously reported or interest accrued before you received the bond.
+
+-
+
+Subtract these amounts from the subtotal and enter the result on line 2.
+
+More information.
+
+For more information about how to report interest income, see chapter 1 of Pub. 550 or the instructions for the form you must file.

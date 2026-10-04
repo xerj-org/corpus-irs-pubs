@@ -1,0 +1,97 @@
+IRS Pub 54 (12/2025) | 3. Self-Employment Tax
+
+3. Self-Employment Tax
+
+Topics
+
+This chapter discusses:
+
+-
+
+Who must pay self-employment tax,
+
+-
+
+Who is exempt from self-employment tax,
+
+-
+
+Who can defer self-employment tax payments, and
+
+-
+
+Which self-employed individuals can take the refundable income tax credits for sick and family leave.
+
+Useful Items
+
+You may want to see:
+
+Publication
+
+-
+
+334 Tax Guide for Small Business
+
+-
+
+517 Social Security and Other Information for Members of the Clergy and Religious Workers
+
+Form (and Instructions)
+
+-
+
+Form 1040-SS U.S. Self-Employment Tax Return
+
+-
+
+Form 4361 Application for Exemption From Self-Employment Tax for Use by Ministers, Members of Religious Orders and Christian Science Practitioners
+
+-
+
+Schedule SE (Form 1040) Self-Employment Tax
+
+See chapter 7 for information about getting these publications and forms.
+
+Who Must Pay Self-Employment Tax?
+
+If you are a self-employed U.S. citizen or resident, the rules for paying self-employment tax are generally the same whether you are living in the United States or abroad.
+
+The self-employment tax is a social security and Medicare tax on net earnings from self-employment. You must pay self-employment tax if your net earnings from self-employment are at least $400.
+
+For information on the maximum amount of self-employment net earnings that is subject to the social security portion of self-employment tax, see the instructions for Schedule SE (Form 1040), available at IRS.gov/ScheduleSE . All net earnings from self-employment are subject to the Medicare portion of the tax. Additional Medicare Tax may apply to you if your net earnings from self-employment exceed a threshold amount (based on your filing status). See Form 8959, Additional Medicare Tax, available at IRS.gov/Form8959 , for additional information.
+
+Employed by a U.S. Church
+
+If you were employed by a U.S. church or a qualified church-controlled organization that chose exemption from social security and Medicare taxes and you received wages of $108.28 or more from the organization, the amounts paid to you are subject to self-employment tax. However, you can choose to be exempt from social security and Medicare taxes if you are a member of a recognized religious sect. See Pub. 517, Social Security and Other Information for Members of the Clergy and Religious Workers, available at IRS.gov/Pub517 , for more information about church employees and self-employment tax.
+
+Effect of Exclusion
+
+You must take all of your self-employment income into account in figuring your net earnings from self-employment, even income that is exempt from income tax because of the foreign earned income exclusion.
+
+Example.
+
+You are in business abroad as a consultant and qualify for the foreign earned income exclusion. Your foreign earned income is $95,000, your business deductions total $27,000, and your net profit is $68,000. You must pay self-employment tax on your net profit of $68,000, even though you are qualified for the foreign earned income exclusion.
+
+Members of the Clergy
+
+If you are a member of the clergy, you are treated as self-employed for self-employment tax purposes. Your U.S. self-employment tax is based upon net earnings from self-employment figured without regard to the foreign earned income exclusion or the foreign housing exclusion.
+
+You can receive exemption from coverage for your ministerial duties if you conscientiously oppose public insurance due to religious reasons or if you oppose it due to the religious principles of your denomination. You must file Form 4361, Application for Exemption From Self-Employment Tax for Use By Ministers, Members of Religious Orders and Christian Science Practitioners, available at IRS.gov/Form4361 , to apply for this exemption.
+
+This subject is discussed in further detail in Pub. 517 .
+
+Income From U.S. Territories
+
+If you are a U.S. citizen or resident alien and you own and operate a business in a U.S. territory (Puerto Rico, Guam, the CNMI, American Samoa, or the USVI), you must pay tax on your net earnings from self-employment (if they are $400 or more) from those sources. You must pay the self-employment tax whether or not the income is exempt from U.S. income taxes (or whether or not you must otherwise file a U.S. income tax return). Unless your situation is described below, attach Schedule SE (Form 1040) to your U.S. income tax return.
+
+If you do not have to file Form 1040 or 1040-SR with the United States and you are a resident of any of the U.S. territories listed in the preceding paragraph, figure your self-employment tax on Form 1040-SS, U.S. Self-Employment Tax Return (Including the Additional Child Tax Credit for Bona Fide Residents of Puerto Rico), available at IRS.gov/Form1040SS , for additional information.
+
+See Filing options , earlier, for filing information.
+
+Exemption From Dual-Country Social Security and Medicare Taxes
+
+The United States may reach agreements with foreign countries to eliminate dual coverage and dual contributions (taxes) to social security systems for the same work. As a general rule, self-employed persons who are subject to dual taxation will only be covered by the social security system of the country where they reside. For more information on how a specific agreement affects self-employed persons, see Bilateral Social Security (Totalization) Agreements in chapter 2, earlier.
+
+If your self-employment earnings should be exempt from foreign social security tax and subject only to U.S. self-employment tax, you should request a certificate of coverage from the U.S. SSA’s Office of Earnings and International Operations. The certificate will establish your exemption from the foreign social security tax.
+
+You can request a certificate of coverage online at SSA.gov/international/CoC_link.html .

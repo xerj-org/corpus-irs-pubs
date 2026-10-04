@@ -1,0 +1,1926 @@
+IRS Pub 590-B (2025) | 1. Traditional IRAs
+
+1. Traditional IRAs
+
+Reminders
+
+Types of IRAs. An IRA can be either a traditional IRA or a Roth IRA. In general, individuals may make their own contributions to their traditional IRAs or Roth IRAs. In addition, certain employers have arrangements under which the employer may contribute to IRAs of their employees. Under a SEP arrangement, an employer contributes to traditional IRAs (sometimes referred to as traditional SEP IRAs) or Roth IRAs (sometimes referred to as Roth SEP IRAs) of its employees. Individuals may separately make their own contributions to the same IRAs to which their employer contributes under a SEP arrangement.Under a SIMPLE IRA plan, an employer contributes salary reduction contributions (at the election of the employee), matching contributions and/or nonelective contributions to traditional IRAs (sometimes referred to as traditional SIMPLE IRAs) or Roth IRAs (sometimes referred to as Roth SIMPLE IRAs) of its employees. However, a SIMPLE IRA (whether a traditional SIMPLE IRA or a Roth SIMPLE IRA) is subject to certain restrictions that do not generally apply to other traditional IRAs or Roth IRAs. For example, an individual cannot make their own contributions to a SIMPLE IRA. In addition, there are various restrictions related to distributions and contributions during the initial two years of participation in the SIMPLE IRA plan.References in this publication to traditional IRAs generally include traditional SEP IRAs but do not include traditional SIMPLE IRAs, unless otherwise stated. Likewise, references to Roth IRAs generally include Roth SEP IRAs but do not include Roth SIMPLE IRAs, unless otherwise stated.
+
+Introduction
+
+This chapter discusses distributions from a traditional IRA. In this publication, the original IRA (sometimes called an ordinary or regular IRA) is referred to as a “traditional IRA.” For purposes of this publication, a traditional IRA is any IRA that isn’t a Roth IRA or a SIMPLE IRA. Traditional IRAs include traditional IRAs that receive employer contributions from SEP arrangements. The following are two advantages of a traditional IRA.
+
+-
+
+You may be able to deduct some or all of your contributions to it, depending on your circumstances.
+
+-
+
+Generally, amounts in your IRA, including earnings and gains, aren’t taxed until they are distributed.
+
+Roth IRAs are discussed in chapter 2. SIMPLE IRAs are discussed in Pub. 560.
+
+Roth IRAs are discussed in chapter 2. SIMPLE IRAs are discussed in Pub. 560.
+
+What if You Inherit an IRA?
+
+If you inherit a traditional IRA, you are called a beneficiary. A beneficiary can be any person or entity the owner chooses to receive the benefits of the IRA after the owner dies. Beneficiaries of a traditional IRA must include in their gross income any taxable distributions they receive.
+
+Tip:
+
+IRAs inherited from decedents who died in 2019 or earlier are subject to different rules. See Retirement Topics - Beneficiary , for more information.
+
+Inherited from spouse.
+
+If you inherit a traditional IRA from your spouse, you generally have the following two choices.
+
+-
+
+Treat it as your own IRA by designating yourself as the account owner; or
+
+-
+
+Treat it as your own by rolling it over into your IRA, or to the extent it is taxable, into a:
+
+-
+
+Qualified employer plan,
+
+-
+
+Qualified employee annuity plan (section 403(a) plan),
+
+-
+
+Tax-sheltered annuity plan (section 403(b) plan),
+
+-
+
+Deferred compensation plan of a state or local government (section 457 plan), or
+
+-
+
+Treat yourself as the beneficiary rather than treating the IRA as your own.
+
+Treating it as your own.
+
+You will be considered to have chosen to treat the IRA as your own if:
+
+-
+
+Contributions (including rollover contributions) are made to the inherited IRA, or
+
+-
+
+You don't take the required minimum distribution for a year as a beneficiary of the IRA.
+
+You will only be considered to have chosen to treat the IRA as your own if:
+
+-
+
+You are the sole beneficiary of the IRA, and
+
+-
+
+You have an unlimited right to withdraw amounts from it.
+
+However, if you receive a distribution from your deceased spouse's IRA, you can roll that distribution over into your own IRA within the 60-day time limit, as long as the distribution isn't a required distribution, even if you aren't the sole beneficiary of your deceased spouse's IRA.
+
+Inherited from someone other than spouse.
+
+If you inherit a traditional IRA from anyone other than your deceased spouse, you can't treat the inherited IRA as your own. This means that you can't make any contributions to the IRA. It also means you can't roll over any amounts into or out of the inherited IRA. However, you can make a trustee-to-trustee transfer as long as the IRA into which amounts are being moved is set up and maintained in the name of the deceased IRA owner for the benefit of you as beneficiary.
+
+Like the original owner, you generally won't owe tax on the assets in the IRA until you receive distributions from it. You must begin receiving distributions from the IRA under the rules for distributions that apply to beneficiaries.
+
+IRA with basis.
+
+If you inherit a traditional IRA from a person who had basis in the IRA because of nondeductible contributions, that basis remains with the IRA. Unless you are the decedent's spouse and choose to treat the IRA as your own, you can't combine this basis with any basis you have in your own traditional IRA(s) or any basis in traditional IRA(s) you inherited from other decedents. If you take distributions from both an inherited IRA and your IRA, and each has basis, you must complete separate Forms 8606 to determine the taxable and nontaxable portions of those distributions.
+
+Federal estate tax deduction.
+
+A beneficiary may be able to claim a deduction for estate tax resulting from certain distributions from a traditional IRA. The beneficiary can deduct the estate tax paid on any part of a distribution that is income with respect to a decedent. The beneficiary can take the deduction for the tax year the income is reported. For information on claiming this deduction, see Estate Tax Deduction under Other Tax Information in Pub. 559.
+
+Any taxable part of a distribution that isn't income with respect to a decedent is a payment the beneficiary must include in income. However, the beneficiary can't take any deduction for estate tax.
+
+A surviving spouse can roll over the distribution to another traditional IRA and avoid including it in income for the year received.
+
+More information.
+
+For more information about rollovers, required distributions, and inherited IRAs, see:
+
+When Can You Withdraw or Use Assets?
+
+You can withdraw or use your traditional IRA assets at any time. However, a 10% additional tax generally applies if you withdraw or use IRA assets before you reach age 59½. This is explained under Age 59 1/2 Rule under Early Distributions , later.
+
+You can generally make a tax-free withdrawal of contributions if you do it before the due date for filing your tax return for the year in which you made them and the 10% additional tax will not apply. See Contributions Returned Before Due Date of Return in Pub. 590-A for more information.
+
+If you were affected by a qualified disaster, see chapter 3 .
+
+When Must You Withdraw Assets? (Required Minimum Distributions)
+
+You can't keep funds in a traditional IRA (including SEP and SIMPLE IRAs) indefinitely. Eventually, they must be distributed. If there are no distributions, or if the distributions aren't large enough, you may have to pay an excise tax on the amount not distributed as required. See Excess Accumulations (Insufficient Distributions) , later, under What Acts Result in Penalties or Additional Taxes . The requirements for distributing IRA funds differ, depending on whether you are the IRA owner or the beneficiary of a decedent's IRA.
+
+Required minimum distribution (RMD).
+
+The amount that must be distributed each year is referred to as the required minimum distribution.
+
+Note:
+
+A qualified charitable distribution will count towards your required minimum distribution. See Qualified charitable distributions (QCDs) under Are Distributions Taxable, later.
+
+Distributions not eligible for rollover.
+
+Amounts that must be distributed (required minimum distributions) during a particular year aren't eligible for rollover treatment.
+
+IRA Owners
+
+Required beginning date.
+
+If you are the owner of a traditional IRA, you must generally start receiving distributions from your IRA by April 1 of the year following the year in which you reach your applicable required beginning date.
+
+Your required beginning date.
+
+See the following to determine your applicable required beginning date.
+
+Age 73 for tax years 2023 and later.
+
+If you reach age 72 after December 31, 2022, you must begin receiving required minimum distributions by April 1 of the year following the year you reach the age 73.
+
+Age 72 for tax years 2020, 2021, or 2022.
+
+If you reached age 70½ after December 31, 2019, but had not reached age 72 before January 1, 2023, you had to begin receiving required minimum distributions by April 1 of the year following the year you reach age 72.
+
+Age 70½ for tax years 2019 or earlier.
+
+If you reached age 70½ before January 1, 2020, you were required to begin receiving required minimum distributions by April 1 of the year following the year you reach age 70½.
+
+Distributions by the required beginning date.
+
+You must receive at least a minimum amount for each year starting with the year before the year that contains your required beginning date.
+
+If an IRA owner dies after reaching age 73, but before the IRA owner's required beginning date, no minimum distribution is required for that year because death occurred before the required beginning date.
+
+Caution:
+
+Even if you begin receiving distributions before you reach age 73, you must begin calculating and receiving RMDs by your required beginning date.
+
+More than minimum received.
+
+If, in any year, you receive more than the required minimum distribution for that year, you won't receive credit for the additional amount when determining the required minimum distributions for future years. This means that if you receive more than your required minimum distribution in 1 year, you can't treat the excess (the amount that is more than the required minimum distribution) as part of your required minimum distribution for any later year. However, any amount distributed in the year you become age 73 will be credited toward the amount that must be distributed by April 1 of the following year.
+
+Distributions after the required beginning date.
+
+The required minimum distribution for any year after the year you reach age 73 must be made by December 31 of that later year.
+
+Distributions from individual retirement accounts.
+
+If you are the owner of a traditional IRA that is an individual retirement account, you or your trustee must figure the required minimum distribution for each year. See Figuring the Owner's Required Minimum Distribution , later.
+
+Distributions from individual retirement annuities.
+
+If your traditional IRA is an individual retirement annuity, special rules apply to figuring the required minimum distribution. For more information on rules for annuities, see Treasury Regulations section 1.401(a)(9)-6. These regulations can be read in many libraries, and IRS offices, and online at IRS.gov .
+
+Change in marital status.
+
+For purposes of figuring your required minimum distribution, your marital status is determined as of January 1 of each year. If your spouse is a beneficiary of your IRA on January 1, they will remain a beneficiary for the entire year even if you get divorced or your spouse dies during the year.
+
+For purposes of determining your applicable denominator (the number used to figure your required minimum distribution amount), a change in beneficiary is effective in the year following the year of death or divorce.
+
+Change of beneficiary.
+
+If your spouse is the sole beneficiary of your IRA, and they die before you, your spouse won't fail to be your sole beneficiary for the year they died solely because someone other than your spouse is named a beneficiary for the rest of that year. However, if you get divorced during the year and change the beneficiary designation on the IRA during that same year, your former spouse won't be treated as the sole beneficiary for that year.
+
+Figuring the Owner's Required Minimum Distribution
+
+Figure your required minimum distribution for each year by dividing the IRA account balance (defined next) as of the close of business on December 31 of the preceding year by the applicable denominator or life expectancy. Tables showing applicable denominators and life expectancies are found in Appendix B and are discussed later.
+
+See Which Table Do You Use To Determine Your Required Minimum Distribution later for more information
+
+IRA account balance.
+
+The IRA account balance is the amount in the IRA at the end of the year preceding the year for which the required minimum distribution is being figured.
+
+Contributions.
+
+Contributions increase the account balance in the year they are made. If a contribution for last year isn't made until after December 31 of last year, it increases the account balance for this year, but not for last year. Disregard contributions made after December 31 of last year in determining your required minimum distribution for this year.
+
+Outstanding rollovers.
+
+The IRA account balance is adjusted by outstanding rollovers that aren't in any account at the end of the preceding year.
+
+For a rollover from a qualified plan or another IRA that wasn't in any account at the end of the preceding year, increase the account balance of the receiving IRA by the rollover amount valued as of the date of receipt.
+
+No recharacterizations of conversions made in 2018 or later.
+
+A conversion of a traditional IRA to a Roth IRA, and a rollover from any other eligible retirement plan to a Roth IRA, made in tax years beginning after December 31, 2017, cannot be recharacterized as having been made to a traditional IRA.
+
+Distributions.
+
+Distributions reduce the account balance in the year they are made. A distribution for last year made after December 31 of last year reduces the account balance for this year, but not for last year. Disregard distributions made after December 31 of last year in determining your required minimum distribution for this year.
+
+Applicable denominator.
+
+This is the number by which you divide your account balance as of December 31 of last year in order to figure your required minimum distribution.
+
+Life expectancy.
+
+You are required to make distributions over your lifetime or a period that represents the combined life expectancies of you and your designated beneficiary, if applicable. You are able to meet this requirement when you use your applicable denominator for each year you make your required minimum distribution. You will be able to locate your applicable denominator in one of the three tables located in Appendix B. The life expectancy tables are as follows.
+
+If you must use Table I or Table III, your applicable denominator for 2026 is listed in the table next to your age as of your birthday in 2026. If you use Table II, your applicable denominator for 2026 is listed where the row or column containing your age as of your birthday in 2026 intersects with the row or column containing your spouse's age as of their birthday in 2026.
+
+Distributions during your lifetime.
+
+Required minimum distributions during your lifetime are figured using the current year’s applicable denominator that is generally determined using Table III in Appendix B. However, if the sole beneficiary of your IRA is your spouse who is more than 10 years younger than you, see Sole beneficiary spouse who is more than 10 years younger below.
+
+To figure the required minimum distribution for 2026, divide your account balance at the end of 2025 by the applicable denominator from the table. This is the applicable denominator listed next to your age (as of your birthday in 2026) in Table III in Appendix B, unless the sole beneficiary of your IRA is your spouse who is more than 10 years younger than you.
+
+Example.
+
+You own a traditional IRA. Your account balance at the end of 2025 was $100,000. You are married and your spouse, who is the sole beneficiary of your IRA, is 6 years younger than you. You turn 75 years old in 2026. You use Table III . Your applicable denominator is 24.6. Your required minimum distribution for 2026 would be $4,065 ($100,000 ÷ 24.6).
+
+Sole beneficiary spouse who is more than 10 years younger.
+
+If the sole beneficiary of your IRA is your spouse and your spouse is more than 10 years younger than you, use the applicable denominator from Table II in Appendix B.
+
+The applicable denominator to use is located where the row or column containing your age as of your birthday in 2026 intersects with the row or column containing your spouse's age as of their birthday in 2026.
+
+You figure your required minimum distribution for 2026 by dividing your account balance at the end of 2025 by the applicable denominator from Table II in Appendix B.
+
+Example.
+
+You own a traditional IRA. Your account balance at the end of 2025 was $100,000. You are married and your spouse, who is the sole beneficiary of your IRA, is 11 years younger than you. You turn 75 in 2026 and your spouse turns 64. You use Table II . Your applicable denominator is 25.3. Your required minimum distribution for 2026 would be $3,953 ($100,000 ÷ 25.3).
+
+Special rules where portion of account balance is used to purchase an annuity.
+
+If you purchase an annuity contract with a portion of your IRA account balance, then special rules may apply in determining your RMD from the remaining account balance. Specifically, you may elect to satisfy the RMD requirement for the year by combining the value of the annuity contract with the remaining account balance and reducing the RMD by the amount of the annuity payments.
+
+Example.
+
+You own a traditional IRA. In 2025, you purchase an annuity contract with a portion of your account balance. As of December 31, 2025, your remaining account balance is $100,000, and the value of the annuity contract is $200,000. Your annuity payments in 2025 total $8,000.
+
+To use the rule described in the paragraph above, your RMD due from the remaining account balance for 2026 would be the excess of the RMD based on the total of the remaining account balance added to the value of the annuity contract ($300,000), over the $8,000 annuity payments.
+
+Distributions in the year of the owner's death.
+
+The required minimum distribution for the year of the owner's death depends on whether the owner died before the required beginning date , defined earlier.
+
+If the owner died before the required beginning date, there is no required minimum distribution in the year of the owner's death. For years after the year of the owner's death, see Owner Died Before Required Beginning Date , later, under IRA Beneficiaries.
+
+If the owner died on or after the required beginning date, the IRA beneficiaries are responsible for figuring and distributing the owner's required minimum distribution in the year of death. The owner's required minimum distribution for the year of death is generally based on Table III in Appendix B. However, if the sole beneficiary of the IRA is the owner's spouse who is more than 10 years younger than the owner, use the life expectancy from Table II .
+
+Note:
+
+You figure the required minimum distribution for the year in which an IRA owner dies as if the owner lived for the entire year.
+
+IRA Beneficiaries
+
+The rules for determining required minimum distributions for beneficiaries depend on whether:
+
+The following paragraphs explain the rules for required minimum distributions and beneficiaries.
+
+Caution:
+
+If you are a beneficiary of an inherited traditional IRA and you do not take the required minimum distribution for the year, discussed in this chapter under When Must You Withdraw Assets? (Required Minimum Distributions) , you may have to pay an excise tax for that year on the amount not distributed as required. For details, see Excess Accumulations (Insufficient Distributions) under What Acts Result in Penalties or Additional Taxes , later in this chapter.
+
+Surviving spouse.
+
+If you are the surviving spouse who is the sole beneficiary of your deceased spouse's IRA, you may elect to be treated as the owner and not as the beneficiary. If you elect to be treated as the owner, you determine the required minimum distribution (if any) as if you were the owner beginning with the year you elect or are deemed to be the owner. For details, see Inherited from spouse under What if You Inherit an IRA , earlier in this chapter.
+
+Note:
+
+If you become the owner in the year your deceased spouse died, don't determine the required minimum distribution for that year using your life expectancy; rather, you must take the deceased owner's required minimum distribution for that year (to the extent it wasn't already distributed to the owner before their death).
+
+Caution:
+
+You can never make a rollover contribution of a required minimum distribution. Any rollover contribution of a required minimum distribution is subject to the 6% tax on excess contributions. See chapter 1 of Pub. 590-A for more information on the tax on excess contributions.
+
+Tip:
+
+For any year after the owner’s death, where a surviving spouse is the sole designated beneficiary of the account and they fail to take a required minimum distribution (if one is required) by December 31 under the rules discussed below for beneficiaries, the surviving spouse will be deemed the owner of the IRA. For details, see Inherited from spouse under What if You Inherit an IRA , earlier in this chapter.
+
+Date the designated beneficiary is determined.
+
+Generally, the designated beneficiary is determined on September 30 of the calendar year following the calendar year of the IRA owner's death. In order to be a designated beneficiary, an individual must be a beneficiary as of the date of death. Any person who was a beneficiary on the date of the owner's death, but isn't a beneficiary on September 30 of the calendar year following the calendar year of the owner's death (because, for example, the beneficiary disclaimed entitlement or received their entire benefit), won't be taken into account in determining the designated beneficiary.
+
+Note:
+
+If an individual who is a beneficiary as of the owner's date of death dies before September 30 of the year following the year of the owner's death without disclaiming entitlement to benefits, that individual, rather than their successor beneficiary, continues to be treated as a beneficiary for determining the applicable denominator.
+
+For the exception to this rule, see Death of surviving spouse prior to date distributions begin , later.
+
+More than one beneficiary.
+
+If an IRA has more than one beneficiary or a trust is named as beneficiary, see Miscellaneous Rules for Required Minimum Distributions , later.
+
+Eligible designated beneficiaries.
+
+An IRA beneficiary is an eligible designated beneficiary if the beneficiary is the owner's surviving spouse, the owner's minor child, a disabled individual, a chronically ill individual, or any other individual who is not more than 10 years younger than the IRA owner.
+
+Death of a beneficiary.
+
+In general, the beneficiaries of a deceased beneficiary must continue to take the required minimum distributions after the deceased beneficiary's death. However, the beneficiaries of a deceased beneficiary don't calculate required minimum distributions using their own life expectancies. Instead, the deceased beneficiary's remaining interest must be distributed within 10 years after the beneficiary's death, or in some cases within 10 years after the owner's death. See 10-year rule , later.
+
+Owner Died on or After Required Beginning Date
+
+If the owner died on or after their required beginning date (defined earlier) and you are a designated beneficiary, base your required minimum distributions for years after the year of the owner’s death on the longer of:
+
+If there is no designated beneficiary, use the owner's life expectancy.
+
+Owner's life expectancy.
+
+You use the owner’s life expectancy to calculate required minimum distributions when the owner dies on or after the required beginning date and there is no designated beneficiary as of September 30 of the year following the year of the owner’s death.
+
+In this case, use the owner’s life expectancy for their age as of the owner’s birthday in the year of death and reduce it by 1 for each subsequent year. If the beneficiary is older than the deceased IRA owner, use the owner’s life expectancy in the year of death (reduced by 1 for each subsequent year).
+
+Surviving spouse is sole designated beneficiary.
+
+If you are the owner’s surviving spouse, then the applicable denominator continues to be determined each subsequent year using Table I . However, if you elect to treat the inherited IRA as your own, you will use Table III .
+
+Designated beneficiary who is not an eligible designated beneficiary.
+
+Distributions to a designated beneficiary who is not an eligible designated beneficiary must be completed within 10 years of the death of the owner. See 10-year rule , later.
+
+Owner Died Before Required Beginning Date
+
+If the owner died before their required beginning date (defined earlier) and you are an eligible designated beneficiary (such as and including a surviving spouse who is a sole survivor), you must generally figure your required minimum distributions for the year after the year of the owner's death using your single life expectancy shown in Table I .
+
+However, if you are the surviving spouse, use Table III if you elect to treat the IRA as your own. See Inherited from spouse under What if You Inherit an IRA , earlier, for more information.
+
+For each subsequent calendar year, if you are not the surviving spouse, the applicable denominator is reduced by one for each calendar year that has elapsed after the calendar year following the employee's death. If you are the owner's surviving spouse, then the applicable denominator continues to be determined each subsequent year, using either Table I or Table III.
+
+However, there are situations where a beneficiary may be required to take the entire account balance by the end of the 10th year following the year of the owner's death. See 10-year rule , later.
+
+If the owner’s beneficiary isn’t an individual (for example, if the beneficiary is the owner’s estate), the 5-year rule , discussed later, applies.
+
+Special rules for surviving spouse.
+
+If the owner died before their required beginning date and the surviving spouse is the sole designated beneficiary, that spouse can elect to be treated as the IRA owner.
+
+Year of first required distribution.
+
+If the owner died before the year in which they were required to begin receiving required minimum distributions and the surviving spouse is the IRA owner’s sole beneficiary, the spouse isn’t required to begin receiving minimum distributions until the end of the year in which the IRA owner would have reached their required beginning date. See Your required beginning date for more information.
+
+Death of surviving spouse prior to date distributions begin.
+
+If the surviving spouse dies before December 31 of the year they must begin receiving required minimum distributions, the surviving spouse will be treated as if they were the owner of the IRA.
+
+This rule doesn't apply to the surviving spouse of a surviving spouse.
+
+Example 1.
+
+Your spouse died in 2022, at age 65. You are the sole designated beneficiary of your spouse’s traditional IRA. You don't need to take any required minimum distributions until December 31 of 2030, the year your spouse would have reached age 73. If you die prior to that date, you will be treated as the owner of the IRA for purposes of determining the required distributions to your beneficiaries. For example, if you die in 2025, your beneficiaries won't have any required minimum distributions for 2025 (because you, treated as the owner, died prior to your required beginning date). Your beneficiaries must start taking distributions under the general rules for an owner who died prior to the required beginning date.
+
+Example 2.
+
+The facts are the same as in Example 1 , except your sole beneficiary upon your death in 2025 is your surviving spouse. Your surviving spouse can't wait until the year you would have turned age 73 to take distributions using their life expectancy. Also, if your surviving spouse dies prior to the date they are required to take a distribution, they aren’t treated as the owner of the account. Just like any other individual beneficiary of an owner who dies before the required beginning date, your surviving spouse must start taking distributions in 2026 based on their life expectancy (or elect to fully distribute the account under the 10-year rule by the end of 2035).
+
+5-year rule.
+
+The 5-year rule requires the IRA beneficiaries who are not taking life expectancy payments to withdraw the entire balance of the IRA by December 31 of the year containing the fifth anniversary of the owner’s death. For example, if the owner died in 2025, the beneficiary would have to fully distribute the IRA by December 31, 2030.
+
+The 5-year rule applies to beneficiaries who are not designated beneficiaries if the owner died before their required beginning date (such as an estate or trust (but see Trust as beneficiary , later)). Before 2020, the 5-year rule also applied to designated beneficiaries who weren’t taking life expectancy payments. If the owner died after 2019 and the beneficiary is an individual who is a designated beneficiary, see the 10-year rule , for more information.
+
+10-year rule.
+
+The 10-year rule requires the IRA beneficiaries who are not taking life expectancy payments to withdraw the entire balance of the IRA by December 31 of the year containing the 10th anniversary of the owner’s death. For example, if the owner died in 2025, the beneficiary would have to fully distribute the IRA by December 31, 2035.
+
+The 10-year rule applies if (1) the beneficiary is an eligible designated beneficiary who elects the 10-year rule, if the owner died before reaching their required beginning date; or (2) the beneficiary is a designated beneficiary who is not an eligible designated beneficiary, regardless of whether the owner died before reaching their required beginning date.
+
+For a beneficiary receiving life expectancy payments who is either an eligible designated beneficiary or a minor child, the 10-year rule also applies to the remaining amounts in the IRA upon the death of the eligible designated beneficiary or upon the minor child beneficiary reaching the age of majority. In either of those cases, the 10-year period ends on December 31 of the year containing the 10th anniversary of the eligible designated beneficiary's death or the child's attainment of majority.
+
+Payment under the 10-year rule.
+
+If the IRA owner dies before the required beginning date and the 10-year rule applies, no distribution is required for any year before the 10th year.
+
+Individual designated beneficiaries.
+
+The terms of most IRAs require individual designated beneficiaries, who are eligible designated beneficiaries, to take required minimum distributions using the life expectancy rules (explained later) unless such beneficiaries elect to take distributions using the 10-year rule .
+
+The deadline for making this election is the earlier of December 31 of the year the beneficiary must take the first required distribution, using their life expectancy or December 31 of the 10th anniversary for the 10-year rule.
+
+If the individual designated beneficiary is not an eligible designated beneficiary, the beneficiary is required to fully distribute the IRA by the 10th anniversary of the owner's death under the 10-year rule.
+
+Tip:
+
+Review the IRA plan documents or consult with the IRA custodian or trustee for specifics on the 5- or 10-year rule provisions, where applicable, of any particular IRA.
+
+Caution:
+
+If the 5-year rule applies, the amount remaining in the IRA, if any, after December 31 of the year containing the fifth anniversary of the owner's death is subject to the excise tax detailed in Excess Accumulations (Insufficient Distributions) , later.
+
+Caution:
+
+If the 10-year rule applies, the amount remaining in the IRA, if any, after December 31 of the year containing the 10th anniversary of the owner's death is subject to the excise tax detailed in Excess Accumulations (Insufficient Distributions) , later.
+
+Figuring the Beneficiary's RMD
+
+How you figure the required minimum distribution depends on whether the beneficiary is an individual or some other entity, such as a trust or estate.
+
+Beneficiary is an individual.
+
+If the beneficiary is an individual, figure the required minimum distribution for 2026 as follows.
+
+Life expectancy payments.
+
+Divide the account balance at the end of 2025 by the appropriate life expectancy from the appropriate table in Appendix B. See Which Table Do You Use To Determine Your Required Minimum Distribution for information on which table to use for figuring your RMD.
+
+Spouse as sole designated beneficiary.
+
+Several special rules affect figuring your RMD if you, as a spouse, are the sole designated beneficiary of the IRA owner.
+
+If you are the surviving spouse of the IRA owner and the sole designated beneficiary of the IRA, you can elect to treat the inherited IRA as your own. See Special rules for surviving spouse , earlier, for more information.
+
+If you continue to be treated as a beneficiary of the owner, you may use the applicable denominator based on the life expectancy you find in Table III to determine your RMD.
+
+Whether the IRA owner had begun receiving RMDs also affects how you figure your RMDs. See Owner Died on or After Required Beginning Date and Owner Died Before Required Beginning Date , earlier.
+
+See Which Table Do You Use To Determine Your Required Minimum Distribution for information on which table to use for figuring your RMD.
+
+Other designated beneficiary.
+
+Several special rules affect figuring your RMD if you are a nonspouse designated beneficiary of the IRA owner.
+
+As with the spousal beneficiary discussed earlier, whether the IRA owner had begun receiving RMDs affects how you figure your RMDs. See Owner Died on or After Required Beginning Date and Owner Died Before Required Beginning Date , earlier.
+
+See Which Table Do You Use To Determine Your Required Minimum Distribution , later, for information on which table to use for figuring your RMD. For more information, also see Individual designated beneficiaries , earlier.
+
+Beneficiary not an individual.
+
+See the 5-year rule if the owner died before the owner's required beginning date and the beneficiary is not an individual (such as an estate or trust (but see Trust as beneficiary , later)).
+
+Which Table Do You Use To Determine Your Required Minimum Distribution?
+
+There are three different life expectancy tables. The tables are found in Appendix B of this publication. You will use only one the tables to figure your required minimum distribution for each traditional IRA. Determine which one to use as follows.
+
+Table I (Single Life Expectancy).
+
+Use Table I for years after the year of the owner’s death if you are the owner’s eligible designated beneficiary. If you are the owner's surviving spouse and sole designated beneficiary, see Table III , later, for more information.
+
+If you are the owner’s eligible designated beneficiary, find your life expectancy for the year following the owner’s death (the year your distributions must begin). Use your age as of your birthday to find your applicable denominator. Reduce your applicable denominator by one for each year following the year your distributions begin.
+
+If there is no designated beneficiary as of September 30 of the year following the year of the IRA owner’s death, use the applicable denominator based on the owner’s age as of their birthday in the calendar year of their death. For each subsequent year reduce the applicable denominator by one.
+
+Example.
+
+You are an eligible designated beneficiary figuring your first required minimum distribution. Distributions must begin in 2026. You become age 57 in 2026. You use Table I. Your applicable denominator for 2026 is 29.8.
+
+Table II (Joint and Last Survivor Life Expectancy).
+
+Use Table II if you are the IRA owner and your spouse is both your sole designated beneficiary and more than 10 years younger than you.
+
+For your first distribution by the required beginning date, use your age and your spouse’s age as of your birthdays in the year you become age 73. This would be the number located in the row and column combination which includes both your age as of your birthday and your spouse’s age as of their birthday in 2026.
+
+For each subsequent year, use your ages as of your birthdays in the subsequent year.
+
+Note:
+
+Use this table and method for figuring the applicable denominator in the year of the owner's death if the owner died after the required beginning date and this is the table that would have been used had they not died.
+
+Table III (Uniform Lifetime).
+
+Use Table III if you are the IRA owner and your spouse isn’t the sole designated beneficiary or if your spouse is the sole designated beneficiary of your IRA and not more than 10 years younger than you.
+
+Use your age as of your birthday in the year you become age 73 to meet your first distribution by your required beginning date. If you are figuring your required minimum distribution for 2026, use your age as of your birthday in 2026. For each subsequent year, use your age as of your birthday in the subsequent year.
+
+Note:
+
+Use this table in the year of the owner's death if the owner died after the required beginning date and this is the table that would have been used had they not died.
+
+Reminder.
+
+In using the tables for lifetime distributions, marital status is determined as of January 1 each year. Divorce or death after January 1 is generally disregarded until the next year.
+
+The change in beneficiary will take effect in the year after the year of your spouse’s death or year of your divorce.
+
+No table.
+
+Don't use any of the tables if the owner died before their required beginning date and either the 5-year rule or the 10-year rule (discussed earlier) applies.
+
+Miscellaneous Rules for Required Minimum Distributions
+
+Redetermination of initial life expectancies using new tables.
+
+New life expectancy tables apply to distribution calendar years beginning on or after January 1, 2022. If an IRA owner died before January 1, 2022, the applicable denominator that applies for a calendar year following the calendar year of the owner’s death is equal to a single life expectancy calculated as of the calendar year of the owner’s death, reduced by 1 for each subsequent year, and is reset using the new table.
+
+In order to do this, find your life expectancy based on your age in the year following the owner’s death on Table I and reduce that number by 1 for each year since the year of the owner’s death.
+
+The requirement to reset the initial life expectancy also applies to an owner’s surviving spouse who died before January 1, 2022.
+
+Example.
+
+Your father died in 2021 at the age of 80 and you were the designated beneficiary. You started taking required minimum distributions from the inherited IRA in 2022 when you were age 55, using a life expectancy of 29.6 and reducing that number by 1 each year so that in 2026 (4 years later) the required minimum distribution would be determined by dividing the account balance by 25.6 (29.6 – 4). However, under the new life expectancy tables, the life expectancy for a 55-year-old is 31.6; therefore, you calculate your required minimum distribution for 2026 by dividing the account balance by 27.6 (31.6 – 4).
+
+Installments allowed.
+
+The yearly required minimum distribution can be taken in a series of installments (monthly, quarterly, etc.) as long as the total distributions for the year are at least as much as the minimum required amount.
+
+More than one IRA.
+
+If you are the owner of more than one traditional IRA, you must determine a separate required minimum distribution for each IRA. However, you can total these minimum amounts and take the total from any one or more of the IRAs. The same rule applies if you are a designated beneficiary of more than one IRA that was owned by a single decedent.
+
+More than minimum received.
+
+If, in any year, you receive more than the required minimum amount for that year, you won't receive credit for the additional amount when determining the minimum required amounts for future years. This doesn't mean that you don't reduce your IRA account balance. It means that if you receive more than your required minimum distribution in 1 year, you can't treat the excess (the amount that is more than the required minimum distribution) as part of your required minimum distribution for any later year. However, any amount distributed in the year you turn age 73 will be credited toward the amount that must be distributed by April 1 of the following year.
+
+Example.
+
+Justin became 73 on December 15, 2025. Justin's IRA account balance on December 31, 2024, was $38,400. He figured his required minimum distribution of $1,450 for 2025 ($38,400 ÷ 26.5). By December 31, 2025, he had actually received distributions totaling $3,600, $2,150 more than was required. Justin can’t use that $2,150 to reduce the amount he is required to withdraw for 2026. Justin's reduced IRA account balance on December 31, 2025, was $34,800. Justin figured his required minimum distribution of $1,313 for 2026 ($34,800 ÷ 26.5 (the applicable denominator for age 73 per Table III)). During 2026, he must receive distributions of at least that amount.
+
+Multiple individual beneficiaries.
+
+If, as of September 30 of the year following the year in which the owner dies, there is more than one beneficiary, the beneficiary with the shortest life expectancy will be the designated beneficiary if both of the following apply.
+
+-
+
+All of the beneficiaries are individuals.
+
+-
+
+The account or benefit hasn't been divided into separate accounts or shares for each beneficiary.
+
+Separate accounts.
+
+A single IRA can be split into separate accounts or shares for each beneficiary. These separate accounts or shares can be established at any time, either before or after the owner's required beginning date. Generally, these separate accounts or shares are combined for purposes of determining the required minimum distribution. However, these separate accounts or shares won't be combined for required minimum distribution purposes after the death of the IRA owner if the separate accounts or shares are established by the end of the year following the year of the IRA owner's death.
+
+The separate account rules can't be used by beneficiaries of a trust unless the trust is an applicable multi-beneficiary trust.
+
+Trust as beneficiary.
+
+A trust can't be a designated beneficiary even if it is a named beneficiary. However, the beneficiaries of a trust will be treated as having been designated beneficiaries for purposes of determining required minimum distributions after the owner’s death (or, after the death of the owner’s surviving spouse described in Death of surviving spouse prior to date distributions begin , earlier) if all of the following are true.
+
+-
+
+The trust is a valid trust under state law, or would be but for the fact that there is no corpus.
+
+-
+
+The trust is irrevocable or became, by its terms, irrevocable upon the owner's death.
+
+-
+
+The beneficiaries of the trust who are beneficiaries with respect to the trust's interest in the owner's benefit are identifiable from the trust instrument.
+
+-
+
+The trustee of the trust provides the IRA custodian or trustee with the documentation required by that custodian or trustee. The trustee of the trust should contact the IRA custodian or trustee for details on the documentation required for a specific IRA.
+
+Trust beneficiary is another trust.
+
+If the beneficiary of the trust (which is the beneficiary of the IRA) is another trust and both trusts meet the above requirements, the beneficiaries of the other trust will be treated as having been designated as beneficiaries for purposes of determining the applicable denominator.
+
+Applicable multi-beneficiary trusts.
+
+An applicable multi-beneficiary trust is a trust (1) which has more than one beneficiary; (2) all of the beneficiaries of which are treated as designated beneficiaries for purposes of determining the applicable denominator pursuant to section 401(a)(9); and (3) at least one of the beneficiaries of which is an eligible designated beneficiary who is either disabled or chronically ill. There are two types of applicable multi-beneficiary trusts:
+
+-
+
+A trust that is to be divided immediately upon the death of the IRA owner into separate trusts for each beneficiary, in which case the separate account rules apply to each portion of the trust; or
+
+-
+
+A trust to which the separate account rules do not apply and provides that no beneficiary (other than an eligible designated beneficiary who is disabled or chronically ill) has any right to the IRA owner’s interest in the IRA until the death of all disabled or chronically ill eligible designated beneficiaries with respect to the trust.
+
+Tip:
+
+You may want to contact a tax advisor to comply with this complicated area of the tax law.
+
+Annuity distributions from an insurance company.
+
+Special rules apply if you receive distributions from your traditional IRA as an annuity purchased from an insurance company. See Treasury Regulations sections 1.401(a)(9)-6 and 54.4974-1. These regulations can be found in many libraries, and IRS offices, and online at IRS.gov .
+
+Are Distributions Taxable?
+
+In general, distributions from a traditional IRA are taxable in the year you receive them.
+
+Failed financial institutions.
+
+Distributions from a traditional IRA are taxable in the year you receive them even if they are made without your consent by a state agency as receiver of an insolvent savings institution. This means you must include such distributions in your gross income unless you roll them over.
+
+Exceptions.
+
+Exceptions to distributions from traditional IRAs being taxable in the year you receive them are:
+
+Caution:
+
+Although a conversion of a traditional IRA is considered a rollover for Roth IRA purposes, it isn't an exception to the rule that distributions from a traditional IRA are taxable in the year you receive them. Conversion distributions are includible in your gross income subject to this rule and the special rules for conversions explained in chapter 1 of Pub. 590-A.
+
+Qualified charitable distributions (QCDs).
+
+A QCD is generally a nontaxable distribution made directly by the trustee of your IRA (other than an ongoing SEP or SIMPLE IRA) to an organization eligible to receive tax-deductible contributions. You must be at least age 70½ when the distribution is made. Also, you must have the same type of acknowledgment of your contribution that you would need to claim a deduction for a charitable contribution. See Substantiation Requirements in Pub. 526.
+
+The maximum annual exclusion for QCDs is $108,000. Any QCD in excess of the $108,000 exclusion limit is included in income as any other distribution. If you file a joint return, your spouse can also have a QCD and exclude up to $108,000. The amount of the QCD is limited to the amount of the distribution that would otherwise be included in income. If your IRA includes nondeductible contributions, the distribution is first considered to be paid out of otherwise taxable income.
+
+Caution:
+
+You can't claim a charitable contribution deduction for any QCD not included in your income.
+
+One-time election for QCD to split-interest entity.
+
+You can elect to make a one-time distribution of up to $54,000 from an individual retirement account to charities through a split-interest entity. A split-interest entity (SIE) would be a charitable remainder annuity trust, a charitable remainder unitrust, or a charitable gift annuity but only if funded by qualified charitable distributions.
+
+In the case of the charitable gift annuity, the annuity must begin making fixed payments of 5% or greater not later than 1 year from the date of funding.
+
+Tip:
+
+A QCD will count towards your required minimum distribution , discussed earlier.
+
+Example.
+
+On December 23, 2025, Amy, age 75, directed the trustee of her IRA to make a distribution of $25,000 directly to a qualified section 501(c)(3) organization (a charitable organization eligible to receive tax-deductible contributions). The total value of Amy's IRA is $30,000 and consists of $20,000 of deductible contributions and earnings and $10,000 of nondeductible contributions (basis). Because Amy is at least age 70½ and the distribution is made directly by the trustee to a qualified organization, the part of the distribution that would otherwise be includible in Amy's income ($20,000) is a QCD.
+
+In this case, Amy has made a QCD of $20,000 (her deductible contributions and earnings). Because Amy made a distribution of nondeductible contributions from her IRA, she must file Form 8606 with her return. Amy reports the total distribution ($25,000) on line 4a of Form 1040-SR. She completes Form 8606 to determine the amount to enter on line 4b of Form 1040-SR and the remaining basis in her IRA. Amy enters -0- on line 4b. This is Amy's only IRA and she took no other distributions in 2025. She also checks box 2 for QCD on line 4c to indicate a qualified charitable distribution.
+
+After the distribution, her basis in her IRA is $5,000. If Amy itemizes deductions and files Schedule A (Form 1040) with Form 1040-SR, the $5,000 portion of the distribution attributable to the nondeductible contributions can be deducted as a charitable contribution, subject to adjusted gross income (AGI) limits. She can't take the charitable contribution deduction for the $20,000 portion of the distribution that wasn't included in her income.
+
+Reporting your one-time election on Form 1040, 1040-SR, or 1040-NR.
+
+If you make the one-time election to make a QCD to a split-interest entity (SIE), you must attach a statement to your tax return. Check box 3 on line 4c and enter “SIE” in the entry space.
+
+The attachment should include all of the following information.
+
+-
+
+That you have not made the election in a prior tax year.
+
+-
+
+That the QCDs are otherwise deductible under section 408(d)(8)(F)(iii).
+
+-
+
+That no person holds an income interest in an SIE other than the individual for whose benefit the account is maintained, the individual's spouse, or both.
+
+-
+
+That the income interest in the SIE is nonassignable.
+
+-
+
+The total amount of QCD(s) you made to an SIE that relate to your one-time election.
+
+Offset of QCDs by amounts contributed after age 70½.
+
+Beginning in tax years after December 31, 2019, the amount of QCDs that you can exclude from income is reduced by the excess of the aggregate amount of IRA contributions you deducted for the taxable year and any prior year that you were age 70½ or older over the amount of the IRA contributions that were used to reduce the excludable amount of QCDs in all earlier years. See the Qualified Charitable Deduction (QCD) Adjustment Worksheet in Appendix D.
+
+Jim’s Illustrated 2025 QCD Adjustment Worksheet
+
+1. | Enter the total amounts of contributions deducted in prior years that you were age 70½ or older that did not reduce the excludable amount of qualified charitable contributions in prior years. | 1. | -0-
+2. | Enter the total amounts contributed and deducted during the current year if you were age 70½ (or older) at the end of the year. If this is your first QCD worksheet, also include contributions you deducted in prior years during which you were age 70½ (or older) at the end of the year. | 2. | 10,000
+3. | Add the amounts on lines 1 and 2. | 3. | 10,000
+4. | Enter the total amounts of qualified charitable distributions made during the current year, not to exceed $108,000. | 4. | 6,000
+5. | Subtract line 3 from line 4. This is the amount of your excludable qualified charitable distribution for the current year.* | 5. | ($4,000)
+*If zero or less, you have no excludable qualified charitable distribution. If greater than zero, enter -0- on line 1 of your subsequent QCD worksheet. If less than zero, enter the amount as a positive amount on line 1 of your subsequent QCD worksheet.
+
+Example.
+
+Jim became age 70½ in 2023 and deducted $5,000 for contributions he made in 2024 and 2025 but makes no contribution for 2026. Jim makes no qualified charitable distributions for 2024 and makes qualified charitable distributions of $6,000 for 2025 and $6,500 for 2026.
+
+He determines he has no excludable qualified charitable distribution for 2025 as figured on his 2025 QCD Worksheet . His 2025 qualified charitable distribution is reduced by the aggregate amount of $10,000 of the contributions he deducted in 2024 and 2025, which reduces his excludable qualified charitable distribution to a negative amount of $4,000.
+
+Jim decides to make a qualified charitable distribution of $6,500 for 2026. Jim completes his 2026 QCD worksheet by entering the amount of the remainder of the aggregate amount of the contributions he deducted in 2024 and 2025 ($4,000) on line 1. This amount is figured on his 2025 QCD worksheet and is entered on line 1 of his 2026 QCD worksheet. Jim figures his excludable qualified charitable distribution of $2,500 on his 2026 QCD worksheet ($6,500 – $4,000 = $2,500).
+
+One-time qualified Health Savings Account (HSA) funding distribution.
+
+You may be able to make a qualified HSA funding distribution from your traditional IRA or Roth IRA to your HSA. You can't make this distribution from an ongoing SEP IRA or SIMPLE IRA. For this purpose, a SEP IRA or SIMPLE IRA is ongoing if an employer contribution is made for the plan year ending with or within your tax year in which the distribution would be made. The distribution must be less than or equal to your maximum annual HSA contribution.
+
+This distribution must be made directly by the trustee of the IRA to the trustee of the HSA. The distribution isn't included in your income, isn't deductible, and reduces the amount that can be contributed to your HSA. You must make the distribution by the end of the year; the special rule allowing contributions to your HSA for the previous year if made by your tax return filing deadline doesn't apply. The qualified HSA funding distribution is reported on Form 8889 for the year in which the distribution is made.
+
+One-time transfer.
+
+Generally, only one qualified HSA funding distribution is allowed during your lifetime. If you own two or more IRAs, and want to use amounts in multiple IRAs to make a qualified HSA funding distribution, you must first make an IRA-to-IRA transfer of the amounts to be distributed into a single IRA, and then make the one-time qualified HSA funding distribution from that IRA.
+
+Testing period rules apply.
+
+If at any time during the testing period you cease to meet all requirements to be an eligible individual, the amount of the qualified HSA funding distribution is included in your gross income. The qualified HSA funding distribution is included in gross income in the tax year you first fail to be an eligible individual. This amount is subject to the 10% additional tax (unless the failure is due to disability or death).
+
+More information.
+
+See Pub. 969 for additional information about this distribution.
+
+Ordinary income.
+
+Distributions from traditional IRAs that you include in income are taxed as ordinary income.
+
+No special treatment.
+
+In figuring your tax, you can't use the 10-year tax option or capital gain treatment that applies to lump-sum distributions from qualified retirement plans.
+
+Tip:
+
+If you were affected by a qualified disaster, see chapter 3 .
+
+Jim’s Illustrated 2026 QCD Adjustment Worksheet
+
+1. | Enter the total amounts of contributions deducted in prior years that you were age 70½ or older that did not reduce the excludable amount of qualified charitable contributions in prior years. | 1. | 4,000
+2. | Enter the total amounts contributed and deducted during the current year if you were age 70½ (or older) at the end of the year. If this is your first QCD worksheet, also include contributions you deducted in prior years during which you were age 70½ (or older) at the end of the year. | 2. | -0-
+3. | Add the amounts on lines 1 and 2. | 3. | 4,000
+4. | Enter the total amounts of qualified charitable distributions made during the current year, not to exceed $111,000. | 4. | 6,500
+5. | Subtract line 3 from line 4. This is the amount of your excludable qualified charitable distribution for the current year.* | 5. | $2,500
+*If zero or less, you have no excludable qualified charitable distribution. If greater than zero, enter -0- on line 1 of your subsequent QCD worksheet. If less than zero, enter the amount as a positive amount on line 1 of your subsequent QCD worksheet.
+
+Distributions Fully or Partly Taxable
+
+Distributions from your traditional IRA may be fully or partly taxable, depending on whether your IRA includes any nondeductible contributions.
+
+Fully taxable.
+
+If only deductible contributions were made to your traditional IRA (or IRAs, if you have more than one), you have no basis in your IRA. Because you have no basis in your IRA, any distributions are fully taxable when received. See Reporting and Withholding Requirements for Taxable Amounts , later.
+
+Partly taxable.
+
+If you made nondeductible contributions or rolled over any after-tax amounts to any of your traditional IRAs, you have a cost basis (investment in the contract) equal to the amount of those contributions. These nondeductible contributions aren't taxed when they are distributed to you. They are a return of your investment in your IRA.
+
+Only the part of the distribution that represents nondeductible contributions and rolled over after-tax amounts (your cost basis) is tax free. If nondeductible contributions have been made or after-tax amounts have been rolled over to your IRA, distributions consist partly of nondeductible contributions (basis) and partly of deductible contributions, earnings, and gains (if there are any). Until all of your basis has been distributed, each distribution is partly nontaxable and partly taxable.
+
+Form 8606.
+
+You must complete Form 8606, and attach it to your return, if you receive a distribution from a traditional IRA and have ever made nondeductible contributions or rolled over after-tax amounts to any of your traditional IRAs. Using the form, you will figure the nontaxable distributions for 2025, and your total IRA basis for 2025 and earlier years. See the illustrated Forms 8606 in this chapter.
+
+Note:
+
+If you are required to file Form 8606, but you aren't required to file an income tax return, you must still file Form 8606. Complete Form 8606, sign it, and send it to the IRS at the time and place you would otherwise file an income tax return.
+
+Figuring the Nontaxable and Taxable Amounts
+
+If your traditional IRA includes nondeductible contributions and you received a distribution from it in 2025, you must use Form 8606 to figure how much of your 2025 IRA distribution is tax free.
+
+Note:
+
+When figuring the nontaxable and taxable amounts of distributions made prior to death in the year the IRA account owner dies, the value of all traditional (including SEP and SIMPLE) IRAs should be figured as of the date of death instead of December 31.
+
+Contribution and distribution in the same year.
+
+If you received a distribution in 2025 from a traditional IRA and you also made contributions to a traditional IRA for 2025 that may not be fully deductible because of the income limits, you can use Worksheet 1-1 to figure how much of your 2025 IRA distribution is tax free and how much is taxable. Then, you can figure the amount of nondeductible contributions to report on Form 8606. Follow the instructions under Reporting your nontaxable distribution on Form 8606 next to figure your remaining basis after the distribution.
+
+Reporting your nontaxable distribution on Form 8606.
+
+To report your nontaxable distribution and to figure the remaining basis in your traditional IRA after distributions, you must complete Worksheet 1-1 before completing Form 8606. Then, follow these steps to complete Form 8606.
+
+-
+
+Use Worksheet 1-2 in chapter 1 of Pub. 590-A, or the IRA Deduction Worksheet in the Form 1040 instructions to figure your deductible contributions to traditional IRAs to report on Schedule 1 (Form 1040), line 20.
+
+-
+
+After you complete Worksheet 1-2 in chapter 1 of Pub. 590-A or the IRA Deduction Worksheet in the Form 1040 instructions, enter your nondeductible contributions to traditional IRAs on line 1 of Form 8606.
+
+-
+
+Complete lines 2 through 5 of Form 8606.
+
+-
+
+If line 5 of Form 8606 is less than line 8 of Worksheet 1-1 , complete lines 6 through 15c of Form 8606 and stop here.
+
+-
+
+If line 5 of Form 8606 is equal to or greater than line 8 of Worksheet 1-1 , follow instructions 6 and 7 next. Don't complete lines 6 through 12 of Form 8606.
+
+-
+
+Enter the amount from line 8 of Worksheet 1-1 on lines 13 and 17 of Form 8606.
+
+-
+
+Complete line 14 of Form 8606.
+
+-
+
+Enter the amount from line 9 of Worksheet 1-1 (or, if you entered an amount on line 11, the amount from that line) on line 15a of Form 8606.
+
+Worksheet 1-1. Figuring the Taxable Part of Your IRA Distribution
+
+Use only if you made contributions to a traditional IRA for 2025 that may not be fully deductible and have to figure the taxable part of your 2025 distributions to determine your modified AGI. See Limit if Covered by Employer Plan in chapter 1 of Pub. 590-A. Form 8606 and the related instructions will be needed when using this worksheet. Note. When used in this worksheet, the term “ outstanding rollover ” refers to an amount distributed from a traditional IRA as part of a rollover that, as of December 31, 2025, hadn't yet been reinvested in another traditional IRA, but was still eligible to be rolled over tax free.
+
+1. | Enter the basis in your traditional IRAs as of December 31, 2024 | 1. | _____
+2. | Enter the total of all contributions made to your traditional IRAs during 2025 and all contributions made during 2026 that were for 2025, whether or not deductible . Don't include rollover contributions properly rolled over into IRAs. Also, don't include certain returned contributions described in the instructions for line 7 of Form 8606 | 2.
+3. | Add lines 1 and 2 | 3. | _____
+4. | Enter the value of all your traditional IRAs as of December 31, 2025 (include any outstanding rollovers from traditional IRAs to other traditional IRAs). Subtract any repayments of qualified disaster distributions | 4.
+5. | Enter the total distributions from traditional IRAs (including amounts converted to Roth IRAs that will be shown on line 16 of Form 8606) received in 2025. Also, include repayments of qualified disaster distributions, qualified charitable distributions (QCDs), and a one-time distribution to fund a health savings account (HSA). (Don’t include outstanding rollovers included on line 4 or any rollovers between traditional IRAs completed by December 31, 2025. Also, don’t include certain returned contributions described in the instructions for line 7 of Form 8606.) | 5. | _____
+6. | Add lines 4 and 5 | 6. | _____
+7. | Divide line 3 by line 6. Enter the result as a decimal (rounded to at least three places). If the result is 1.000 or more, enter 1.000 | 7. | _____
+8. | Nontaxable portion of the distribution. Multiply line 5 by line 7. Enter the result here and on lines 13 and 17 of Form 8606 | 8. | _____
+9. | Taxable portion of the distribution (before adjustment for conversions). Subtract line 8 from line 5. Enter the result here, and if there are no amounts converted to Roth IRAs, stop here and enter the result on line 15a of Form 8606 | 9. | _____
+10. | Enter the amount included on line 9 that is allocable to amounts converted to Roth IRAs by December 31, 2025. (See Note at the end of this worksheet.) Enter here and on line 18 of Form 8606 | 10. | _____
+11. | Taxable portion of the distribution (after adjustments for conversions). Subtract line 10 from line 9. Enter the result here and on line 15a of Form 8606 | 11. | _____
+Note. If the amount on line 5 of this worksheet includes an amount converted to a Roth IRA by December 31, 2025, you must determine the percentage of the distribution allocable to the conversion. To figure the percentage, divide the amount converted (from line 16 of Form 8606) by the total distributions shown on line 5. To figure the amounts to include on line 10 of this worksheet and on line 18 of Form 8606, multiply line 9 of the worksheet by the percentage you figured.
+
+Example.
+
+Rose Green has made the following contributions to her traditional IRAs.
+
+Year | Deductible | Nondeductible
+2018 | 2,000 | -0-
+2019 | 2,000 | -0-
+2020 | 2,000 | -0-
+2021 | 1,000 | -0-
+2022 | 1,000 | -0-
+2023 | 1,000 | -0-
+2024 | 700 | 300
+Totals | $9,700 | $300
+
+Rose needs to complete Worksheet 1-1 to determine if her IRA deduction for 2025 will be reduced or eliminated. In 2025, she makes a $2,000 contribution that may be partly nondeductible. She also receives a distribution of $5,000 for conversion to a Roth IRA. She completed the conversion before December 31, 2025, and didn’t recharacterize any contributions. At the end of 2025, the fair market values of her accounts, including earnings, total $20,000. She didn't receive any tax-free distributions in earlier years. The amount she includes in income for 2025 is figured on Worksheet 1-1 .
+
+Worksheet 1-1. Figuring the Taxable Part of Your IRA Distribution—Illustrated
+
+Use only if you made contributions to a traditional IRA for 2025 that may not be fully deductible and have to figure the taxable part of your 2025 distributions to determine your modified AGI. See Limit if Covered by Employer Plan in chapter 1 of Pub. 590-A. Form 8606 and the related instructions will be needed when using this worksheet. Note. When used in this worksheet, the term “ outstanding rollover ” refers to an amount distributed from a traditional IRA as part of a rollover that, as of December 31, 2025 hadn't yet been reinvested in another traditional IRA, but was still eligible to be rolled over tax free.
+
+1. | Enter the basis in your traditional IRAs as of December 31, 2024 | 1. | 300
+2. | Enter the total of all contributions made to your traditional IRAs during 2025 and all contributions made during 2026 that were for 2025, whether or not deductible . Don't include rollover contributions properly rolled over into IRAs. Also, don't include certain returned contributions described in the instructions for line 7 of Form 8606 | 2. | 2,000
+3. | Add lines 1 and 2 | 3. | 2,300
+4. | Enter the value of all your traditional IRAs as of December 31, 2025 (include any outstanding rollovers from traditional IRAs to other traditional IRAs). Subtract any repayments of qualified disaster distributions | 4. | 20,000
+5. | Enter the total distributions from traditional IRAs (including amounts converted to Roth IRAs that will be shown on line 16 of Form 8606) received in 2025. Also, include repayments of qualified disaster distributions, qualified charitable distributions (QCDs), and a one-time distribution to fund a health savings account (HSA). (Don’t include outstanding rollovers included on line 4 or any rollovers between traditional IRAs completed by December 31, 2025. Also, don’t include certain returned contributions described in the instructions for line 7 of Form 8606.) | 5. | 5,000
+6. | Add lines 4 and 5 | 6. | 25,000
+7. | Divide line 3 by line 6. Enter the result as a decimal (rounded to at least three places). If the result is 1.000 or more, enter 1.000 | 7. | 0.092
+8. | Nontaxable portion of the distribution. Multiply line 5 by line 7. Enter the result here and on lines 13 and 17 of Form 8606 | 8. | 460
+9. | Taxable portion of the distribution (before adjustment for conversions). Subtract line 8 from line 5. Enter the result here, and if there are no amounts converted to Roth IRAs, stop here and enter the result on line 15a of Form 8606 | 9. | 4,540
+10. | Enter the amount included on line 9 that is allocable to amounts converted to Roth IRAs by December 31, 2025. (See Note at the end of this worksheet.) Enter here and on line 18 of Form 8606 | 10. | 4,540
+11. | Taxable portion of the distribution (after adjustments for conversions). Subtract line 10 from line 9. Enter the result here and on line 15a of Form 8606 | 11. | -0-
+Note. If the amount on line 5 of this worksheet includes an amount converted to a Roth IRA by December 31, 2025, you must determine the percentage of the distribution allocable to the conversion. To figure the percentage, divide the amount converted (from line 16 of Form 8606) by the total distributions shown on line 5. To figure the amounts to include on line 10 of this worksheet and on line 18 of Form 8606, multiply line 9 of the worksheet by the percentage you figured.
+
+The illustrated Form 8606 for Rose shows the information required when you need to use Worksheet 1-1 to figure your nontaxable distribution. Assume that the $500 entered on Form 8606, line 1, is the amount Rose figured using instructions 1 and 2 given earlier under Reporting your nontaxable distribution on Form 8606 .
+
+Form 8606, page 1 - Rose Green - Nondeductible IRAs 2025
+
+Form 8606, page 1 — Nondeductible IRAs 2025
+
+Form 8606, page 1 — Nondeductible IRAs 2025
+
+Summary: This is an example of Form 8606 (2025) with items included as described in the text. Additionally, these line items are completed:
+
+"Name. If married, file a separate form for each spouse required to file Form 8606. See instructions." field contains Rose Green
+"Your social security number" field contains 001-00-0000
+Under"Part I: Nondeductible Contributions to Traditional IRAs and Distributions From Traditional, SEP, and SIMPLE IRAs":
+"1. Enter your nondeductible contributions to traditional IRAs for 2025 including those made for 2025 from January 1, 2026 through April 15, 2026" field contains 500
+"2. Enter your total basis in traditional IRAs See instructions" field contains 300
+"3. Add lines 1 and 2" field contains 800
+"4. Enter those contributions included on line 1 that were made from January 1, 2026, through April 15, 2026" field contains 0
+"5. Subtract line 4 from line 3" field contains 800
+"13. Add lines 11 and 12. This is the nontaxable portion of all your distributions" field contains 460 Footnote: From Worksheet 1-1 in Pub. 590-B.
+"14. Subtract line 13 from line 3. This is your total basis in traditional IRAs for 2025 and earlier years" field contains 340
+"15c. Subtract line 12 from line 7. If more than zero, also include this amount on Form 1040, 1040-SR, or 1040-NR, line 4b" field contains 0
+
+Please click here for the text description of the image.
+
+Form 8606, page 2 - Nondeductible IRAs 2025
+
+Form 8606, page 2— Nondeductible IRAs 2025
+
+Form 8606, page 2— Nondeductible IRAs 2025
+
+Summary: This is an example of Form 8606 (2025) with items included as described in the text. Additionally, these line items are completed:
+
+Under"Part II: 2025 Conversions From Traditional, SEP, or SIMPLE IRAs to Roth IRAs":
+"16. If you completed Part I, enter the amount from line 8. Otherwise, enter the net amount you converted from traditional, SEP, or SIMPLE IRAs to Roth IRAs in 2025. " field contains 5,000
+"17. If you completed Part I, enter the amount from line 11. Otherwise, enter your basis in the amount on line 16 (see instructions)" field contains 460
+"18. Taxable amount. Subtract line 17 from line 16. Also include this amount on Form 1040, 1040-SR, or 1040-NR, line 4b" field contains 4,540 Footnote: From Worksheet 1–1 in Pub. 590-B.
+
+Please click here for the text description of the image.
+
+Other Special IRA Distribution Situations
+
+Two other special IRA distribution situations are discussed next.
+
+Distribution of an annuity contract from your IRA account.
+
+You can tell the trustee or custodian of your traditional IRA account to use the amount in the account to buy an annuity contract for you. You aren't taxed when you receive the annuity contract (unless the annuity contract is being converted to an annuity held by a Roth IRA). You are taxed when you start receiving payments under that annuity contract.
+
+Tax treatment.
+
+If only deductible contributions were made to your traditional IRA since it was opened (this includes all your traditional IRAs, if you have more than one), the annuity payments are fully taxable.
+
+If any of your traditional IRAs include both deductible and nondeductible contributions, the annuity payments are taxed as explained earlier under Distributions Fully or Partly Taxable .
+
+Cashing in retirement bonds.
+
+When you cash in retirement bonds, you are taxed on the entire amount you receive. If you reach age 70½ and you have not yet cashed in your retirement bonds, you should include the entire value of the bonds in your income in the year in which you turn 70½. The value of the bonds is the amount you would have received if you had cashed them in at the end of that year. When you later cash in the bonds, you won't be taxed again.
+
+Reporting and Withholding Requirements for Taxable Amounts
+
+If you receive a distribution from your traditional IRA, you will receive Form 1099-R, or a similar statement. IRA distributions are shown in boxes 1 and 2a of Form 1099-R. A number or letter code in box 7 tells you what type of distribution you received from your IRA.
+
+Number codes.
+
+Some of the number codes are explained below. All of the codes are explained in the instructions for recipients on Form 1099-R.
+
+1—Early distribution, no known exception (in most cases, under age 59½).
+2—Early distribution, exception applies (under age 59½).
+3—Disability.
+4—Death.
+5—Prohibited transaction.
+7—Normal distribution.
+8—Excess contributions plus earnings/ excess deferrals (and/or earnings) taxable in 2025.
+
+Caution:
+
+If code 1, 5, or 8 appears on your Form 1099-R, you are probably subject to an additional tax. If code 1 appears, see Early Distributions , later. If code 5 appears, see Prohibited Transactions , later. If code 8 appears, see Excess Contributions in chapter 1 of Pub. 590-A .
+
+Letter codes.
+
+Some of the letter codes are explained below. All of the codes are explained in the instructions for recipients on Form 1099-R.
+
+B—Designated Roth account distribution.
+G—Direct rollover of a distribution to a qualified plan, a section 403(b) plan, a governmental section 457(b) plan, or an IRA.
+H—Direct rollover of a designated Roth account distribution to a Roth IRA or Roth SIMPLE IRA.
+J—Early distribution from a Roth IRA or Roth SIMPLE IRA, no known exception (in most cases, under age 59½).
+N—Recharacterized IRA contribution made for 2025 and recharacterized in 2025.
+P—Excess contributions plus earnings/excess deferrals (and/or earnings) taxable in 2024 or a previous year.
+Q—Qualified distribution from a Roth IRA or Roth SIMPLE IRA.
+R—Recharacterized IRA contribution made for 2024 and recharacterized in 2025.
+S—Early distribution from a SIMPLE IRA in the first 2 years, no known exception (under age 59½).
+T—Roth IRA or Roth SIMPLE IRA distribution, exception applies.
+Y—Qualified charitable distribution (QCD) claimed by taxpayer under section 408(d)(8).
+
+If the distribution shown on Form 1099-R is from your IRA, SEP IRA, or SIMPLE IRA, the small box in box 7 (labeled IRA/SEP/SIMPLE ) should be marked with an “X.”
+
+Caution:
+
+If code J, P, or S appears on your Form 1099-R, you are probably subject to an additional tax. If code J appears, see Early Distributions , later. If code P appears, see Excess Contribution s in chapter 1 of Pub. 590-A. If code S appears, see Distributions (Withdrawals) in chapter 3 of Pub. 560.
+
+Withholding.
+
+Federal income tax is withheld from distributions from traditional IRAs unless you choose not to have tax withheld.
+
+If you are receiving periodic payments (payments made in installments at regular intervals over a period of more than 1 year) use Form W-4P to have tax withheld from your IRA. The amount of tax withheld from an annuity or a similar periodic payment is based on your marital status and any adjustments you claim on your Form W-4P.
+
+Complete Form W-4R to have taxes withheld from your nonperiodic payments or eligible rollover distribution from your IRA. Generally, tax will be withheld at a 10% rate on nonperiodic payments.
+
+IRA distributions delivered outside the United States.
+
+In general, if you are a U.S. citizen or resident alien and your home address is outside the United States or its territories, you can't choose exemption from withholding on distributions from your traditional IRA.
+
+To choose exemption from withholding, you must certify to the payer under penalties of perjury that you aren't a U.S. citizen, a resident alien of the United States, or a tax-avoidance expatriate.
+
+Even if this election is made, the payer must withhold tax at the rates prescribed for nonresident aliens.
+
+More information.
+
+For more information on withholding on pensions and annuities, see Pensions and Annuities in chapter 1 of Pub. 505. For more information on withholding on nonresident aliens and foreign entities, see Pensions, Annuities, and Alimony under Withholding on Specific Income in Pub. 515.
+
+Reporting taxable distributions on your return.
+
+Report fully taxable distributions, including early distributions, on Form 1040, 1040-SR, or 1040-NR, line 4b (no entry is required on line 4a). If only part of the distribution is taxable, enter the total amount on Form 1040, 1040-SR, or 1040-NR, line 4a, and enter the taxable part on Form 1040, 1040-SR, or 1040-NR, line 4b.
+
+Estate tax.
+
+Generally, the value of an annuity or other payment receivable by any beneficiary of a decedent's traditional IRA that represents the part of the purchase price contributed by the decedent (or by their former employer(s)) must be included in the decedent's gross estate. For more information, see the instructions for Schedule I (Form 706).
+
+What Acts Result in Penalties or Additional Taxes?
+
+The tax advantages of using traditional IRAs for retirement savings can be offset by additional taxes and penalties if you don't follow the rules. There are additions to the regular tax for using your IRA funds in prohibited transactions. There are also additional taxes for the following activities.
+
+There are penalties for overstating the amount of nondeductible contributions and for failure to file Form 8606, if required.
+
+This chapter discusses those acts (relating to distributions) that you should avoid and the additional taxes and other costs, including loss of IRA status, that apply if you don't avoid those acts.
+
+Prohibited Transactions
+
+Generally, a prohibited transaction is any improper use of your IRA account or annuity by you, your beneficiary, or any disqualified person.
+
+Disqualified persons include your fiduciary and members of your family (spouse, ancestor, lineal descendant, and any spouse of a lineal descendant).
+
+The following are some examples of prohibited transactions with a traditional IRA.
+
+-
+
+Borrowing money from it.
+
+-
+
+Selling property to it.
+
+-
+
+Using it as security for a loan.
+
+-
+
+Buying property for personal use (present or future) with IRA funds.
+
+Caution:
+
+If your IRA invested in nonpublicly traded assets or assets that you directly control, the risk of engaging in a prohibited transaction in connection with your IRA may be increased.
+
+Fiduciary.
+
+For these purposes, a fiduciary includes anyone who does any of the following.
+
+-
+
+Exercises any discretionary authority or discretionary control in managing your IRA or exercises any authority or control in managing or disposing of its assets.
+
+-
+
+Provides investment advice for a fee or other compensation, or has any authority or responsibility to do so.
+
+-
+
+Has any discretionary authority or discretionary responsibility in administering your IRA.
+
+Effect on an IRA account.
+
+Generally, if you or your beneficiary engages in a prohibited transaction in connection with your IRA account at any time during the year, the account stops being an IRA as of the first day of that year.
+
+However, if you own more than one IRA, each IRA is treated as a separate account, and loss of IRA status only affects the IRA that participated in the prohibited transaction.
+
+Effect on you or your beneficiary.
+
+If your account stops being an IRA because you or your beneficiary engaged in a prohibited transaction, the account is treated as distributing all its assets to you at their fair market values on the first day of the year. If the total of those values is more than your basis in the IRA, you will have a taxable gain that is includible in your income. For information on figuring your gain and reporting it in income, see Are Distributions Taxable , earlier. The distribution may be subject to additional taxes.
+
+Borrowing on an annuity contract.
+
+If you borrow money against your IRA annuity contract, you must include in your gross income the fair market value of the annuity contract as of the first day of your tax year. You may have to pay the 10% additional tax on early distributions, discussed later.
+
+Pledging an account as security.
+
+If you use a part of your IRA account as security for a loan, that part is treated as a distribution and is included in your gross income. You may have to pay the 10% additional tax on early distributions, discussed later.
+
+Trust account set up by an employer or an employee association.
+
+Your account or annuity doesn't lose its IRA treatment if your employer or the employee association with whom you have your IRA engages in a prohibited transaction.
+
+Owner participation.
+
+If you participate in the prohibited transaction with your employer or the association, your IRA is no longer treated as an IRA.
+
+Taxes on prohibited transactions.
+
+If someone other than the owner or beneficiary of an IRA engages in a prohibited transaction, that person may be liable for certain taxes. In general, there is a 15% tax on the amount of the prohibited transaction and a 100% additional tax if the transaction isn't corrected.
+
+Loss of IRA status.
+
+If the IRA ceases to be an IRA because of a prohibited transaction by you or your beneficiary, neither you nor your beneficiary is liable for the taxes described above. However, you or your beneficiary may have to pay other taxes, as discussed under Effect on you or your beneficiary , earlier.
+
+Exempt Transactions
+
+The Department of Labor has authority to grant administrative exemptions from the prohibited transaction provisions of ERISA and the Code for a class of transactions or for individual transactions. In order to grant an administrative exemption, the Department must make the following three determinations.
+
+-
+
+The exemption must be administratively feasible.
+
+-
+
+In the interest of the plan and its participants and beneficiaries.
+
+-
+
+Protective of the rights of plan participants and beneficiaries.
+
+For additional information on prohibited transaction exemptions, see the Exemptions page on the Department of Labor website. For information on filing and the processing of prohibited transaction exemption applications, see Procedures Governing the Filing and Processing of Prohibited Transaction Exemption Applications .
+
+Transactions Not Prohibited
+
+The following two types of transactions aren't prohibited transactions if they meet the requirements that follow.
+
+-
+
+Payments of cash, property, or other consideration by the IRA custodian of your IRA to you (or members of your family).
+
+-
+
+Your receipt of services at reduced or no cost from the bank where your IRA is established or maintained.
+
+Payments of cash, property, or other consideration.
+
+Even if an IRA custodian makes payments to you or your family, there is no prohibited transaction if all three of the following requirements are met.
+
+-
+
+The payments are for establishing an IRA or for making additional contributions to it.
+
+-
+
+The IRA is established solely to benefit you, your spouse, and your or your spouse's beneficiaries.
+
+-
+
+During the year, the total fair market value of the payments you receive isn't more than:
+
+-
+
+$10 for IRA deposits of less than $5,000, or
+
+-
+
+$20 for IRA deposits of $5,000 or more.
+
+If the consideration is group-term life insurance, requirements (1) and (3) don't apply if no more than $5,000 of the face value of the insurance is based on a dollar-for-dollar basis on the assets in your IRA.
+
+Services received at reduced or no cost.
+
+Even if an IRA custodian provides services at reduced or no cost, there is no prohibited transaction if all of the following requirements are met.
+
+-
+
+The IRA qualifying you to receive the services is established and maintained for the benefit of you, your spouse, and your or your spouse's beneficiaries.
+
+-
+
+The bank itself can legally offer the services.
+
+-
+
+The services are provided in the ordinary course of business by the bank (or a bank affiliate) to customers who qualify for but don't maintain an IRA (or a Keogh plan).
+
+-
+
+The determination, for an IRA, of who qualifies for these services is based on an IRA (or a Keogh plan) deposit balance equal to the lowest qualifying balance for any other type of account.
+
+-
+
+The rate of return on an IRA investment that qualifies isn't less than the return on an identical investment that could have been made at the same time at the same branch of the bank by a customer who isn't eligible for (or doesn't receive) these services.
+
+Investment in Collectibles
+
+If your IRA invests in collectibles, the amount invested is considered distributed to you in the year invested. You may have to pay the 10% additional tax on early distributions, discussed later.
+
+Any amounts that were considered to be distributed when the investment in the collectible was made, and which were included in your income at that time, aren't included in your income when the collectible is actually distributed from your IRA.
+
+Collectibles.
+
+These include:
+
+-
+
+Artworks,
+
+-
+
+Rugs,
+
+-
+
+Antiques,
+
+-
+
+Metals,
+
+-
+
+Gems,
+
+-
+
+Stamps,
+
+-
+
+Coins,
+
+-
+
+Alcoholic beverages, and
+
+-
+
+Certain other tangible personal property.
+
+Exception.
+
+Your IRA can invest in one, one-half, one-quarter, or one-tenth ounce U.S. gold coins, or one-ounce silver coins minted by the Treasury Department. It can also invest in certain platinum coins and certain gold, silver, palladium, and platinum bullion.
+
+Caution:
+
+The coins must be in the possession of the custodian or trustee of the IRA. If the owner or the beneficiary of the IRA takes possession of the coins, the coins will be treated as distributed.
+
+Unrelated Business Income
+
+An IRA is subject to tax on unrelated business income if it carries on an unrelated trade or business. An unrelated trade or business means any trade or business regularly carried on by the IRA or by a partnership of which it is a member, and not substantially related to the IRA’s exempt purpose or function. If the IRA has $1,000 or more of unrelated trade or business gross income, the IRA must file a Form 990-T, Exempt Organization Business Income Tax Return. An IRA trustee is permitted to file Form 990-T on behalf of the IRA. In the case of an IRA that operates on a calendar year, the Form 990-T must be filed by April 15 following the close of the calendar year. In the case of an IRA that operates on a fiscal year, the Form 990-T must be filed by the 15th day of the 4th month following the close of the fiscal year. See Pub. 598 for more information.
+
+Early Distributions
+
+You must include early distributions of taxable amounts from your traditional IRA in your gross income. Early distributions are also subject to a 10% additional tax , as discussed later.
+
+Early distributions defined.
+
+Early distributions are generally amounts distributed from your traditional IRA account or annuity before you are age 59½, or amounts you receive when you cash in retirement bonds before you are age 59½.
+
+Tip:
+
+If you were affected by a qualified disaster, see chapter 3 .
+
+Age 59½ Rule
+
+Generally, if you are under age 59½, you must pay a 10% additional tax on the distribution of any assets (money or other property) from your traditional IRA. Distributions before you are age 59½ are called “early distributions.”
+
+The 10% additional tax applies to the part of the distribution that you have to include in gross income. It is in addition to any regular income tax on that amount.
+
+A number of exceptions to this rule are discussed later under Exceptions . Also see Contributions Returned Before Due Date of Return in chapter 1 of Pub. 590-A.
+
+After age 59½ and before age 73.
+
+After you reach age 59½, you can receive distributions without having to pay the 10% additional tax. Even though you can receive distributions after you reach age 59½, distributions aren't required until you reach age 73. See When Must You Withdraw Assets? (Required Minimum Distributions) , earlier.
+
+Exceptions
+
+There are several exceptions to the age 59½ rule. Even if you receive a distribution before you are age 59½, you may not have to pay the 10% additional tax if you are in one of the following situations.
+
+-
+
+You have unreimbursed medical expenses that are more than 7.5% of your AGI.
+
+-
+
+The distribution is for the cost of your medical insurance due to a period of unemployment.
+
+-
+
+You are totally and permanently disabled.
+
+-
+
+You have been certified as having a terminal illness.
+
+-
+
+You are the beneficiary of a deceased IRA owner.
+
+-
+
+You are receiving distributions in the form of a series of substantially equal periodic payments.
+
+-
+
+The distribution is for your qualified higher education expenses.
+
+-
+
+You use the distributions to buy, build, or rebuild a first home.
+
+-
+
+The distribution is due to an IRS levy of the IRA.
+
+-
+
+The distribution is a qualified reservist distribution.
+
+-
+
+The distribution is a qualified birth or adoption distribution.
+
+-
+
+The distribution is a qualified disaster recovery distribution.
+
+-
+
+The distribution is a corrective distribution.
+
+-
+
+The distribution is to a domestic abuse victim.
+
+-
+
+The distribution is for certain emergency personal expenses.
+
+Most of these exceptions are explained below.
+
+Note:
+
+Distributions that are timely and properly rolled over, as discussed in chapter 1 of Pub. 590-A, aren't subject to either regular income tax or the 10% additional tax. Certain withdrawals of excess contributions after the due date of your return are also tax free and therefore not subject to the 10% additional tax. (See Excess Contributions Withdrawn After Due Date of Return in chapter 1 of Pub. 590-A.) This also applies to transfers incident to divorce, as discussed under Can You Move Retirement Plan Assets? in chapter 1 of Pub. 590-A.
+
+Receivership distributions.
+
+Early distributions (with or without your consent) from savings institutions placed in receivership are subject to this tax unless one of the above exceptions applies. This is true even if the distribution is from a receiver that is a state agency.
+
+Unreimbursed medical expenses.
+
+Even if you are under age 59½, there are certain distribution amounts on which you don’t have to pay the 10% additional tax.
+
+If you have unreimbursed medical expenses (that would qualify for a medical deduction) in excess of 7.5% of your adjusted gross income , defined next, you don’t have to pay the 10% additional tax on distributions from your IRA up to the amount by which those qualifying medical expenses exceed 7.5% of your adjusted gross income .
+
+Caution:
+
+You can only take into account unreimbursed medical expenses that you would be able to include in figuring a deduction for medical expenses on Schedule A (Form 1040). You don't have to itemize your deductions to take advantage of this exception to the 10% additional tax.
+
+Adjusted gross income (AGI).
+
+This is the amount on Form 1040, 1040-SR, or 1040-NR, line 11a.
+
+Medical insurance.
+
+Even if you are under age 59½, you may not have to pay the 10% additional tax on distributions during the year that aren't more than the amount you paid during the year for medical insurance for yourself, your spouse, and your dependents. You won't have to pay the tax on these amounts if all of the following conditions apply.
+
+-
+
+You lost your job.
+
+-
+
+You received unemployment compensation paid under any federal or state law for 12 consecutive weeks because you lost your job.
+
+-
+
+You receive the distributions during either the year you received the unemployment compensation or the following year.
+
+-
+
+You receive the distributions no later than 60 days after you have been reemployed.
+
+Disabled.
+
+If you become disabled before you reach age 59½, any distributions from your traditional IRA because of your disability aren't subject to the 10% additional tax.
+
+You are considered disabled if you can furnish proof that you can't do any substantial gainful activity because of your physical or mental condition. A physician must determine that your condition can be expected to result in death or to be of long, continued, and indefinite duration.
+
+Beneficiary.
+
+If you die before reaching age 59½, the assets in your traditional IRA can be distributed to your beneficiary or to your estate without either having to pay the 10% additional tax.
+
+However, if you inherit a traditional IRA from your deceased spouse and elect to treat it as your own (as discussed under What if You Inherit an IRA , earlier), any distribution you later receive before you reach age 59½ may be subject to the 10% additional tax.
+
+Terminally ill individual distributions.
+
+You may be able to take a distribution from an IRA before reaching age 59½ and not have to pay the 10% additional tax on early distributions if you receive the distribution on or after the date you have received a certification by a physician that you are terminally ill.
+
+Terminally ill.
+
+You are considered terminally ill if you are certified by a physician as having an illness or physical condition which can reasonably be expected to result in death in 84 months or less after the date of the certification.
+
+Certification of terminal illness.
+
+A certification of terminal illness must include the following:
+
+-
+
+A statement that the individual’s illness or physical condition can be reasonably expected to result in death in 84 months or less after the date of certification.
+
+-
+
+A narrative description of the evidence that was used to support the statement of illness or physical condition.
+
+-
+
+It must include the name and contact information of the physician making the statement.
+
+-
+
+The statement must include the date the physician examined the individual or reviewed the evidence provided by the individual, and the date that the physician signed the certification.
+
+-
+
+The statement must include the signature of the physician making the statement, and an attestation from the physician that, by signing the form, the physician confirms that the physician composed the narrative description based on the physician’s examination of the individual or the physician’s review of the evidence provided by the individual.
+
+However, it is not sufficient evidence for an IRA owner who is a physician to certify the physician’s own terminal illness.
+
+Certain corrective distributions not subject to 10% early distribution tax.
+
+Beginning with distributions made on December 29, 2022, and after, the 10% additional tax on early distributions will not apply to a corrective IRA distribution, which consists of an excess contribution (a contribution greater than the IRA contribution limit) and any earnings allocable to the excess contribution, as long as the corrective distribution is made on or before the due date (including extensions) of the income tax return.
+
+Substantially equal periodic payments.
+
+You can receive distributions from your traditional IRA before age 59½ if they are part of a series of substantially equal payments over your life (or your life expectancy), or over the lives (or the joint life expectancies) of you and your beneficiary, without having to pay the 10% additional tax.
+
+The IRS has provided three general methods of computing the annual distribution amounts for meeting the requirements for a series of substantially equal periodic payments: Notice 2022-6 explains the three methods and identifies tables to be used for 2023 and after. (See Notice 2022-6 at IRS.gov/irb/2022-05_IRB#NOT-2022-06 ).
+
+The three methods are generally referred to as the required minimum distribution method (RMD method), the fixed amortization method, and the fixed annuitization method. The latter two methods may require professional assistance.
+
+Caution:
+
+The RMD method, when used for this purpose, results in the exact amount required to be distributed each year, not the minimum amount.
+
+Tip:
+
+Distributions received as periodic payments on or after December 29, 2022, will not fail to be treated as substantially equal merely because they are received as an annuity.
+
+Note:
+
+For a series of substantially equal periodic payments established in 2022, you may apply the guidance either in Notice 2022-6 at IRS.gov/irb/2022-05_IRB#NOT-2022-06 , or in Revenue Ruling 2002-62 which is on page 710 of Internal Revenue Bulletin 2002-42 at https://www.irs.gov/pub/irs-irbs/irb02-42.pdf .
+
+Recapture tax for changes in distribution method under equal payment exception.
+
+You may have to pay a recapture tax if you modify (for reasons other than your death or disability) the annual amount distributed to be different from the annual amount determined under the distribution method that you initially established under the substantially equal periodic payment exception, and if the modification occurs before the date limitation explained in Modification date below.
+
+The recapture tax is imposed in the tax year in which the modification occurs. The amount of tax is the amount of the 10% additional tax that would have been imposed in prior years had the exception not applied in those prior years, plus interest for the deferral periods.
+
+Modification date.
+
+The recapture tax applies if you modify the series of payments (other than because of death or disability) before the later of these two dates:
+
+-
+
+The 5th anniversary of the date of the first distribution of the series; or
+
+-
+
+The date you reach age 59½.
+
+However, the following two situations are not treated as a modification of the series for purposes of the recapture tax: (a) if your account is completely depleted of all assets; or (b) if you make a one-time change to the RMD method from one of the other methods.
+
+In the event of a modification that triggers the recapture tax, the tax does not apply to any amounts distributed after you reach age 59½.
+
+Report the recapture tax (including the interest on the deferral periods) on line 4 of Form 5329. Attach an explanation to the form. Don't write the explanation next to the line or enter any amount for the recapture on line 1 or 3 of the form.
+
+One-time switch.
+
+If you are receiving a series of substantially equal periodic payments, you can make a one-time switch to the required minimum distribution method at any time without incurring the recapture tax. Once a change is made, you must follow the required minimum distribution method in all subsequent years.
+
+Transfers and rollovers of assets.
+
+Certain transfers and rollovers of assets from qualified plans or annuity contracts using the substantially equal periodic payment method are not considered a modification of the distribution method if certain requirements are met.
+
+Transfers of assets of certain qualified plans.
+
+For this purpose, a qualified retirement plan is:
+
+-
+
+A qualified employee plan (including a qualified cash or deferred arrangement (CODA) under Internal Revenue Code section 401(k)),
+
+-
+
+A qualified employee annuity plan, or
+
+-
+
+A tax-sheltered annuity plan (403(b) plan).
+
+Transferor and transferee plans.
+
+A qualified plan distributing its assets using the substantially equal periodic payment method can roll over or transfer some or all its assets to another qualified plan. In this situation the plan transferring the assets is the transferor and the plan receiving the assets is the transferee.
+
+When a transfer or rollover of assets is not considered a modification of the substantially equal payment method.
+
+If a qualified plan is distributing its assets using the substantially equal periodic payment method transfers or rolls over some or all its assets to another qualified plan, the distributions from the transferee plan (or a combination of the transferee and transferor plan (if all its assets were not transferred)) is not considered a modification of the substantially equal periodic payment method if the following requirements are met:
+
+-
+
+The transferor plan distributed or is distributing its assets using the substantially equal periodic payment method,
+
+-
+
+Distributions from the transferee and transferor plan (if applicable) would, in combination, continue to satisfy the requirements of the substantially equal periodic payment method, and
+
+-
+
+The distributions from a combination of the transferee and transferor plan (if applicable) continue to satisfy the requirements of the substantially equal periodic payment method as if they had been made only from the transferor plan.
+
+Higher education expenses.
+
+Even if you are under age 59½, if you paid expenses for higher education during the year, part (or all) of any distribution may not be subject to the 10% additional tax. The part not subject to the tax is generally the amount that isn't more than the qualified higher education expenses (defined next) for the year for education furnished at an eligible educational institution (defined below). The education must be for you, your spouse, or the children or grandchildren of you or your spouse.
+
+When determining the amount of the distribution that isn't subject to the 10% additional tax, include qualified higher education expenses paid with any of the following funds.
+
+-
+
+Payment for services, such as wages.
+
+-
+
+A loan.
+
+-
+
+A gift.
+
+-
+
+An inheritance given to either the student or the individual making the withdrawal.
+
+-
+
+A withdrawal from personal savings (including savings from a qualified tuition program).
+
+Don't include expenses paid with any of the following funds.
+
+-
+
+Tax-free distributions from a Coverdell education savings account.
+
+-
+
+Tax-free part of scholarships and fellowships.
+
+-
+
+Pell grants.
+
+-
+
+Employer-provided educational assistance.
+
+-
+
+Veterans' educational assistance.
+
+-
+
+Any other tax-free payment (other than a gift or inheritance) received as educational assistance.
+
+Qualified higher education expenses.
+
+Qualified education expenses, eligible for the exception to the 10% additional tax for early distributions from IRAs, are tuition, fees, books, supplies, and equipment (including computer equipment and related services) required for the enrollment or attendance at an eligible educational institution, including those expenses incurred in connection with a recognized postsecondary credential program.
+
+They also include expenses for special needs services incurred by or for special needs students in connection with their enrollment or attendance at an eligible educational institution.
+
+Additional qualified education expenses in connection with elementary and secondary tuition.
+
+Qualified higher education expenses include the following expenses in connection with the enrollment or attendance at an elementary or secondary public, private, or religious school:
+
+-
+
+Tuition.
+
+-
+
+Curriculum and curricular materials.
+
+-
+
+Books or other instructional materials.
+
+-
+
+Online education materials.
+
+-
+
+Tuition for tutoring or educational classes outside of the home, including at a tutoring facility, but only if the tutor or instructor meets certain requirements. (See Requirements for tutors later.)
+
+-
+
+Fees for a nationally standardized norm-referenced achievement test, an advanced placement examination, or any examinations related to college or university admission.
+
+-
+
+Fees for dual enrollment in an institution of higher education.
+
+-
+
+Educational therapies for students with disabilities provided by a licensed or accredited practitioner or provider, including occupational, behavioral, physical, and speech-language therapies.
+
+Requirements for tutors.
+
+Tutors or teachers tutoring or providing educational classes outside of the home must not be related to the student and meet the following requirements.
+
+-
+
+They must be licensed as a teacher in any state, or
+
+-
+
+They must have taught at an eligible educational institution, or
+
+-
+
+They must be a subject matter expert in the relevant subject.
+
+Eligible educational institution.
+
+This is any college, university, vocational school, or other postsecondary educational institution eligible to participate in the student aid programs administered by the U.S. Department of Education. It includes virtually all accredited, public, nonprofit, and proprietary (privately owned profit-making) postsecondary institutions. The educational institution should be able to tell you if it is an eligible educational institution.
+
+For more information, see chapter 8 of Pub. 970.
+
+First home.
+
+Even if you are under age 59½, you don't have to pay the 10% additional tax on up to $10,000 of distributions you receive to buy, build, or rebuild a first home. To qualify for treatment as a first-time homebuyer distribution, the distribution must meet all the following requirements.
+
+-
+
+It must be used to pay qualified acquisition costs (defined next) before the close of the 120th day after the day you received it.
+
+-
+
+It must be used to pay qualified acquisition costs for the main home of a first-time homebuyer (defined below) who is any of the following.
+
+-
+
+Yourself.
+
+-
+
+Your spouse.
+
+-
+
+Your or your spouse's child.
+
+-
+
+Your or your spouse's grandchild.
+
+-
+
+Your or your spouse's parent or other ancestor.
+
+-
+
+When added to all your prior qualified first-time homebuyer distributions, if any, total qualifying distributions can't be more than $10,000.
+
+Tip:
+
+If both you and your spouse are first-time homebuyers (defined later), each of you can receive distributions up to $10,000 for a first home without having to pay the 10% additional tax.
+
+Qualified acquisition costs.
+
+Qualified acquisition costs include the following items.
+
+-
+
+Costs of buying, building, or rebuilding a home.
+
+-
+
+Any usual or reasonable settlement, financing, or other closing costs.
+
+First-time homebuyer.
+
+Generally, you are a first-time homebuyer if you had no present interest in a main home during the 2-year period ending on the date of acquisition of the home which the distribution is being used to buy, build, or rebuild. If you are married, your spouse must also meet this no-ownership requirement.
+
+Date of acquisition.
+
+The date of acquisition is the date that:
+
+-
+
+You enter into a binding contract to buy the main home for which the distribution is being used, or
+
+-
+
+The building or rebuilding of the main home for which the distribution is being used begins.
+
+Tip:
+
+If you received a distribution to buy, build, or rebuild a first home and the purchase or construction was canceled or delayed, you could generally contribute the amount of the distribution to an IRA within 120 days of the distribution and not pay income tax or the 10% additional tax on early distributions. This contribution is treated as a rollover contribution to the IRA.
+
+Qualified reservist distributions.
+
+A qualified reservist distribution isn't subject to the 10% additional tax on early distributions.
+
+Definition.
+
+A distribution you receive is a qualified reservist distribution if the following requirements are met.
+
+-
+
+You were ordered or called to active duty after September 11, 2001.
+
+-
+
+You were ordered or called to active duty for a period of more than 179 days or for an indefinite period because you are a member of a reserve component.
+
+-
+
+The distribution is from an IRA or from amounts attributable to elective deferrals under a section 401(k) or 403(b) plan or a similar arrangement.
+
+-
+
+The distribution was made no earlier than the date of the order or call to active duty and no later than the close of the active duty period.
+
+Reserve component.
+
+The term “reserve component” means the:
+
+-
+
+Army National Guard of the United States,
+
+-
+
+Army Reserve,
+
+-
+
+Navy Reserve,
+
+-
+
+Marine Corps Reserve,
+
+-
+
+Air National Guard of the United States,
+
+-
+
+Air Force Reserve,
+
+-
+
+Coast Guard Reserve, or
+
+-
+
+Reserve Corps of the Public Health Service.
+
+Qualified birth or adoption distribution.
+
+A qualified birth or adoption distribution is any distribution from an applicable eligible retirement plan if made during the 1-year period beginning on the date on which your child was born or the date on which the legal adoption of your child was finalized.
+
+A qualified birth or adoption distribution must not exceed $5,000 per taxpayer. In addition, an eligible adoptee is any individual (other than the child of the taxpayer’s spouse) who has not reached age 18 or is physically or mentally incapable of self-support.
+
+Amount may be repaid.
+
+If you receive a qualified birth or adoption distribution, you can make one or more contributions to an eligible retirement plan during the 3-year period beginning on the day after the date the distribution was received. You make this repayment if you are a beneficiary of that plan, the plan accepts rollover contributions, and the total of those contributions does not exceed the amount of the qualified birth or adoption distribution. Any contribution made to the eligible retirement plan as a repayment of a qualified birth or adoption distribution may be eligible for tax-free rollover treatment.
+
+In the case of a qualified birth or adoption distribution made on or before December 29, 2022, you can make one or more contributions after the distribution but before January 1, 2026.
+
+Domestic abuse victim distributions.
+
+An eligible distribution to a domestic abuse victim is a distribution to a domestic abuse victim from an applicable eligible retirement plan and made to that individual during the 1-year period beginning on any date on which the individual is a victim of domestic abuse by a spouse or domestic partner. See Notice 2024-55, available at IRS.gov/irb/2024-28_IRB#NOT-2024-55 , for more information.
+
+Distribution limits.
+
+An eligible distribution to a domestic abuse victim must not exceed the lesser of $10,300 for 2025 or 50% of the present value of the IRA.
+
+Emergency personal expense distributions.
+
+An emergency personal expense distribution is a distribution from an applicable eligible retirement plan for the purposes of meeting the unforeseeable or immediate financial needs relating to necessary personal or family emergency expenses. See Notice 2024-55, available at IRS.gov/irb/2024-28_IRB#NOT-2024-55 , for more information.
+
+Distribution limits.
+
+You are limited to taking one emergency personal expense distribution per calendar year and the amount that may be treated as an emergency personal expense distribution must not exceed the lesser of $1,000 or your total interest in the IRA minus $1,000. You are also limited in taking emergency personal expense distributions in subsequent years as you may not take this type of distribution in the following 3 calendar years unless:
+
+-
+
+The previous distribution is repaid, or
+
+-
+
+The total amounts contributed to the IRA after the previous distribution is at least equal to the amount of the distribution which has not been repaid.
+
+Repayment of certain early distributions.
+
+Contributions made to the eligible retirement plan as a repayment of one of the early distributions listed below may be eligible for tax-free rollover treatment:
+
+-
+
+Emergency personal expense distributions,
+
+-
+
+Domestic abuse victim distributions, and
+
+-
+
+Terminally ill individual distributions.
+
+You can make one or more contributions to an eligible retirement plan , including an IRA, during the 3-year period beginning on the day after the date the distribution was received.
+
+You must be a beneficiary of the plan and the total amount you repay can't exceed the amount of the emergency personal expense, domestic abuse victim, or terminally ill individual distributions you received.
+
+Additional 10% Tax
+
+The additional tax on early distributions is 10% of the amount of the early distribution that you must include in your gross income. This tax is in addition to any regular income tax resulting from including the distribution in income.
+
+The tax on early distributions doesn't apply to the part of a distribution that represents a return of your nondeductible contributions (basis).
+
+Use Form 5329 to figure the tax. See the discussion of Form 5329, later, under Reporting Additional Taxes for information on filing the form.
+
+Example.
+
+Tom Jones, who is 35 years old, receives a $3,000 distribution from his traditional IRA account. Tom doesn't meet any of the exceptions to the 10% additional tax, so the $3,000 is an early distribution. Tom never made any nondeductible contributions to his IRA. He must include the $3,000 in his gross income for the year of the distribution and pay income tax on it. Tom must also pay an additional tax of $300 (10% (0.10) × $3,000). He files Form 5329. See the filled-in Form 5329 , later.
+
+Caution:
+
+Early distributions of funds from a SIMPLE retirement account made within 2 years of beginning participation in the SIMPLE are subject to a 25%, rather than a 10%, early distributions tax.
+
+Early Distribution Repayments
+
+Certain early distributions are excepted from the 10% additional tax and may be repaid to an eligible retirement plan, which includes an IRA. These distributions are known as “early distributions whose repayments are treated as rollovers.”
+
+Early Distribution Repayments Worksheet
+
+1. | Total distribution amount | 1.
+2. | Current year repayment amount | 2.
+3. | Amount repaid in prior years | 3.
+4. | Total repayments. Add lines 2 and 3 | 4.
+5. | Distribution amount not repaid. Subtract line 4 from line 1 | 5.
+6. | Basis in the IRA | 6.
+7. | Value of the IRA at the end of the year | 7.
+8. | Divide line 6 by line 7. Enter the result as a decimal (rounded to at least three places). This is your tax-free/taxable ratio | 8.
+9. | Multiply line 2 by line 8 | 9.
+10. | Subtract line 9 from line 2. Reduce your AGI by this amount (in addition to any other changes you make) on your amended return | 10.
+
+Early distributions whose repayments are treated as rollovers.
+
+This phrase describes the following distributions:
+
+Repaying the distribution.
+
+When you make a repayment of certain early distributions affects how you report the distribution and repayment. Generally, if you make the distribution and a repayment in the same tax year, you can report the amount of the distribution, the amount of the repayment of the distribution, and if the amount of the repayment is less than the amount of the distribution, figure and report the taxable portion of the distribution on Form 1040, line 4b.
+
+However, if you make a repayment in a year following the year you make the distribution, you will need to amend the return for the tax year during which you made the distribution. You will lower your income for that year by reflecting the amount of the repayment.
+
+Amend your return by using Form 1040-X, Amended U.S. Individual Income Tax Return.
+
+Figuring the taxable amount.
+
+When you make a repayment in a year other than the distribution year, you must figure the amount you must reduce your taxable income in the year of the distribution. If you are repaying less than the full distribution, you must figure the part of the distribution that was taxable when distributed. This will be the amount you lower your income on your amended return.
+
+The tax-free/taxable ratio.
+
+The tax-free/taxable ratio is the fraction arrived at by dividing the IRA’s basis by the value of the IRA at the end of the year. This ratio is used to determine how much of the distribution you are repaying was taxable when distributed. This will be the amount you reduce your income on your amended return.
+
+Tax-free/taxable ratio | = | IRA Basis
+Value of the IRA at the end of the year
+
+Amending Your Return
+
+When you repay an early distribution, you lower the income that was taxable in the year of the distribution. You correct your taxable income for the year of the distribution by filing an amended return (Form 1040-X).
+
+Completing your amended return.
+
+Enter in column A, on line 1 of your Form 1040-X, the amount of your AGI on your original return or the most recent amended return, if applicable. In column B, enter the amount you’re decreasing your income and enter the correct amount in Column C.
+
+In Part II, on page 2, describe the change you’re making, for example, “I am lowering my adjusted gross income to reflect the repayment of an early distribution from an IRA.” Describe any other changes you are making in addition to the repayment of the early distribution and adjust the amounts on line 1 accordingly.
+
+For more information about amending your return, see the instructions for Form 1040-X.
+
+Excess Accumulations (Insufficient Distributions)
+
+You can't keep amounts in your traditional IRA (including SEP and SIMPLE IRAs) indefinitely. Generally, you must begin receiving distributions by April 1 of the year following the year in which you reach age 73. The required minimum distribution for any year after the year in which you reach age 73 must be made by December 31 of that later year. See Your required beginning date for more information.
+
+Tax on excess accumulations.
+
+If distributions are less than the required minimum distribution for the year, discussed earlier under When Must You Withdraw Assets? (Required Minimum Distributions) , you may have to pay a 25% excise tax for that year on the amount not distributed as required.
+
+Reduced additional tax rate for excess accumulations.
+
+You may be subject to a reduced additional tax rate of 10% of the amount not distributed, if, during the correction window, you take a distribution of the amount on which the tax is due (the excess accumulation) and submit a tax return reflecting this additional tax.
+
+The “correction window” ends on the earliest of the following dates:
+
+-
+
+The date of mailing the deficiency notice with respect to the imposition of this tax,
+
+-
+
+The date the tax is assessed, or
+
+-
+
+The last day of the second taxable year that begins after the end of the taxable year in which the additional tax is imposed.
+
+Reporting the tax.
+
+Use Form 5329 to report the tax on excess accumulations. See the discussion of Form 5329, later, under Reporting Additional Taxes for more information on filing the form.
+
+Request to waive the tax.
+
+If the excess accumulation is due to reasonable error, and you have taken, or are taking, steps to remedy the insufficient distribution, you can request that the tax be waived. If you believe you qualify for this relief, attach a statement of explanation and complete Form 5329 as instructed under Waiver of tax for reasonable cause in the Instructions for Form 5329.
+
+Exemption from tax.
+
+If you are unable to take required distributions because you have a traditional IRA invested in a contract issued by an insurance company that is in state insurer delinquency proceedings, the 25% excise tax doesn't apply if the conditions and requirements of Revenue Procedure 92-10 are satisfied. Those conditions and requirements are summarized below. Revenue Procedure 92-10 is in Cumulative Bulletin 1992-1. You can read the revenue procedure at most IRS offices, at many public libraries, and online at IRS.gov .
+
+Conditions.
+
+To qualify for exemption from the tax, the assets in your traditional IRA must include an affected investment. Also, the amount of your required distribution must be determined as discussed earlier under When Must You Withdraw Assets? (Required Minimum Distributions) .
+
+Affected investment defined.
+
+Affected investment means an annuity contract or a guaranteed investment contract (with an insurance company) for which payments under the terms of the contract have been reduced or suspended because of state insurer delinquency proceedings against the contracting insurance company.
+
+Requirements.
+
+If your traditional IRA (or IRAs) includes assets other than your affected investment, all traditional IRA assets, including the available portion of your affected investment, must be used to satisfy as much as possible of your IRA distribution requirement. If the affected investment is the only asset in your IRA, as much of the required distribution as possible must come from the available portion, if any, of your affected investment.
+
+Available portion.
+
+The available portion of your affected investment is the amount of payments remaining after they have been reduced or suspended because of state insurer delinquency proceedings.
+
+Make up of shortfall in distribution.
+
+If the payments to you under the contract increase because all or part of the reduction or suspension is canceled, you must make up the amount of any shortfall in a prior distribution because of the proceedings. You make up (reduce or eliminate) the shortfall with the increased payments you receive.
+
+You must make up the shortfall by December 31 of the calendar year following the year that you receive increased payments.
+
+Reporting Additional Taxes
+
+Generally, you must use Form 5329 to report the tax on excess contributions, early distributions, and excess accumulations.
+
+Filing a tax return.
+
+If you must file an individual income tax return, complete Form 5329 and attach it to your Form 1040, 1040-SR, or 1040-NR. Enter the total additional taxes due on Schedule 2 (Form 1040), line 8.
+
+Not filing a tax return.
+
+If you don't have to file a return, but do have to pay one of the additional taxes mentioned earlier, file the completed Form 5329 with the IRS at the time and place you would have filed Form 1040, 1040-SR, or 1040-NR. Be sure to include your address on page 1 and your signature and date on page 3. For payment options see the Instructions for Form 1040 or the Instructions for Form 1040-NR, or go to IRS.gov/Payments to see all your payment options.
+
+Form 5329 not required.
+
+You don't have to use Form 5329 if any of the following situations exist.
+
+Form 5329, page 1 Tom Jones
+
+Form 5329 Additional Taxes on Qualified Plans (Including IRAs) and Other Tax-Favored Accounts 2025
+
+Form 5329 Additional Taxes on Qualified Plans (Including IRAs) and Other Tax-Favored Accounts 2025
+
+Summary: This is an example of Form 5329 (2025) as pertains to the description in the text. The line items completed are:
+
+"Name of individual subject to additional tax. If married filing jointly, see instructions." field contains Tom Jones
+"Your social security number" field contains 004-00-0000
+Under"Part I: Additional Tax on Early Distributions":
+"1. Early distributions included in income. For Roth IRA. distributions, see instructions" field contains 3,000
+"2. Early distributions included on line 1 that aren't subject to the additional tax (see instructions)." field contains 0
+"3. Amount subject to additional tax. Subtract line 2 from line 1" field contains 3,000
+"4. Additional tax. Enter 10% (0.10) of line 3. Include this amount on Schedule 2 (Form 1040), line 8" field contains 300
+
+Please click here for the text description of the image.

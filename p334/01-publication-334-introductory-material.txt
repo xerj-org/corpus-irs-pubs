@@ -1,0 +1,176 @@
+IRS Pub 334 (2025) | Publication 334 - Introductory Material
+
+Publication 334 (2025), Tax Guide for Small Business
+
+(For Individuals Who Use Schedule C)
+
+For use in preparing 2025 Returns
+
+Publication 334 - Introductory Material
+
+Future Developments
+
+For the latest information about developments related to Pub. 334, such as legislation enacted after it was published, go to IRS.gov/Pub334 .
+
+Introduction
+
+This publication provides general information about the federal tax laws that apply to you if you are a self-employed person or a statutory employee. This publication has information on business income, expenses, and tax credits that may help you, as a small business owner, file your income tax return.
+
+This publication does not cover the topics listed in the following table.
+
+IF you need information about: | THEN you should see:
+Corporations | Pub. 542
+Farming | Pub. 225
+Fishers (Capital Construction Fund) | Pub. 595
+International business | IRS.gov/International
+Partnerships | Pub. 541
+Passive activities | Pub. 925
+Recordkeeping and starting a business | Pub. 583
+Rental | Pub. 527
+S corporations | Instructions for Form 1120-S
+
+Are You Self-Employed?
+
+You are a self-employed person if you carry on a trade or business as a sole proprietor or an independent contractor.
+
+. You do not have to carry on regular full-time business activities to be self-employed. Having a part-time business in addition to your regular job or business may be self-employment. .
+
+Trade or business. A trade or business is generally an activity carried on to make a profit. The facts and circumstances of each case determine whether or not an activity is a trade or business. You do not need to actually make a profit to be in a trade or business as long as you have a profit motive. You do need to make ongoing efforts to further the interests of your business.
+
+Limited liability company (LLC). An LLC is an entity formed under state law by filing articles of organization. Generally, for income tax purposes, a single-member LLC is disregarded as an entity separate from its owner and reports its income and deductions on its owner’s federal income tax return. For example, if the single-member LLC is not engaged in farming and the owner is an individual, they may use Schedule C (Form 1040).
+
+Sole proprietor. A sole proprietor is someone who owns an unincorporated business by themselves. You are also a sole proprietor for income tax purposes if you are an individual and the sole member of a domestic LLC unless you elect to have the LLC treated as a corporation.
+
+Independent contractor. People such as doctors, dentists, veterinarians, lawyers, accountants, contractors, subcontractors, public stenographers, or auctioneers who are in an independent trade, business, or profession in which they offer their services to the general public are generally independent contractors. However, whether they are independent contractors or employees depends on the facts in each case. The general rule is that an individual is an independent contractor if the person paying for the work has the right to control or to direct only the result of the work and not how it will be done. The earnings of a person who is working as an independent contractor are subject to self-employment tax. For more information on determining whether you are an employee or independent contractor, see Pub. 15-A, Employer’s Supplemental Tax Guide.
+
+Are You a Statutory Employee?
+
+A statutory employee has a checkmark in box 13 of their Form W-2, Wage and Tax Statement. Statutory employees use Schedule C (Form 1040) to report their wages and expenses.
+
+Business Owned and Operated by Spouses
+
+If you and your spouse jointly own and operate an unincorporated business and share in the profits and losses, you are partners in a partnership, whether or not you have a formal partnership agreement. Do not use Schedule C (Form 1040). Instead, file Form 1065, U.S. Return of Partnership Income. For more information, see Pub. 541, Partnerships.
+
+Exception—community income. If you and your spouse wholly own an unincorporated business as community property under the community property laws of a state, foreign country, or U.S. territory, you can treat the business either as a sole proprietorship or a partnership. States with community property laws include Arizona, California, Idaho, Louisiana, Nevada, New Mexico, Texas, Washington, and Wisconsin. A change in your reporting position will be treated as a conversion of the entity. See Pub. 555, Community Property, for more information about community property laws.
+
+Exception—qualified joint venture (QJV). If you and your spouse each materially participate as the only members of a jointly owned and operated business, and you file a joint return for the tax year, you can make a joint election to be treated as a QJV instead of a partnership for the tax year. Making this election will allow you to avoid the complexity of Form 1065 but still give each spouse credit for social security earnings on which retirement benefits are based. For an explanation of “material participation,” see the Instructions for Schedule C (Form 1040), line G.
+
+. Only businesses that are owned and operated by spouses as co-owners (and not in the name of a state law entity) qualify for the election. Thus, a business owned and operated by spouses through an LLC does not qualify for the election of a QJV. .
+
+To make this election, you must divide all items of income, gain, loss, deduction, and credit attributable to the business between you and your spouse in accordance with your respective interests in the venture. Each of you must file a separate Schedule C (Form 1040) and a separate Schedule SE (Form 1040). For more information, see Qualified Joint Ventures in the Instructions for Schedule SE (Form 1040).
+
+Additional Information
+
+What you need to know. Table A provides a list of questions you need to answer to help you meet your federal tax obligations. After each question is the location in this publication where you will find the related discussion.
+
+The IRS mission. Provide America’s taxpayers top-quality service by helping them understand and meet their tax responsibilities and enforce the law with integrity and fairness to all.
+
+Comments and suggestions. We welcome your comments about this publication and suggestions for future editions.You can send us comments through IRS.gov/FormComments . Or, you can write to the Internal Revenue Service, Tax Forms and Publications, 1111 Constitution Ave. NW, IR-6526, Washington, DC 20224.Although we can’t respond individually to each comment received, we do appreciate your feedback and will consider your comments and suggestions as we revise our tax forms, instructions, and publications. Don’t send tax questions, tax returns, or payments to the above address.
+
+Getting answers to your tax questions. If you have a tax question not answered by this publication or the How To Get Tax Help section at the end of this publication, go to the IRS Interactive Tax Assistant page at IRS.gov/Help/ITA where you can find topics by using the search feature or viewing the categories listed.
+
+Getting tax forms, instructions, and publications. Go to IRS.gov/Forms to download current and prior-year forms, instructions, and publications.
+
+Ordering tax forms, instructions, and publications. Go to IRS.gov/OrderForms to order current forms, instructions, and publications; call 800-829-3676 to order prior-year forms and instructions. The IRS will process your order for forms and publications as soon as possible. Don’t resubmit requests you’ve already sent us. You can get forms and publications faster online.
+
+Table A. What You Need To Know About Federal Taxes
+
+( Note: The following is a list of questions you may need to answer so you can fill out your federal income tax return. Chapters are given to help you find the related discussion in this publication.)
+
+What must I know? |  | Where to find the answer
+What kinds of federal taxes do I have to pay? How do I pay them? |  | See chapter 1 .
+What forms must I file? |  | See chapter 1 .
+What must I do if I have employees? |  | See Employment Taxes in chapter 1.
+Do I have to start my tax year in January, or can I start it in any other month? |  | See Accounting Periods in chapter 2.
+What method can I use to account for my income and expenses? |  | See Accounting Methods in chapter 2.
+What must I do if I disposed of business property during the year? |  | See chapter 3 .
+What kinds of business income do I have to report on my tax return? |  | See chapter 5 .
+What kinds of business expenses can I deduct on my tax return? |  | See Business Expenses in chapter 8.
+What kinds of expenses are not deductible as business expenses? |  | See Expenses You Cannot Deduct in chapter 8.
+What happens if I have a business loss? Can I deduct it? |  | See chapter 9 .
+What are my rights as a taxpayer? |  | See chapter 11 .
+Where do I go if I need help with federal tax matters? |  | See chapter 12 .
+
+What’s New for 2025
+
+The following are some of the tax changes for 2025.
+
+Maximum net earnings. The maximum net self-employment earnings subject to the social security part of the self-employment tax is $176,100 for 2025. There is no maximum limit on earnings subject to the Medicare part.
+
+Bonus depreciation. A 100% additional first-year depreciation deduction is allowed for certain qualified property acquired after January 19, 2025. However, you may instead elect to claim 40% (60% for property with a long production period and certain aircraft) additional first-year depreciation deduction for certain property placed in service after January 19, 2025. See the Instructions for Form 4562 for more information.
+
+Standard mileage rate. For 2025, the standard mileage rate for the cost of operating your car, van, pickup, or panel truck for each mile of business use during 2025 increased to 70 cents a mile.For more information, see Car and Truck Expenses in chapter 8.
+
+No tax on qualified overtime. Beginning in 2025, if you earned qualified overtime pay, you may be eligible to deduct up to $12,500 ($25,000 if married filing jointly) of your qualified overtime compensation. The deduction is claimed on Schedule 1-A (Form 1040), not on your Schedule C (Form 1040). See the Instructions for Schedule 1-A (Form 1040), which are included in the Instructions for Form 1040, for more information.
+
+No tax on qualified tips. Beginning in 2025, you may be eligible to take a deduction for qualified tips you received in 2025. You can’t deduct more than $25,000 of those tips. The deduction is claimed on Schedule 1-A (Form 1040), not on your Schedule C (Form 1040). See the Instructions for Schedule 1-A (Form 1040), which are included in the Instructions for Form 1040, for more information.
+
+Form 7205, Energy Efficient Commercial Buildings Deduction. This form and its separate instructions are used to claim the section 179D deduction for qualifying energy efficient commercial building expenses that are now reported on line 27a of Schedule C (Form 1040). P.L. 119-21, commonly known as the One Big Beautiful Bill Act (OBBBA), section 70507, eliminates the deduction for new energy efficient commercial buildings for property beginning construction after June 30, 2026. See Form 7205 and its instructions for more information.
+
+Qualified sound recording productions. You may be eligible to deduct up to $150,000 of qualified sound recording production costs. This applies to costs of qualified sound recording productions commencing in taxable years after July 4, 2025, and commencing before January 1, 2026. See section 181 for more information.
+
+Domestic research and experimental expenditures. Beginning in 2025, you can deduct your domestic research and experimental expenditures as current business expenses or you can elect to capitalize and amortize the expenditures ratably over a period of 60 months or more. See Revenue Procedure 2025-28 for more information about making certain retroactive elections under P.L. 119-21, section 70302(f), for domestic research or experimental expenditures.
+
+Section 179 deduction dollar limits increased. Beginning in 2025, the maximum section 179 expense deduction is $2.5 million. This limit is reduced by the amount by which the cost of section 179 property placed in service during the tax year exceeds $4 million. See the Instructions for Form 4562 for more information.
+
+No tax on car loan interest. Beginning in 2025, you may be able to deduct qualified passenger vehicle loan interest you paid or accrued during the year. See the Instructions for Schedule 1-A (Form 1040), which are included in the Instructions for Form 1040, and Interest on car loans , later, for more information.
+
+Commercial clean vehicle credit. Businesses that buy a qualified commercial clean vehicle may qualify for a clean vehicle tax credit. P.L. 119-21, section 70503, amended section 45W to eliminate the credit for vehicles acquired after September 30, 2025. See Form 8936 and its instructions for more information.
+
+What’s New for 2026
+
+The following are some of the tax changes for 2026. For information on other changes, go to IRS.gov .
+
+Maximum net earnings. The maximum net self-employment earnings subject to the social security part of the self-employment tax is $184,500 for 2026.
+
+Standard mileage rate. For 2026, the standard mileage rate for the cost of operating your car, van, pickup, or panel truck for each mile of business use is 72.5 cents a mile.
+
+Excess business loss limitations made permanent. P.L. 119-21, commonly known as the OBBBA, section 70601, permanently extends the disallowance of a deduction for excess business losses. The threshold for allowable deductions is indexed for inflation for tax years beginning after 2025. See the Instructions for Form 461.
+
+Information reporting threshold for certain payees. For reportable payments made after 2025, the threshold increases to $2,000 for information reporting as well as for backup withholding. See section 6041(a).
+
+Qualified business income deduction (QBI). P.L. 119-21, section 70105, makes the 20% QBI deduction permanent for qualified active trades or businesses. Income thresholds for QBI deduction limitations have also increased.
+
+Instructions for certain information returns. For guidance preparing 2026 information returns, see Pub. 1099.
+
+Reminders
+
+Bad debts. Pub. 535, Business Expenses, has been discontinued, and the bad debts information provided in that publication has now been incorporated in the Bad Debts section in chapter 8 of this publication.
+
+Redesigned Form 1040-SS. Beginning in 2024, Schedule(s) C and SE (Form 1040) are available to be filed with Form 1040-SS, if applicable. For additional information, see the Instructions for Form 1040-SS.
+
+Business meal expense. Deductions for meal expenses generally remain limited to 50% of such expenses. See Meals and lodging , later, for more information. See also Pub. 463.
+
+Excess business loss limitation. Your loss from a trade or business may be limited. Use Form 461 to determine the amount of your excess business loss, if any. Your excess business loss will be included as income on line 8p of Schedule 1 (Form 1040) and treated as a net operating loss (NOL) that you must carry forward and deduct in a subsequent tax year. See Form 461 and its instructions.
+
+Reportable transactions. You must file Form 8886, Reportable Transaction Disclosure Statement, to report certain transactions. You may have to pay a penalty if you are required to file Form 8886 but do not do so. You may also have to pay interest and penalties on any reportable transaction understatements. Reportable transactions include:
+
+-
+
+Transactions the same as or substantially similar to tax avoidance transactions identified by the IRS;
+
+-
+
+Transactions offered to you under conditions of confidentiality for which you paid an advisor a minimum fee;
+
+-
+
+Transactions for which you have, or a related party has, contractual protection against disallowance of the tax benefits;
+
+-
+
+Transactions that result in losses of at least $2 million in any single tax year ($50,000 if from certain foreign currency transactions) or $4 million in any combination of tax years; and
+
+-
+
+Transactions the same as or substantially similar to one of the types of transactions the IRS has identified as a transaction of interest.
+
+For more information, see the Instructions for Form 8886 or IRS.gov/Abusive-Tax-Shelters-and-Transactions . See also chapter 2 of Pub. 550.
+
+Small Business and Self-Employed (SB/SE) Tax Center. Do you need help with a tax issue or preparing your return, or do you need a free publication or form? The SB/SE Tax Center serves taxpayers who file Form 1040; Form 1040-SR; Schedule C, E, or F (Form 1040); or Form 2106, as well as small business taxpayers with assets under $10 million. For additional information, go to the SB/SE Tax Center at IRS.gov/Businesses/Small .
+
+Gig Economy Tax Center. The gig (or on-demand, sharing, or access) economy refers to an area of activity where people earn income providing on-demand work, services, or goods. Go to IRS.gov/Gig to get more information about the tax consequences of participating in the gig economy.
+
+Photographs of Missing Children
+
+The Internal Revenue Service is a proud partner with the National Center for Missing & Exploited Children® (NCMEC) . Photographs of missing children selected by the Center may appear in this publication on pages that would otherwise be blank. You can help bring these children home by looking at the photographs and calling 1-800-THE-LOST (1-800-843-5678) if you recognize a child.

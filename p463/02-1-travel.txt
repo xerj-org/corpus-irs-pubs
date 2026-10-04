@@ -1,0 +1,737 @@
+IRS Pub 463 (2025) | 1. Travel
+
+1. Travel
+
+If you temporarily travel away from your tax home, you can use this chapter to determine if you have deductible travel expenses.
+
+This chapter discusses:
+
+-
+
+Traveling away from home,
+
+-
+
+Temporary assignment or job, and
+
+-
+
+What travel expenses are deductible.
+
+It also discusses the standard meal allowance, rules for travel inside and outside the United States, luxury water travel, and deductible convention expenses.
+
+Travel expenses defined.
+
+For tax purposes, travel expenses are the ordinary and necessary expenses of traveling away from home for your business, profession, or job.
+
+An ordinary expense is one that is common and accepted in your trade or business. A necessary expense is one that is helpful and appropriate for your business. An expense doesn’t have to be required to be considered necessary.
+
+You will find examples of deductible travel expenses in Table 1-1 .
+
+Traveling Away From Home
+
+You are traveling away from home if:
+
+-
+
+Your duties require you to be away from the general area of your tax home (defined later) substantially longer than an ordinary day’s work, and
+
+-
+
+You need to sleep or rest to meet the demands of your work while away from home.
+
+This rest requirement isn’t satisfied by merely napping in your car. You don’t have to be away from your tax home for a whole day or from dusk to dawn as long as your relief from duty is long enough to get necessary sleep or rest.
+
+Example 1.
+
+You are a railroad conductor. You leave your home terminal on a regularly scheduled round-trip run between two cities and return home 16 hours later. During the run, you have 6 hours off at your turnaround point where you eat two meals and rent a hotel room to get necessary sleep before starting the return trip. You are considered to be away from home.
+
+Example 2.
+
+You are a truck driver. You leave your terminal and return to it later the same day. You get an hour off at your turnaround point to eat. Because you aren’t off to get necessary sleep and the brief time off isn’t an adequate rest period, you aren’t traveling away from home.
+
+Members of the Armed Forces.
+
+If you are a member of the U.S. Armed Forces on a permanent duty assignment overseas, you aren’t traveling away from home. You can’t deduct your expenses for meals and lodging. You can’t deduct these expenses even if you have to maintain a home in the United States for your family members who aren’t allowed to accompany you overseas. If you are transferred from one permanent duty station to another, you may have deductible moving expenses, which are explained in Pub. 3, Armed Forces’ Tax Guide.
+
+A naval officer assigned to permanent duty aboard a ship that has regular eating and living facilities has a tax home (explained next) aboard the ship for travel expense purposes.
+
+Tax Home
+
+To determine whether you are traveling away from home, you must first determine the location of your tax home.
+
+Generally, your tax home is your regular place of business or post of duty, regardless of where you maintain your family home. It includes the entire city or general area in which your business or work is located.
+
+If you have more than one regular place of business, your tax home is your main place of business. See Main place of business or work , later.
+
+If you don’t have a regular or a main place of business because of the nature of your work, then your tax home may be the place where you regularly live. See No main place of business or work , later.
+
+If you don’t have a regular or main place of business or post of duty and there is no place where you regularly live, you are considered an itinerant (a transient) and your tax home is wherever you work. As an itinerant, you can’t claim a travel expense deduction because you are never considered to be traveling away from home.
+
+Main place of business or work.
+
+If you have more than one place of work, consider the following when determining which one is your main place of business or work.
+
+-
+
+The total time you ordinarily spend in each place.
+
+-
+
+The level of your business activity in each place.
+
+-
+
+Whether your income from each place is significant or insignificant.
+
+Example.
+
+You live in Cincinnati where you have a seasonal job for 8 months each year and earn $40,000. You work the other 4 months in Miami, also at a seasonal job, and earn $15,000. Cincinnati is your main place of work because you spend most of your time there and earn most of your income there.
+
+No main place of business or work.
+
+You may have a tax home even if you don’t have a regular or main place of work. Your tax home may be the home where you regularly live.
+
+Factors used to determine tax home.
+
+If you don’t have a regular or main place of business or work, use the following three factors to determine where your tax home is.
+
+-
+
+You perform part of your business in the area of your main home and use that home for lodging while doing business in the area.
+
+-
+
+You have living expenses at your main home that you duplicate because your business requires you to be away from that home.
+
+-
+
+You haven’t abandoned the area in which both your historical place of lodging and your claimed main home are located, you have a member or members of your family living at your main home, or you often use that home for lodging.
+
+If you satisfy all three factors, your tax home is the home where you regularly live. If you satisfy only two factors, you may have a tax home depending on all the facts and circumstances. If you satisfy only one factor, you are an itinerant; your tax home is wherever you work and you can’t deduct travel expenses.
+
+Example 1.
+
+You are single and live in Boston in an apartment you rent. You have worked for your employer in Boston for a number of years. Your employer enrolls you in a 12-month executive training program. You don’t expect to return to work in Boston after you complete your training.
+
+During your training, you don’t do any work in Boston. Instead, you receive classroom and on-the-job training throughout the United States. You keep your apartment in Boston and return to it frequently. You use your apartment to conduct your personal business. You also keep up your community contacts in Boston. When you complete your training, you are transferred to Los Angeles.
+
+You don’t satisfy factor (1) because you didn’t work in Boston. You satisfy factor (2) because you had duplicate living expenses. You also satisfy factor (3) because you didn’t abandon your apartment in Boston as your main home, you kept your community contacts, and you frequently returned to live in your apartment. Therefore, you have a tax home in Boston.
+
+Example 2.
+
+You are an outside salesperson with a sales territory covering several states. Your employer’s main office is in Newark, but you don’t conduct any business there. Your work assignments are temporary, and you have no way of knowing where your future assignments will be located. You have a room in your married sister’s house in Dayton. You stay there for one or two weekends a year, but you do no work in the area. You don’t pay your sister for the use of the room.
+
+You don’t satisfy any of the three factors listed earlier. You are an itinerant and have no tax home.
+
+Tax Home Different From Family Home
+
+If you (and your family) don’t live at your tax home (defined earlier), you can’t deduct the cost of traveling between your tax home and your family home. You also can’t deduct the cost of meals and lodging while at your tax home. See Example 1 , later.
+
+If you are working temporarily in the same city where you and your family live, you may be considered as traveling away from home. See Example 2 , later.
+
+Example 1.
+
+You are a truck driver and you and your family live in Tucson. You are employed by a trucking firm that has its terminal in Phoenix. At the end of your long runs, you return to your home terminal in Phoenix and spend one night there before returning home. You can’t deduct any expenses you have for meals and lodging in Phoenix or the cost of traveling from Phoenix to Tucson. This is because Phoenix is your tax home.
+
+Example 2.
+
+Your family home is in Pittsburgh, where you work 12 weeks a year. The rest of the year you work for the same employer in Baltimore. In Baltimore, you eat in restaurants and sleep in a rooming house. Your salary is the same whether you are in Pittsburgh or Baltimore.
+
+Because you spend most of your working time and earn most of your salary in Baltimore, that city is your tax home. You can’t deduct any expenses you have for meals and lodging there. However, when you return to work in Pittsburgh, you are away from your tax home even though you stay at your family home. You can deduct the cost of your round trip between Baltimore and Pittsburgh. You can also deduct your part of your family’s living expenses for non-entertainment-related meals and lodging while you are living and working in Pittsburgh.
+
+Temporary Assignment or Job
+
+You may regularly work at your tax home and also work at another location. It may not be practical to return to your tax home from this other location at the end of each workday.
+
+Temporary assignment vs. indefinite assignment.
+
+If your assignment or job away from your main place of work is temporary, your tax home doesn’t change. You are considered to be away from home for the whole period you are away from your main place of work. You can deduct your travel expenses if they otherwise qualify for deduction. Generally, a temporary assignment in a single location is one that is realistically expected to last (and does in fact last) for 1 year or less.
+
+However, if your assignment or job is indefinite, the location of the assignment or job becomes your new tax home and you can’t deduct your travel expenses while there. An assignment or job in a single location is considered indefinite if it is realistically expected to last for more than 1 year, whether or not it actually lasts for more than 1 year.
+
+If your assignment is indefinite, you must include in your income any amounts you receive from your employer for living expenses, even if they are called “travel allowances” and you account to your employer for them.
+
+The cost of relocating is no longer deductible as a moving expense except for active members of the military moving due to a permanent change of duty station. See Pub. 3 for more information.
+
+Exception for federal crime investigations or prosecutions.
+
+If you are a federal employee participating in a federal crime investigation or prosecution, you aren’t subject to the 1-year rule. This means you may be able to deduct travel expenses even if you are away from your tax home for more than 1 year provided you meet the other requirements for deductibility.
+
+For you to qualify, the Attorney General (or their designee) must certify that you are traveling:
+
+-
+
+For the federal government;
+
+-
+
+In a temporary duty status; and
+
+-
+
+To investigate, prosecute, or provide support services for the investigation or prosecution of a federal crime.
+
+Determining temporary or indefinite.
+
+You must determine whether your assignment is temporary or indefinite when you start work. If you expect an assignment or job to last for 1 year or less, it is temporary unless there are facts and circumstances that indicate otherwise. An assignment or job that is initially temporary may become indefinite due to changed circumstances. A series of assignments to the same location, all for short periods but that together cover a long period, may be considered an indefinite assignment.
+
+The following examples illustrate whether an assignment or job is temporary or indefinite.
+
+Example 1.
+
+You are a construction worker. You live and regularly work in Los Angeles. You are a member of a trade union in Los Angeles that helps you get work in the Los Angeles area. Your tax home is Los Angeles. Because of a shortage of work, you took a job on a construction project in Fresno. Your job was scheduled to end in 8 months. The job actually lasted 10 months.
+
+You realistically expected the job in Fresno to last 8 months. The job actually did last less than 1 year. The job is temporary and your tax home is still in Los Angeles.
+
+Example 2.
+
+The facts are the same as in Example 1 , except that you realistically expected the work in Fresno to last 18 months. The job was actually completed in 10 months.
+
+Your job in Fresno is indefinite because you realistically expected the work to last longer than 1 year, even though it actually lasted less than 1 year. You can’t deduct any travel expenses you had in Fresno because Fresno became your tax home.
+
+Example 3.
+
+The facts are the same as in Example 1 , except that you realistically expected the work in Fresno to last 9 months. After 8 months, however, you were asked to remain for 7 more months (for a total actual stay of 15 months).
+
+Initially, you realistically expected the job in Fresno to last for only 9 months. However, due to changed circumstances occurring after 8 months, it was no longer realistic for you to expect that the job in Fresno would last for 1 year or less. You can deduct only your travel expenses for the first 8 months. You can’t deduct any travel expenses you had after that time because Fresno became your tax home when the job became indefinite.
+
+Going home on days off.
+
+If you go back to your tax home from a temporary assignment on your days off, you aren’t considered away from home while you are in your hometown. You can’t deduct the cost of your meals and lodging there. However, you can deduct your travel expenses, including meals and lodging, while traveling between your temporary place of work and your tax home. You can claim these expenses up to the amount it would have cost you to stay at your temporary place of work.
+
+If you keep your hotel room during your visit home, you can deduct the cost of your hotel room. In addition, you can deduct your expenses of returning home up to the amount you would have spent for meals had you stayed at your temporary place of work.
+
+Probationary work period.
+
+If you take a job that requires you to move, with the understanding that you will keep the job if your work is satisfactory during a probationary period, the job is indefinite. You can’t deduct any of your expenses for meals and lodging during the probationary period.
+
+What Travel Expenses Are Deductible?
+
+Once you have determined that you are traveling away from your tax home, you can determine what travel expenses are deductible.
+
+You can deduct ordinary and necessary expenses you have when you travel away from home on business. The type of expense you can deduct depends on the facts and your circumstances.
+
+Table 1-1 summarizes travel expenses you may be able to deduct. You may have other deductible travel expenses that aren’t covered there, depending on the facts and your circumstances.
+
+When you travel away from home on business, you must keep records of all the expenses you have and any advances you receive from your employer. You can use a log, diary, notebook, or any other written record to keep track of your expenses. The types of expenses you need to record, along with supporting documentation, are described in Table 5-1 (see chapter 5).
+
+Separating costs.
+
+If you have one expense that includes the costs of non-entertainment-related meals, entertainment, and other services (such as lodging or transportation), you must allocate that expense between the cost of non-entertainment-related meals, and entertainment and the cost of other services. You must have a reasonable basis for making this allocation. For example, you must allocate your expenses if a hotel includes one or more meals in its room charge.
+
+Travel expenses for another individual.
+
+If a spouse, dependent, or other individual goes with you (or your employee) on a business trip or to a business convention, you generally can’t deduct their travel expenses.
+
+Employee.
+
+You can deduct the travel expenses of someone who goes with you if that person:
+
+-
+
+Is your employee,
+
+-
+
+Has a bona fide business purpose for the travel, and
+
+-
+
+Would otherwise be allowed to deduct the travel expenses.
+
+Business associate.
+
+If a business associate travels with you and meets the conditions in (2) and (3) above, you can deduct the travel expenses you have for that person. A business associate is someone with whom you could reasonably expect to actively conduct business. A business associate can be a current or prospective (likely to become) customer, client, supplier, employee, agent, partner, or professional advisor.
+
+Table 1-1. Travel Expenses You Can Deduct
+
+This chart summarizes expenses you can deduct when you travel away from home for business purposes.
+
+IF you have expenses for... | THEN you can deduct the cost of...
+transportation | travel by airplane, train, bus, or car between your home and your business destination. If you were provided with a free ticket or you are riding free as a result of a frequent traveler or similar program, your cost is zero. If you travel by ship, see Luxury Water Travel and Cruise Ships under Conventions , later, for additional rules and limits.
+taxi, commuter bus, and airport limousine | fares for these and other types of transportation that take you between: The airport or station and your hotel; and The hotel and the work location of your customers or clients, your business meeting place, or your temporary work location.
+baggage and shipping | sending baggage and sample or display material between your regular and temporary work locations.
+car | operating and maintaining your car when traveling away from home on business. You can deduct actual expenses or the standard mileage rate, as well as business-related tolls and parking. If you rent a car while away from home on business, you can deduct only the business-use portion of the expenses.
+lodging and meals | your lodging and non-entertainment-related meals if your business trip is overnight or long enough that you need to stop for sleep or rest to properly perform your duties. Meals include amounts spent for food, beverages, taxes, and related tips. See Meals , later, for additional rules and limits.
+cleaning | dry cleaning and laundry.
+telephone | business calls while on your business trip. This includes business communication by fax machine or other communication devices.
+tips | tips you pay for any expenses in this chart.
+other | other similar ordinary and necessary expenses related to your business travel. These expenses might include transportation to or from a business meal, public stenographer’s fees, computer rental fees, and operating and maintaining a house trailer.
+
+Bona fide business purpose.
+
+A bona fide business purpose exists if you can prove a real business purpose for the individual’s presence. Incidental services, such as typing notes or assisting in entertaining customers, aren’t enough to make the expenses deductible.
+
+Example.
+
+You drive to Chicago on business and take your spouse with you. Your spouse isn’t your employee. Your spouse occasionally types notes, performs similar services, and accompanies you to luncheons and dinners. The performance of these services doesn’t establish that your spouse’s presence on the trip is necessary to the conduct of your business. Your spouse’s expenses aren’t deductible.
+
+You pay $199 a day for a double room. A single room costs $149 a day. You can deduct the total cost of driving your car to and from Chicago, but only $149 a day for your hotel room. If both you and your spouse use public transportation, you can only deduct your fare.
+
+Meals
+
+You can deduct a portion of the cost of meals if it is necessary for you to stop for substantial sleep or rest to properly perform your duties while traveling away from home on business. Meal and entertainment expenses are discussed in chapter 2 .
+
+Lavish or extravagant.
+
+You can’t deduct expenses for meals that are lavish or extravagant. An expense isn’t considered lavish or extravagant if it is reasonable based on the facts and circumstances. Meal expenses won’t be disallowed merely because they are more than a fixed dollar amount or because the meals take place at deluxe restaurants, hotels, or resorts.
+
+50% limit on meals.
+
+You can figure your meal expenses using either of the following methods.
+
+-
+
+Actual cost.
+
+-
+
+The standard meal allowance.
+
+Both of these methods are explained below. But, regardless of the method you use, you can generally deduct only 50% of the unreimbursed cost of your meals.
+
+If you are reimbursed for the cost of your meals, how you apply the 50% limit depends on whether your employer’s reimbursement plan was accountable or nonaccountable. If you aren’t reimbursed, the 50% limit applies even if the unreimbursed meal expense is for business travel. Chapter 2 discusses the 50% limit in more detail, and chapter 6 discusses accountable and nonaccountable plans.
+
+Actual Cost
+
+You can use the actual cost of your meals to figure the amount of your expense before reimbursement and application of the 50% deduction limit. If you use this method, you must keep records of your actual cost.
+
+Standard Meal Allowance
+
+Generally, you can use the “standard meal allowance” method as an alternative to the actual cost method. It allows you to use a set amount for your daily meals and incidental expenses (M&IE), instead of keeping records of your actual costs. The set amount varies depending on where and when you travel. In this publication, “standard meal allowance” refers to the federal rate for M&IE, discussed later under Amount of standard meal allowance . If you use the standard meal allowance, you must still keep records to prove the time, place, and business purpose of your travel. See the recordkeeping rules for travel in chapter 5 .
+
+Incidental expenses.
+
+The term “incidental expenses” means fees and tips given to porters, baggage carriers, hotel staff, and staff on ships.
+
+Incidental expenses don’t include expenses for laundry, cleaning and pressing of clothing, lodging taxes, costs of telegrams or telephone calls, transportation between places of lodging or business and places where meals are taken, or the mailing cost of filing travel vouchers and paying employer-sponsored charge card billings.
+
+Incidental-expenses-only method.
+
+You can use an optional method (instead of actual cost) for deducting incidental expenses only. The amount of the deduction is $5 a day. You can use this method only if you didn’t pay or incur any meal expenses. You can’t use this method on any day that you use the standard meal allowance. This method is subject to the proration rules for partial days. See Travel for days you depart and return , later in this chapter.
+
+Note:
+
+The incidental-expenses-only method isn’t subject to the 50% limit discussed below.
+
+Caution:
+
+Federal employees should refer to the Federal Travel Regulations (FTR) at eCFR.gov for changes affecting claims for reimbursement.
+
+50% limit may apply.
+
+If you use the standard meal allowance method for non-entertainment-related meal expenses and you aren’t reimbursed or you are reimbursed under a nonaccountable plan, you can generally deduct only 50% of the standard meal allowance. If you are reimbursed under an accountable plan and you are deducting amounts that are more than your reimbursements, you can deduct only 50% of the excess amount. The 50% limit is discussed in more detail in chapter 2, and accountable and nonaccountable plans are discussed in chapter 6.
+
+Caution:
+
+There is no optional standard lodging amount similar to the standard meal allowance. Your allowable lodging expense deduction is your actual cost.
+
+Who can use the standard meal allowance.
+
+You can use the standard meal allowance whether you are an employee or self-employed, and whether or not you are reimbursed for your traveling expenses.
+
+Use of the standard meal allowance for other travel.
+
+You can use the standard meal allowance to figure your meal expenses when you travel in connection with investment and other income-producing property. You can also use it to figure your meal expenses when you travel for qualifying educational purposes.
+
+Amount of standard meal allowance.
+
+The standard meal allowance is the federal M&IE rate.
+
+Most major cities and many other localities in the United States are designated as high-cost areas, qualifying for higher standard meal allowances.
+
+You can find this information (organized by state) at GSA.gov/travel/plan-book/per-diem-rates . Enter a ZIP code or select a city and state for the per diem rates for the current fiscal year. Per diem rates for prior fiscal years are available by using the drop-down menu.
+
+If you travel to more than one location in one day, use the rate in effect for the area where you stop for sleep or rest. If you work in the transportation industry, however, see Special rate for transportation workers , later.
+
+Federal government’s fiscal year.
+
+Per diem rates are listed by the federal government’s fiscal year, which runs from October 1 to September 30. You can choose to use the rates from the 2024 fiscal year per diem tables or the rates from the 2025 fiscal year tables, but you must consistently use the same tables for all travel you are reporting on your income tax return for the year. See Transition Rules , later.
+
+Standard meal allowance for areas outside the continental United States.
+
+The standard meal allowance rates above don’t apply to travel in Alaska, Hawaii, or any other location outside the continental United States. The Department of Defense establishes per diem rates for Alaska, Hawaii, Puerto Rico, American Samoa, Guam, Midway, the Northern Mariana Islands, the U.S. Virgin Islands, Wake Island, and other non-foreign areas outside the continental United States. The Department of State establishes per diem rates for all other foreign areas.
+
+You can access per diem rates for non-foreign areas outside the continental United States at Travel.dod.mil/Travel-Transportation-Rates/Per-Diem/Per-Diem-Rate-Lookup/ . You can access all other foreign per diem rates at aoprals.state.gov/web920/per_diem.asp .
+
+Special rate for transportation workers.
+
+You can use a special standard meal allowance if you work in the transportation industry. You are in the transportation industry if your work:
+
+-
+
+Directly involves moving people or goods by airplane, barge, bus, ship, train, or truck; and
+
+-
+
+Regularly requires you to travel away from home and, during any single trip, usually involves travel to areas eligible for different standard meal allowance rates.
+
+If this applies, you can claim a standard meal allowance of $80 per day ($86 for travel outside the continental United States) in 2025.
+
+Using the special rate for transportation workers eliminates the need for you to determine the standard meal allowance for every area where you stop for sleep or rest. If you choose to use the special rate for any trip, you must use the special rate (and not use the regular standard meal allowance rates) for all trips you take that year.
+
+Travel for days you depart and return.
+
+For both the day you depart for and the day you return from a business trip, you must prorate the standard meal allowance (figure a reduced amount for each day). You can do so by one of two methods.
+
+-
+
+Method 1: You can claim 3 / 4 of the standard meal allowance.
+
+-
+
+Method 2: You can prorate using any method that you consistently apply and that is in accordance with reasonable business practice.
+
+Example.
+
+You are employed in New Orleans as a convention planner. In March, your employer sent you on a 3-day trip to Washington, DC, to attend a planning seminar. You left your home in New Orleans at 10 a.m. on Wednesday and arrived in Washington, DC, at 5:30 p.m. After spending 2 nights there, you flew back to New Orleans on Friday and arrived back home at 8 p.m. Your employer gave you a flat amount to cover your expenses and included it with your wages.
+
+Under Method 1 , you can claim 2½ days of the standard meal allowance for Washington, DC: 3 / 4 of the daily rate for Wednesday and Friday (the days you departed and returned), and the full daily rate for Thursday.
+
+Under Method 2 , you could also use any method that you apply consistently and that is in accordance with reasonable business practice. For example, you could claim 3 days of the standard meal allowance even though a federal employee would have to use Method 1 and be limited to only 2½ days.
+
+Travel in the United States
+
+The following discussion applies to travel in the United States. For this purpose, the United States includes the 50 states and the District of Columbia. The treatment of your travel expenses depends on how much of your trip was business related and on how much of your trip occurred within the United States. See Part of Trip Outside the United States , later.
+
+Trip Primarily for Business
+
+You can deduct all of your travel expenses if your trip was entirely business related. If your trip was primarily for business and, while at your business destination, you extended your stay for a vacation, made a personal side trip, or had other personal activities, you can deduct only your business-related travel expenses. These expenses include the travel costs of getting to and from your business destination and any business-related expenses at your business destination.
+
+Example.
+
+You work in Atlanta and take a business trip to New Orleans in May. Your business travel totals 900 miles round trip. On your way home, you stop in Mobile to visit your parents. You spend $2,165 for the 9 days you are away from home for travel, non-entertainment-related meals, lodging, and other travel expenses. If you hadn’t stopped in Mobile, you would have been gone only 6 days, and your total cost would have been $1,633.50. You can deduct $1,633.50 for your trip, including the cost of round-trip transportation to and from New Orleans. The deduction for your non-entertainment-related meals is subject to the 50% limit on meals mentioned earlier.
+
+Trip Primarily for Personal Reasons
+
+If your trip was primarily for personal reasons, such as a vacation, the entire cost of the trip is a nondeductible personal expense. However, you can deduct any expenses you have while at your destination that are directly related to your business.
+
+A trip to a resort or on a cruise ship may be a vacation even if the promoter advertises that it is primarily for business. The scheduling of incidental business activities during a trip, such as viewing videotapes or attending lectures dealing with general subjects, won’t change what is really a vacation into a business trip.
+
+Part of Trip Outside the United States
+
+If part of your trip is outside the United States, use the rules described later in this chapter under Travel Outside the United States for that part of the trip. For the part of your trip that is inside the United States, use the rules for travel in the United States. Travel outside the United States doesn’t include travel from one point in the United States to another point in the United States. The following discussion can help you determine whether your trip was entirely within the United States.
+
+Public transportation.
+
+If you travel by public transportation, any place in the United States where that vehicle makes a scheduled stop is a point in the United States. Once the vehicle leaves the last scheduled stop in the United States on its way to a point outside the United States, you apply the rules under Travel Outside the United States , later.
+
+Example.
+
+You fly from New York to Puerto Rico with a scheduled stop in Miami. Puerto Rico isn’t considered part of the United States for purposes of travel. You return to New York nonstop. The flight from New York to Miami is in the United States, so only the flight from Miami to Puerto Rico is outside the United States. Because there are no scheduled stops between Puerto Rico and New York, all of the return trip is outside the United States.
+
+Private car.
+
+Travel by private car in the United States is travel between points in the United States, even though you are on your way to a destination outside the United States.
+
+Example.
+
+You travel by car from Denver to Mexico City and return. Your travel from Denver to the border and from the border back to Denver is travel in the United States, and the rules in this section apply. The rules below under Travel Outside the United States apply to your trip from the border to Mexico City and back to the border.
+
+Travel Outside the United States
+
+If any part of your business travel is outside the United States, some of your deductions for the cost of getting to and from your destination may be limited. For this purpose, the United States includes the 50 states and the District of Columbia.
+
+How much of your travel expenses you can deduct depends in part upon how much of your trip outside the United States was business related.
+
+Travel Entirely for Business or Considered Entirely for Business
+
+You can deduct all your travel expenses of getting to and from your business destination if your trip is entirely for business or considered entirely for business.
+
+Travel entirely for business.
+
+If you travel outside the United States and you spend the entire time on business activities, you can deduct all of your travel expenses.
+
+Travel considered entirely for business.
+
+Even if you didn’t spend your entire time on business activities, your trip is considered entirely for business if you meet at least one of the following four exceptions.
+
+Exception 1—no substantial control.
+
+Your trip is considered entirely for business if you didn’t have substantial control over arranging the trip. The fact that you control the timing of your trip doesn’t, by itself, mean that you have substantial control over arranging your trip.
+
+You don’t have substantial control over your trip if you:
+
+-
+
+Are an employee who was reimbursed or paid a travel expense allowance, and
+
+-
+
+Aren’t related to your employer, or
+
+-
+
+Aren’t a managing executive.
+
+“Related to your employer” is defined later in chapter 6 under Per Diem and Car Allowances .
+
+A “managing executive” is an employee who has the authority and responsibility, without being subject to the veto of another, to decide on the need for the business travel.
+
+A self-employed person generally has substantial control over arranging business trips.
+
+Exception 2—outside United States no more than a week.
+
+Your trip is considered entirely for business if you were outside the United States for a week or less, combining business and nonbusiness activities. One week means 7 consecutive days. In counting the days, don’t count the day you leave the United States, but do count the day you return to the United States.
+
+Example.
+
+You traveled to Brussels primarily for business. You left Denver on Tuesday and flew to New York. On Wednesday, you flew from New York to Brussels, arriving the next morning. On Thursday and Friday, you had business discussions, and from Saturday until Tuesday, you were sightseeing. You flew back to New York, arriving Wednesday afternoon. On Thursday, you flew back to Denver.
+
+Although you were away from your home in Denver for more than a week, you weren’t outside the United States for more than a week. This is because the day you depart doesn’t count as a day outside the United States.
+
+You can deduct your cost of the round-trip flight between Denver and Brussels. You can also deduct the cost of your stay in Brussels for Thursday and Friday while you conducted business. However, you can’t deduct the cost of your stay in Brussels from Saturday through Tuesday because those days were spent on nonbusiness activities.
+
+Exception 3—less than 25% of time on personal activities.
+
+Your trip is considered entirely for business if:
+
+-
+
+You were outside the United States for more than a week, and
+
+-
+
+You spent less than 25% of the total time you were outside the United States on nonbusiness activities.
+
+For this purpose, count both the day your trip began and the day it ended.
+
+Example.
+
+You flew from Seattle to Tokyo, where you spent 14 days on business and 5 days on personal matters. You then flew back to Seattle. You spent 1 day flying in each direction.
+
+Because only 5 / 21 (less than 25%) of your total time abroad was for nonbusiness activities, you can deduct as travel expenses what it would have cost you to make the trip if you hadn’t engaged in any nonbusiness activity. The amount you can deduct is the cost of the round-trip plane fare and 16 days of non-entertainment-related meals (subject to the 50% limit ), lodging, and other related expenses.
+
+Exception 4—vacation not a major consideration.
+
+Your trip is considered entirely for business if you can establish that a personal vacation wasn’t a major consideration, even if you have substantial control over arranging the trip.
+
+Travel Primarily for Business
+
+If you travel outside the United States primarily for business but spend some of your time on other activities, you generally can’t deduct all of your travel expenses. You can only deduct the business portion of your cost of getting to and from your destination. You must allocate the costs between your business and other activities to determine your deductible amount. See Travel allocation rules , later.
+
+Tip:
+
+You don’t have to allocate your travel expenses if you meet one of the four exceptions listed earlier under Travel considered entirely for business . In those cases, you can deduct the total cost of getting to and from your destination.
+
+Travel allocation rules.
+
+If your trip outside the United States was primarily for business, you must allocate your travel time on a day-to-day basis between business days and nonbusiness days. The days you depart from and return to the United States are both counted as days outside the United States.
+
+To figure the deductible amount of your round-trip travel expenses, use the following fraction. The numerator (top number) is the total number of business days outside the United States. The denominator (bottom number) is the total number of business and nonbusiness days of travel.
+
+Counting business days.
+
+Your business days include transportation days, days your presence was required, days you spent on business, and certain weekends and holidays.
+
+Transportation day.
+
+Count as a business day any day you spend traveling to or from a business destination. However, if because of a nonbusiness activity you don’t travel by a direct route, your business days are the days it would take you to travel a reasonably direct route to your business destination. Extra days for side trips or nonbusiness activities can’t be counted as business days.
+
+Presence required.
+
+Count as a business day any day your presence is required at a particular place for a specific business purpose. Count it as a business day even if you spend most of the day on nonbusiness activities.
+
+Day spent on business.
+
+If your principal activity during working hours is the pursuit of your trade or business, count the day as a business day. Also, count as a business day any day you are prevented from working because of circumstances beyond your control.
+
+Certain weekends and holidays.
+
+Count weekends, holidays, and other necessary standby days as business days if they fall between business days. But if they follow your business meetings or activity and you remain at your business destination for nonbusiness or personal reasons, don’t count them as business days.
+
+Example 1.
+
+Your tax home is New York City. You travel to Quebec, where you have a business meeting on Friday. You have another meeting on the following Monday. Because your presence was required on both Friday and Monday, they are business days. Because the weekend is between business days, Saturday and Sunday are counted as business days. This is true even though you use the weekend for sightseeing, visiting friends, or other nonbusiness activity.
+
+Example 2.
+
+If, in Example 1 , you had no business in Quebec after Friday, but stayed until Monday before starting home, Saturday and Sunday would be nonbusiness days.
+
+Nonbusiness activity on the way to or from your business destination.
+
+If you stopped for a vacation or other nonbusiness activity either on the way from the United States to your business destination, or on the way back to the United States from your business destination, you must allocate part of your travel expenses to the nonbusiness activity.
+
+The part you must allocate is the amount it would have cost you to travel between the point where travel outside the United States begins and your nonbusiness destination and a return to the point where travel outside the United States ends.
+
+You determine the nonbusiness portion of that expense by multiplying it by a fraction. The numerator (top number) of the fraction is the number of nonbusiness days during your travel outside the United States, and the denominator (bottom number) is the total number of days you spend outside the United States.
+
+Example.
+
+You live in New York. On May 4, you flew to Paris to attend a business conference that began on May 5. The conference ended at noon on May 14. That evening, you flew to Dublin where you visited with friends until the afternoon of May 21, when you flew directly home to New York. The primary purpose for the trip was to attend the conference.
+
+If you hadn’t stopped in Dublin, you would have arrived home the evening of May 14. You don’t meet any of the exceptions that would allow you to consider your travel entirely for business. May 4 through May 14 (11 days) are business days and May 15 through May 21 (7 days) are nonbusiness days.
+
+You can deduct the cost of your non-entertainment-related meals (subject to the 50% limit ), lodging, and other business-related travel expenses while in Paris.
+
+You can’t deduct your expenses while in Dublin. You also can’t deduct 7 / 18 of what it would have cost you to travel round trip between New York and Dublin.
+
+You paid $750 to fly from New York to Paris, $400 to fly from Paris to Dublin, and $700 to fly from Dublin back to New York. Round-trip airfare from New York to Dublin would have been $1,250.
+
+You figure the deductible part of your air travel expenses by subtracting 7 / 18 of the round-trip airfare and other expenses you would have had in traveling directly between New York and Dublin ($1,250 × 7 / 18 = $486) from your total expenses in traveling from New York to Paris to Dublin and back to New York ($750 + $400 + $700 = $1,850).
+
+Your deductible air travel expense is $1,364 ($1,850 − $486).
+
+Nonbusiness activity at, near, or beyond business destination.
+
+If you had a vacation or other nonbusiness activity at, near, or beyond your business destination, you must allocate part of your travel expenses to the nonbusiness activity.
+
+The part you must allocate is the amount it would have cost you to travel between the point where travel outside the United States begins and your business destination and a return to the point where travel outside the United States ends.
+
+You determine the nonbusiness portion of that expense by multiplying it by a fraction. The numerator (top number) of the fraction is the number of nonbusiness days during your travel outside the United States, and the denominator (bottom number) is the total number of days you spend outside the United States.
+
+None of your travel expenses for nonbusiness activities at, near, or beyond your business destination are deductible.
+
+Example.
+
+Assume that the dates are the same as in the previous example but that instead of going to Dublin for your vacation, you fly to Venice, Italy, for a vacation.
+
+You can’t deduct any part of the cost of your trip from Paris to Venice and return to Paris. In addition, you can’t deduct 7 / 18 of the airfare and other expenses from New York to Paris and back to New York.
+
+You can deduct 11 / 18 of the round-trip plane fare and other travel expenses from New York to Paris, plus your non-entertainment-related meals (subject to the 50% limit ), lodging, and any other business expenses you had in Paris. (Assume these expenses total $4,939.) If the round-trip plane fare and other travel-related expenses (such as food during the trip) are $1,750, you can deduct travel costs of $1,069 ( 11 / 18 × $1,750), plus the full $4,939 for the expenses you had in Paris.
+
+Other methods.
+
+You can use another method of counting business days if you establish that it more clearly reflects the time spent on other than business activities outside the United States.
+
+Travel Primarily for Personal Reasons
+
+If you travel outside the United States primarily for vacation or for investment purposes, the entire cost of the trip is a nondeductible personal expense. However, if you spend some time attending brief professional seminars or a continuing education program, you can deduct your registration fees and other expenses you have that are directly related to your business.
+
+Example.
+
+The university from which you graduated has a continuing education program for members of its alumni association. This program consists of trips to various foreign countries where academic exercises and conferences are set up to acquaint individuals in most occupations with selected facilities in several regions of the world. However, none of the conferences are directed toward specific occupations or professions. It is up to each participant to seek out specialists and organizational settings appropriate to their occupational interests.
+
+Three-hour sessions are held each day over a 5-day period at each of the selected overseas facilities where participants can meet with individual practitioners. These sessions are composed of a variety of activities including workshops, mini-lectures, roleplaying, skill development, and exercises. Professional conference directors schedule and conduct the sessions. Participants can choose those sessions they wish to attend.
+
+You can participate in this program because you are a member of the alumni association. You and your family take one of the trips. You spend about 2 hours at each of the planned sessions. The rest of the time you go touring and sightseeing with your family. The trip lasts less than 1 week.
+
+Your travel expenses for the trip aren’t deductible since the trip was primarily a vacation. However, registration fees and any other incidental expenses you have for the five planned sessions you attended that are directly related and beneficial to your business are deductible business expenses. These expenses should be specifically stated in your records to ensure proper allocation of your deductible business expenses.
+
+Luxury Water Travel
+
+If you travel by ocean liner, cruise ship, or other form of luxury water transportation for business purposes, there is a daily limit on the amount you can deduct. The limit is twice the highest federal per diem rate allowable at the time of your travel. (Generally, the federal per diem is the amount paid to federal government employees for daily living expenses when they travel away from home within the United States for business purposes.)
+
+Meals and entertainment.
+
+If your expenses for luxury water travel include separately stated amounts for meals or entertainment, those amounts are subject to the 50% limit on non-entertainment-related meals and entertainment before you apply the daily limit. For a discussion of the 50% limit , see chapter 2.
+
+Not separately stated.
+
+If your meal or entertainment charges aren’t separately stated or aren’t clearly identifiable, you don’t have to allocate any portion of the total charge to meals or entertainment.
+
+Exceptions
+
+The daily limit on luxury water travel doesn’t apply to expenses you have to attend a convention, seminar, or meeting on board a cruise ship. See Cruise Ships , later, under Conventions.
+
+Conventions
+
+You can deduct your travel expenses when you attend a convention if you can show that your attendance benefits your trade or business. You can’t deduct the travel expenses for your family.
+
+If the convention is for investment, political, social, or other purposes unrelated to your trade or business, you can’t deduct the expenses.
+
+Caution:
+
+Your appointment or election as a delegate doesn’t, in itself, determine whether you can deduct travel expenses. You can deduct your travel expenses only if your attendance is connected to your own trade or business.
+
+Convention agenda.
+
+The convention agenda or program generally shows the purpose of the convention. You can show your attendance at the convention benefits your trade or business by comparing the agenda with the official duties and responsibilities of your position. The agenda doesn’t have to deal specifically with your official duties and responsibilities; it will be enough if the agenda is so related to your position that it shows your attendance was for business purposes.
+
+Conventions Held Outside the North American Area
+
+You can’t deduct expenses for attending a convention, seminar, or similar meeting held outside the North American area unless:
+
+If the meeting meets these requirements, you must also satisfy the rules for deducting expenses for business trips in general, discussed earlier under Travel Outside the United States .
+
+North American area.
+
+The North American area includes the following locations.
+
+American Samoa | Jarvis Island
+Antigua and Barbuda | Johnston Island
+Aruba | Kingman Reef
+Bahamas | Marshall Islands
+Baker Island | Mexico
+Barbados | Micronesia
+Bermuda | Midway Islands
+Canada | Northern Mariana
+Costa Rica | Islands
+Curaçao | Palau
+Dominica | Palmyra Atoll
+Dominican Republic | Panama
+Grenada | Puerto Rico
+Guam | Saint Lucia
+Guyana | Trinidad and Tobago
+Honduras | USA
+Howland Island | U.S. Virgin Islands
+Jamaica | Wake Island
+
+The North American area also includes U.S. islands, cays, and reefs that are territories of the United States and not part of the 50 states or the District of Columbia. See Revenue Ruling 2016-16, available at IRS.gov/irb/2016-26_IRB#RR-2016-16 , for more information.
+
+Reasonableness test.
+
+The following factors are taken into account to determine if it was as reasonable to hold the meeting outside the North American area as within the North American area.
+
+-
+
+The purpose of the meeting and the activities taking place at the meeting.
+
+-
+
+The purposes and activities of the sponsoring organizations or groups.
+
+-
+
+The homes of the active members of the sponsoring organizations and the places at which other meetings of the sponsoring organizations or groups have been or will be held.
+
+-
+
+Other relevant factors you may present.
+
+Cruise Ships
+
+You can deduct up to $2,000 per year of your expenses of attending conventions, seminars, or similar meetings held on cruise ships. All ships that sail are considered cruise ships.
+
+You can deduct these expenses only if all of the following requirements are met.
+
+-
+
+The convention, seminar, or meeting is directly related to the active conduct of your trade or business.
+
+-
+
+The cruise ship is a vessel registered in the United States.
+
+-
+
+All of the cruise ship’s ports of call are in the United States or in territories of the United States.
+
+-
+
+You attach to your return a written statement signed by you that includes information about:
+
+-
+
+The total days of the trip (not including the days of transportation to and from the cruise ship port),
+
+-
+
+The number of hours each day that you devoted to scheduled business activities, and
+
+-
+
+A program of the scheduled business activities of the meeting.
+
+-
+
+You attach to your return a written statement signed by an officer of the organization or group sponsoring the meeting that includes:
+
+-
+
+A schedule of the business activities of each day of the meeting, and
+
+-
+
+The number of hours you attended the scheduled business activities.

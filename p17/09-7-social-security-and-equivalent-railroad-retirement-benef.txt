@@ -1,0 +1,503 @@
+IRS Pub 17 (2025) | 7. Social Security and Equivalent Railroad Retirement Benefits
+
+7. Social Security and Equivalent Railroad Retirement Benefits
+
+Reminders
+
+Lines 1a through 1z on Forms 1040 and 1040-SR. Line 1 was expanded and there are lines 1a through 1z. Some amounts that in prior years were reported on Form 1040, and some amounts reported on Form 1040-SR, are now reported on Schedule 1.
+
+-
+
+Scholarships and fellowship grants are now reported on Schedule 1, line 8r.
+
+-
+
+Pension or annuity from a nonqualified deferred compensation plan or a nongovernmental section 457 plan is now reported on Schedule 1, line 8t.
+
+-
+
+Wages earned while incarcerated are now reported on Schedule 1, line 8u.
+
+Form 1040 and 1040-SR have changed line 6. Line 6c includes a checkbox for Lump-Sum Election . See Lump-Sum Election in Pub. 915, Social Security and Equivalent Railroad Retirement Benefits, for details. If you are married filing separately and you lived apart from your spouse for all of 2025, check the box on line 6d.
+
+Introduction
+
+This chapter explains the federal income tax rules for social security benefits and equivalent tier 1 railroad retirement benefits. It explains the following topics.
+
+-
+
+How to figure whether your benefits are taxable.
+
+-
+
+How to report your taxable benefits.
+
+-
+
+How to use the Social Security Benefits Worksheet (with examples).
+
+-
+
+Deductions related to your benefits and how to treat repayments that are more than the benefits you received during the year.
+
+Social security benefits include monthly retirement, survivor, and disability benefits. They don’t include Supplemental Security Income (SSI) payments, which aren’t taxable.
+
+Equivalent tier 1 railroad retirement benefits are the part of tier 1 benefits that a railroad employee or beneficiary would have been entitled to receive under the social security system. They are commonly called the social security equivalent benefit (SSEB) portion of tier 1 benefits.
+
+If you received these benefits during 2025, you should have received a Form SSA-1099, Social Security Benefit Statement; or Form RRB-1099, Payments by the Railroad Retirement Board. These forms show the amounts received and repaid, and taxes withheld for the year. You may receive more than one of these forms for the same year. You should add the amounts shown on all the Forms SSA-1099 and Forms RRB-1099 you receive for the year to determine the total amounts received and repaid, and taxes withheld for that year. See the Appendix at the end of Pub. 915 for more information.
+
+Note:
+
+When the term “benefits” is used in this chapter, it applies to both social security benefits and the SSEB portion of tier 1 railroad retirement benefits.
+
+my Social Security account.
+
+Social security beneficiaries may quickly and easily obtain information from the SSA’s website with a my Social Security account to:
+
+-
+
+Keep track of your earnings and verify them every year,
+
+-
+
+Get an estimate of your future benefits if you are still working,
+
+-
+
+Get a letter with proof of your benefits if you currently receive them,
+
+-
+
+Change your address,
+
+-
+
+Start or change your direct deposit,
+
+-
+
+Get a replacement Medicare card, and
+
+-
+
+Get a replacement Form SSA-1099 for the tax season.
+
+For more information and to set up an account, go to SSA.gov/myaccount .
+
+What isn’t covered in this chapter.
+
+This chapter doesn’t cover the tax rules for the following railroad retirement benefits.
+
+-
+
+Non-social security equivalent benefit (NSSEB) portion of tier 1 benefits.
+
+-
+
+Tier 2 benefits.
+
+-
+
+Vested dual benefits.
+
+-
+
+Supplemental annuity benefits.
+
+For information on these benefits, see Pub. 575, Pension and Annuity Income.
+
+This chapter doesn’t cover the tax rules for social security benefits reported on Form SSA-1042S, Social Security Benefit Statement; or Form RRB-1042S, Statement for Nonresident Alien Recipients of Payments by the Railroad Retirement Board. For information about these benefits, see Pub. 519, U.S. Tax Guide for Aliens; and Pub. 915.
+
+This chapter also doesn’t cover the tax rules for foreign social security benefits. These benefits are taxable as annuities, unless they are exempt from U.S. tax or treated as a U.S. social security benefit under a tax treaty.
+
+Useful Items
+
+You may want to see:
+
+Publication
+
+-
+
+501 Dependents, Standard Deduction, and Filing Information
+
+-
+
+505 Tax Withholding and Estimated Tax
+
+-
+
+519 U.S. Tax Guide for Aliens
+
+-
+
+575 Pension and Annuity Income
+
+-
+
+590-A Contributions to Individual Retirement Arrangements (IRAs)
+
+-
+
+915 Social Security and Equivalent Railroad Retirement Benefits
+
+Form (and Instructions)
+
+-
+
+1040-ES Estimated Tax for Individuals
+
+-
+
+SSA-1099 Social Security Benefit Statement
+
+-
+
+RRB-1099 Payments by the Railroad Retirement Board
+
+-
+
+W-4V Voluntary Withholding Request
+
+For these and other useful items, go to IRS.gov/Forms .
+
+Are Any of Your Benefits Taxable?
+
+To find out whether any of your benefits may be taxable, compare the base amount (explained later) for your filing status with the total of:
+
+-
+
+One-half of your benefits; plus
+
+-
+
+All your other income, including tax-exempt interest.
+
+Exclusions.
+
+When making this comparison, don’t reduce your other income by any exclusions for:
+
+-
+
+Interest from qualified U.S. savings bonds,
+
+-
+
+Employer-provided adoption benefits,
+
+-
+
+Interest on education loans,
+
+-
+
+Foreign earned income or foreign housing, or
+
+-
+
+Income earned by bona fide residents of American Samoa or Puerto Rico.
+
+Children’s benefits.
+
+The rules in this chapter apply to benefits received by children. See Who is taxed , later.
+
+Figuring total income.
+
+To figure the total of one-half of your benefits plus your other income, use Worksheet 7-1 , discussed later. If the total is more than your base amount, part of your benefits may be taxable.
+
+If you are married and file a joint return for 2025, you and your spouse must combine your incomes and your benefits to figure whether any of your combined benefits are taxable. Even if your spouse didn’t receive any benefits, you must add your spouse’s income to yours to figure whether any of your benefits are taxable.
+
+. If the only income you received during 2025 was your social security or the SSEB portion of tier 1 railroad retirement benefits, your benefits generally aren’t taxable and you probably don’t have to file a return. If you have income in addition to your benefits, you may have to file a return even if none of your benefits are taxable. See Do I Have To File a Return? in chapter 1, earlier; Pub. 501; or your tax return instructions to find out if you have to file a return. .
+
+Base amount.
+
+Your base amount is:
+
+-
+
+$25,000 if you are single, head of household, or qualifying surviving spouse;
+
+-
+
+$25,000 if you are married filing separately and lived apart from your spouse for all of 2025;
+
+-
+
+$32,000 if you are married filing jointly; or
+
+-
+
+$0 if you are married filing separately and lived with your spouse at any time during 2025.
+
+Worksheet 7-1.
+
+You can use Worksheet 7-1 to figure the amount of income to compare with your base amount. This is a quick way to check whether some of your benefits may be taxable.
+
+Worksheet 7-1. A Quick Way To Check if Your Benefits May Be Taxable
+Note: If you plan to file a joint income tax return, include your spouse's amounts, if any, on lines A, C, and D.
+A. | Enter the total amount from box 5 of all your Forms SSA-1099 and RRB-1099 . Include the full amount of any lump-sum benefit payments received in 2025, for 2025 and earlier years. (If you received more than one form, combine the amounts from box 5 and enter the total.) | A.
+Note: If the amount on line A is zero or less, stop here; none of your benefits are taxable this year.
+B. | Multiply line A by 50% (0.50) | B.
+C. | Enter your total income that is taxable (excluding line A), such as pensions, wages, interest, ordinary dividends, and capital gain distributions. Don’t reduce your income by any deductions, exclusions (listed earlier), or exemptions | C.
+D. | Enter any tax-exempt interest income, such as interest on municipal bonds | D.
+E. | Add lines B, C, and D | E.
+Note: Compare the amount on line E to your base amount for your filing status. If the amount on line E equals or is less than the base amount for your filing status, none of your benefits are taxable this year. If the amount on line E is more than your base amount , some of your benefits may be taxable and you will need to complete Worksheet 1 in Pub. 915 (or the Social Security Benefits Worksheet in your tax form instructions). If none of your benefits are taxable, but you must otherwise file a tax return, see Benefits not taxable , later, under How To Report Your Benefits .
+
+Example.
+
+You are over 65 and are filing a single return for 2025 and you received social security benefits during the year. In January 2026, you received a Form SSA-1099 showing net benefits of $1,500 in box 5. You also received a taxable pension of $17,000 and interest income of $700. You didn’t have any tax-exempt interest income. Your benefits aren’t taxable for 2025 because your income, as figured in Worksheet 7-1, isn’t more than your base amount ($25,000) for single.
+
+Even though none of your benefits are taxable, you must file a return for 2025 because your taxable gross income ($18,450) exceeds the minimum filing requirement amount for your filing status.
+
+Filled-in Worksheet 7-1. A Quick Way To Check if Your Benefits May Be Taxable
+Note: If you plan to file a joint income tax return, include your spouse's amounts, if any, on lines A, C, and D.
+A. | Enter the total amount from box 5 of all your Forms SSA-1099 and RRB-1099 . Include the full amount of any lump-sum benefit payments received in 2025, for 2025 and earlier years. (If you received more than one form, combine the amounts from box 5 and enter the total.) | A. | $1,500
+Note: If the amount on line A is zero or less, stop here; none of your benefits are taxable this year.
+B. | Multiply line A by 50% (0.50) | B. | 750
+C. | Enter your total income that is taxable (excluding line A), such as pensions, wages, interest, ordinary dividends, and capital gain distributions. Don’t reduce your income by any deductions, exclusions (listed earlier), or exemptions | C. | 17,700
+D. | Enter any tax-exempt interest income, such as interest on municipal bonds | D. | -0-
+E. | Add lines B, C, and D | E. | $18,450
+Note: Compare the amount on line E to your base amount for your filing status. If the amount on line E equals or is less than the base amount for your filing status, none of your benefits are taxable this year. If the amount on line E is more than your base amount , some of your benefits may be taxable and you will need to complete Worksheet 1 in Pub. 915 (or the Social Security Benefits Worksheet in your tax form instructions). If none of your benefits are taxable, but you otherwise must file a tax return, see Benefits not taxable , later, under How To Report Your Benefits .
+
+Who is taxed.
+
+Benefits are included in the taxable income (to the extent they are taxable) of the person who has the legal right to receive the benefits. For example, if you and your child receive benefits, but the check for your child is made out in your name, you must use only your part of the benefits to see whether any benefits are taxable to you. One-half of the part that belongs to your child must be added to your child’s other income to see whether any of those benefits are taxable to your child.
+
+Repayment of benefits.
+
+Any repayment of benefits you made during 2025 must be subtracted from the gross benefits you received in 2025. It doesn’t matter whether the repayment was for a benefit you received in 2025 or in an earlier year. If you repaid more than the gross benefits you received in 2025, see Repayments More Than Gross Benefits , later.
+
+Your gross benefits are shown in box 3 of Form SSA-1099 or RRB-1099. Your repayments are shown in box 4. The amount in box 5 shows your net benefits for 2025 (box 3 minus box 4). Use the amount in box 5 to figure whether any of your benefits are taxable.
+
+Tax withholding and estimated tax.
+
+You can choose to have federal income tax withheld from your social security benefits and/or the SSEB portion of your tier 1 railroad retirement benefits. If you choose to do this, you must complete a Form W-4V.
+
+If you don’t choose to have income tax withheld, you may have to request additional withholding from other income or pay estimated tax during the year. For details, see chapter 4 , earlier; Pub. 505; or the Instructions for Form 1040-ES.
+
+How To Report Your Benefits
+
+If part of your benefits are taxable, you must use Form 1040 or 1040-SR.
+
+Reporting on Form 1040 or 1040-SR.
+
+Report your net benefits (the total amount from box 5 of all your Forms SSA-1099 and RRB-1099) on line 6a and the taxable part on line 6b. If you are married filing separately and you lived apart from your spouse for all of 2025, check the box on line 6d.
+
+Benefits not taxable.
+
+Report your net benefits (the total amount from box 5 of all your Forms SSA-1099 and RRB-1099) on Form 1040 or 1040-SR, line 6a. Enter -0- on Form 1040 or 1040-SR, line 6b. If you are married filing separately and lived apart from your spouse the entire year, check the box on line 6d of Form 1040 or 1040-SR and see Instructions for Form 1040.
+
+How Much Is Taxable?
+
+If part of your benefits are taxable, how much is taxable depends on the total amount of your benefits and other income. Generally, the higher that total amount, the greater the taxable part of your benefits.
+
+Maximum taxable part.
+
+Generally, up to 50% of your benefits will be taxable. However, up to 85% of your benefits can be taxable if either of the following situations applies to you.
+
+-
+
+The total of one-half of your benefits and all your other income is more than $34,000 ($44,000 if you are married filing jointly).
+
+-
+
+You are married filing separately and lived with your spouse at any time during 2025.
+
+Which worksheet to use.
+
+A worksheet you can use to figure your taxable benefits is in the Instructions for Form 1040. You can use either that worksheet or Worksheet 1 in Pub. 915, unless any of the following situations applies to you.
+
+-
+
+You contributed to a traditional individual retirement arrangement (IRA) and you or your spouse is covered by a retirement plan at work. In this situation, you must use the special worksheets in Appendix B of Pub. 590-A to figure both your IRA deduction and your taxable benefits.
+
+-
+
+Situation 1 doesn’t apply and you take an exclusion for interest from qualified U.S. savings bonds (Form 8815), for adoption benefits (Form 8839), for foreign earned income or housing (Form 2555), or for income earned in American Samoa (Form 4563) or Puerto Rico by bona fide residents. In this situation, you must use Worksheet 1 in Pub. 915 to figure your taxable benefits.
+
+-
+
+You received a lump-sum payment for an earlier year. In this situation, also complete Worksheet 2 or 3 and Worksheet 4 in Pub. 915. See Lump-sum election next.
+
+Lump-sum election.
+
+You must include the taxable part of a lump-sum (retroactive) payment of benefits received in 2025 in your 2025 income, even if the payment includes benefits for an earlier year.
+
+. Check the box on Form 1040, or Form 1040-SR, line 6c, if you elect to use the lump-sum election method for your benefits. If any of your benefits are taxable for 2025 and they include a lump-sum benefit payment that was for an earlier year, you may be able to reduce the taxable amount with the lump-sum election. See Lump-Sum Election in Pub. 915 for details. .
+
+. This type of lump-sum benefit payment shouldn’t be confused with the lump-sum death benefit that both the SSA and RRB pay to many of their beneficiaries. No part of the lump-sum death benefit is subject to tax. .
+
+Generally, you use your 2025 income to figure the taxable part of the total benefits received in 2025. However, you may be able to figure the taxable part of a lump-sum payment for an earlier year separately, using your income for the earlier year. You can elect this method if it lowers your taxable benefits.
+
+Making the election.
+
+If you received a lump-sum benefit payment in 2025 that includes benefits for one or more earlier years, follow the instructions in Pub. 915 under Lump-Sum Election to see whether making the election will lower your taxable benefits. That discussion also explains how to make the election.
+
+. Because the earlier year’s taxable benefits are included in your 2025 income, no adjustment is made to the earlier year's return. Don’t file an amended return for the earlier year. .
+
+Examples
+
+The following are a few examples you can use as a guide to figure the taxable part of your benefits.
+
+Example 1.
+
+You are single and file Form 1040 for 2025. You received the following income in 2025.
+
+Fully taxable pension | $18,600
+Wages from part-time job | 9,400
+Taxable interest income | 990
+Total | $28,990
+
+You also received social security benefits during 2025. The Form SSA-1099 you received in January 2026 shows $5,980 in box 5. To figure your taxable benefits, you complete the worksheet shown here.
+
+Filled-in Worksheet 1. Figuring Your Taxable Benefits
+
+1. | Enter the total amount from box 5 of all your Forms SSA-1099 and RRB-1099 . Also enter this amount on Form 1040 or 1040-SR, line 6a | $5,980
+2. | Multiply line 1 by 50% (0.50) | 2,990
+3. | Combine the amounts from Form 1040 or 1040-SR, lines 1z, 2b, 3b, 4b, 5b, 7a, and 8 | 28,990
+4. | Enter the amount, if any, from Form 1040 or 1040-SR, line 2a | -0-
+5. | Enter the total of any exclusions/adjustments for: Adoption benefits (Form 8839, line 30), Foreign earned income or housing (Form 2555, lines 45 and 50), and Certain income of bona fide residents of American Samoa (Form 4563, line 15) or Puerto Rico | -0-
+6. | Combine lines 2, 3, 4, and 5 above | 31,980
+7. | Enter the total of the amounts from Schedule 1 (Form 1040), lines 11 through 20, and 23 and 25 | -0-
+8. | Is the amount on line 7 less than the amount on line 6?
+No. Stop None of your social security benefits are taxable. Enter -0- on Form 1040 or 1040-SR, line 6b.
+Yes. Subtract line 7 from line 6 | 31,980
+9. | If you are: Married filing jointly, enter $32,000; or Single, head of household, qualifying surviving spouse, or married filing separately and you lived apart from your spouse for all of 2025, enter $25,000 | 25,000
+Note: If you are married filing separately and you lived with your spouse at any time in 2025, skip lines 9 through 16, multiply line 8 by 85% (0.85), and enter the result on line 17. Then, go to line 18.
+10. | Is the amount on line 9 less than the amount on line 8?
+No. Stop None of your benefits are taxable. Enter -0- on Form 1040 or 1040-SR, line 6b. If you are married filing separately and you lived apart from your spouse for all of 2025, check the box on Form 1040 or 1040-SR, line 6d.
+Yes. Subtract line 9 from line 8 | 6,980
+11. | Enter $12,000 if married filing jointly; or $9,000 if single, head of household, qualifying surviving spouse, or married filing separately and you lived apart from your spouse for all of 2025 | 9,000
+12. | Subtract line 11 from line 10. If zero or less, enter -0- | -0-
+13. | Enter the smaller of line 10 or line 11 | 6,980
+14. | Multiply line 13 by 50% (0.50) | 3,490
+15. | Enter the smaller of line 2 or line 14 | 2,990
+16. | Multiply line 12 by 85% (0.85). If line 12 is zero, enter -0- | -0-
+17. | Add lines 15 and 16 | 2,990
+18. | Multiply line 1 by 85% (0.85) | 5,083
+19. | Taxable benefits. Enter the smaller of line 17 or line 18. Also enter this amount on Form 1040 or 1040-SR, line 6b | $2,990
+
+The amount on line 19 of your worksheet shows that $2,990 of your social security benefits are taxable. On line 6a of your Form 1040, you enter your net benefits of $5,980. On line 6b, you enter your taxable benefits of $2,990.
+
+Example 2.
+
+Casey and Pat Hopkins file a joint return on Form 1040 for 2025. Casey is retired and received a fully taxable pension of $15,500. Casey also received social security benefits, and Casey’s Form SSA-1099 for 2025 shows net benefits of $5,600 in box 5. Pat worked during the year and had wages of $14,000. Pat made a deductible payment to Pat’s IRA account of $1,000 and isn’t covered by a retirement plan at work. Casey and Pat have two savings accounts with a total of $250 in taxable interest income. They complete Worksheet 1, shown below, entering $29,750 ($15,500 + $14,000 + $250) on line 3. They find none of Casey’s social security benefits are taxable. On Form 1040, they enter $5,600 on line 6a and -0- on line 6b.
+
+Filled-in Worksheet 1. Figuring Your Taxable Benefits
+
+1. | Enter the total amount from box 5 of all your Forms SSA-1099 and RRB-1099 . Also enter this amount on Form 1040 or 1040-SR, line 6a | $5,600
+2. | Multiply line 1 by 50% (0.50) |  | 2,800
+3. | Combine the amounts from Form 1040 or 1040-SR, lines 1z, 2b, 3b, 4b, 5b, 7a, and 8 |  | 29,750
+4. | Enter the amount, if any, from Form 1040 or 1040-SR, line 2a |  | -0-
+5. | Enter the total of any exclusions/adjustments for: Adoption benefits (Form 8839, line 30), Foreign earned income or housing (Form 2555, lines 45 and 50), and Certain income of bona fide residents of American Samoa (Form 4563, line 15) or Puerto Rico | -0-
+6. | Combine lines 2, 3, 4, and 5 above |  | 32,550
+7. | Enter the total of the amounts from Schedule 1 (Form 1040), lines 11 through 20, and 23 and 25 |  | 1,000
+8. | Is the amount on line 7 less than the amount on line 6?
+No. Stop None of your social security benefits are taxable. Enter -0- on Form 1040 or 1040-SR, line 6b.
+Yes. Subtract line 7 from line 6 |  | 31,550
+9. | If you are: Married filing jointly, enter $32,000; or Single, head of household, qualifying surviving spouse, or married filing separately and you lived apart from your spouse for all of 2025, enter $25,000 | 32,000
+Note: If you are married filing separately and you lived with your spouse at any time in 2025, skip lines 9 through 16, multiply line 8 by 85% (0.85), and enter the result on line 17. Then, go to line 18.
+10. | Is the amount on line 9 less than the amount on line 8?
+No. Stop None of your benefits are taxable. Enter -0- on Form 1040 or 1040-SR, line 6b. If you are married filing separately and you lived apart from your spouse for all of 2025, check the box on Form 1040 or 1040-SR, line 6d.
+Yes. Subtract line 9 from line 8
+11. | Enter $12,000 if married filing jointly; or $9,000 if single, head of household, qualifying surviving spouse, or married filing separately and you lived apart from your spouse for all of 2025
+12. | Subtract line 11 from line 10. If zero or less, enter -0-
+13. | Enter the smaller of line 10 or line 11
+14. | Multiply line 13 by 50% (0.50)
+15. | Enter the smaller of line 2 or line 14
+16. | Multiply line 12 by 85% (0.85). If line 12 is zero, enter -0-
+17. | Add lines 15 and 16
+18. | Multiply line 1 by 85% (0.85)
+19. | Taxable benefits. Enter the smaller of line 17 or line 18. Also enter this amount on Form 1040 or 1040-SR, line 6b
+
+Example 3.
+
+Jamie and Jessie Johnson file a joint return on Form 1040 for 2025. Jamie is a retired railroad worker and in 2025 received the SSEB portion of tier 1 railroad retirement benefits. Jamie’s Form RRB-1099 shows $10,000 in box 5. Jessie is a retired government worker and received a fully taxable pension of $38,000. They had $2,300 in taxable interest income plus interest of $200 on a qualified U.S. savings bond. The savings bond interest qualified for the exclusion. They figure their taxable benefits by completing Worksheet 1, shown below. Because they have qualified U.S. savings bond interest, they follow the note at the beginning of the worksheet and use the amount from line 2 of their Schedule B (Form 1040) on line 3 of the worksheet instead of the amount from line 2b of their Form 1040. On line 3 of the worksheet, they enter $40,500 ($38,000 + $2,500).
+
+Filled-in Worksheet 1. Figuring Your Taxable Benefits
+
+Before you begin:
+• | If you are married filing separately and you lived apart from your spouse for all of 2025, check the box on Form 1040 or 1040-SR, line 6d.
+• | Don’t use this worksheet if you repaid benefits in 2025 and your total repayments (box 4 of Forms SSA-1099 and RRB-1099) were more than your gross benefits for 2025 (box 3 of Forms SSA-1099 and RRB-1099). None of your benefits are taxable for 2025. For more information, see Repayments More Than Gross Benefits , later.
+• | If you are filing Form 8815, Exclusion of Interest From Series EE and I U.S. Savings Bonds Issued After 1989, don’t include the amount from line 2b of Form 1040 or 1040-SR on line 3 of this worksheet. Instead, include the amount from Schedule B (Form 1040), line 2.
+1. | Enter the total amount from box 5 of all your Forms SSA-1099 and RRB-1099 . Also enter this amount on Form 1040 or 1040-SR, line 6a | $10,000
+2. | Multiply line 1 by 50% (0.50) | 5,000
+3. | Combine the amounts from Form 1040 or 1040-SR, lines 1z, 2b, 3b, 4b, 5b, 7a, and 8 | 40,500
+4. | Enter the amount, if any, from Form 1040 or 1040-SR, line 2a | -0-
+5. | Enter the total of any exclusions/adjustments for: Adoption benefits (Form 8839, line 30), Foreign earned income or housing (Form 2555, lines 45 and 50), and Certain income of bona fide residents of American Samoa (Form 4563, line 15) or Puerto Rico | -0-
+6. | Combine lines 2, 3, 4, and 5 above | 45,500
+7. | Enter the total of the amounts from Schedule 1 (Form 1040), lines 11 through 20, and 23 and 25 | -0-
+8. | Is the amount on line 7 less than the amount on line 6?
+No. Stop None of your social security benefits are taxable. Enter -0- on Form 1040 or 1040-SR, line 6b.
+Yes. Subtract line 7 from line 6 | 45,500
+9. | If you are: Married filing jointly, enter $32,000; or Single, head of household, qualifying surviving spouse, or married filing separately and you lived apart from your spouse for all of 2025, enter $25,000 | 32,000
+Note: If you are married filing separately and you lived with your spouse at any time in 2025, skip lines 9 through 16, multiply line 8 by 85% (0.85), and enter the result on line 17. Then, go to line 18.
+10. | Is the amount on line 9 less than the amount on line 8?
+No. Stop None of your benefits are taxable. Enter -0- on Form 1040 or 1040-SR, line 6b. If you are married filing separately and you lived apart from your spouse for all of 2025, check the box on Form 1040 or 1040-SR, line 6d.
+Yes. Subtract line 9 from line 8 | 13,500
+11. | Enter $12,000 if married filing jointly; or $9,000 if single, head of household, qualifying surviving spouse, or married filing separately and you lived apart from your spouse for all of 2025 | 12,000
+12. | Subtract line 11 from line 10. If zero or less, enter -0- | 1,500
+13. | Enter the smaller of line 10 or line 11 | 12,000
+14. | Multiply line 13 by 50% (0.50) | 6,000
+15. | Enter the smaller of line 2 or line 14 | 5,000
+16. | Multiply line 12 by 85% (0.85). If line 12 is zero, enter -0- | 1,275
+17. | Add lines 15 and 16 | 6,275
+18. | Multiply line 1 by 85% (0.85) | 8,500
+19. | Taxable benefits. Enter the smaller of line 17 or line 18. Also enter this amount on Form 1040 or 1040-SR, line 6b | $6,275
+
+More than 50% of Jamie’s net benefits are taxable because the income on line 8 of the worksheet ($45,500) is more than $44,000. (See Maximum taxable part under How Much Is Taxable , earlier.) Jamie and Jessie enter $10,000 on Form 1040, line 6a; and $6,275 on Form 1040, line 6b.
+
+Deductions Related to Your Benefits
+
+You may be entitled to deduct certain amounts related to the benefits you receive.
+
+Disability payments.
+
+You may have received disability payments from your employer or an insurance company that you included as income on your tax return in an earlier year. If you received a lump-sum payment from the SSA or RRB, and you had to repay the employer or insurance company for the disability payments, you can take an itemized deduction for the part of the payments you included in gross income in the earlier year. If the amount you repay is more than $3,000, you may be able to claim a tax credit instead. Claim the deduction or credit in the same way explained under Repayment of benefits received in an earlier year under Repayments More Than Gross Benefits next.
+
+Repayments More Than Gross Benefits
+
+In some situations, your Form SSA-1099 or RRB-1099 will show that the total benefits you repaid (box 4) are more than the gross benefits (box 3) you received. If this occurred, your net benefits in box 5 will be a negative figure (a figure in parentheses) and none of your benefits will be taxable. Don’t use a worksheet in this case. If you receive more than one form, a negative figure in box 5 of one form is used to offset a positive figure in box 5 of another form for that same year.
+
+If you have any questions about this negative figure, contact your local SSA office or your local RRB field office .
+
+Joint return.
+
+If you and your spouse file a joint return, and your Form SSA-1099 or RRB-1099 has a negative figure in box 5, but your spouse’s doesn’t, subtract the amount in box 5 of your form from the amount in box 5 of your spouse’s form. You do this to get your net benefits when figuring if your combined benefits are taxable.
+
+Example.
+
+Ryan and Jordan file a joint return for 2025. Ryan received Form SSA-1099 showing $3,000 in box 5. Jordan also received Form SSA-1099 and the amount in box 5 was ($500). Ryan and Jordan will use $2,500 ($3,000 minus $500) as the amount of their net benefits when figuring if any of their combined benefits are taxable.
+
+Repayment of benefits received in an earlier year.
+
+If the total amount shown in box 5 of all of your Forms SSA-1099 and RRB-1099 is a negative figure, you may be able to deduct part of this negative figure that represents benefits you included in gross income in an earlier year if the figure is more than $3,000. If the figure is $3,000 or less, it is a miscellaneous itemized deduction and can no longer be deducted.
+
+Deduction exceeds $3,000.
+
+If this deduction is more than $3,000, you should figure your tax two ways.
+
+-
+
+Figure your tax for 2025 with the itemized deduction included on Schedule A (Form 1040), line 16.
+
+-
+
+Figure your tax for 2025 in the following steps.
+
+-
+
+Figure the tax without the itemized deduction included on Schedule A (Form 1040), line 16.
+
+-
+
+For each year after 1983 for which part of the negative figure represents a repayment of benefits, refigure your taxable benefits as if your total benefits for the year were reduced by that part of the negative figure. Then refigure the tax for that year.
+
+-
+
+Subtract the total of the refigured tax amounts in (b) from the total of your actual tax amounts.
+
+-
+
+Subtract the result in (c) from the result in (a).
+
+Compare the tax figured in methods 1 and 2. Your tax for 2025 is the smaller of the two amounts. If method 1 results in less tax, take the itemized deduction on Schedule A (Form 1040), line 16. If method 2 results in less tax, claim a credit for the amount from step 2c above on Schedule 3 (Form 1040), line 13z. Enter “I.R.C. 1341” on the entry line. If both methods produce the same tax, deduct the repayment on Schedule A (Form 1040), line 16.

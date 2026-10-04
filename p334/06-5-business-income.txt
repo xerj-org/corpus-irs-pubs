@@ -1,0 +1,647 @@
+IRS Pub 334 (2025) | 5. Business Income
+
+5. Business Income
+
+Introduction
+
+This chapter primarily explains business income, how to account for it on your tax return, and what items are not considered income, and provides guidelines for selected occupations.
+
+If there is a connection between any income you receive and your business, the income is business income. A connection exists if it is clear that the payment of income would not have been made if you did not have the business.
+
+You can have business income even if you are not involved in the activity on a regular full-time basis. Income from work you do on the side in addition to your regular job can be business income. For example, you may be in the business of providing services for a ride-sharing business as a second job.
+
+You report most business income, such as income from selling your products or services, on Schedule C (Form 1040). But you report the income from the sale of business assets, such as land and office buildings, on other forms instead of Schedule C (Form 1040). For information on selling business assets, see chapter 3 .
+
+Nonemployee compensation.
+
+Business income includes amounts you received in your business that were properly shown on Forms 1099-NEC. This includes amounts reported as nonemployee compensation in box 1 of the form. You can find more information in the instructions on the back of the Form 1099-NEC you received.
+
+Name, Image, Likeness (NIL).
+
+NIL opportunities can be classified as self-employment income. If your NIL income is greater than $600 from any source, including non-cash income, you should receive Form 1099-NEC or Form 1099-MISC from that source showing the amount of income you must report on your tax return.
+
+Payment card and third-party network transactions.
+
+If you are in a business, you may receive a Form 1099-K representing the total dollar amount of total reportable payment transactions. This may not be the amount you should report as income, as it may not include all the receipts and it may include items that are not included in your receipts (such as sales tax).
+
+Business income deduction.
+
+Income you report on Schedule C (Form 1040) may be qualified business income and entitle you to a deduction on Form 1040 or 1040-SR, line 13a. See Form 8995-A or Form 8995 to figure your deduction, if any.
+
+Kinds of Income
+
+You must report on your tax return all income you receive from your business, including income not reported to you on a Form 1099 filed by the payor, unless it is excluded by law. In most cases, your business income will be in the form of cash, checks, and credit card charges. But business income can be in other forms, such as property or services. These and other types of income are explained next.
+
+. If you are a U.S. citizen who has business income from sources outside the United States (foreign income), you must report that income on your tax return unless it is exempt from tax under U.S. law. If you live outside the United States, you may be able to exclude part or all of your foreign-source business income. For details, see Pub. 54, Tax Guide for U.S. Citizens and Resident Aliens Abroad. .
+
+Bartering for Property or Services
+
+Bartering is an exchange of property or services. You must include in your gross receipts, at the time received, the fair market value of property or services you receive in exchange for something else. If you exchange services with another person and you both have agreed ahead of time on the value of the services, that value will be accepted as the fair market value unless the value can be shown to be otherwise.
+
+Example 1.
+
+You are a self-employed lawyer. You perform legal services for a client, a small corporation. In payment for your services, you receive shares of stock in the corporation. You must include the fair market value of the shares in income.
+
+Example 2.
+
+You are an artist and create a work of art to compensate your landlord for the rent-free use of your apartment. You must include the fair rental value of the apartment in your gross receipts. Your landlord must include the fair market value of the work of art as rental income.
+
+Example 3.
+
+You are a self-employed accountant. Both you and a house painter are members of a barter club, an organization that each year gives its members a directory of members and the services each member provides. Members get in touch with other members directly and bargain for the value of the services to be performed.
+
+In return for accounting services you provided for the house painter’s business, the house painter painted your home. You must include in gross receipts the fair market value of the services you received from the house painter. The house painter’s business must include the fair market value of your accounting services in its gross receipts.
+
+Example 4.
+
+You are a member of a barter club that uses credit units to credit or debit members’ accounts for goods or services provided or received. As soon as units are credited to your account, you can use them to buy goods or services or sell or transfer the units to other members.
+
+You must include the value of credit units you received in your gross receipts for the tax year in which the units are credited to your account.
+
+The dollar value of units received for services by an employee of the club, who can use the units in the same manner as other members, must be included in the employee’s gross income for the tax year in which received. It is wages subject to social security and Medicare taxes (FICA), FUTA taxes, and income tax withholding. See Pub. 15.
+
+Example 5.
+
+You operate a plumbing business and use the cash method of accounting. You join a barter club and agree to provide plumbing services to any member for a specified number of hours. Each member has access to a directory that lists the members of the club and the services available.
+
+Members contact each other directly and request services to be performed. You are not required to provide services unless requested by another member, but you can use as many of the offered services as you wish without paying a fee.
+
+You must include the fair market value of any services you receive from club members in your gross receipts when you receive them even if you have not provided any services to club members.
+
+Information returns.
+
+If you are involved in a bartering transaction, you may have to file either of the following forms.
+
+-
+
+Form 1099-B, Proceeds From Broker and Barter Exchange Transactions.
+
+-
+
+Form 1099-MISC.
+
+For information about these forms, see the General Instructions for Certain Information Returns.
+
+Real Estate Rents
+
+If you are a real estate dealer who receives income from renting real property or an owner of a hotel, motel, etc., who provides services (maid services, etc.) for guests, report the rental income and expenses on Schedule C (Form 1040). If you are not a real estate dealer or the kind of owner described in the preceding sentence, report the rental income and expenses on Schedule E (Form 1040). For more information, see Pub. 527, Residential Rental Property.
+
+Real estate dealer.
+
+You are a real estate dealer if you are engaged in the business of selling real estate to customers with the purpose of making a profit from those sales. Rent you receive from real estate held for sale to customers is subject to SE tax. However, rent you receive from real estate held for speculation or investment is not subject to SE tax.
+
+Trailer park owner.
+
+Rental income from a trailer park is subject to SE tax if you are a self-employed trailer park owner who provides trailer lots and facilities and substantial services for the convenience of your tenants.
+
+You are generally considered to provide substantial services for tenants if they are primarily for the tenants’ convenience and are not normally provided to maintain the lots in a condition for occupancy. Services are substantial if the compensation for the services makes up a material part of the tenants’ rental payments.
+
+Examples of services that are not normally provided for the tenants’ convenience include supervising and maintaining a recreational hall provided by the park, distributing a monthly newsletter to tenants, operating a laundry facility, and helping tenants buy or sell their trailers.
+
+Examples of services that are normally provided to maintain the lots in a condition for tenant occupancy include city sewerage, electrical connections, and roadways.
+
+Hotels, boarding houses, and apartments.
+
+Rental income you receive for the use or occupancy of hotels, boarding houses, or apartment houses is subject to SE tax if you provide services for the occupants.
+
+Generally, you are considered to provide services for the occupants if the services are primarily for their convenience and are not services normally provided with the rental of rooms for occupancy only. An example of a service that is not normally provided for the convenience of the occupants is maid service. However, providing heat and light, cleaning stairways and lobbies, and collecting trash are services normally provided for the occupants’ convenience.
+
+Prepaid rent.
+
+Advance payments received under a lease that does not put any restriction on their use or enjoyment are income in the year you receive them. This is generally true no matter what accounting method or period you use.
+
+Lease bonus.
+
+A bonus you receive from a lessee for granting a lease is an addition to the rent. Include it in your gross receipts in the year received.
+
+Lease cancellation payments.
+
+Report payments you receive from your lessee for canceling a lease in your gross receipts in the year received.
+
+Payments to third parties.
+
+If your lessee makes payments to someone else under an agreement to pay your debts or obligations, include those payments in your gross receipts when the lessee makes the payments. A common example of this kind of income is a lessee’s payment of your property taxes on leased real property.
+
+Settlement payments.
+
+Payments you receive in settlement of a lessee’s obligation to restore the leased property to its original condition are income in the amount that the payments exceed the adjusted basis of the leasehold improvements destroyed, damaged, removed, or disconnected by the lessee.
+
+Personal Property Rents
+
+If you are in the business of renting personal property (equipment, vehicles, formal wear, etc.), include the rental amount you receive in your gross receipts on Schedule C (Form 1040). Prepaid rent and other payments described under Real Estate Rents , earlier, can also be received for renting personal property. If you receive any of those payments, include them in your gross receipts as explained in that discussion.
+
+Interest and Dividend Income
+
+Interest and dividends may be considered business income.
+
+Interest.
+
+Interest received on notes receivable that you have accepted in the ordinary course of business is business income. Interest received on loans is business income if you are in the business of lending money.
+
+Uncollectible loans.
+
+If a loan payable to you becomes uncollectible during the tax year and you use an accrual method of accounting, you must generally include in gross income qualified stated interest accrued up to the time the loan became uncollectible. If the accrued interest that you previously included later becomes uncollectible, you may be able to take a bad debt deduction. See Bad Debts in chapter 8.
+
+Unstated interest and original issue discount (OID).
+
+If little or no interest is charged on an installment sale contract, you may have to treat a part of each payment as unstated interest. See Unstated Interest and Original Issue Discount (OID) in Pub. 537.
+
+Dividends.
+
+Generally, dividends are business income to dealers in securities. For most sole proprietors and statutory employees, however, dividends are nonbusiness income. If you hold stock as a personal investment separately from your business activity, the dividends from the stock are nonbusiness income.
+
+If you receive dividends from business insurance premiums you deducted in an earlier year, you must report all or part of the dividend as business income on your return. To find out how much you have to report, see Recovery of items previously deducted under Other Income , later.
+
+Canceled Debt
+
+The following explains the general rule for including canceled debt in income and the exceptions to the general rule.
+
+General Rule
+
+Generally, if your debt is canceled or forgiven, other than as a gift or bequest to you, you must include the canceled amount in your gross income for tax purposes. Report the canceled amount on line 6 of Schedule C (Form 1040) if you incurred the debt in your business. If the debt is a nonbusiness debt, report the canceled amount on line 8c of Schedule 1 (Form 1040).
+
+Exceptions
+
+The following discussion covers some exceptions to the general rule for canceled debt.
+
+Price reduced after purchase.
+
+If you owe a debt to the seller for property you bought and the seller reduces the amount you owe, you generally do not have income from the reduction. Unless you are bankrupt or insolvent, treat the amount of the reduction as a purchase price adjustment and reduce your basis in the property.
+
+Deductible debt.
+
+You do not realize income from a canceled debt to the extent the payment of the debt would have led to a deduction.
+
+Example.
+
+You get accounting services for your business on credit. Later, you have trouble paying your business debts, but you are not bankrupt or insolvent. Your accountant forgives part of the amount you owe for the accounting services. How you treat the canceled debt depends on your method of accounting.
+
+-
+
+Cash method—You do not include the canceled debt in income because payment of the debt would have been deductible as a business expense.
+
+-
+
+Accrual method—You include the canceled debt in income because the expense was deductible when you incurred the debt.
+
+For information on the cash and accrual methods of accounting, see chapter 2 .
+
+Exclusions
+
+Don’t include canceled debt in income in the following situations. However, you may be required to file Form 982, Reduction of Tax Attributes Due to Discharge of Indebtedness. For more information, see Form 982.
+
+-
+
+The cancellation takes place in a bankruptcy case under title 11 of the U.S. Code (relating to bankruptcy), but only if your business is under the jurisdiction of a bankruptcy court and the discharge is granted by the court pursuant to a plan approved by the court. See Pub. 908, Bankruptcy Tax Guide.
+
+-
+
+The cancellation takes place when you are insolvent. You can exclude the canceled debt to the extent you are insolvent. See Pub. 4681, Canceled Debts, Foreclosures, Repossessions, and Abandonments.
+
+-
+
+The canceled debt is a qualified farm debt owed to a qualified person. See chapter 3 of Pub. 225, Farmer’s Tax Guide.
+
+-
+
+The canceled debt is a qualified real property business debt. This situation is explained later.
+
+-
+
+The canceled debt is qualified principal residence indebtedness that is discharged after 2006 and before 2026 or is subject to an arrangement entered into in writing before 2026. See the Instructions for Form 982 for more information about this exclusion.
+
+If a canceled debt is excluded from income because the cancellation takes place in a bankruptcy case, the exclusions in situations 2 through 5 don’t apply. If it takes place when you are insolvent, the exclusions in situations 3 and 4 don’t apply to the extent you are insolvent.
+
+Debt.
+
+For purposes of this discussion, debt includes any debt for which you are liable or which attaches to property you hold.
+
+Qualified real property business debt.
+
+You can elect to exclude (up to certain limits) the cancellation of qualified real property business debt. If you make the election, you must reduce the basis of your depreciable real property by the amount excluded. Make this reduction at the beginning of your tax year following the tax year in which the cancellation occurs. However, if you dispose of the property before that time, you must reduce its basis immediately before the disposition.
+
+Cancellation of qualified real property business debt.
+
+Qualified real property business debt is debt (other than qualified farm debt) that meets all the following conditions.
+
+-
+
+It was incurred or assumed in connection with real property used in a trade or business. Real property used in a trade or business does not include real property developed and held primarily for sale to customers in the ordinary course of business.
+
+-
+
+It was secured by such real property.
+
+-
+
+It was incurred or assumed at either of the following times.
+
+-
+
+Before January 1, 1993.
+
+-
+
+After December 31, 1992, if incurred or assumed to acquire, construct, or substantially improve the real property.
+
+-
+
+It is debt to which you elect to apply these rules.
+
+Qualified real property business debt includes refinancing of debt described in (3) above, but only to the extent it does not exceed the debt being refinanced.
+
+. If you are the owner of a disregarded entity (for example, a single-member LLC), see Qualified Real Property Business Indebtedness in chapter 1 of Pub. 4681 to see if you qualify for this exclusion. .
+
+You can’t exclude more than either of the following amounts.
+
+-
+
+The excess (if any) of:
+
+-
+
+The outstanding principal of qualified real property business debt (immediately before the cancellation); over
+
+-
+
+The fair market value (immediately before the cancellation) of the business real property that is security for the debt, reduced by the outstanding principal amount of any other qualified real property business debt secured by this property immediately before the cancellation.
+
+-
+
+The total adjusted bases of depreciable real property held by you immediately before the cancellation. These adjusted bases are determined after any basis reduction due to a cancellation in bankruptcy or insolvency, or of qualified farm debt. Do not take into account depreciable real property acquired in contemplation of the cancellation.
+
+Election.
+
+To make this election, complete Form 982 and attach it to your income tax return for the tax year in which the cancellation occurs. You must file your return by the due date (including extensions). If you timely filed your return for the year without making the election, you can still make the election by filing an amended return within 6 months of the due date of the return (excluding extensions). For more information, see When To File in the form instructions.
+
+Other Income
+
+The following discussion explains how to treat other types of business income you may receive.
+
+Restricted property.
+
+Restricted property is property that has certain restrictions that affect its value. If you receive restricted stock or other property for services performed, the fair market value of the property in excess of your cost is included in your income on Schedule C (Form 1040) when the restriction is lifted. However, you can choose to be taxed in the year you receive the property. For more information on including restricted property in income, see Pub. 525, Taxable and Nontaxable Income.
+
+Gains and losses.
+
+Do not report on Schedule C (Form 1040) a gain or loss from the disposition of property that is neither stock in trade nor held primarily for sale to customers. Instead, you must report these gains and losses on other forms. For more information, see chapter 3 .
+
+Promissory notes.
+
+Report promissory notes and other evidences of debt issued to you in a sale or exchange of property that is stock in trade or held primarily for sale to customers on Schedule C (Form 1040). In general, you report them at their stated principal amount (minus any unstated interest) or issue price (for debt instruments with OID) when you receive them.
+
+Lost income payments.
+
+If you reduce or stop your business activities, report on Schedule C (Form 1040) any payment you receive for the lost income of your business from insurance or other sources. Report it on Schedule C (Form 1040) even if your business is inactive when you receive the payment.
+
+Damages.
+
+You must include in gross income compensation you receive during the tax year as a result of any of the following injuries connected with your business.
+
+-
+
+Patent infringement.
+
+-
+
+Breach of contract or fiduciary duty.
+
+-
+
+Antitrust injury.
+
+Economic injury.
+
+You may be entitled to a deduction against the income if you receive compensation for actual economic injury. Your deduction is the smaller of the following amounts.
+
+-
+
+The amount you receive or accrue for damages in the tax year reduced by the amount you pay or incur in the tax year to recover that amount.
+
+-
+
+Your loss from the injury that you have not yet deducted.
+
+Punitive damages.
+
+You must also include punitive damages in income.
+
+Kickbacks.
+
+If you receive any kickbacks, include them in your income on Schedule C (Form 1040). However, do not include them if you properly treat them as a reduction of a related expense item, a capital expenditure, or cost of goods sold.
+
+Recovery of items previously deducted.
+
+If you recover a bad debt or any other item deducted in a previous year, include the recovery in income on Schedule C (Form 1040). However, if all or part of the deduction in earlier years did not reduce your tax, you can exclude the part that did not reduce your tax. If you exclude part of the recovery from income, you must include with your return a computation showing how you figured the exclusion.
+
+Exception for depreciation.
+
+This rule does not apply to depreciation. You recover depreciation using the rules explained next.
+
+Recapture of depreciation.
+
+In the following situations, you have to recapture the depreciation deduction. This means you include in income part or all of the depreciation you deducted in previous years.
+
+Listed property.
+
+If your business use of listed property (explained in chapter 8 under Depreciation ) falls to 50% or less in a tax year after the tax year you placed the property in service, you may have to recapture part of the depreciation deduction. You do this by including in income on Schedule C (Form 1040) part of the depreciation you deducted in previous years. Use Part IV of Form 4797 to figure the amount to include on Schedule C (Form 1040). For more information, see What Is the Business-Use Requirement? in chapter 5 of Pub. 946. That chapter explains how to determine whether property is used more than 50% in your business.
+
+Section 179 property.
+
+If you take a section 179 deduction (explained in chapter 8 under Depreciation ) for an asset and before the end of the asset’s recovery period the percentage of business use drops to 50% or less, you must recapture part of the section 179 deduction. You do this by including in income on Schedule C (Form 1040) part of the deduction you took. Use Part IV of Form 4797 to figure the amount to include on Schedule C (Form 1040). See chapter 2 of Pub. 946 to find out when you recapture the deduction.
+
+Sale or exchange of depreciable property.
+
+If you sell or exchange depreciable property at a gain, you may have to treat all or part of the gain due to depreciation as ordinary income. You figure the income due to depreciation recapture in Part III of Form 4797. For more information, see chapter 4 of Pub. 544.
+
+Items That Are Not Income
+
+In some cases, the property or money you receive is not income.
+
+Appreciation.
+
+Increases in value of your property are not income until you realize the increases through a sale or other taxable disposition.
+
+Consignments.
+
+Consignments of merchandise to others to sell for you are not sales. The title of merchandise remains with you, the consignor, even after the consignee possesses the merchandise. Therefore, if you ship goods on consignment, you have no profit or loss until the consignee sells the merchandise. Merchandise you have shipped out on consignment is included in your inventory until it is sold.
+
+Do not include merchandise you receive on consignment in your inventory. Include your profit or commission on merchandise consigned to you in your income when you sell the merchandise or when you receive your profit or commission, depending upon the method of accounting you use.
+
+Medicaid waiver payments.
+
+Certain medicaid waiver payments that are reported to you on Form 1099-MISC or Form 1099-NEC may not be taxable. For more information on how to report those payments, see the Instructions for Schedule C (Form 1040).
+
+Construction allowances.
+
+If you enter into a lease after August 5, 1997, you can exclude from income the construction allowance you receive (in cash or as a rent reduction) from your landlord if you receive it under both of the following conditions.
+
+-
+
+Under a short-term lease of retail space.
+
+-
+
+For the purpose of constructing or improving qualified long-term real property for use in your business at that retail space.
+
+Amount you can exclude.
+
+You can exclude the construction allowance to the extent it does not exceed the amount you spent for construction or improvements.
+
+Short-term lease.
+
+A short-term lease is a lease (or other agreement for occupancy or use) of retail space for 15 years or less. The following rules apply in determining whether the lease is for 15 years or less.
+
+-
+
+Take into account options to renew when figuring whether the lease is for 15 years or less. But do not take into account any option to renew at fair market value determined at the time of renewal.
+
+-
+
+Two or more successive leases that are part of the same transaction (or a series of related transactions) for the same or substantially similar retail space are treated as one lease.
+
+Retail space.
+
+Retail space is real property leased, occupied, or otherwise used by you as a tenant in your business of selling tangible personal property or services to the general public.
+
+Qualified long-term real property.
+
+Qualified long-term real property is nonresidential real property that is part of, or otherwise present at, your retail space and that reverts to the landlord when the lease ends.
+
+Exchange of like-kind property.
+
+Generally, if you exchange real property used for business or held as an investment solely for other business or investment real property of a like kind, no gain or loss is recognized. This means that the gain is not taxable and the loss is not deductible. Upon the exchange, basis is adjusted to reflect the deferred gain or loss. Gain or loss is recognized upon later disposition of the property. For more information, see Form 8824.
+
+Leasehold improvements.
+
+If a tenant erects buildings or makes improvements to your property, the increase in the value of the property due to the improvements is not income to you. However, if the facts indicate that the improvements are a payment of rent to you, then the increase in value would be income.
+
+Loans.
+
+Money borrowed through a bona fide loan is not income.
+
+Sales tax.
+
+State and local sales taxes imposed on the buyer, which you were required to collect and pay over to state or local governments, are not income.
+
+Guidelines for Selected Occupations
+
+This section provides information to determine whether your earnings should be reported on Schedule C (Form 1040).
+
+Direct seller.
+
+You must report all income you receive as a direct seller on Schedule C (Form 1040). This includes any of the following.
+
+-
+
+Income from sales—payments you receive from customers for products they buy from you.
+
+-
+
+Commissions, bonuses, or percentages you receive for sales and the sales of others who work under you.
+
+-
+
+Prizes, awards, and gifts you receive from your selling business.
+
+You must report this income regardless of whether it is reported to you on an information return.
+
+You are a direct seller if you meet all the following conditions.
+
+-
+
+You are engaged in one of the following trades or businesses.
+
+-
+
+Selling or soliciting the sale of consumer products either in a home or other place that is not a permanent retail establishment, or to any buyer on a buy-sell basis or a deposit-commission basis for resale in a home or other place of business that is not a permanent retail establishment.
+
+-
+
+Delivering or distributing newspapers or shopping news (including any services directly related to that trade or business).
+
+-
+
+Substantially all your pay (whether paid in cash or not) for services described above is directly related to sales or other output (including performance of services) rather than to the number of hours worked.
+
+-
+
+Your services are performed under a written contract between you and the person for whom you perform the services, and the contract provides that you will not be treated as an employee for federal tax purposes.
+
+Executor or administrator.
+
+If you administer a deceased person’s estate, your fees are reported on Schedule C (Form 1040) if you are one of the following.
+
+-
+
+A professional fiduciary.
+
+-
+
+A nonprofessional fiduciary (personal representative) and both of the following apply.
+
+-
+
+The estate includes an active trade or business in which you actively participate.
+
+-
+
+Your fees are related to the operation of that trade or business.
+
+-
+
+A nonprofessional fiduciary of a single estate that requires extensive managerial activities on your part for a long period of time, provided these activities are enough to be considered a trade or business.
+
+If the fees do not meet the above requirements, report them on line 8z of Schedule 1 (Form 1040).
+
+Fishing crew member.
+
+If you are a member of a crew that catches fish or other aquatic life, your earnings are reported on Schedule C (Form 1040) if you meet all the requirements shown in chapter 10 under Fishing crew member .
+
+Insurance agent, former.
+
+Termination payments you receive as a former self-employed insurance agent from an insurance company because of services you performed for that company are not reported on Schedule C (Form 1040) if all the following conditions are met.
+
+-
+
+You received payments after your agreement to perform services for the company ended.
+
+-
+
+You did not perform any services for the company after your service agreement ended and before the end of the year in which you received the payment.
+
+-
+
+You entered into a covenant not to compete against the company for at least a 1-year period beginning on the date your service agreement ended.
+
+-
+
+The amount of the payments depended primarily on policies sold by you or credited to your account during the last year of your service agreement or the extent to which those policies remain in force for some period after your service agreement ended, or both.
+
+-
+
+The amount of the payment did not depend to any extent on length of service or overall earnings from services performed for the company (regardless of whether eligibility for the payments depended on length of service).
+
+Insurance agent, retired.
+
+Income paid by an insurance company to a retired self-employed insurance agent based on a percentage of commissions received before retirement is reported on Schedule C (Form 1040). Also, renewal commissions and deferred commissions for sales made before retirement are generally reported on Schedule C (Form 1040).
+
+However, renewal commissions paid to the survivor of an insurance agent are not reported on Schedule C (Form 1040).
+
+Newspaper carrier or distributor.
+
+You are a direct seller and your earnings are reported on Schedule C (Form 1040) if all the following conditions apply.
+
+-
+
+You are in the business of delivering or distributing newspapers or shopping news (including directly related services such as soliciting customers and collecting receipts).
+
+-
+
+Substantially all your pay for these services directly relates to your sales or other output rather than to the number of hours you work.
+
+-
+
+You perform the services under a written contract that says you will not be treated as an employee for federal tax purposes.
+
+This rule applies whether or not you hire others to help you make deliveries. It also applies whether you buy the papers from the publisher or are paid based on the number of papers you deliver.
+
+Newspaper or magazine vendor.
+
+If you are age 18 or older and you sell newspapers or magazines, your earnings are reported on Schedule C (Form 1040) if all the following conditions apply.
+
+-
+
+You sell newspapers or magazines to ultimate consumers.
+
+-
+
+You sell them at a fixed price.
+
+-
+
+Your earnings are based on the difference between the sales price and your cost of goods sold.
+
+This rule applies whether or not you are guaranteed a minimum amount of earnings. It also applies whether or not you receive credit for unsold newspapers or magazines you return to your supplier.
+
+Notary public.
+
+Fees you receive for services you perform as a notary public are reported on Schedule C (Form 1040). These payments are not subject to SE tax (see the Instructions for Schedule SE (Form 1040)).
+
+Public official.
+
+Public officials generally don’t report what they earn for serving in public office on Schedule C (Form 1040). This rule applies to payments received by an elected tax collector from state funds on the basis of a fixed percentage of the taxes collected. Public office includes any elective or appointive office of the United States or its territories, the District of Columbia, a state or its political subdivisions, or a wholly owned instrumentality of any of these.
+
+Public officials of state or local governments report their fees from the public on Schedule C (Form 1040) if they are paid solely on a fee basis and if their services are eligible for, but not covered by, social security under a federal-state agreement.
+
+Real estate agent or direct seller.
+
+If you are a licensed real estate agent or a direct seller, your earnings are reported on Schedule C (Form 1040) if both the following apply.
+
+-
+
+Substantially all your pay for services as a real estate agent or direct seller directly relates to your sales or other output rather than to the number of hours you work.
+
+-
+
+You perform the services under a written contract that says you will not be treated as an employee for federal tax purposes.
+
+Dealer in section 1256 contracts.
+
+If you are a dealer in options or commodities, your gains and losses from dealing or trading in section 1256 contracts (regulated futures contracts, foreign currency contracts, nonequity options, dealer equity options, and dealer securities futures contracts) or property related to those contracts (such as stock used to hedge options) are reported on Schedule C (Form 1040). For more information, see sections 1256 and 1402(i).
+
+Securities or commodities trader.
+
+You are a trader in securities or commodities if you are engaged in the business of buying and selling securities or commodities for your own account. As a trader in securities or commodities (including if you made the section 475(f) mark-to-market election as a trader in securities or commodities), your gain or loss from the disposition of securities or commodities is not reported on Schedule C (Form 1040). For more information about traders in securities or commodities, see Pub. 550, Investment Income and Expenses, and Topic No. 429, Traders in Securities .
+
+Accounting for Your Income
+
+Accounting for your income for income tax purposes differs at times from accounting for financial purposes. This section discusses some of the more common differences that may affect business transactions.
+
+Figure your business income on the basis of a tax year and according to your regular method of accounting (see chapter 2 ). If the sale of a product is an income-producing factor in your business, you usually have to use inventories to clearly show your income. Dealers in real estate are not allowed to use inventories. For more information on inventories, see chapter 2 .
+
+Income paid to a third party.
+
+All income you earn is taxable to you. You cannot avoid tax by having the income paid to a third party.
+
+Example.
+
+You rent out your property and the rental agreement directs the lessee to pay the rent to your son. The amount paid to your son is gross income to you.
+
+Cash discounts.
+
+These are amounts the seller permits you to deduct from the invoice price for prompt payment. For income tax purposes, you can use either of the following two methods to account for cash discounts.
+
+-
+
+Deduct the cash discount from purchases (see Line 36—Purchases Less Cost of Items Withdrawn for Personal Use in chapter 6).
+
+-
+
+Credit the cash discount to a discount income account.
+
+You must use the chosen method every year for all your purchase discounts.
+
+If you use the second method, the credit balance in the account at the end of your tax year is business income. Under this method, you don’t reduce the cost of goods sold by the cash discounts you received. When valuing your closing inventory, you can’t reduce the invoice price of merchandise on hand at the close of the tax year by the average or estimated discounts received on the merchandise.
+
+Trade discounts.
+
+These are reductions from list or catalog prices and are usually not written into the invoice or charged to the customer. Do not enter these discounts on your books of account. Instead, use only the net amount as the cost of the merchandise purchased. For more information, see Trade discounts in chapter 6.
+
+Payment placed in escrow.
+
+If the buyer of your property places part or all of the purchase price in escrow, you do not include any part of it in gross sales until you actually or constructively receive it. However, upon completion of the terms of the contract and the escrow agreement, you will have taxable income, even if you don’t accept the money until the next year.
+
+Sales returns and allowances.
+
+Credits you allow customers for returned merchandise and any other allowances you make on sales are deductions from gross sales in figuring net sales.
+
+Advance payments.
+
+Special rules dealing with an accrual method of accounting for payments received in advance are discussed in chapter 2 under Accrual Method .
+
+Insurance proceeds.
+
+If you receive insurance or another type of reimbursement for a casualty or theft loss, you must subtract it from the loss when you figure your deduction. You can’t deduct the reimbursed part of a casualty or theft loss.
+
+For information on casualty or theft losses, see Pub. 547.

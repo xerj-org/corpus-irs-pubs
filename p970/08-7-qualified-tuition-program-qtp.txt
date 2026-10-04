@@ -1,0 +1,469 @@
+IRS Pub 970 (2025) | 7. Qualified Tuition Program (QTP)
+
+7. Qualified Tuition Program (QTP)
+
+Reminders
+
+Rollover to Roth IRA. For certain distributions made after 2023, you can roll over limited amounts from long-term QTPs to Roth IRAs. See Rollovers and Other Transfers .
+
+Introduction
+
+QTPs are also called 529 plans. States may establish and maintain programs that allow you to either prepay or contribute to an account for paying a student’s qualified education expenses at an eligible educational institution. Eligible educational institutions may establish and maintain programs that allow you to prepay a student’s qualified education expenses. If you prepay tuition, the student (designated beneficiary) will be entitled to a waiver or a payment of qualified education expenses. You can’t deduct either payments or contributions to a QTP. For information on a specific QTP, you will need to contact the state agency or eligible educational institution that established and maintains it.
+
+What is the tax benefit of a QTP?
+
+No tax is due on a distribution from a QTP unless the amount distributed is greater than the beneficiary’s adjusted qualified education expenses (AQEE). See Are Distributions Taxable , later, for more information.
+
+. Even if a QTP is used to finance a student’s education, the student or the student’s parents may still be eligible to claim the American opportunity credit or the lifetime learning credit. See Coordination With American Opportunity and Lifetime Learning Credits , later. .
+
+What Is a QTP?
+
+A QTP is a program set up to allow you to either prepay or contribute to an account established for paying a student’s qualified education expenses at an eligible educational institution. QTPs can be established and maintained by states (or agencies or instrumentalities of a state) and eligible educational institutions. The program must meet certain requirements. Your state government or the eligible educational institution in which you are interested can tell you whether or not they participate in a QTP.
+
+Qualified Education Expenses
+
+Generally, these are expenses required for the enrollment or attendance of the designated beneficiary at an eligible educational institution. For purposes of QTPs, the expenses can be either qualified higher education expenses, qualified elementary and secondary education expenses, or post secondary credential expenses.
+
+Designated beneficiary.
+
+The designated beneficiary is generally the student (or future student) for whom the QTP is intended to provide benefits. The designated beneficiary can be changed after participation in the QTP begins. If a state or local government or certain tax-exempt organizations purchase an interest in a QTP as part of a scholarship program, the designated beneficiary is the person who receives the interest as a scholarship.
+
+Eligible Educational Institution
+
+For purposes of a QTP, an eligible educational institution can be either an eligible postsecondary school or an eligible elementary or secondary school.
+
+Eligible postsecondary school.
+
+An eligible postsecondary school is generally any accredited public, nonprofit, or proprietary (privately owned profit-making) college, university, vocational school, or other postsecondary educational institution. Also, the institution must be eligible to participate in a student aid program administered by the U.S. Department of Education. Virtually all accredited postsecondary institutions meet this definition. The educational institution should be able to tell you if it’s an eligible educational institution.
+
+An eligible educational institution also includes certain educational institutions located outside the United States that are eligible to participate in a student aid program administered by the U.S. Department of Education.
+
+Eligible elementary or secondary school.
+
+An eligible elementary or secondary school is any public, private, or religious school that provides elementary or secondary education (kindergarten through grade 12), as determined under state law.
+
+Qualified Higher Education Expenses
+
+These are expenses related to enrollment or attendance at an eligible postsecondary school. As shown in the following list, to be qualified, some of the expenses must be required by the school and some must be incurred by students who are enrolled at least half-time, defined later.
+
+-
+
+The following expenses must be required for enrollment or attendance of a designated beneficiary at an eligible postsecondary school.
+
+-
+
+Tuition and fees.
+
+-
+
+Books, supplies, and equipment.
+
+-
+
+Expenses for special needs services needed by a special needs beneficiary must be incurred in connection with enrollment or attendance at an eligible postsecondary school.
+
+-
+
+Expenses for room and board must be incurred by students who are enrolled at least half-time (defined later).
+
+The expense for room and board qualifies only to the extent that it isn’t more than the greater of the following two amounts.
+
+-
+
+The allowance for room and board, as determined by the school, that was included in the cost of attendance (for federal financial aid purposes) for a particular academic period and living arrangement of the student.
+
+-
+
+The actual amount charged if the student is residing in housing owned or operated by the school.
+
+You may need to contact the eligible educational institution for qualified room and board costs.
+
+-
+
+The purchase of computer or peripheral equipment, computer software, or Internet access and related services, if it’s to be used primarily by the beneficiary during any of the years the beneficiary is enrolled at an eligible postsecondary school. (This doesn’t include expenses for computer software for sports, games, or hobbies unless the software is predominantly educational in nature.)
+
+-
+
+The expenses for fees, books, supplies, and equipment required for the designated beneficiary’s participation in an apprenticeship program registered and certified with the Secretary of Labor under section 1 of the National Apprenticeship Act.
+
+-
+
+No more than $10,000 paid as principal or interest on qualified student loans of the designated beneficiary or the designated beneficiary’s sibling. A sibling includes a brother, sister, stepbrother, or stepsister. For purposes of the $10,000 limitation, amounts treated as a qualified higher education expense for the loans of a sibling are taken into account for the sibling and not for the designated beneficiary. You can’t deduct as interest on a student loan (see chapter 4 ) any amount paid from a distribution of earnings from a QTP after 2018 to the extent the earnings are treated as tax free because they were used to pay student loan interest.
+
+Half-time student.
+
+A student is enrolled “at least half-time” if the student is enrolled for at least half the full-time academic workload for the course of study the student is pursuing, as determined under the standards of the school where the student is enrolled.
+
+Qualified Elementary and Secondary Education Expenses
+
+These are expenses related to enrollment or attendance at or for students enrolled at or attending an eligible elementary and secondary school.
+
+-
+
+Tuition.
+
+-
+
+Curriculum and curricular materials.
+
+-
+
+Books or other instructional materials.
+
+-
+
+Online educational materials.
+
+-
+
+Tuition for tutoring or educational classes outside of the home, including at a tutoring facility, but only if the tutor or instructor is not related to the student, and
+
+-
+
+is licensed as a teacher in any state,
+
+-
+
+has taught at an eligible education institution, or
+
+-
+
+is a subject matter expert in the relevant subject.
+
+-
+
+Fees for nationally standardized norm-referenced achievement test, an advance placement examination, or any examinations related to college or university admission.
+
+-
+
+Fees for dual enrollment in an institution of higher education.
+
+-
+
+Educational therapies for students with disabilities provided by a licensed or accredited practitioner or provider, including occupational, behavioral, physical, and speech-language therapies.
+
+These are expenses for no more than $10,000 of tuition, incurred by a designated beneficiary, in connection with enrollment or attendance at or for students enrolled at or attending an eligible elementary or secondary school.
+
+Qualified Postsecondary Credentialing Expenses
+
+These are expenses related to the enrollment or attendance of a designated beneficiary in a recognized postsecondary credential program.
+
+-
+
+The following expenses must be required for enrollment or attendance of a designated beneficiary in a recognized postsecondary credential program, or any other expense incurred in connection with enrollment in or attendance at an eligible education institution (defined under Eligible Educational Institution , earlier).
+
+-
+
+Tuition and fees.
+
+-
+
+Books, supplies, and equipment.
+
+-
+
+Expenses related to enrollment or attendance at an eligible educational institution.
+
+-
+
+Fees for testing if the testing is required to obtain or maintain a recognized postsecondary credential.
+
+-
+
+Fees for continuing education if the education is required to maintain a recognized postsecondary credential.
+
+Recognized postsecondary credential program.
+
+A recognized postsecondary credential program is any program to obtain a recognized postsecondary credential if it meets the following:
+
+-
+
+The program is included on a State list prepared under section 122(d) of the Workforce Innovation and Opportunity Act.
+
+-
+
+The program is listed in the public directory of the Web Enabled Approval Management System (WEAMS) of the Veterans Benefits Administration.
+
+-
+
+The examination (developed or administered by an organization widely recognized as providing reputable credentials in the occupation) is required to obtain or maintain the credential and the organization recognizes the program as providing training or education which prepares individuals to take the examination; or
+
+-
+
+The program is identified by the Secretary of Treasury as being a reputable program for obtaining a recognized postsecondary credential.
+
+Recognized postsecondary credential.
+
+A recognized postsecondary credential is:
+
+-
+
+A postsecondary employment credential that is industry recognized and is
+
+-
+
+Any postsecondary employment credential issued by a program that is accredited by the Institute for Credentialing Excellence, the National Commission on Certifying Agencies, or the American National Standards Institute,
+
+-
+
+Any postsecondary employment credential that is included in the Credentialing Opportunities On-Line (COOL) directory of credentialing programs maintained by the Department of Defense or by any branch of the Armed Forces, or
+
+-
+
+Any postsecondary employment credential identified by the Secretary of Treasury as being industry recognized.
+
+-
+
+Any certificate of completion of an apprenticeship that is registered and certified by the Secretary of Labor under the National Apprenticeship Act,
+
+-
+
+Any occupational or professional license issued or recognized by a State of the Federal Government, and any certification that satisfies a condition for obtaining the license, and
+
+-
+
+Any recognized postsecondary credential as defined in section 3(52) of the Workforce Innovation and Opportunity Act provided through a program described in paragraph (2)(A).
+
+How Much Can You Contribute?
+
+Contributions to a QTP on behalf of any beneficiary can’t be more than the amount necessary to provide for the qualified education expenses of the beneficiary. There are no income restrictions on the individual contributors.
+
+You can contribute to both a QTP and a Coverdell education savings account (ESA) in the same year for the same designated beneficiary.
+
+Recontribution of Refunded Amounts
+
+If a student receives a refund of qualified education expenses that were treated as paid by a QTP distribution, the student can recontribute these amounts into any QTP for which they are the beneficiary within 60 days after the date of the refund to avoid the need to figure the taxable part of the QTP distribution.
+
+Are Distributions Taxable?
+
+The part of a distribution representing the amount paid or contributed to a QTP doesn’t have to be included in income. This is a return of the investment in the plan.
+
+The recipient of the distribution generally doesn’t have to include in income any earnings distributed from a QTP if the total distribution is less than or equal to AQEE (defined under Figuring the Taxable Portion of a Distribution , below). The designated beneficiary is considered the recipient only if the distribution is made (a) directly to the designated beneficiary, or (b) to an eligible educational institution for the benefit of the designated beneficiary. Otherwise, the account owner is considered the recipient of the distribution.
+
+Earnings and return of investment.
+
+You will receive a Form 1099-Q from each of the programs from which you received a QTP distribution in 2025. The amount of your gross distribution (box 1) shown on each form will be divided between your earnings (box 2) and your basis, or return of investment (box 3). Form 1099-Q should be sent to you by February 2, 2026 (January 31 falls on a Saturday).
+
+Figuring the Taxable Portion of a Distribution
+
+To determine if total distributions for the year are more or less than the amount of qualified education expenses, you must compare the total of all QTP distributions for the tax year to the AQEE.
+
+Adjusted qualified education expenses (AQEE).
+
+This amount is the total qualified education expenses reduced by any tax-free educational assistance. Tax-free educational assistance includes:
+
+Taxable earnings.
+
+Use the following steps to figure the taxable part.
+
+-
+
+Multiply the total distributed earnings shown in box 2 of Form 1099-Q by a fraction. The numerator (top part) is the AQEE paid during the year, and the denominator (bottom part) is the total amount distributed during the year.
+
+-
+
+Subtract the amount figured in (1) from the total distributed earnings. The result is the amount the beneficiary must include in income. Report it on Schedule 1 (Form 1040), line 8z.
+
+Example 1.
+
+In 2016, a young student’s parents opened a savings account for them with a QTP maintained by their state government. Over the years, the parents contributed $18,000 to the account. The total balance in the account was $27,000 on the date the distribution was made. In the summer of 2025, the student enrolled in college and had $8,300 of qualified education expenses for the rest of the year. The college expenses were paid from the following sources.
+
+Gift from parents | $1,600
+Partial tuition scholarship (tax free) | 3,100
+QTP distribution | 5,300
+
+Before the student can determine the taxable part of their QTP distribution, they must reduce their total qualified education expenses by any tax-free educational assistance.
+
+Total qualified education expenses | $8,300
+Minus: Tax-free educational assistance | – 3,100
+Equals: AQEE | $5,200
+
+Since the remaining expenses ($5,200) are less than the QTP distribution, part of the earnings will be taxable.
+
+The student’s Form 1099-Q shows that $950 of the QTP distribution is earnings. They figure the taxable part of the distributed earnings as follows.
+
+1. | $950 (earnings) | × | $5,200 AQEE
+$5,300 distribution
+= $932 (tax-free earnings)
+
+2. | $950 (earnings) − $932 (tax-free earnings)
+= $18 (taxable earnings)
+
+They must include $18 in income (Schedule 1 (Form 1040), line 8z) as distributed QTP earnings not used for AQEE.
+
+Coordination With American Opportunity and Lifetime Learning Credits
+
+An American opportunity or lifetime learning credit (education credit) can be claimed in the same year the beneficiary takes a tax-free distribution from a QTP, as long as the same expenses aren’t used for both benefits. This means that after the beneficiary reduces qualified education expenses by tax-free educational assistance, the beneficiary must further reduce them by the expenses taken into account in determining the credit.
+
+Example 2.
+
+Assume the same facts as in Example 1 , except that the parents claimed an American opportunity credit of $2,500 (based on $4,000 expenses).
+
+Total qualified education expenses | $8,300
+Minus: Tax-free educational assistance | − 3,100
+Minus: Expenses taken into account in figuring American opportunity credit | − 4,000
+Equals: AQEE | $1,200
+
+The taxable part of the distribution is figured as follows.
+
+1. | $950 (earnings) | × | $1,200 AQEE $5,300 distribution
+= $215 (tax-free earnings)
+
+2. | $950 (earnings) − $215 (tax-free earnings)
+= $735 (taxable earnings)
+
+The student must include $735 in income (Schedule 1 (Form 1040), line 8z). This represents distributed earnings not used for AQEE.
+
+Coordination With Coverdell ESA Distributions
+
+If a designated beneficiary receives distributions from both a QTP and a Coverdell ESA in the same year, and the total of these distributions is more than the beneficiary’s AQEE, the expenses must be allocated between the distributions.
+
+Example 3.
+
+Assume the same facts as in Example 2 , except that instead of receiving a $5,300 distribution from their QTP, the student received $4,600 from that account and $700 from their Coverdell ESA. In this case, the student must allocate their $1,200 of AQEE between the two distributions.
+
+$1,200 AQEE | × | $700 ESA distribution $5,300 total distribution | = | $158 AQEE (ESA)
+
+$1,200 AQEE | × | $4,600 QTP distribution $5,300 total distribution | = | $1,042 AQEE (QTP)
+
+The student then figures the taxable portion of their Coverdell ESA distribution based on qualified education expenses of $158, and the taxable portion of their QTP distribution based on the other $1,042.
+
+Note.
+
+If you are required to allocate your expenses between Coverdell ESA and QTP distributions, and you have adjusted qualified elementary and secondary education expenses, see the examples in chapter 6 under Coordination With Qualified Tuition Program (QTP) Distributions .
+
+Losses on QTP Investments
+
+For tax years beginning after 2017 and before 2026, if you have a loss on your investment in a QTP account, you can’t claim the loss on your income tax return. You have a loss only when all amounts from that account have been distributed and the total distributions are less than your unrecovered basis. Your basis is the total amount of contributions to that QTP account.
+
+. The aggregation rules that applied if you had distributions from more than one QTP account during a year were eliminated for distributions after 2014. For more information, see Notice 2016-13, available at IRS.gov/IRB/2016-07_IRB#NOT-2016-13 . .
+
+Additional Tax on Taxable Distributions
+
+Generally, if you receive a taxable distribution, you must also pay a 10% additional tax on the amount included in income.
+
+Exceptions.
+
+The 10% additional tax doesn’t apply to the following distributions.
+
+-
+
+Paid to a beneficiary (or to the estate of the designated beneficiary) on or after the death of the designated beneficiary.
+
+-
+
+Made because the designated beneficiary is disabled. A person is considered to be disabled if proof is provided showing there is a physical or mental impairment that substantially limits any gainful activity. A physician must determine that the person’s condition can be expected to result in death or to be of long-continued and indefinite duration.
+
+-
+
+Included in income because the designated beneficiary received:
+
+-
+
+A tax-free scholarship or fellowship grant (see Tax-Free Scholarships and Fellowship Grants in chapter 1 );
+
+-
+
+Veterans’ educational assistance (see Veterans’ Benefits in chapter 1 );
+
+-
+
+Employer-provided educational assistance (see chapter 10 ); or
+
+-
+
+Any other nontaxable (tax-free) payments (other than gifts or inheritances) received as educational assistance.
+
+This exception only applies to the extent the distribution isn’t more than the scholarship, allowance, or payment.
+
+-
+
+Made on account of the attendance of the designated beneficiary at a U.S. military academy (such as the USNA at Annapolis). This exception applies only to the extent that the amount of the distribution doesn’t exceed the costs of advanced education (as defined in section 2005(d)(3) of title 10 of the U.S. Code) attributable to such attendance.
+
+-
+
+Included in income only because the qualified education expenses were taken into account in determining the American opportunity or lifetime learning credit (see Coordination With American Opportunity and Lifetime Learning Credits , earlier).
+
+Figuring the additional tax.
+
+Use Part II of Form 5329 to figure any additional tax. Report the amount on Schedule 2 (Form 1040), line 8.
+
+Rollovers and Other Transfers
+
+Assets can be rolled over or transferred from one QTP to another or from a QTP to an ABLE account. In addition, the designated beneficiary can be changed without transferring accounts. Assets can also be transferred from a QTP to a Roth IRA if certain requirements are met.
+
+Rollovers
+
+Any amount distributed from a QTP isn’t taxable if it’s rolled over to:
+
+-
+
+Another QTP for the benefit of the same beneficiary or for the benefit of a member of the beneficiary’s family (including the beneficiary’s spouse),
+
+-
+
+An ABLE account for the benefit of the same beneficiary or for the benefit of a member of the beneficiary’s family (including the beneficiary’s spouse). But this doesn’t apply to the extent the amount distributed when added to other amounts contributed to the ABLE account exceeds the annual contribution limit. For more information about ABLE accounts, see Pub. 907, Tax Highlights for Persons With Disabilities, or
+
+-
+
+A Roth IRA for the benefit of the same beneficiary, if the distribution is a direct trustee-to-trustee transfer from a QTP account that has been open for more than 15 years and the amount distributed does not exceed total contributions (and attributable earnings) made to the QTP more than 5 years before the distribution date. However, this doesn’t apply to the extent the amount distributed when added to other amounts contributed to Roth IRAs exceeds the annual contribution limit. For more information about contributions to Roth IRAs, see Pub. 590-A.
+
+. You should contact the qualified ABLE program before contributing any funds to the ABLE account to ensure that the contribution limit will not be exceeded. .
+
+An amount is rolled over if it’s paid to an ABLE account or another QTP within 60 days after the date of the distribution.
+
+Don’t report qualifying rollovers (those that meet the above criteria) anywhere on Form 1040, 1040-SR, or 1040-NR. These aren’t taxable distributions.
+
+Members of the beneficiary’s family.
+
+For these purposes, the beneficiary’s family includes the beneficiary’s spouse and the following other relatives of the beneficiary.
+
+-
+
+Son, daughter, stepchild, foster child, adopted child, or a descendant of any of them.
+
+-
+
+Brother, sister, half brother, half sister, stepbrother, or stepsister.
+
+-
+
+Father or mother or ancestor of either.
+
+-
+
+Stepfather or stepmother.
+
+-
+
+Son or daughter of a brother, sister, half brother, or half sister.
+
+-
+
+Brother or sister of father or mother.
+
+-
+
+Son-in-law, daughter-in-law, father-in-law, mother-in-law, brother-in-law, or sister-in-law.
+
+-
+
+The spouse of any individual listed above.
+
+-
+
+First cousin.
+
+Example.
+
+When you graduated from college in January last year, you had $5,000 left in your QTP. You wanted to give this money to your younger sibling, who was in junior high school. In order to avoid paying tax on the distribution of the amount remaining in your account, you contributed the same amount to your sibling’s QTP within 60 days of the distribution.
+
+. If the rollover is to another QTP for the same beneficiary, generally, only one rollover is allowed within 12 months of a previous transfer to any QTP for that designated beneficiary. However, taxpayers who receive a Form 1099-Q with respect to a qualifying rollover to or from the Maryland Prepaid College Trust (MPCT) and meet the criteria of Notice 2024-23 are not subject to the 12-month limitation. Notice 2024-23 is available at IRS.gov/irb/2024-07_IRB#NOT-2024-23 . .
+
+Changing the Designated Beneficiary
+
+There are no income tax consequences if the designated beneficiary of an account is changed to a member of the beneficiary’s family. See Members of the beneficiary’s family , earlier.
+
+Example.
+
+Assume the same situation as in the last example. Instead of closing your QTP and paying the distribution into your sibling’s QTP, you could have instructed the trustee of your account to simply change the name of the beneficiary on the account to that of your sibling.

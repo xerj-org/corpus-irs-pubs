@@ -1,0 +1,139 @@
+IRS Pub 525 (2025) | Business and Investment Income
+
+Business and Investment Income
+
+This section provides information on the treatment of income from certain rents and royalties, and from interests in partnerships and S corporations.
+
+Note:
+
+You may be subject to the Net Investment Income Tax (NIIT). The NIIT is a 3.8% tax on the lesser of net investment income or the excess of your modified adjusted gross income (MAGI) over a threshold amount. For details, see Form 8960 and its instructions.
+
+Caution:
+
+Income from sales at auctions, including online auctions, may be business income. For more information, see Pub. 334.
+
+Rents From Personal Property
+
+If you rent out personal property, such as equipment or vehicles, how you report your income and expenses is in most cases determined by:
+
+-
+
+Whether or not the rental activity is a business, and
+
+-
+
+Whether or not the rental activity is conducted for profit.
+
+In most cases, if your primary purpose is income or profit and you’re involved in the rental activity with continuity and regularity, your rental activity is a business.
+
+Reporting business income and expenses.
+
+If you’re in the business of renting personal property, report your income and expenses on Schedule C (Form 1040). The form instructions have information on how to complete them.
+
+Reporting nonbusiness income.
+
+If you aren’t in the business of renting personal property, report your rental income on Schedule 1 (Form 1040), line 8l.
+
+Reporting nonbusiness expenses.
+
+If you rent personal property for profit, include your rental expenses in the total amount you enter on Schedule 1 (Form 1040), line 24b.
+
+If you don’t rent personal property for profit, your deductions are limited and you can’t report a loss to offset other income. See Activity not for profit under Other Income , later.
+
+Royalties
+
+Royalties from copyrights; patents; and oil, gas, and mineral properties are taxable as ordinary income.
+
+In most cases, you report royalties on Schedule E (Form 1040). However, if you hold an operating oil, gas, or mineral interest or are in business as a self-employed writer, inventor, artist, etc., report your income and expenses on Schedule C (Form 1040).
+
+Copyrights and patents.
+
+Royalties from copyrights on literary, musical, or artistic works, and similar property, or from patents on inventions, are amounts paid to you for the right to use your work over a specified period of time. Royalties are generally based on the number of units sold, such as the number of books, tickets to a performance, or machines sold.
+
+Name, Image, Likeness (NIL).
+
+NIL is a term that describes the means through which student-athletes are allowed to receive financial compensation. NIL refers to the use of a student-athlete’s name, image, or likeness for commercial purposes through marketing and promotional endeavors. This can include such things as autograph signings, product endorsements, licensing and merchandising agreements, participating in advertising campaigns, social media posts, teaching camps or lessons, and more.
+
+Oil, gas, and minerals.
+
+Royalty income from oil, gas, and mineral properties is the amount you receive when natural resources are extracted from your property. The royalties are generally based on production or revenue and are paid to you by a person or company who leases the property from you.
+
+Depletion.
+
+If you’re the owner of an economic interest in mineral deposits or oil and gas wells, you can recover your investment through the depletion allowance.
+
+Coal and iron ore.
+
+Under certain circumstances, you can treat amounts you receive from the disposal of coal and iron ore as payments from the sale of a capital asset, rather than as royalty income. For information about gain or loss from the sale of coal and iron ore, see chapter 2 of Pub. 544.
+
+Sale of property interest.
+
+If you sell your complete interest in oil, gas, or mineral rights, the amount you receive is considered payment for the sale of section 1231 property, not royalty income. Under certain circumstances, the sale is subject to capital gain or loss treatment as explained in the Instructions for Schedule D (Form 1040). For more information on selling section 1231 property, see chapter 3 of Pub. 544.
+
+If you retain a royalty, an overriding royalty, or a net profit interest in a mineral property for the life of the property, you have made a lease or a sublease, and any cash you receive for the assignment of other interests in the property is ordinary income subject to a depletion allowance.
+
+Part of future production sold (carved out production payment).
+
+If you own mineral property but sell part of the future production, in most cases, you treat the money you receive from the buyer at the time of the sale as a loan from the buyer. Don’t include it in your income or take depletion based on it.
+
+When production begins, you include all the proceeds in your income, deduct all the production expenses, and deduct depletion from that amount to arrive at your taxable income from the property.
+
+Partnership Income
+
+A partnership generally isn’t a taxable entity. The income, gains, losses, deductions, and credits of a partnership are passed through to the partners based on each partner’s distributive share of these items. For more information, see Pub. 541.
+
+Partner’s distributive share.
+
+Your distributive share of partnership income, gains, losses, deductions, or credits is generally based on the partnership agreement. You must report your distributive share of these items on your return whether or not they are actually distributed to you. However, your distributive share of the partnership losses is limited to the adjusted basis of your partnership interest at the end of the partnership year in which the losses took place.
+
+Partnership agreement.
+
+The partnership agreement usually covers the distribution of profits, losses, and other items. However, if the agreement doesn’t state how a specific item of gain or loss will be shared, or the allocation stated in the agreement doesn’t have substantial economic effect, your distributive share is figured according to your interest in the partnership.
+
+Partnership return.
+
+Although a partnership generally pays no tax, it must file an information return on Form 1065. This shows the result of the partnership’s operations for its tax year and the items that must be passed through to the partners.
+
+Schedule K-1 (Form 1065).
+
+You should receive from each partnership in which you’re a member a copy of Schedule K-1 (Form 1065) showing your share of income, deductions, credits, and tax preference items of the partnership for the tax year. Keep Schedule K-1 for your records. Don’t attach it to your Form 1040 or 1040-SR, unless you’re specifically required to do so.
+
+Partner’s return.
+
+You must generally report partnership items on your individual return the same way as they’re reported on the partnership return. That is, if the partnership had a capital gain, you report your share as explained in the Instructions for Schedule D (Form 1040). You report your share of partnership ordinary income on Schedule E (Form 1040).
+
+Tip:
+
+In many cases, Schedule K-1 (Form 1065) will tell you where to report an item of income on your individual return.
+
+Qualified joint venture (QJV).
+
+If you and your spouse each materially participate as the only members of a jointly owned and operated business, and you file a joint return for the tax year, you can make a joint election to be treated as a QJV instead of a partnership. To make this election, you must divide all items of income, gain, loss, deduction, and credit attributable to the business between you and your spouse in accordance with your respective interests in the venture. For further information on how to make the election and which schedule(s) to file, see the instructions for your individual tax return.
+
+S Corporation Income
+
+In most cases, an S corporation doesn’t pay tax on its income. Instead, the income, losses, deductions, and credits of the corporation are passed through to the shareholders based on each shareholder’s pro rata share. You must report your share of these items on your return. In most cases, the items passed through to you will increase or decrease the basis of your S corporation stock as appropriate.
+
+S corporation return.
+
+An S corporation must file a return on Form 1120-S. This shows the results of the corporation’s operations for its tax year and the items of income, losses, deductions, or credits that affect the shareholders’ individual income tax returns.
+
+Schedule K-1 (Form 1120-S).
+
+You should receive a copy of Schedule K-1 (Form 1120-S) from any S corporation in which you’re a shareholder. Schedule K-1 (Form 1120-S) shows your share of income, losses, deductions, and credits for the tax year. Keep Schedule K-1 (Form 1120-S) for your records. Don’t attach it to your Form 1040 or 1040-SR, unless you’re specifically required to do so.
+
+Shareholder’s return.
+
+Your distributive share of the items of income, losses, deductions, or credits of the S corporation must be shown separately on your Form 1040 or 1040-SR. The character of these items is generally the same as if you had realized or incurred them personally.
+
+Tip:
+
+In many cases, Schedule K-1 (Form 1120-S) will tell you where to report an item of income on your individual return.
+
+Distributions.
+
+In most cases, S corporation distributions are a nontaxable return of your basis in the corporation stock. However, in certain cases, part of the distributions may be taxable as a dividend, or as a long-term or short-term capital gain, or as both. The corporation’s distributions may be in the form of cash or property.
+
+More information.
+
+For more information, see the Instructions for Form 1120-S.

@@ -1,0 +1,1323 @@
+IRS Pub 501 (2025) | Dependents
+
+Dependents
+
+The term “dependent” means:
+
+-
+
+A qualifying child, or
+
+-
+
+A qualifying relative.
+
+The terms “ qualifying child ” and “ qualifying relative ” are defined later.
+
+All the requirements for claiming a dependent are summarized in Table 5 .
+
+Table 5. Overview of the Rules for Claiming a Dependent
+
+Caution | This table is only an overview of the rules. For details, see the rest of this publication.
+You can’t claim any dependents if you, or your spouse if filing jointly, could be claimed as a dependent by another taxpayer, unless that taxpayer files a return only to claim a refund of withheld income tax or estimated tax paid. You can’t claim a married person who files a joint return as a dependent unless that joint return is filed only to claim a refund of withheld income tax or estimated tax paid. You can’t claim a person as a dependent unless that person is a U.S. citizen, a U.S. resident alien, a U.S. national, or a resident of Canada or Mexico. 1 You can’t claim a person as a dependent unless that person is your qualifying child or qualifying relative.
+Tests To Be a Qualifying Child | Tests To Be a Qualifying Relative
+The child must be your son, daughter, stepchild, foster child, brother, sister, half brother, half sister, stepbrother, or stepsister, or a descendant of any of them. The child must be (a) under age 19 at the end of the year and younger than you (or your spouse if filing jointly); (b) under age 24 at the end of the year, a student, and younger than you (or your spouse if filing jointly); or (c) any age if permanently and totally disabled. The child must have lived with you for more than half of the year. 2 The child must not have provided more than half of the child’s own support for the year. The child must not be filing a joint return for the year (unless that joint return is filed only to claim a refund of withheld income tax or estimated tax paid). If the child meets the rules to be a qualifying child of more than one person, generally only one person can actually treat the child as a qualifying child. See Qualifying Child of More Than One Person , later, to find out which person is the person entitled to claim the child as a qualifying child. | The person can’t be your qualifying child or the qualifying child of any other taxpayer. The person either (a) must be related to you in one of the ways listed under Relatives who don’t have to live with you , or (b) must live with you all year as a member of your household 2 (and your relationship must not violate local law). The person’s gross income for the year must be less than $5,200. 3 You must provide more than half of the person’s total support for the year. 4
+1 There is an exception for certain adopted children.
+2 There are exceptions for temporary absences, children who were born or died during the year, children who were adopted or lawfully placed for adoption during the year, children who are eligible foster children placed during the year, children of divorced or separated parents (or parents who live apart), and kidnapped children.
+3 There is an exception if the person is disabled and has income from a sheltered workshop.
+4 There are exceptions for multiple support agreements, children of divorced or separated parents (or parents who live apart), and kidnapped children.
+
+Housekeepers, maids, or servants.
+
+If these people work for you, you can’t claim them as dependents.
+
+Child tax credit.
+
+You may be entitled to a child tax credit for each qualifying child who was under age 17 at the end of the year if you claimed that child as a dependent. For more information, see the Instructions for Form 1040.
+
+Credit for other dependents.
+
+You may be entitled to a credit for other dependents for each qualifying child who does not qualify you for the child tax credit and for each qualifying relative. For more information, see the Instructions for Form 1040.
+
+Exceptions
+
+Even if you have a qualifying child or qualifying relative, you can claim that person as a dependent only if these three tests are met.
+
+-
+
+Dependent taxpayer test .
+
+-
+
+Joint return test .
+
+-
+
+Citizen or resident test .
+
+These three tests are explained in detail here.
+
+Dependent Taxpayer Test
+
+If you can be claimed as a dependent by another taxpayer, you can’t claim anyone else as a dependent. Even if you have a qualifying child or qualifying relative, you can’t claim that person as a dependent.
+
+If you are filing a joint return and your spouse can be claimed as a dependent by another taxpayer, you and your spouse can’t claim any dependents on your joint return.
+
+Exception.
+
+If you can be claimed as a dependent by another taxpayer, you can claim someone else as a dependent if the person who can claim you (or your spouse if filing a joint return) as a dependent files a return only to claim a refund of income tax withheld or estimated tax paid.
+
+Joint Return Test
+
+You generally can’t claim a married person as a dependent if that person files a joint return.
+
+Exception.
+
+You can claim a person as a dependent who files a joint return if that person and that person’s spouse file the joint return only to claim a refund of income tax withheld or estimated tax paid.
+
+Example 1—child files joint return.
+
+You supported your 18-year-old child who lived with you all year while your child’s spouse was in the Armed Forces. Your child’s spouse earned $35,000 for the year. The couple files a joint return. You can’t claim your child as a dependent.
+
+Example 2—child files joint return only as claim for refund of withheld tax.
+
+Your 18-year-old child and your child’s 17-year-old spouse had $800 of wages from part-time jobs and no other income. They lived with you all year. Neither is required to file a tax return. They don’t have a child. Taxes were taken out of their pay, so they file a joint return only to get a refund of the withheld taxes. The exception to the joint return test applies, so you aren’t disqualified from claiming each of them as a dependent just because they file a joint return. You can claim each of them as dependents if all the other tests to do so are met.
+
+Example 3—child files joint return to claim American opportunity credit.
+
+The facts are the same as in Example 2 , except no taxes were taken out of your child’s pay or your child’s spouse’s pay. However, they file a joint return to claim an American opportunity credit of $124 and get a refund of that amount. Because they filed a joint return claiming the American opportunity credit, they aren’t filing it only to get a refund of income tax withheld or estimated tax paid. The exception to the joint return test doesn’t apply, so you can’t claim either of them as a dependent.
+
+Citizen or Resident Test
+
+You generally can’t claim a person as a dependent unless that person is a U.S. citizen, a U.S. resident alien, a U.S. national, or a resident of Canada or Mexico. However, there is an exception for certain adopted children, as explained next.
+
+Exception for adopted child.
+
+If you are a U.S. citizen or U.S. national who has legally adopted a child who isn’t a U.S. citizen, U.S. resident alien, or U.S. national, this test is met if the child lived with you as a member of your household all year. This exception also applies if the child was lawfully placed with you for legal adoption and the child lived with you for the rest of the year after placement.
+
+Child’s place of residence.
+
+Children are usually citizens or residents of the country of their parents.
+
+If you were a U.S. citizen when your child was born, the child may be a U.S. citizen and meet this test even if the other parent was a nonresident alien and the child was born in a foreign country.
+
+Foreign students’ place of residence.
+
+Foreign students brought to this country under a qualified international education exchange program and placed in American homes for a temporary period generally aren’t U.S. residents and don’t meet this test. You can’t claim them as dependents. However, if you provided a home for a foreign student, you may be able to take a charitable contribution deduction. See Expenses Paid for Student Living With You in Pub. 526.
+
+U.S. national.
+
+A U.S. national is an individual who, although not a U.S. citizen, owes allegiance to the United States. U.S. nationals include American Samoans and Northern Mariana Islanders who chose to become U.S. nationals instead of U.S. citizens.
+
+Qualifying Child
+
+Five tests must be met for a child to be your qualifying child. The five tests are:
+
+-
+
+Relationship ,
+
+-
+
+Age ,
+
+-
+
+Residency ,
+
+-
+
+Support , and
+
+-
+
+Joint return .
+
+These tests are explained next.
+
+. If a child meets the five tests to be the qualifying child of more than one person, there are rules you must use to determine which person can actually treat the child as a qualifying child. See Qualifying Child of More Than One Person , later. .
+
+Relationship Test
+
+To meet this test, a child must be:
+
+-
+
+Your son, daughter, stepchild, or foster child, or a descendant (for example, your grandchild) of any of them; or
+
+-
+
+Your brother, sister, half brother, half sister, stepbrother, or stepsister, or a descendant (for example, your niece or nephew) of any of them.
+
+Adopted child.
+
+An adopted child is always treated as your own child. The term “adopted child” includes a child who was lawfully placed with you for legal adoption.
+
+Foster child.
+
+A foster child is an individual who is placed with you by an authorized placement agency or by judgment, decree, or other order of any court of competent jurisdiction.
+
+Age Test
+
+To meet this test, a child must be:
+
+-
+
+Under age 19 at the end of the year and younger than you (or your spouse if filing jointly);
+
+-
+
+A student under age 24 at the end of the year and younger than you (or your spouse if filing jointly); or
+
+-
+
+Permanently and totally disabled at any time during the year, regardless of age.
+
+Example.
+
+Your child turned 19 on December 10. Unless this child was permanently and totally disabled or a student, this child doesn’t meet the age test because, at the end of the year, this child wasn’t under age 19.
+
+Child must be younger than you or your spouse.
+
+To be your qualifying child, a child who isn’t permanently and totally disabled must be younger than you. However, if you are married filing jointly, the child must be younger than you or your spouse but doesn’t have to be younger than both of you.
+
+Example 1—child not younger than you or your spouse.
+
+Your 23-year-old sibling, who is a student and unmarried, lives with you and your spouse, who provide more than half of your sibling’s support. Your sibling isn’t disabled. Both you and your spouse are 21 years old, and you file a joint return. Your sibling isn’t your qualifying child because your sibling isn’t younger than you or your spouse.
+
+Example 2—child younger than your spouse but not younger than you.
+
+The facts are the same as in Example 1 , except your spouse is 25 years old. Because your sibling is younger than your spouse and you and your spouse are filing a joint return, your sibling is your qualifying child, even though your sibling isn’t younger than you.
+
+Student defined.
+
+To qualify as a student, your child must be, during some part of each of any 5 calendar months of the year:
+
+-
+
+A full-time student at a school that has a regular teaching staff and course of study, and a regularly enrolled student body at the school; or
+
+-
+
+A student taking a full-time, on-farm training course given by a school described in (1), or by a state, county, or local government agency.
+
+The 5 calendar months don’t have to be consecutive.
+
+Full-time student.
+
+A full-time student is a student who is enrolled for the number of hours or courses the school considers to be full-time attendance.
+
+School defined.
+
+A school can be an elementary school, a junior or senior high school, a college, a university, or a technical, trade, or mechanical school. However, an on-the-job training course, correspondence school, or school offering courses only through the Internet doesn’t count as a school.
+
+Vocational high school students.
+
+Students who work on “co-op” jobs in private industry as a part of a school’s regular course of classroom and practical training are considered full-time students.
+
+Permanently and totally disabled.
+
+Your child is permanently and totally disabled if both of the following apply.
+
+-
+
+Your child can’t engage in any substantial gainful activity because of a physical or mental condition.
+
+-
+
+A doctor determines the condition has lasted or can be expected to last continuously for at least a year or can lead to death.
+
+Residency Test
+
+To meet this test, your child must have lived with you for more than half the year. There are exceptions for temporary absences, children who were born or died during the year, adopted or foster children, kidnapped children, and children of divorced or separated parents.
+
+Temporary absences.
+
+Your child is considered to have lived with you during periods of time when one of you, or both, is temporarily absent due to special circumstances, such as:
+
+-
+
+Illness,
+
+-
+
+Education,
+
+-
+
+Business,
+
+-
+
+Vacation,
+
+-
+
+Military service, or
+
+-
+
+Detention in a juvenile facility.
+
+Death or birth of child.
+
+A child who was born or died during the year is treated as having lived with you more than half the year if your home was the child’s home more than half the time the child was alive during the year. The same is true if the child lived with you more than half the year except for any required hospital stay following birth.
+
+Child born alive.
+
+You may be able to claim as a dependent a child born alive during the year, even if the child lived only for a moment. State or local law must treat the child as having been born alive. There must be proof of a live birth shown by an official document, such as a birth certificate. The child must be your qualifying child or qualifying relative, and all the other tests to claim the child as a dependent must be met.
+
+Stillborn child.
+
+You can’t claim a stillborn child as a dependent.
+
+Adopted child or foster child.
+
+You can treat your adopted child or foster child as meeting the residency test, as follows, if you adopted the child in 2025, the child was lawfully placed with you for legal adoption by you in 2025, or the child was an eligible foster child placed with you during 2025. This child is considered to have lived with you for more than half of 2025 if your main home was this child’s main home for more than half the time since this child was adopted or placed with you in 2025.
+
+Kidnapped child.
+
+You can treat your child as meeting the residency test even if the child has been kidnapped, but the following statements must be true.
+
+-
+
+The child is presumed by law enforcement authorities to have been kidnapped by someone who isn’t a member of your family or the child’s family.
+
+-
+
+In the year the kidnapping occurred, the child lived with you for more than half of the part of the year before the date of the kidnapping.
+
+-
+
+In the year of the child’s return, the child lived with you for more than half the part of the year following the date of the child’s return.
+
+This treatment applies for all years until the earlier of:
+
+-
+
+The year there is a determination that the child is dead, or
+
+-
+
+The year the child would have reached age 18.
+
+Children of divorced or separated parents (or parents who live apart).
+
+In most cases, because of the residency test, a child of divorced or separated parents is the qualifying child of the custodial parent. However, the child will be treated as the qualifying child of the noncustodial parent if all four of the following statements are true.
+
+-
+
+The parents:
+
+-
+
+Are divorced or legally separated under a decree of divorce or separate maintenance;
+
+-
+
+Are separated under a written separation agreement; or
+
+-
+
+Lived apart at all times during the last 6 months of the year, whether or not they are or were married.
+
+-
+
+The child received over half of the child’s support for the year from the parents.
+
+-
+
+The child is in the custody of one or both parents for more than half of the year.
+
+-
+
+Either of the following statements is true.
+
+-
+
+The custodial parent signs a written declaration, discussed later, that they won’t claim the child as a dependent for the year, and the noncustodial parent attaches this written declaration to their return. (If the decree or agreement went into effect after 1984 and before 2009, see Post-1984 and pre-2009 divorce decree or separation agreement , later. If the decree or agreement went into effect after 2008, see Post-2008 divorce decree or separation agreement , later.)
+
+-
+
+A pre-1985 decree of divorce or separate maintenance or written separation agreement that applies to 2025 states that the noncustodial parent can claim the child as a dependent, the decree or agreement wasn’t changed after 1984 to say the noncustodial parent can’t claim the child as a dependent, and the noncustodial parent provides at least $600 for the child’s support during the year.
+
+If statements (1) through (4) are all true, only the noncustodial parent can:
+
+-
+
+Claim the child as a dependent; and
+
+-
+
+Claim the child as a qualifying child for the child tax credit, the credit for other dependents, or the additional child tax credit.
+
+However, this doesn’t allow the noncustodial parent to claim head of household filing status, the credit for child and dependent care expenses, the exclusion for dependent care benefits, or the earned income credit. See Applying the tiebreaker rules to divorced or separated parents (or parents who live apart) , later.
+
+Example—earned income credit.
+
+Even if statements (1) through (4) are all true and the custodial parent signs Form 8332 or a substantially similar statement that the custodial parent won’t claim the child as a dependent for 2025, this doesn’t allow the noncustodial parent to claim the child as a qualifying child for the earned income credit. The custodial parent or another taxpayer, if eligible, can claim the child for the earned income credit.
+
+Custodial parent and noncustodial parent.
+
+The custodial parent is the parent with whom the child lived for the greater number of nights during the year. The other parent is the noncustodial parent.
+
+If the parents divorced or separated during the year and the child lived with both parents before the separation, the custodial parent is the one with whom the child lived for the greater number of nights during the rest of the year.
+
+A child is treated as living with a parent for a night if the child sleeps:
+
+-
+
+At that parent’s home, whether or not the parent is present; or
+
+-
+
+In the company of the parent, when the child doesn’t sleep at a parent’s home (for example, the parent and child are on vacation together).
+
+Equal number of nights.
+
+If the child lived with each parent for an equal number of nights during the year, the custodial parent is the parent with the higher AGI.
+
+December 31.
+
+The night of December 31 is treated as part of the year in which the night begins. For example, the night of December 31, 2025, is treated as part of 2025.
+
+Emancipated child.
+
+If a child is emancipated under state law, the child is treated as not living with either parent. See Examples 5 and 6 .
+
+Absences.
+
+If a child wasn’t with either parent on a particular night (because, for example, the child was staying at a friend’s house), the child is treated as living with the parent with whom the child normally would have lived for that night, except for the absence. But if it can’t be determined with which parent the child normally would have lived or if the child would not have lived with either parent that night, the child is treated as not living with either parent that night.
+
+Parent works at night.
+
+If, due to a parent’s nighttime work schedule, a child lives for a greater number of days, but not nights, with the parent who works at night, that parent is treated as the custodial parent. On a school day, the child is treated as living at the primary residence registered with the school.
+
+Example 1—child lived with one parent for a greater number of nights.
+
+You and your child’s other parent are divorced. In 2025, your child lived with you 210 nights and with the other parent 155 nights. You are the custodial parent.
+
+Example 2—child is away at camp.
+
+In 2025, your child lives with each parent for alternate weeks. In the summer, your child spends 6 weeks at summer camp. During those 6 weeks, your child is treated as living with you for 3 weeks and with your child’s other parent, your ex-spouse, for 3 weeks because this is how long the child would have lived with each parent if the child had not attended summer camp.
+
+Example 3—child lived same number of nights with each parent.
+
+Your child lived with you 180 nights during the year and lived the same number of nights with the child’s other parent, your ex-spouse. Your AGI is $40,000. Your ex-spouse’s AGI is $25,000. You are treated as your child’s custodial parent because you have the higher AGI.
+
+Example 4—child is at parent’s home but with other parent.
+
+Your child normally lives with you during the week and with the child’s other parent, your ex-spouse, every other weekend. You become ill and are hospitalized. Your ex-spouse lives in your home with your child for 10 consecutive days while you are in the hospital. Your child is treated as living with you during this 10-day period because your child was living in your home.
+
+Example 5—child emancipated in May.
+
+Your child turned 18 in May 2025 and became emancipated under the law of the state where your child lives. As a result, your child isn’t considered in the custody of either parent for more than half of the year. The special rule for children of divorced or separated parents doesn’t apply.
+
+Example 6—child emancipated in August.
+
+Your child lives with you from January 1, 2025, until May 31, 2025, and lives with the child’s other parent, your ex-spouse, from June 1, 2025, through the end of the year. Your child turns 18 and is emancipated under state law on August 1, 2025. Because your child is treated as not living with either parent beginning on August 1, your child is treated as living with you the greater number of nights in 2025. You are the custodial parent.
+
+Written declaration.
+
+The custodial parent must use either Form 8332 or a similar statement (containing the same information required by the form) to make the written declaration to release a claim to an exemption for a child to the noncustodial parent. Although the exemption amount is zero for tax year 2025, this release allows the noncustodial parent to claim the child tax credit, credit for other dependents, or additional child tax credit, if applicable, for the child. The noncustodial parent must attach a copy of the form or statement to their tax return.
+
+The release can be for 1 year, for a number of specified years (for example, alternate years), or for all future years, as specified in the declaration.
+
+Post-1984 and pre-2009 divorce decree or separation agreement.
+
+If the divorce decree or separation agreement went into effect after 1984 and before 2009, the noncustodial parent may be able to attach certain pages from the decree or agreement instead of Form 8332. The decree or agreement must state all three of the following.
+
+-
+
+The noncustodial parent can claim the child as a dependent without regard to any condition, such as payment of support.
+
+-
+
+The custodial parent won’t claim the child as a dependent for the year.
+
+-
+
+The years for which the noncustodial parent, rather than the custodial parent, can claim the child as a dependent.
+
+The noncustodial parent must attach all of the following pages of the decree or agreement to their tax return.
+
+-
+
+The cover page (write the other parent’s SSN on this page).
+
+-
+
+The pages that include all of the information identified in items (1) through (3) above.
+
+-
+
+The signature page with the other parent’s signature and the date of the agreement.
+
+Post-2008 divorce decree or separation agreement.
+
+The noncustodial parent can’t attach pages from the decree or agreement instead of Form 8332 if the decree or agreement went into effect after 2008. The custodial parent must sign either Form 8332 or a similar statement the only purpose of which is to release the custodial parent’s claim to an exemption, and the noncustodial parent must attach a copy to their return. The form or statement must release the custodial parent’s claim to the child without any conditions. For example, the release must not depend on the noncustodial parent paying support.
+
+. The noncustodial parent must attach the required information even if it was filed with a return in an earlier year. .
+
+Revocation of release of claim to an exemption.
+
+The custodial parent can revoke a release of claim to an exemption. For the revocation to be effective for 2025, the custodial parent must have given (or made reasonable efforts to give) written notice of the revocation to the noncustodial parent in 2024 or earlier. The custodial parent can use Part III of Form 8332 for this purpose and must attach a copy of the revocation to their return for each tax year the custodial parent claims the child as a dependent as a result of the revocation.
+
+Remarried parent.
+
+If you remarry, the support provided by your new spouse is treated as provided by you.
+
+Parents who never married.
+
+This rule for divorced or separated parents also applies to parents who never married and lived apart at all times during the last 6 months of the year.
+
+Support Test (To Be a Qualifying Child)
+
+To meet this test, the child can’t have provided more than half of the child’s own support for the year.
+
+This test is different from the support test to be a qualifying relative, which is described later. However, to see what is or isn’t support, see Support Test (To Be a Qualifying Relative) , later. If you aren’t sure whether a child provided more than half of their own support, you may find Worksheet 2 helpful.
+
+Example.
+
+You provided $4,000 toward your 16-year-old child’s support for the year and the child provided $6,000. Your child provided more than half their own support. This child isn’t your qualifying child.
+
+Foster care payments and expenses.
+
+Payments you receive for the support of a foster child from a child placement agency are considered support provided by the agency. Similarly, payments you receive for the support of a foster child from a state or county are considered support provided by the state or county.
+
+If you aren’t in the trade or business of providing foster care and your unreimbursed out-of-pocket expenses in caring for a foster child were mainly to benefit an organization qualified to receive deductible charitable contributions, the expenses are deductible as charitable contributions but aren’t considered support you provided. For more information about the deduction for charitable contributions, see Pub. 526. If your unreimbursed expenses aren’t deductible as charitable contributions, they may qualify as support you provided.
+
+If you are in the trade or business of providing foster care, your unreimbursed expenses aren’t considered support provided by you.
+
+Example 1.
+
+A foster child lived with a married couple, the Smiths, for the last 3 months of the year. The Smiths cared for the foster child because they wanted to adopt the child (although the child had not been placed with them for adoption). They didn’t care for the foster child as a trade or business or to benefit the agency that placed the foster child in their home. The Smiths’ unreimbursed expenses aren’t deductible as charitable contributions but are considered support they provided for the foster child.
+
+Example 2.
+
+You provided $3,000 toward your 10-year-old foster child’s support for the year. The state government provided $4,000, which is considered support provided by the state, not by the child. See Support provided by the state (welfare, food benefits, housing, etc.) , later. Your foster child didn’t provide more than half of their own support for the year.
+
+Scholarships.
+
+A scholarship received by a child who is a student isn’t taken into account in determining whether the child provided more than half of their own support.
+
+TANF and other governmental payments.
+
+Under proposed Treasury regulations, if you received Temporary Assistance to Needy Families (TANF) payments or other similar payments and used the payment to support another person, those payments are considered support you provided for that person, rather than support provided by the government or other third party.
+
+Joint Return Test (To Be a Qualifying Child)
+
+To meet this test, the child can’t file a joint return for the year.
+
+Exception.
+
+An exception to the joint return test applies if your child and the child’s spouse file a joint return only to claim a refund of income tax withheld or estimated tax paid.
+
+Example 1—child files joint return.
+
+You supported your 18-year-old child who lived with you all year while the child’s spouse was in the Armed Forces. Your child’s spouse earned $35,000 for the year. The couple files a joint return so this child isn’t your qualifying child.
+
+Worksheet 2. Worksheet for Determining Support
+
+Funds Belonging to the Person You Supported
+1. | Enter the total funds belonging to the person you supported, including income received (taxable and nontaxable) and amounts borrowed during the year, plus the amount in savings and other accounts at the beginning of the year. Don’t include funds provided by the state; include those amounts on line 23 instead | 1. | _____
+2. | Enter the amount on line 1 that was used for the person’s support | 2. | _____
+3. | Enter the amount on line 1 that was used for other purposes | 3. | _____
+4. | Enter the total amount in the person’s savings and other accounts at the end of the year | 4. | _____
+5. | Add lines 2 through 4. (This amount should equal line 1.) | 5. | _____
+Expenses for Entire Household (where the person you supported lived)
+6. | Lodging (complete line 6a or 6b):
+a. Enter the total rent paid | 6a. | _____
+b. Enter the fair rental value of the home. If the person you supported owned the home, also include this amount in line 21 | 6b. | _____
+7. | Enter the total food expenses | 7. | _____
+8. | Enter the total amount of utilities (heat, light, water, etc., not included in line 6a or 6b) | 8. | _____
+9. | Enter the total amount of repairs (not included in line 6a or 6b) | 9. | _____
+10. | Enter the total of other expenses. Don’t include expenses of maintaining the home, such as mortgage interest, real estate taxes, and insurance | 10. | _____
+11. | Add lines 6a through 10. These are the total household expenses | 11. | _____
+12. | Enter total number of persons who lived in the household | 12. | _____
+Expenses for the Person You Supported
+13. | Divide line 11 by line 12. This is the person’s share of the household expenses | 13. | _____
+14. | Enter the person’s total clothing expenses | 14. | _____
+15. | Enter the person’s total education expenses | 15. | _____
+16. | Enter the person’s total medical and dental expenses not paid for or reimbursed by insurance | 16. | _____
+17. | Enter the person’s total travel and recreation expenses | 17. | _____
+18. | Enter the total of the person’s other expenses | 18. | _____
+19. | Add lines 13 through 18. This is the total cost of the person’s support for the year | 19. | _____
+Did the Person Provide More Than Half of the Person’s Own Support?
+20. | Multiply line 19 by 50% (0.50) | 20. | _____
+21. | Enter the amount from line 2, plus the amount from line 6b, if the person you supported owned the home. This is the amount the person provided for their own support | 21. | _____
+22. | Is line 21 more than line 20? checkbox No. You meet the support test for this person to be your qualifying child. If this person also meets the other tests to be a qualifying child, stop here; don’t complete lines 23–26. Otherwise, go to line 23 and fill out the rest of the worksheet to determine if this person is your qualifying relative. checkbox Yes. You don’t meet the support test for this person to be either your qualifying child or your qualifying relative. Stop here.
+Did You Provide More Than Half?
+23. | Enter the amount others provided for the person’s support. Include amounts provided by state, local, and other welfare societies or agencies. Don’t include any amounts included on line 1 | 23. | _____
+24. | Add lines 21 and 23 | 24. | _____
+25. | Subtract line 24 from line 19. This is the amount you provided for the person’s support | 25. | _____
+26. | Is line 25 more than line 20? checkbox Yes. You meet the support test for this person to be your qualifying relative. checkbox No. You don’t meet the support test for this person to be your qualifying relative. You can’t claim this person as a dependent unless you can do so under a multiple support agreement, the support test for children of divorced or separated parents (or parents who live apart), or the special rule for kidnapped children. See Multiple Support Agreement , Support Test for Children of Divorced or Separated Parents (or Parents Who Live Apart) , or Kidnapped child under Qualifying Relative .
+
+Example 2—child files joint return only as claim for refund of withheld tax.
+
+Your 18-year-old child and your child’s 17-year-old spouse had $800 of wages from part-time jobs and no other income. They lived with you all year. Neither is required to file a tax return. They don’t have a child. Taxes were taken out of their pay, so they file a joint return only to get a refund of the withheld taxes. The exception to the joint return test applies, so this child may be your qualifying child if all the other tests are met.
+
+Example 3—child files joint return to claim American opportunity credit.
+
+The facts are the same as in Example 2 , except no taxes were taken out of either spouse’s pay. However, they file a joint return to claim an American opportunity credit of $124 and get a refund of that amount. Because claiming the American opportunity credit is their reason for filing the return, they aren’t filing it only to get a refund of income tax withheld or estimated tax paid. The exception to the joint return test doesn’t apply, so this child isn’t your qualifying child.
+
+Qualifying Child of More Than One Person
+
+. If your qualifying child isn’t a qualifying child of anyone else, this topic doesn’t apply to you and you don’t need to read about it. This is also true if your qualifying child isn’t a qualifying child of anyone else except your spouse with whom you plan to file a joint return. .
+
+. If a child is treated as the qualifying child of the noncustodial parent under the rules for children of divorced or separated parents (or parents who live apart), described earlier, see Applying the tiebreaker rules to divorced or separated parents (or parents who live apart) , later. .
+
+Sometimes, a child meets the relationship, age, residency, support, and joint return tests to be a qualifying child of more than one person. Although the child is a qualifying child of each of these persons, generally only one person can actually treat the child as a qualifying child to take all of the following tax benefits (provided the person is eligible for each benefit).
+
+-
+
+The child tax credit, credit for other dependents, or additional child tax credit.
+
+-
+
+Head of household filing status.
+
+-
+
+The credit for child and dependent care expenses.
+
+-
+
+The exclusion from income for dependent care benefits.
+
+-
+
+The earned income credit.
+
+The other person can’t take any of these benefits based on this qualifying child. In other words, you and the other person can’t agree to divide these tax benefits between you.
+
+Tiebreaker rules.
+
+To determine which person can treat the child as a qualifying child to claim these five tax benefits, the following tiebreaker rules apply. For purposes of these tiebreaker rules, the term “parent” means a biological or adoptive parent of an individual. It does not include a stepparent or foster parent unless that person has adopted the individual.
+
+-
+
+If only one of the persons is the child’s parent, the child is treated as the qualifying child of the parent.
+
+-
+
+If the parents file a joint return together and can claim the child as a qualifying child, the child is treated as the qualifying child of the parents.
+
+-
+
+If the parents don’t file a joint return together but both parents claim the child as a qualifying child, the IRS will treat the child as the qualifying child of the parent with whom the child lived for the longer period of time during the year. If the child lived with each parent for the same amount of time, the IRS will treat the child as the qualifying child of the parent who had the higher AGI for the year.
+
+-
+
+If no parent can claim the child as a qualifying child, the child is treated as the qualifying child of the person who had the highest AGI for the year.
+
+-
+
+If a parent can claim the child as a qualifying child but no parent does so claim the child, the child is treated as the qualifying child of the person who had the highest AGI for the year, but only if that person’s AGI is higher than the highest AGI of any of the child’s parents who can claim the child.
+
+Subject to these tiebreaker rules, you and the other person may be able to choose which of you claims the child as a qualifying child.
+
+. You may be able to qualify for the earned income credit under the rules for taxpayers without a qualifying child if you have a qualifying child for the earned income credit who is claimed as a qualifying child by another taxpayer. For more information, see Pub. 596. .
+
+Example 1—child lived with parent and grandparent.
+
+You and your 3-year-old child, Jordan, lived with your parent all year. You are 25 years old and unmarried, and your AGI is $9,000. Your parent’s AGI is $15,000. Your child’s other parent didn’t live with you or your child. You haven’t signed Form 8832 (or a similar statement).
+
+Jordan is a qualifying child of both you and your parent because Jordan meets the relationship, age, residency, support, and joint return tests for both you and your parent. However, only one of you can claim Jordan. Your child isn’t a qualifying child of anyone else, including Jordan’s other parent. You agree to let your parent claim Jordan. This means your parent can claim Jordan as a qualifying child for all of the five tax benefits listed earlier, if your parent qualifies for each of those benefits (and if you don’t claim Jordan as a qualifying child for any of those tax benefits).
+
+Example 2—parent has higher AGI than grandparent.
+
+The facts are the same as in Example 1 , except your AGI is $18,000. Because your parent’s AGI isn’t higher than yours, your parent can’t claim Jordan. Only you can claim Jordan.
+
+Example 3—two persons claim same child.
+
+The facts are the same as in Example 1 , except you and your parent both claim Jordan as a qualifying child. In this case, you, as the child’s parent, will be the only one allowed to claim the child as a qualifying child. The IRS will disallow your parent’s claim to the five tax benefits listed earlier based on Jordan. However, your parent may qualify for the earned income credit as a taxpayer without a qualifying child.
+
+Example 4—qualifying children split between two persons.
+
+The facts are the same as in Example 1 , except you also have two other young children who are qualifying children of both you and your parent. Only one of you can claim each child. However, if your parent’s AGI is higher than yours, you can allow your parent to claim one or more of the children. For example, if you claim one child, your parent can claim the other two.
+
+Example 5—taxpayer who is a qualifying child.
+
+The facts are the same as in Example 1 , except you are only 18 years old and didn’t provide more than half of your own support for the year. This means you are your parent’s qualifying child. If your parent can claim you as a dependent, then you can’t claim your child as a dependent because of the dependent taxpayer test , explained earlier, unless your parent files a return only to claim a refund of income tax withheld or estimated tax paid.
+
+Example 6—separated parents.
+
+You, your spouse, and your 10-year-old child all lived in the United States for all of 2025. On August 1, 2025, your spouse moved out of the household. In August and September, your child lived with you. For the rest of the year, your child lived with your spouse, the child’s other parent. Your child is a qualifying child of both you and your spouse because your child lived with each of you for more than half the year and because your child met the relationship, age, support, and joint return tests for both of you. At the end of the year, you and your spouse still weren’t divorced, legally separated, or separated under a written separation agreement, so the rule for children of divorced or separated parents (or parents who live apart) doesn’t apply.
+
+You and your spouse will file separate returns. Your spouse agrees to let you treat your child as a qualifying child. This means, if your spouse doesn’t claim your child as a qualifying child, you can claim this child as a qualifying child for the child tax credit and the exclusion for dependent care benefits (assuming you otherwise qualify for both tax benefits). However, you can’t claim head of household filing status because you and your spouse didn’t live apart for the last 6 months of the year. As a result, your filing status is married filing separately. You can’t claim the earned income credit because you don’t meet the requirements for certain separated spouses to claim the earned income credit when they don’t file a joint return. You and your spouse didn’t live apart for the last 6 months of 2025 and while you did live apart at the end of 2025, you aren’t legally separated under a written separation agreement or decree of separate maintenance. Therefore, you don’t meet the requirements to take the earned income credit as a separated spouse who is not filing a joint return. You also can’t take the credit for child and dependent care expenses because your fling status is married filing separately and you and your spouse didn’t live apart for the last 6 months of 2025.
+
+Example 7—separated parents claim same child.
+
+The facts are the same as in Example 6 , except you and your spouse both claim your child as a qualifying child. In this case, only your spouse will be allowed to treat your child as a qualifying child. This is because, during 2025, the child lived with your spouse longer than with you. If you claimed the child tax credit for your child, the IRS will disallow your claim to the child tax credit. If you don’t have another qualifying child or dependent, the IRS will also disallow your claim to the exclusion for dependent care benefits. In addition, because you and your spouse didn’t live apart for the last 6 months of the year, your spouse can’t claim head of household filing status. As a result, your spouse’s filing status is married filing separately. Your spouse can’t claim the earned income credit because your spouse doesn’t meet the requirements to claim the earned income credit for certain separated spouses. You and your spouse didn’t live apart for the last 6 months of 2025 and, while you did live apart at the end of 2025, you aren’t legally separated under a written separation agreement or decree of separate maintenance. Therefore, your spouse doesn’t meet the requirements to take the earned income credit as a separated spouse who isn’t filing a joint return. Your spouse also can’t take the credit for child and dependent care expenses because your spouse’s filing status is married filing separately and you and your spouse didn’t live apart for the last 6 months of 2025.
+
+Example 8—unmarried parents.
+
+You, your 5-year-old child, Marley, and Marley’s other parent lived together in the United States all year. You and Marley’s other parent aren’t married. Marley is a qualifying child of both you and the other parent because Marley meets the relationship, age, residency, support, and joint return tests for both you and the other parent. Your AGI is $12,000 and the other parent’s AGI is $14,000. The other parent agrees to let you claim Marley as a qualifying child. This means you can claim Marley as a qualifying child for the child tax credit, head of household filing status, the credit for child and dependent care expenses, the exclusion for dependent care benefits, and the earned income credit, if you qualify for each of those tax benefits (and if the other parent doesn’t claim Marley as a qualifying child for any of those tax benefits).
+
+Example 9—unmarried parents claim same child.
+
+The facts are the same as in Example 8 , except you and Marley’s other parent both claim Marley as a qualifying child. In this case, only the other parent will be allowed to treat Marley as a qualifying child. This is because the other parent’s AGI, $14,000, is more than your AGI, $12,000. If you claimed the child tax credit for Marley, the IRS will disallow your claim to this credit. If you don’t have another qualifying child or dependent, the IRS will also disallow your claim to head of household filing status, the credit for child and dependent care expenses, and the exclusion for dependent care benefits. However, you may be able to claim the earned income credit as a taxpayer without a qualifying child.
+
+Example 10—child didn’t live with a parent.
+
+You and your sibling’s child, Reid, lived with your parent all year. You are 25 years old, and your AGI is $9,300. Your parent’s AGI is $15,000. Reid’s parents file jointly, have an AGI of less than $9,000, and don’t live with you or Reid. Reid is a qualifying child of both you and your parent because Reid meets the relationship, age, residency, support, and joint return tests for both you and your parent. However, only your parent can treat Reid as a qualifying child. This is because your parent’s AGI, $15,000, is more than your AGI, $9,300.
+
+Applying the tiebreaker rules to divorced or separated parents (or parents who live apart).
+
+If a child is treated as the qualifying child of the noncustodial parent under the rules described earlier for children of divorced or separated parents (or parents who live apart) , only the noncustodial parent can claim the child as a dependent and claim the child tax credit, additional child tax credit, or credit for other dependents for the child. However, only the custodial parent can claim the credit for child and dependent care expenses or the exclusion for dependent care benefits for the child. Also, generally, the noncustodial parent can’t claim the child as a qualifying child for head of household filing status or the earned income credit. Instead, generally, the custodial parent, if eligible, or other eligible person can claim the child as a qualifying child for those two benefits. If the child is the qualifying child of more than one person for these benefits, then the tiebreaker rules determine whether the custodial parent or another eligible person can treat the child as a qualifying child.
+
+. The noncustodial parent may be able to claim the self-only earned income credit if they meet other requirements. See Pub. 596 and Schedule EIC and its instructions for more information. .
+
+Example 1.
+
+You and your 5-year-old child, Kody, lived all year with your parent in the United States. Your parent paid the entire cost of keeping up the home. Your AGI is $10,000. Your parent’s AGI is $25,000. Kody’s other parent lived in the United States all year, but didn’t live with you or Kody.
+
+Under the rules explained earlier for children of divorced or separated parents (or parents who live apart), Kody is treated as the qualifying child of Kody’s other parent, who can claim the child tax credit for the child. Because of this, you can’t claim the child tax credit for your child. However, those rules don’t allow Kody’s other parent to claim Kody as a qualifying child for head of household filing status, the credit for child and dependent care expenses, the exclusion for dependent care benefits, or the earned income credit.
+
+You and your parent didn’t have any childcare expenses or dependent care benefits, so neither of you can claim the credit for child and dependent care expenses or the exclusion for dependent care benefits. But Kody is a qualifying child of both you and your parent for head of household filing status and the earned income credit because Kody meets the relationship, age, residency, support, and joint return tests for both you and your parent. (The support test doesn’t apply for the earned income credit.) However, you agree to let your parent claim Kody. This means your parent can claim Kody for head of household filing status and the earned income credit if your parent qualifies for each and if you don’t claim Kody as a qualifying child for the earned income credit. (You can’t claim head of household filing status because your parent paid the entire cost of keeping up the home.) You may be able to claim the earned income credit as a taxpayer without a qualifying child.
+
+Example 2.
+
+The facts are the same as in Example 1 , except your AGI is $25,000 and your parent’s AGI is $21,000. Your parent can’t claim Kody as a qualifying child for any purpose because your parent’s AGI isn’t higher than yours.
+
+Example 3.
+
+The facts are the same as in Example 1 , except you and your parent both claim Kody as a qualifying child for the earned income credit. Your parent also claims Kody as a qualifying child for head of household filing status. You, as the child’s parent, will be the only one allowed to claim Kody as a qualifying child for the earned income credit. The IRS will disallow your parent’s claim to head of household filing status unless your parent has another qualifying child or dependent. Your parent can’t claim the earned income credit as a taxpayer without a qualifying child because your parent’s AGI is more than $19,104.
+
+Qualifying Relative
+
+Four tests must be met for a person to be your qualifying relative. The four tests are:
+
+-
+
+Not a qualifying child test ,
+
+-
+
+Member of household or relationship test ,
+
+-
+
+Gross income test , and
+
+-
+
+Support test .
+
+Age.
+
+Unlike a qualifying child, a qualifying relative can be any age. There is no age test for a qualifying relative.
+
+Kidnapped child.
+
+You can treat a child as your qualifying relative even if the child has been kidnapped, but the following statements must be true.
+
+-
+
+The child is presumed by law enforcement authorities to have been kidnapped by someone who isn’t a member of your family or the child’s family.
+
+-
+
+In the year the kidnapping occurred, the child met the tests to be your qualifying relative for the part of the year before the date of the kidnapping.
+
+-
+
+In the year of the child’s return, the child met the tests to be your qualifying relative for the part of the year following the date of the child’s return.
+
+This treatment applies for all years until the earlier of:
+
+-
+
+The year there is a determination that the child is dead, or
+
+-
+
+The year the child would have reached age 18.
+
+Not a Qualifying Child Test
+
+A child isn’t your qualifying relative if the child is your qualifying child or the qualifying child of any other taxpayer.
+
+Example 1.
+
+Your 22-year-old child, who is a student, lives with you and meets all the tests to be your qualifying child. This child isn’t your qualifying relative.
+
+Example 2.
+
+Your 2-year-old child lives with your parents and meets all the tests to be their qualifying child. This child isn’t your qualifying relative.
+
+Example 3.
+
+Your 30-year-old child lives with you. This child isn’t a qualifying child because the age test isn’t met. This child may be your qualifying relative if the gross income test and the support test are met.
+
+Example 4.
+
+Your 13-year-old grandchild only lived with you for 5 months during the year. Your grandchild isn’t your qualifying child because the residency test isn’t met. Your grandchild may be your qualifying relative if the gross income test and the support test are met.
+
+Child of person not required to file a return.
+
+A child isn’t the qualifying child of any other taxpayer and so may qualify as your qualifying relative if the child’s parent (or other person for whom the child is defined as a qualifying child) isn’t required to file an income tax return and either:
+
+-
+
+Doesn’t file an income tax return, or
+
+-
+
+Files a return only to get a refund of income tax withheld or estimated tax paid.
+
+Example 1—return not required.
+
+You support an unrelated friend and your friend’s 3-year-old child, who lived with you all year in your home. Your friend has no gross income, isn’t required to file a 2025 tax return, and doesn’t file a 2025 tax return. Both your friend and your friend’s child are your qualifying relatives if the support test is met.
+
+Example 2—return filed to claim refund.
+
+The facts are the same as in Example 1 , except your friend had wages of $1,500 during the year and had income tax withheld from their wages. Your friend files a return only to get a refund of the income tax withheld and doesn’t claim the earned income credit or any other tax credits or deductions. Both your friend and your friend’s child are your qualifying relatives if the support test is met.
+
+Example 3—earned income credit claimed.
+
+The facts are the same as in Example 2 , except your friend had wages of $8,000 during the year and claimed the earned income credit. Your friend’s child is the qualifying child of another taxpayer (your friend), so you can’t claim your friend’s child as your qualifying relative. Also, you can’t claim your friend as your qualifying relative because of the gross income test explained later.
+
+Child in Canada or Mexico.
+
+You may be able to claim your child as a dependent even if the child lives in Canada or Mexico. If the child doesn’t live with you, the child doesn’t meet the residency test to be your qualifying child. However, the child may still be your qualifying relative. If the persons the child does live with aren’t U.S. citizens and have no U.S. gross income, those persons aren’t “taxpayers,” so the child isn’t the qualifying child of any other taxpayer. If the child isn’t the qualifying child of any other taxpayer, the child is your qualifying relative as long as the gross income test and the support test are met.
+
+You can’t claim as a dependent a child who lives in a foreign country other than Canada or Mexico, unless the child is a U.S. citizen, U.S. resident alien, or U.S. national. There is an exception for certain adopted children who lived with you all year. See Citizen or Resident Test , earlier.
+
+Example.
+
+You provide all the support of your children, ages 6, 8, and 12, who live in Mexico with your parent and have no income. You are single and live in the United States. Your parent isn’t a U.S. citizen and has no U.S. income, so your parent isn’t a “taxpayer.” Your children aren’t your qualifying children because they don’t meet the residency test. But because they aren’t the qualifying children of any other taxpayer, they may be your qualifying relatives and you may be permitted to claim them as dependents. You may also be able to claim your parent as a dependent if the gross income and support tests are met.
+
+Member of Household or Relationship Test
+
+To meet this test, a person must either:
+
+-
+
+Live with you all year as a member of your household, or
+
+-
+
+Be related to you in one of the ways listed under Relatives who don’t have to live with you below.
+
+If at any time during the year the person was your spouse, that person can’t be your qualifying relative.
+
+Relatives who don’t have to live with you.
+
+A person related to you in any of the following ways doesn’t have to live with you all year as a member of your household to meet this test.
+
+-
+
+Your child, stepchild, or foster child, or a descendant of any of them (for example, your grandchild). (A legally adopted child is considered your child.)
+
+-
+
+Your brother, sister, half brother, half sister, stepbrother, or stepsister.
+
+-
+
+Your father, mother, grandparent, or other direct ancestor, but not foster parent.
+
+-
+
+Your stepfather or stepmother.
+
+-
+
+A son or daughter of your brother or sister.
+
+-
+
+A son or daughter of your half brother or half sister.
+
+-
+
+A brother or sister of your father or mother.
+
+-
+
+Your son-in-law, daughter-in-law, father-in-law, mother-in-law, brother-in-law, or sister-in-law.
+
+Any of these relationships that were established by marriage aren’t ended by death or divorce.
+
+Example.
+
+In 2019, you and your spouse began supporting your spouse’s unmarried parent, Gene. Your spouse died in 2024. Despite your spouse’s death, Gene continues to meet this test, even if Gene doesn’t live with you. You can claim Gene as a dependent if all other tests are met, including the gross income and support tests.
+
+Foster child.
+
+A foster child is an individual who is placed with you by an authorized placement agency or by judgment, decree, or other order of any court of competent jurisdiction.
+
+Joint return.
+
+If you file a joint return, the person can be related to either you or your spouse. Also, the person doesn’t need to be related to the spouse who provides support.
+
+For example, you provide more than half the support of your spouse’s stepparent. Your spouse’s stepparent may be your qualifying relative even if the stepparent doesn’t live with you. However, if you and your spouse file separate returns, your spouse’s stepparent can be your qualifying relative only if the stepparent lives with you all year as a member of your household.
+
+Temporary absences.
+
+A person is considered to live with you as a member of your household during periods of time when one of you, or both, is temporarily absent due to special circumstances, such as:
+
+-
+
+Illness,
+
+-
+
+Education,
+
+-
+
+Business,
+
+-
+
+Vacation,
+
+-
+
+Military service, or
+
+-
+
+Detention in a juvenile facility.
+
+If the person is placed in a nursing home for an indefinite period of time to receive constant medical care, the absence may be considered temporary.
+
+Death or birth.
+
+A person who died during the year, but lived with you as a member of your household until death, will meet this test. The same is true for a child who was born during the year and lived with you as a member of your household for the rest of the year. The test is also met if a child lived with you as a member of your household except for any required hospital stay following birth. The test is also met for an adopted or foster child if you adopted the person in 2025, the person was lawfully placed with you for legal adoption by you in 2025, or the person was an eligible foster child placed with you during 2025 and your main home was the person’s main home for the entire time since the person was adopted or placed with you in 2025.
+
+If your dependent died during the year and you otherwise qualify to claim that person as a dependent, you can still claim that person as a dependent.
+
+Example.
+
+Your parent, who met the tests to be your qualifying relative, died on January 15. You can claim your parent as a dependent on your return.
+
+Local law violated.
+
+A person doesn’t meet this test if at any time during the year the relationship between you and that person violates local law.
+
+Example.
+
+Your significant other lived with you as a member of your household all year. However, your relationship violated the laws of the state where you live because your significant other was married to someone else. Therefore, your significant other doesn’t meet this test and you can’t claim them as a dependent.
+
+Adopted child.
+
+An adopted child is always treated as your own child. The term “adopted child” includes a child who was lawfully placed with you for legal adoption.
+
+Cousin.
+
+Your cousin must live with you all year as a member of your household to meet this test.
+
+Gross Income Test
+
+To meet this test, a person’s gross income for the year must be less than $5,200.
+
+Gross income defined.
+
+Gross income is all income in the form of money, property, and services that isn’t exempt from tax.
+
+In a manufacturing, merchandising, or mining business, gross income is the total net sales minus the cost of goods sold, plus any miscellaneous income from the business.
+
+Gross receipts from rental property are gross income. Don’t deduct taxes, repairs, or other expenses to determine the gross income from rental property.
+
+Gross income includes a partner’s share of the gross (not net) partnership income.
+
+Gross income also includes all taxable unemployment compensation, taxable social security benefits, and certain amounts received as scholarship and fellowship grants. Scholarships received by degree candidates and used for tuition, fees, supplies, books, and equipment required for particular courses aren’t generally included in gross income. For more information about scholarships, see chapter 1 of Pub. 970.
+
+Disabled dependent working at sheltered workshop.
+
+For purposes of the gross income test, the gross income of an individual who is permanently and totally disabled at any time during the year doesn’t include income for services the individual performs at a sheltered workshop. The availability of medical care at the workshop must be the main reason for the individual’s presence there. Also, the income must come solely from activities at the workshop that are incident to this medical care.
+
+A “sheltered workshop” is a school that:
+
+-
+
+Provides special instruction or training designed to alleviate the disability of the individual; and
+
+-
+
+Is operated by certain tax-exempt organizations or by a state, a U.S. territory, a political subdivision of a state or territory, the United States, or the District of Columbia.
+
+Permanently and totally disabled has the same meaning here as under Qualifying Child , earlier.
+
+Support Test (To Be a Qualifying Relative)
+
+To meet this test, you must generally provide more than half of a person’s total support during the calendar year.
+
+However, if two or more persons provide support, but no one person provides more than half of a person’s total support, see Multiple Support Agreement , later.
+
+How to determine if support test is met.
+
+You figure whether you have provided more than half of a person’s total support by comparing the amount you contributed to that person’s support with the entire amount of support that person received from all sources. This includes support the person provided from the person’s own funds.
+
+You may find Worksheet 2 helpful in figuring whether you provided more than half of a person’s support.
+
+Person’s own funds not used for support.
+
+A person’s own funds aren’t support unless they are actually spent for support.
+
+Example.
+
+Your parent received $2,400 in social security benefits and $300 in interest, paid $2,000 for lodging and $400 for recreation, and put $300 in a savings account.
+
+Even though your parent received a total of $2,700 ($2,400 + $300), your parent spent only $2,400 ($2,000 + $400) for your parent’s own support. If you spent more than $2,400 for your parent’s support and no other support was received, you have provided more than half of your parent’s support.
+
+Child’s wages used for own support.
+
+You can’t include in your contribution to your child’s support any support paid for by the child with the child’s own wages, even if you paid the wages.
+
+Year support is provided.
+
+The year you provide the support is the year you pay for it, even if you do so with borrowed money that you repay in a later year.
+
+If you use a fiscal year to report your income, you must provide more than half of the dependent’s support for the calendar year in which your fiscal year begins.
+
+Armed Forces dependency allotments.
+
+The part of the allotment contributed by the government and the part taken out of your military pay are both considered provided by you in figuring whether you provide more than half of the support. If your allotment is used to support persons other than those you name, you can claim them as dependents if they otherwise qualify.
+
+Example.
+
+You are in the Armed Forces. You authorize an allotment for your surviving parent that your surviving parent uses to support themselves and their sibling. If the allotment provides more than half of each person’s support, you can claim each of them as a dependent, if they otherwise qualify, even though you authorize the allotment only for your surviving parent.
+
+Tax-exempt military quarters allowances.
+
+These allowances are treated the same way as dependency allotments in figuring support. The allotment of pay and the tax-exempt basic allowance for quarters are both considered as provided by you for support.
+
+Tax-exempt income.
+
+In figuring a person’s total support, include tax-exempt income, savings, and borrowed amounts used to support that person. Tax-exempt income includes certain social security benefits, welfare benefits, nontaxable life insurance proceeds, Armed Forces family allotments, nontaxable pensions, and tax-exempt interest.
+
+Example 1.
+
+You provide $4,000 toward your parent’s support during the year. Your parent has earned income of $600, nontaxable social security benefits of $4,800, and tax-exempt interest of $200, all of which your parent uses for self-support. You can’t claim your parent as a dependent because the $4,000 you provide isn’t more than half of the total support of $9,600 ($4,000 + $600 + $4,800 + $200).
+
+Example 2.
+
+Your sibling takes out a student loan of $2,500 and uses it to pay college tuition. Your sibling is personally responsible for the loan. You provide $2,000 toward their total support. You can’t claim them as a dependent because you provide less than half of their support.
+
+Social security benefits.
+
+If spouses each receive benefits that are paid by one check made out to both of them, half of the total paid is considered to be for the support of each spouse, unless they can show otherwise.
+
+If a child receives social security benefits and uses them toward their own support, the benefits are considered as provided by the child.
+
+Support provided by the state (welfare, food benefits, housing, etc.).
+
+Benefits provided by the state to a needy person are generally considered support provided by the state. However, payments based on the needs of the recipient won’t be considered as used entirely for that person’s support if it is shown that part of the payments weren’t used for that purpose.
+
+TANF and other governmental payments.
+
+Under proposed Treasury regulations, if you received TANF payments or other similar payments and used the payments to support another person, those payments are considered support you provided for that person, rather than support provided by the government or other third party.
+
+Foster care.
+
+Payments you receive for the support of a foster child from a child placement agency are considered support provided by the agency. See Foster care payments and expenses , earlier.
+
+Home for the aged.
+
+If you make a lump-sum advance payment to a home for the aged to take care of your relative for life and the payment is based on that person’s life expectancy, the amount of support you provide each year is the lump-sum payment divided by the relative’s life expectancy. The amount of support you provide also includes any other amounts you provided during the year.
+
+Total Support
+
+To figure if you provided more than half of a person’s support, you must first determine the total support provided for that person. Total support includes amounts spent to provide food, lodging, clothing, education, medical and dental care, recreation, transportation, and similar necessities.
+
+Generally, the amount of an item of support is the amount of the expense incurred in providing that item. For lodging, the amount of support is the fair rental value of the lodging.
+
+Expenses not directly related to any one member of a household, such as the cost of food for the household, must be divided among the members of the household.
+
+Example 1.
+
+A married couple lives with their two children and one of their parents. Their parent gets social security benefits of $2,400, which the parent spends for clothing, transportation, and recreation. The parent has no other income. The married couple’s total food expense for the household is $5,200. They pay the parent’s medical and drug expenses of $1,200. The fair rental value of the lodging provided for the parent is $1,800 a year, based on the cost of similar rooming facilities. Figure the parent’s total support as follows.
+
+Fair rental value of lodging | $ 1,800
+Clothing, transportation, and recreation | 2,400
+Medical expenses | 1,200
+Share of food (1/5 of $5,200) | 1,040
+Total support | $6,440
+
+The support the married couple provides ($1,800 lodging + $1,200 medical expenses + $1,040 food = $4,040) is more than half of the parent’s $6,440 total support.
+
+Example 2.
+
+Your parents, Aubrey and Bailey, live with you, your spouse, and your two children in a house you own. The fair rental value of your parents’ share of the lodging is $2,000 a year ($1,000 each), which includes furnishings and utilities. Aubrey receives a nontaxable pension of $4,200, which Aubrey spends equally between Aubrey and Bailey for items of support such as clothing, transportation, and recreation. Your total food expense for the household is $6,000. Your heat and utility bills amount to $1,200. Bailey has hospital and medical expenses of $600, which you pay during the year. Figure your parents’ total support as follows.
+
+Support provided | Aubrey | Bailey
+Fair rental value of lodging | $1,000 | $1,000
+Pension spent for their support | 2,100 | 2,100
+Share of food (1/6 of $6,000) | 1,000 | 1,000
+Medical expenses for Bailey |  | 600
+Parents’ total support | $4,100 | $4,700
+
+You must apply the support test separately to each parent. You provide $2,000 ($1,000 lodging + $1,000 food) of Aubrey’s total support of $4,100—less than half. You provide $2,600 to Bailey ($1,000 lodging + $1,000 food + $600 medical)—more than half of Bailey’s support of $4,700. You meet the support test for Bailey, but not for Aubrey. Heat and utility costs are included in the fair rental value of the lodging, so these aren’t considered separately.
+
+Lodging.
+
+If you provide a person with lodging, you are considered to provide support equal to the fair rental value of the room, apartment, house, or other shelter in which the person lives. Fair rental value includes a reasonable allowance for the use of furniture and appliances, and for heat and other utilities that are provided.
+
+Fair rental value defined.
+
+Fair rental value is the amount you could reasonably expect to receive from a stranger for the same kind of lodging. It is used instead of actual expenses such as taxes, interest, depreciation, paint, insurance, utilities, and the cost of furniture and appliances. In some cases, fair rental value may be equal to the rent paid.
+
+If you provide the total lodging, the amount of support you provide is the fair rental value of the room the person uses, or a share of the fair rental value of the entire dwelling if the person has use of your entire home. If you don’t provide the total lodging, the total fair rental value must be divided depending on how much of the total lodging you provide. If you provide only a part and the person supplies the rest, the fair rental value must be divided between both of you according to the amount each provides.
+
+Example.
+
+Your parents live rent free in a house you own. It has a fair rental value of $5,400 a year furnished, which includes a fair rental value of $3,600 for the house and $1,800 for the furniture. This doesn’t include heat and utilities. The house is completely furnished with furniture belonging to your parents. You pay $600 for their utility bills. Utilities aren’t usually included in rent for houses in the area where your parents live. Therefore, you consider the total fair rental value of the lodging to be $6,000 ($3,600 fair rental value of the unfurnished house + $1,800 allowance for the furnishings provided by your parents + $600 cost of utilities) of which you are considered to provide $4,200 ($3,600 + $600).
+
+Person living in their own home.
+
+The total fair rental value of a person’s home that the person owns is considered support contributed by that person.
+
+Living with someone rent free.
+
+If you live with a person rent free in that person’s home, you must reduce the amount you provide for support of that person by the fair rental value of lodging the person provides you.
+
+Property.
+
+Property provided as support is measured by its fair market value. Fair market value is the price that property would sell for on the open market. It is the price that would be agreed upon between a willing buyer and a willing seller, with neither being required to act, and both having reasonable knowledge of the relevant facts.
+
+Capital expenses.
+
+Capital items, such as furniture, appliances, and cars, bought for a person during the year can be included in total support under certain circumstances.
+
+The following examples show when a capital item is or isn’t support.
+
+Example 1.
+
+You buy a $200 power lawn mower for your 13-year-old child. The child is given the duty of keeping the lawn trimmed. Because the lawn mower benefits all members of the household, don’t include the cost of the lawn mower in the support of your child.
+
+Example 2.
+
+You buy a $150 television set as a birthday present for your 12-year-old child. The television set is placed in your child’s bedroom. You can include the cost of the television set in the support of your child.
+
+Example 3.
+
+You pay $5,000 for a car and register it in your name. You and your 17-year-old child use the car equally. Because you own the car and don’t give it to your child but merely let your child use it, don’t include the cost of the car in your child’s total support. However, you can include in your child’s support your out-of-pocket expenses of operating the car for your child’s benefit.
+
+Example 4.
+
+Your 17-year-old child, using personal funds, buys a car for $4,500. You provide the rest of your child’s support—$4,000. Because the car is bought and owned by your child, the car’s fair market value ($4,500) must be included in your child’s support. Your child has provided more than half of their own total support of $8,500 ($4,500 + $4,000), so this child isn’t your qualifying child. You didn’t provide more than half of the child’s total support, so the child isn’t your qualifying relative. You can’t claim this child as a dependent.
+
+Medical insurance premiums.
+
+Medical insurance premiums you pay, including premiums for supplementary Medicare coverage, are included in the support you provide.
+
+Medical insurance benefits.
+
+Medical insurance benefits, including basic and supplementary Medicare benefits, aren’t part of support.
+
+Tuition payments and allowances under the GI Bill.
+
+Amounts veterans receive under the GI Bill for tuition payments and allowances while they attend school are included in total support.
+
+Example.
+
+During the year, your child receives $2,200 from the government under the GI Bill. Your child uses this amount for their education. You provide the rest of your child’s support—$2,000. Because GI benefits are included in total support, your child’s total support is $4,200 ($2,200 + $2,000). You haven’t provided more than half of your child’s support.
+
+Childcare expenses.
+
+If you pay someone to provide child or dependent care, you can include these payments in the amount you provided for the support of your child or disabled dependent, even if you claim a credit for the payments. For information on the credit, see Pub. 503.
+
+Other support items.
+
+Other items may be considered as support depending on the facts in each case.
+
+Don’t Include in Total Support
+
+The following items aren’t included in total support.
+
+-
+
+Federal, state, and local income taxes paid by persons from their own income.
+
+-
+
+Social security and Medicare taxes paid by persons from their own income.
+
+-
+
+Life insurance premiums.
+
+-
+
+Funeral expenses.
+
+-
+
+Scholarships received by your child if your child is a student.
+
+-
+
+Survivors’ and Dependents’ Educational Assistance payments used for the support of the child who receives them.
+
+Multiple Support Agreement
+
+Sometimes no one provides more than half of the support of a person. Instead, two or more persons, each of whom would be able to claim the person as a dependent but for the support test, together provide more than half of the person’s support.
+
+When this happens, you can agree that any one of you who individually provides more than 10% of the person’s support, but only one, can claim that person as a dependent. Each of the others must sign a statement agreeing not to claim the person as a dependent for that year. The person who claims the person as a dependent must keep these signed statements for their own records. A multiple support declaration identifying each of the others who agreed not to claim the person as a dependent must be attached to the return of the person claiming the person as a dependent. Form 2120, Multiple Support Declaration, can be used for this purpose.
+
+You can claim someone as a dependent under a multiple support agreement for someone related to you or for someone who lived with you all year as a member of your household.
+
+Example 1.
+
+You, and your siblings, Sam, Bobbi, and Dani, provide the entire support of your parent for the year. You provide 45%, Sam provides 35%, and Bobbi and Dani each provide 10%. Either you or Sam can claim your parent as a dependent; the one who doesn’t must sign a statement agreeing not to claim your parent as a dependent. The one who claims your parent as a dependent must attach Form 2120, or a similar declaration, to their return and must keep the statement signed by the other for their records. Because neither Bobbi nor Dani provides more than 10% of the support, neither can claim your parent as a dependent and neither has to sign a statement.
+
+Example 2.
+
+You and your sibling each provide 20% of your parent’s support for the year. The remaining 60% of your parent’s support is provided equally by two persons who are unrelated. Your parent doesn’t live with them. Because more than half of your parent’s support is provided by persons who can’t claim your parent as a dependent, no one can claim your parent as a dependent.
+
+Example 3.
+
+Your parent lives with you and receives 25% of their support from social security, 40% from you, 24% from a relative, and 11% from a friend. Either you or the relative can claim your parent as a dependent if the other signs a statement agreeing not to. The one who claims your parent as a dependent must attach Form 2120, or a similar declaration, to your parent’s return and must keep for your parent’s records the signed statement from the one agreeing not to claim your parent as a dependent.
+
+Support Test for Children of Divorced or Separated Parents (or Parents Who Live Apart)
+
+In most cases, a child of divorced or separated parents (or parents who live apart) will be a qualifying child of one of the parents. See Children of divorced or separated parents (or parents who live apart) under Qualifying Child, earlier. However, if the child doesn’t meet the requirements to be a qualifying child of either parent, the child may be a qualifying relative of one of the parents. In that case, the following rules must be used in applying the support test.
+
+A child who doesn’t meet the requirements to be a qualifying child of either parent will be treated as the qualifying relative of the child’s noncustodial parent if all four of the following statements are true.
+
+-
+
+The parents:
+
+-
+
+Are divorced or legally separated under a decree of divorce or separate maintenance;
+
+-
+
+Are separated under a written separation agreement; or
+
+-
+
+Lived apart at all times during the last 6 months of the year, whether or not they are or were married.
+
+-
+
+The child received over half of the child’s support for the year from the parents (and the rules on multiple support agreements, explained earlier, don’t apply).
+
+-
+
+The child is in the custody of one or both parents for more than half of the year.
+
+-
+
+Either of the following statements is true.
+
+-
+
+The custodial parent signs a written declaration, discussed later, that they won’t claim the child as a dependent for the year, and the noncustodial parent attaches this written declaration to their return. (If the decree or agreement went into effect after 1984 and before 2009, see Post-1984 and pre-2009 divorce decree or separation agreement , later. If the decree or agreement went into effect after 2008, see Post-2008 divorce decree or separation agreement , later.)
+
+-
+
+A pre-1985 decree of divorce or separate maintenance or written separation agreement that applies to 2025 states that the noncustodial parent can claim the child as a dependent, the decree or agreement wasn’t changed after 1984 to say the noncustodial parent can’t claim the child as a dependent, and the noncustodial parent provides at least $600 for the child’s support during the year.
+
+Custodial parent and noncustodial parent.
+
+The custodial parent is the parent with whom the child lived for the greater number of nights during the year. The other parent is the noncustodial parent. The term “parent” means a biological or adoptive parent of an individual. It doesn’t include a stepparent or foster parent unless that person has adopted the individual.
+
+If the parents divorced or separated during the year and the child lived with both parents before the separation, the custodial parent is the one with whom the child lived for the greater number of nights during the rest of the year.
+
+A child is treated as living with a parent for a night if the child sleeps:
+
+-
+
+At that parent’s home, whether or not the parent is present; or
+
+-
+
+In the company of the parent, when the child doesn’t sleep at a parent’s home (for example, the parent and child are on vacation together).
+
+Equal number of nights.
+
+If the child lived with each parent for an equal number of nights during the year, the custodial parent is the parent with the higher AGI.
+
+December 31.
+
+The night of December 31 is treated as part of the year in which it begins. For example, the night of December 31, 2025, is treated as part of 2025.
+
+Emancipated child.
+
+If a child is emancipated under state law, the child is not under the custody of either parent and time lived with a parent after emancipation does not count for purposes of determining who is the custodial parent.
+
+Absences.
+
+If a child wasn’t with either parent on a particular night (because, for example, the child was staying at a friend’s house), the child is treated as living with the parent with whom the child normally would have lived for that night. But if it can’t be determined with which parent the child normally would have lived or if the child wouldn’t have lived with either parent that night, the child is treated as not living with either parent that night.
+
+Parent works at night.
+
+If, due to a parent’s nighttime work schedule, a child lives for a greater number of days, but not nights, with the parent who works at night, that parent is treated as the custodial parent. On a school day, the child is treated as living at the primary residence registered with the school.
+
+Written declaration.
+
+The custodial parent must use either Form 8332 or a similar statement (containing the same information required by the form) to make the written declaration to release a claim to an exemption for a child to the noncustodial parent. Although the exemption amount is zero for tax year 2025, this release allows the noncustodial parent to claim the child tax credit, credit for other dependents, or additional child tax credit, if applicable, based on the child being a qualifying child. The noncustodial parent must attach a copy of the form or statement to their tax return.
+
+The release can be for 1 year, for a number of specified years (for example, alternate years), or for all future years, as specified in the declaration.
+
+Post-1984 and pre-2009 divorce decree or separation agreement.
+
+If the divorce decree or separation agreement went into effect after 1984 and before 2009, the noncustodial parent may be able to attach certain pages from the decree or agreement instead of Form 8332. The decree or agreement must state all three of the following.
+
+-
+
+The noncustodial parent can claim the child as a dependent without regard to any condition, such as payment of support.
+
+-
+
+The custodial parent won’t claim the child as a dependent for the year.
+
+-
+
+The years for which the noncustodial parent, rather than the custodial parent, can claim the child as a dependent.
+
+The noncustodial parent must attach all of the following pages of the decree or agreement to their tax return.
+
+-
+
+The cover page (write the other parent’s SSN on this page).
+
+-
+
+The pages that include all of the information identified in items (1) through (3) above.
+
+-
+
+The signature page with the other parent’s signature and the date of the agreement.
+
+Post-2008 divorce decree or separation agreement.
+
+The noncustodial parent can’t attach pages from the decree or agreement to the tax return instead of Form 8332 if the decree or agreement went into effect after 2008. The custodial parent must sign either Form 8332 or a similar statement the only purpose of which is to release the custodial parent’s claim to an exemption, and the noncustodial parent must attach a copy to their return. The form or statement must release the custodial parent’s claim to the child without any conditions. For example, the release must not depend on the noncustodial parent paying support.
+
+. The noncustodial parent must attach the required information even if it was filed with a return in an earlier year. .
+
+Revocation of release of claim to an exemption.
+
+The custodial parent can revoke a release of claim to an exemption that they previously released to the noncustodial parent. For the revocation to be effective for 2025, the custodial parent must have given (or made reasonable efforts to give) written notice of the revocation to the noncustodial parent in 2024 or earlier. The custodial parent can use Part III of Form 8332 for this purpose and must attach a copy of the revocation to their return for each tax year the custodial parent claims the child as a dependent as a result of the revocation.
+
+Remarried parent.
+
+If you remarry, the support provided by your new spouse is treated as provided by you.
+
+Child support under pre-1985 agreement.
+
+All child support payments actually received from the noncustodial parent under a pre-1985 agreement are considered used for the support of the child.
+
+Example.
+
+Under a pre-1985 agreement, the noncustodial parent provides $1,200 for the child’s support. This amount is considered support provided by the noncustodial parent even if the $1,200 was actually spent on things other than support.
+
+Alimony.
+
+Payments to a spouse that are alimony or separate maintenance payments, or similar payments from an estate or trust, aren’t treated as a payment for the support of a dependent.
+
+Parents who never married.
+
+This special rule for divorced or separated parents also applies to parents who never married and lived apart at all times during the last 6 months of the year.
+
+Multiple support agreement.
+
+If the support of the child is determined under a multiple support agreement, this special support test for divorced or separated parents (or parents who live apart) doesn’t apply.

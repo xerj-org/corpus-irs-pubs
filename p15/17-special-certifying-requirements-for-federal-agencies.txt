@@ -1,0 +1,35 @@
+IRS Pub 15 (2026) | Special Certifying Requirements for Federal Agencies
+
+17. Federal Agency Certifying Requirements of Federal Income Taxes Withheld From U.S. Government Employees Working in, or Federal Pension Recipients Residing in, American Samoa, the CNMI, and Guam
+
+Special Certifying Requirements for Federal Agencies
+
+This section sets forth the legal authorities requiring federal agencies to certify to the IRS the amount of federal income taxes withheld from amounts paid to U.S. Government employees working in, as well as federal civilian and military pensioners residing in, American Samoa, the CNMI, and Guam. As noted below, these special certifying requirements don’t apply to federal agencies who have employees working in Puerto Rico or the USVl.
+
+American Samoa
+
+Code sections 931(a), 931(d), and 7654 provide that the U.S. Government is required to transfer (“cover over”) to the Treasury of American Samoa the federal income taxes withheld on amounts paid to military and civilian employees and pensioners who are residents of American Samoa. The effect of these provisions is that the federal government transfers on at least an annual basis the federal income taxes withheld or collected from its employees and pensioners who are residents of American Samoa to the American Samoa Treasury. In order for the federal government to cover over these income taxes as required by law, federal agencies must certify the amount of federal income taxes withheld or collected from its employees and pensioners by following the procedures discussed under Certification Procedures , later in this section.
+
+Commonwealth of the Northern Mariana Islands
+
+Code section 7654 and 48 U.S.C. section 1681 (P.L. 94-241, section 703(b)) provide that the U.S. Government is required to cover over to the Treasury of the CNMI the federal income taxes withheld on amounts paid to military and civilian employees and pensioners who are residents of the CNMI. The effect of these provisions is that the federal government transfers on at least an annual basis the federal income taxes withheld or collected from its employees and pensioners who are residents of the CNMI to the CNMI Treasury. In order for the federal government to cover over these federal income taxes as required by law, federal agencies must certify the amount of federal income taxes withheld or collected from its employees and pensioners by following the procedures discussed under Certification Procedures , later in this section. As discussed in the Caution next, federal agencies aren’t required to certify the amount of local CNMI taxes that are withheld or collected.
+
+Caution:
+
+The U.S. Treasury Department and the CNMI Division of Revenue and Taxation entered into an agreement under 5 U.S.C. section 5517 in December 2006. Under this agreement, all federal employers (including the Department of Defense) are required to withhold CNMI income taxes (rather than federal income taxes) and deposit the CNMI taxes with the CNMI Treasury for employees whose regular place of federal employment is in the CNMI. Federal employers are also required to file quarterly and annual reports with the CNMI Division of Revenue and Taxation. The 5517 agreement isn’t applicable to payments made to pensioners and compensation paid to members of the U.S. Armed Forces who are stationed in the CNMI but have a state of legal residence outside the CNMI. For more information, including details on completing Form W-2, go to IRS.gov/5517Agreements .
+
+Guam
+
+Code section 7654 and 48 U.S.C. section 1421(h) provide that the U.S. Government is required to cover over to the Treasury of Guam the federal income taxes withheld on amounts paid to military and civilian employees and pensioners who are residents of Guam. The effect of these provisions is that the federal government transfers on at least an annual basis the federal income taxes withheld or collected from its employees and pensioners who are residents of Guam to the Guam Treasury. In order for the federal government to cover over these federal income taxes as required by law, federal agencies must certify the amount of federal income taxes withheld or collected from its employees by following the procedures discussed under Certification Procedures , later in this section.
+
+Puerto Rico
+
+These special certifying requirements don’t apply to federal agencies who have employees working in Puerto Rico.
+
+Caution:
+
+The U.S. Treasury Department and Puerto Rico entered into an agreement under 5 U.S.C. section 5517 in November 1988. Under this agreement, all federal employers (including the Department of Defense) are required to withhold Puerto Rico income taxes (rather than federal income taxes) and deposit the Puerto Rico taxes with the Puerto Rico Treasury for employees whose regular place of federal employment is in Puerto Rico. Federal employers are also required to file quarterly and annual reports with the Puerto Rico tax department. The 5517 agreement isn’t applicable to payments made to pensioners and compensation paid to members of the U.S. Armed Forces who are stationed in Puerto Rico but have a state of legal residence outside Puerto Rico. For more information, including details on completing Form W-2, go to IRS.gov/5517Agreements .
+
+U.S. Virgin Islands
+
+These special certifying requirements don’t apply to federal agencies who have employees working in the USVI.

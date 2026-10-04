@@ -1,0 +1,450 @@
+IRS Pub 523 (2025) | Does Your Home Sale Qualify for the Exclusion of Gain?
+
+Does Your Home Sale Qualify for the Exclusion of Gain?
+
+The tax code recognizes the importance of home ownership by allowing you to exclude gain when you sell your main home. To qualify for the maximum exclusion of gain ($250,000 or $500,000 if married filing jointly), you must meet the Eligibility Test , explained later. To qualify for a partial exclusion of gain, meaning an exclusion of gain less than the full amount, you must meet one of the situations listed in Does Your Home Qualify for a Partial Exclusion of Gain , explained later.
+
+Before considering the Eligibility Test or whether your home qualifies for a partial exclusion, you should consider some preliminary items.
+
+Transfer of your home to a spouse or an ex-spouse.
+
+Generally, if you transferred your home (or share of a jointly owned home) to a spouse or ex-spouse as part of a divorce settlement, you are considered to have no gain or loss. You have nothing to report from the transfer and this entire publication doesn’t apply to you. However, if your spouse or ex-spouse is a nonresident alien, then you likely will have a gain or loss from the transfer and the tests in this publication apply.
+
+Home’s date of sale.
+
+To determine if you meet the Eligibility Test or qualify for a partial exclusion, you will need to know the home’s date of sale, meaning when you sold it. If you received Form 1099-S, Proceeds From Real Estate Transactions, the date of sale appears in box 1. If you didn’t receive Form 1099-S, the date of sale is either the date the title transferred or the date the economic burdens and benefits of ownership shifted to the buyer, whichever date is earlier. In most cases, these dates are the same.
+
+Sale of your main home.
+
+You may take the exclusion, whether maximum or partial, only on the sale of a home that is your principal residence, meaning your main home. An individual has only one main home at a time. If you own and live in just one home, then that property is your main home. If you own or live in more than one home, then you must apply a “facts and circumstances” test to determine which property is your main home. While the most important factor is where you spend the most time, other factors are relevant as well. They are listed below. The more of these factors that are true of a home, the more likely that it is your main home.
+
+-
+
+The address listed on your:
+
+-
+
+U.S. Postal Service address,
+
+-
+
+Voter Registration Card,
+
+-
+
+Federal and state tax returns, and
+
+-
+
+Driver’s license or car registration.
+
+-
+
+The home is near:
+
+-
+
+Where you work,
+
+-
+
+Where you bank,
+
+-
+
+The residence of one or more family members, and
+
+-
+
+Recreational clubs or religious organizations of which you are a member.
+
+Finally, the exclusion can apply to many different types of housing facilities. A single-family home, a condominium, a cooperative apartment, a mobile home, and a houseboat each may be a main home and therefore qualify for the exclusion.
+
+Eligibility Test
+
+The Eligibility Test determines whether you are eligible for the maximum exclusion of gain ($250,000 or $500,000 if married filing jointly).
+
+Eligibility Step 1—Automatic Disqualification
+
+Determine whether any of the automatic disqualifications apply.
+
+Your home sale isn’t eligible for the exclusion if ANY of the following are true.
+
+-
+
+You acquired the property through a like-kind exchange (section 1031 exchange) during the past 5 years. See Pub. 544, Sales and Other Dispositions of Assets.
+
+-
+
+You are subject to expatriate tax. For more information about expatriate tax, see chapter 4 of Pub. 519, U.S. Tax Guide for Aliens.
+
+If any of these conditions are true, the exclusion doesn’t apply. Skip to Figuring Gain or Loss , later.
+
+Eligibility Step 2—Ownership
+
+Determine whether you meet the ownership requirement.
+
+If you owned the home for at least 24 months (2 years) out of the last 5 years leading up to the date of sale (date of the closing), you meet the ownership requirement. For a married couple filing jointly, only one spouse has to meet the ownership requirement.
+
+Eligibility Step 3—Residence
+
+Determine whether you meet the residence requirement.
+
+If you owned the home and used it as your residence for at least 24 months of the previous 5 years, you meet the residence requirement. The 24 months of residence can fall anywhere within the 5-year period, and it doesn't have to be a single block of time. All that is required is a total of 24 months (730 days) of residence during the 5-year period. Unlike the ownership requirement, each spouse must meet the residence requirement individually for a married couple filing jointly to get the full exclusion.
+
+If you were ever away from home,
+
+you need to determine whether that time counts toward your residence requirement. A vacation or other short absence counts as time you lived at home (even if you rented out your home while you were gone).
+
+If you become physically or mentally unable to care for yourself,
+
+and you used the residence as your main home for at least 12 months in the 5 years preceding the sale or exchange, any time you spent living in a care facility (such as a nursing home) counts toward your 2-year residence requirement, so long as the facility has a license from a state or other political entity to care for people with your condition.
+
+Eligibility Step 4—Look-Back
+
+Determine whether you meet the look-back requirement.
+
+If you didn't sell another home during the 2-year period before the date of sale (or if you did sell another home during this period but didn't take an exclusion of the gain earned from it), you meet the look-back requirement. You may take the exclusion only once during a 2-year period.
+
+Eligibility Step 5—Exceptions to the Eligibility Test
+
+There are some exceptions to the Eligibility Test. If any of the following situations apply to you, read on to see if they may affect your qualification. If none of these situations apply, skip to Step 6.
+
+Separated or divorced taxpayers.
+
+If you were separated or divorced prior to the sale of the home, you can treat the home as your residence if:
+
+-
+
+You are a sole or joint owner, and
+
+-
+
+Your spouse or former spouse is allowed to live in the home under a divorce or separation instrument and uses the home as his or her main home.
+
+For property owned by a spouse or former spouse, the term “divorce or separation instrument” means:
+
+(a). A decree of divorce or separate maintenance or a written instrument incident to such a decree;
+(b). A written separation agreement; or
+(c). A decree not described in (a) that requires a spouse to make payments for the support or maintenance of the other spouse.
+
+If your home was transferred to you by a spouse or ex-spouse (whether in connection with a divorce or not), you can count any time when your spouse owned the home as time when you owned it. However, you must meet the residence requirement on your own. If you owned your home prior to your marriage and after your divorce or separation and your spouse or former spouse isn’t allowed to live in the home under a divorce or separation instrument, you can count any time that you owned the home, solely or jointly with your spouse, as time when you owned it. However, you must meet the residence requirement on your own.
+
+Surviving spouses.
+
+If you are a surviving spouse who doesn't meet the 2-year ownership and residence requirements on your own, consider the following rule. If you haven’t remarried at the time of the sale, then you may include any time when your late spouse owned and lived in the home, even if without you, to meet the ownership and residence requirements.
+
+Also, you may be able to increase your exclusion amount from $250,000 to $500,000. You may take the higher exclusion if you meet all of the following conditions.
+
+-
+
+You sell your home within 2 years of the death of your spouse.
+
+-
+
+You haven’t remarried at the time of the sale.
+
+-
+
+Neither you nor your late spouse took the exclusion on another home sold less than 2 years before the date of the current home sale.
+
+-
+
+You meet the 2-year ownership and residence requirements (including your late spouse‘s times of ownership and residence, if applicable).
+
+Service, Intelligence, and Peace Corps personnel.
+
+If you or your spouse are a member of the Uniformed Services or the Foreign Service, an employee of the intelligence community of the United States, or an employee, enrolled volunteer or volunteer leader of the Peace Corps, you may choose to suspend the 5-year test period for ownership and residence when you’re on qualified official extended duty. This means you may be able to meet the 2-year residence test even if, because of your service, you didn’t actually live in your home for at least the 2 years during the 5-year period ending on the date of sale. Make the election by filing your tax return for the year of the sale or exchange of your main home, and exclude the gain from your taxable income.
+
+Qualified extended duty.
+
+You are on qualified extended duty if:
+
+-
+
+You are called or ordered to active duty for an indefinite period or for a definite period of more than 90 days.
+
+-
+
+You are serving at a duty station at least 50 miles from your main home, or you are living in government quarters under government orders.
+
+-
+
+You are one of the following:
+
+-
+
+A member of the armed forces (Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard);
+
+-
+
+A member of the commissioned corps of the National Oceanic and Atmospheric Administration (NOAA) or the Public Health Service;
+
+-
+
+A Foreign Service chief of mission, ambassador-at-large, or officer;
+
+-
+
+A member of the Senior Foreign Service or the Foreign Service personnel;
+
+-
+
+An employee, enrolled volunteer, or enrolled volunteer leader of the Peace Corps serving outside the United States; or
+
+-
+
+An employee of the intelligence community, meaning:
+
+-
+
+The Office of the Director of National Intelligence, the Central Intelligence Agency, the National Security Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, or the National Reconnaissance Office;
+
+-
+
+Any other office within the Department of Defense for the collection of specialized national intelligence through reconnaissance programs;
+
+-
+
+Any of the intelligence elements of the Army, Navy, Air Force, Marine Corps, Federal Bureau of Investigation, Department of the Treasury, Department of Energy, and Coast Guard;
+
+-
+
+The Bureau of Intelligence and Research of the Department of State; or
+
+-
+
+Any of the elements of the Department of Homeland Security concerned with the analyses of foreign intelligence information.
+
+Period of suspension.
+
+The period of suspension can’t last more than 10 years. Together, the 10-year suspension period and the 5-year test period can be as long as, but no more than, 15 years. You can’t suspend the 5-year period for more than one property at a time. You can revoke your choice to suspend the 5-year period at any time.
+
+Example 1.
+
+You bought a home on May 1, 2008. You used it as your main home until August 27, 2011. On August 28, 2011, you went on qualified official extended duty with the Navy. You didn’t live in the house again before selling it on August 1, 2024. You choose to use the entire 10-year suspension period. Therefore, the suspension period would extend back from August 1, 2024, to August 2, 2014, and the 5-year test period would extend back to August 2, 2009. During that period, you owned the house all 5 years and lived in it as your main home from August 2, 2009, until August 28, 2011, a period of more than 24 months. You meet the ownership and use tests because you owned and lived in the home for at least 2 years during this test period.
+
+Example 2.
+
+You bought and moved into a home in 2016. You lived in it as your main home for 3½ years. For the next 6 years, you didn’t live in it because you were on qualified official extended duty with the Army. You then sold the home at a gain in 2025. To meet the use test, you choose to suspend the 5-year test period for the 6 years you were on qualified official extended duty. This means you can disregard those 6 years. Therefore, your 5-year test period consists of the 5 years before you went on qualified official extended duty. You meet the ownership and use tests because you owned and lived in the home for 3½ years during this test period.
+
+Vacant land next to home.
+
+You can include the sale of vacant land adjacent to the land on which your home sits as part of a sale of your home if ALL of the following are true.
+
+-
+
+You owned and used the vacant land as part of your home.
+
+-
+
+The sale of the vacant land and the sale of your home occurred within 2 years of each other.
+
+-
+
+Both sales either meet the Eligibility Test or qualify for partial tax benefits, as described earlier.
+
+Also, if your sale of vacant land meets all these requirements, you must treat that sale and the sale of your home as a single transaction for tax purposes, meaning that you may apply the exclusion only once.
+
+Note:
+
+However, if you move your home from the land on which it stood (meaning you relocate the actual physical structure), then that land no longer counts as part of your home. For example, if you move a mobile home to a new lot and sell the old lot, then you can’t treat the sale of the old lot as the sale of your home.
+
+Home destroyed or condemned—considerations for benefits.
+
+If an earlier home of yours was destroyed or condemned, you may be able to count your time there toward the ownership and residence test.
+
+If your home was destroyed, see Pub. 547, Casualties, Disasters, or Thefts. If your home was condemned, see Pub. 544, Sales and Other Disposition of Assets.
+
+Remainder interest.
+
+The sale of a remainder interest in your home is eligible for the exclusion only if both of the following conditions are met.
+
+-
+
+The buyer isn’t a “related party.” A related party can be a related person or a related corporation, trust, partnership, or other entity that you control or in which you have an interest.
+
+-
+
+You haven't previously sold an interest in the home for which you took the exclusion.
+
+Like-kind/1031 exchange.
+
+If you sold a home that you acquired in a like-kind exchange, then the following test applies.
+
+You can’t claim the exclusion if:
+
+-
+
+Either (a) or (b) applies:
+
+-
+
+You acquired your home in a like-kind exchange (also known as a section 1031 exchange), or
+
+-
+
+Your basis in your home is determined by reference to a previous owner’s basis, and that previous owner acquired the property in a like-kind exchange (for example, the owner acquired the home and then gave it to you); and
+
+-
+
+You sold the home within 5 years of the date your home was acquired in the like-kind exchange.
+
+A main home isn’t available for exchange because the exchange must be between like-kind real property held for productive use in a trade or business or for investment. Also, real property held primarily for sale isn’t eligible for deferral of gain under section 1031. For an exchange of rental property that was later converted to personal use as a main home, there is a 5-year holding period required under section 121(d)(10). A separate 2-year holding period is required for exchanges between related persons under section 1031(f). See Pub. 544.
+
+If you convert your main home to a rental property (or use a portion of the living area for productive use in a trade or business as in Revenue Procedure 2005-14, examples 3–6), the exchange rules under section 1031 and exclusion of income rules under section 121 may both apply.
+
+If the requirements of both sections 1031 and 121 are met, the section 121 exclusion is applied first to realized gain; section 1031 then applies, including any gain attributable to depreciation deductions. Any cash received in exchange for the rental property is taken into account only to the extent the cash exceeds the section 121 excluded gain on the rental property given up in the exchange. The period before the exchange that is after the last date the property was used as a main home isn’t considered nonqualified use for purposes of the proration rules of section 121. To figure basis of the property received in the exchange (replacement property), any gain excluded under section 121 is added to your basis of your replacement property, similar to the treatment of recognized gain. You can’t convert the replacement property to a main home immediately after the exchange per section 1031(a)(1), which requires that replacement property be held either for investment or for productive use in a trade or business. For more information about like-kind exchanges, see Pub. 544.
+
+For additional information about the intersection of sections 121 and 1031, see Revenue Procedure 2005-14, 2005-7 I.R.B. 528, available at IRS.gov/irb/2005-07_IRB#RP-2005-14 .
+
+Note, however, that any period after 2008 during which the property isn’t used as a principal residence is, with certain exceptions, considered nonqualified use of that property for which gain allocable to such period may not be excluded, in accordance with section 121(b)(5). This includes property that is separate from the main property and not a part of the living area of the main home that isn’t used as a principal residence for a period after 2008. See section 121(b)(5)(C). See also Revenue Procedure 2005-14 for examples that illustrate how to allocate basis and gain realized in an exchange that is also eligible for section 121 exclusion, as well as details of depreciation recapture. See Form 8824 and its instructions for more details. For additional information, see Property Used Partly for Business or Rental and Business or Rental Use of Home , later.
+
+Eligibility Step 6—Final Determination of Eligibility
+
+If you meet the ownership, residence, and look-back requirements, taking the exceptions into account, then you meet the Eligibility Test. Your home sale qualifies for the maximum exclusion. Skip to Worksheet 1 , later.
+
+If you didn’t meet the Eligibility Test, then your home isn’t eligible for the maximum exclusion, but you should continue to Does Your Home Qualify for a Partial Exclusion of Gain .
+
+Does Your Home Qualify for a Partial Exclusion of Gain?
+
+If you don't meet the Eligibility Test, you may still qualify for a partial exclusion of gain. You can meet the requirements for a partial exclusion if the main reason for your home sale was a change in workplace location, a health issue, or an unforeseeable event.
+
+Work-Related Move
+
+You meet the requirements for a partial exclusion if any of the following events occurred during your time of ownership and residence in the home.
+
+-
+
+You took or were transferred to a new job in a work location at least 50 miles farther from the home than your old work location. For example, your old work location was 15 miles from the home and your new work location is 65 miles from the home.
+
+-
+
+You had no previous work location and you began a new job at least 50 miles from the home.
+
+-
+
+Either of the above is true of your spouse, a co-owner of the home, or anyone else for whom the home was their residence.
+
+Health-Related Move
+
+You meet the requirements for a partial exclusion if any of the following health-related events occurred during your time of ownership and residence in the home.
+
+-
+
+You moved to obtain, provide, or facilitate diagnosis, cure, mitigation, or treatment of disease, illness, or injury for yourself or a family member.
+
+-
+
+You moved to obtain or provide medical or personal care for a family member suffering from a disease, illness, or injury. A family member includes your:
+
+-
+
+Parent, grandparent, stepmother, stepfather;
+
+-
+
+Child (including adopted child, eligible foster child, and stepchild), grandchild;
+
+-
+
+Brother, sister, stepsibling;
+
+-
+
+Mother-in-law, father-in-law, brother-in-law, sister-in-law, son-in-law, daughter-in-law; and
+
+-
+
+Uncle, aunt, nephew, or niece.
+
+-
+
+A doctor recommended a change in residence for you because you were experiencing a health problem.
+
+-
+
+The above is true of your spouse, a co-owner of the home, or anyone else for whom the home was their residence.
+
+Unforeseeable Events
+
+You meet the standard requirements if any of the following events occurred during the time you owned and lived in the home you sold.
+
+-
+
+Your home was destroyed or condemned.
+
+-
+
+Your home suffered a casualty loss because of a natural or man-made disaster or an act of terrorism. (It doesn’t matter whether the loss is deductible on your tax return.)
+
+-
+
+You, your spouse, a co-owner of the home, or anyone else for whom the home was their residence:
+
+-
+
+Died;
+
+-
+
+Became divorced or legally separated or were issued a separate decree to pay maintenance (support) to the other spouse;
+
+-
+
+Gave birth to two or more children from the same pregnancy;
+
+-
+
+Became eligible for unemployment compensation;
+
+-
+
+Became unable, because of a change in employment status, to pay basic living expenses for the household (including expenses for food, clothing, housing, medication, transportation, taxes, court-ordered payments, and expenses reasonably necessary for making an income); and
+
+-
+
+An event is determined to be an unforeseeable event in IRS published guidance.
+
+Other Facts and Circumstances
+
+Even if your situation doesn’t match any of the standard requirements described above, you still may qualify for an exception. You may qualify if you can demonstrate the primary reason for sale, based on facts and circumstances, is work related, health related, or unforeseeable. Important factors are:
+
+-
+
+The situation causing the sale arose during the time you owned and used your property as your residence;
+
+-
+
+You sold your home not long after the situation arose;
+
+-
+
+You couldn’t have reasonably anticipated the situation when you bought the home;
+
+-
+
+You began to experience significant financial difficulty maintaining the home; and
+
+-
+
+The home became significantly less suitable as a main home for you and your family for a specific reason.
+
+Worksheet 1. Find Your Exclusion Limit
+
+Use this worksheet only if no automatic disqualifications apply, and take all exceptions into account.
+
+A) Determine if you are eligible for the maximum exclusion limit.
+Status | You are eligible for the maximum exclusion if... | Maximum exclusion | If you’re not eligible for the maximum exclusion limit, then you should…
+Married filing jointly | Both spouses meet the residence and look-back requirements and one or both spouses meet the ownership requirement. | $500,000 | Determine if either spouse is eligible for the full limit as a single person. If not, determine if either spouse is eligible for a partial exclusion .
+Single, married filing separately | You meet the residence, ownership, and look-back requirements. | $250,000 | Determine if you are eligible for a partial exclusion .
+Surviving spouse | You sell your home within 2 years of the death of your spouse. You haven't remarried at the time of the sale. Neither you nor your late spouse took the exclusion on another home sold less than 2 years before the date of the current home sale. You meet the 2-year ownership and residence requirements (including your late spouse‘s times of ownership and residence, if applicable). | $500,000 | Determine if you are eligible for the full limit as a single person. If not, determine if you are eligible for a partial exclusion .
+B) Complete this section only if you have determined that you aren’t eligible for the maximum exclusion but are eligible for a partial exclusion. If you are eligible for a partial exclusion, use this section to determine your exclusion limit.
+Step 1 | Determine the shortest of the following 3 periods:
+1. Your time of residence in the home during the 5-year period leading up to the sale | _____
+2. Your time of ownership of the home leading up to the sale | _____
+3. The time that has elapsed between the sale and the date you last sold a home for which you took the exclusion, if applicable | _____
+Step 2 | Take the smallest period from Step 1 (you may use days or months) and divide that number by 730 (if using days) or 24 (if using months) | _____
+Step 3 | Multiply the result from Step 2 by $250,000. This is the amount of your reduced exclusion. For married filing jointly, continue to step 4. | _____
+Step 4 | Repeat Steps 1–3 for your spouse and add the two results | _____
+C) Your exclusion limit is $___________. Only gain in excess of this amount is taxable, unless you have gain from full or partial business or rental use. For partial use as a business or rental, see Property Used Partly for Business or Rental . For use of the entire property for business, rental, vacation, or any other use (other than personal use as a main home), see Business or Rental Use of Home .
